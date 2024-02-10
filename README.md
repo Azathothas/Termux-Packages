@@ -183,7 +183,7 @@
 | **capnproto** | 1.0.1.1 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.1 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **cargo-c** | 0.9.29 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
+| **cargo-c** | 0.9.30 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **catdoc** | 0.95 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2 | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
 | **catimg** | 2.7.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
@@ -1258,7 +1258,7 @@
 | **libseccomp-static** | 2.5.5-3 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
 | **libsecp256k1** | 1:0.4.1 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
 | **libsecp256k1-static** | 1:0.4.1 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
-| **libsecret** | 0.21.2-1 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
+| **libsecret** | 0.21.3 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
 | **libshout** | 2.4.6 | Library which can be used to write a source client like ices. | https://icecast.org/ |
 | **libshout-static** | 2.4.6 | Static libraries for libshout | https://icecast.org/ |
 | **libsigc++-2.0** | 2.12.0 | Implements a typesafe callback system for standard C++ | https://libsigcplusplus.github.io/libsigcplusplus/ |
@@ -1545,8 +1545,8 @@
 | **mangal** | 4.0.6-2 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manpages** | 6.05.01 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.0.1-4 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
-| **mariadb** | 2:11.1.2 | A drop-in replacement for mysql server | https://mariadb.org |
-| **mariadb-static** | 2:11.1.2 | Static libraries for mariadb | https://mariadb.org |
+| **mariadb** | 2:11.2.3 | A drop-in replacement for mysql server | https://mariadb.org |
+| **mariadb-static** | 2:11.2.3 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.2.6-1 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
 | **marisa-static** | 0.2.6-1 | Static libraries for marisa | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.0-2 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
@@ -1562,7 +1562,7 @@
 | **mbedtls-static** | 3.5.2 | Static libraries for mbedtls | https://tls.mbed.org/ |
 | **mc** | 4.8.31 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
 | **mcfly** | 0.8.4 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
-| **mdbook** | 0.4.36 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
+| **mdbook** | 0.4.37 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
 | **mdbook-epub** | 0.4.37 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
@@ -1892,7 +1892,7 @@
 | **portaudio-static** | 19.07.00-1 | Static libraries for portaudio | http://www.portaudio.com/ |
 | **portmidi** | 2.0.4 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
-| **postgis** | 3.4.1-1 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
+| **postgis** | 3.4.2 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
 | **postgresql** | 16.1 | Object-relational SQL database | https://www.postgresql.org |
 | **postgresql-static** | 16.1 | Static libraries for postgresql | https://www.postgresql.org |
 | **potrace** | 1.16-1 | Tool for transforming a bitmap into a smooth, scalable image | http://potrace.sourceforge.net |
@@ -2429,7 +2429,7 @@
 | **vulkan-loader** | 0.0.2 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 26b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.3.277 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.3.276 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-tools** | 1.3.277 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.3.277 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-volk** | 1.3.270 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
@@ -2446,11 +2446,11 @@
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **websocat** | 1.12.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-2 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **weechat** | 4.0.5 | Fast, light and extensible IRC chat client | https://weechat.org/ |
-| **weechat-lua-plugin** | 4.0.5 | WeeChat Lua Plugin | https://weechat.org/ |
-| **weechat-perl-plugin** | 4.0.5 | WeeChat Perl Plugin | https://weechat.org/ |
-| **weechat-python-plugin** | 4.0.5 | WeeChat Python3 Plugin | https://weechat.org/ |
-| **weechat-ruby-plugin** | 4.0.5 | WeeChat Ruby Plugin | https://weechat.org/ |
+| **weechat** | 4.2.1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
+| **weechat-lua-plugin** | 4.2.1 | WeeChat Lua Plugin | https://weechat.org/ |
+| **weechat-perl-plugin** | 4.2.1 | WeeChat Perl Plugin | https://weechat.org/ |
+| **weechat-python-plugin** | 4.2.1 | WeeChat Python3 Plugin | https://weechat.org/ |
+| **weechat-ruby-plugin** | 4.2.1 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.2-1 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.21.4-1 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
