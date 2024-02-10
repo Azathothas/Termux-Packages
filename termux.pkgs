@@ -398,7 +398,7 @@
 | **fakeroot** | 1.33 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.33 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.7.1 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.8.2 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **fclones** | 0.34.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
@@ -1231,7 +1231,7 @@
 | **libresolv-wrapper** | 1.1.7-4 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
 | **libretls-static** | 3.8.1 | Static libraries for libretls | https://git.causal.agency/libretls/about/ |
-| **librime** | 1.9.0 | A modular, extensible input method engine in cross-platform C++ code | https://rime.im/ |
+| **librime** | 1.10.0 | A modular, extensible input method engine in cross-platform C++ code | https://rime.im/ |
 | **librinutils** | 0.10.2 | A C11 / gnu11 utilities C library | https://github.com/shlomif/rinutils |
 | **librnnoise** | 2021.03.12 | RNN-based noise suppression | https://jmvalin.ca/demo/rnnoise/ |
 | **librnnoise-static** | 2021.03.12 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
