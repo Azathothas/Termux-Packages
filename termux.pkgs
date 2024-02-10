@@ -130,7 +130,7 @@
 | **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/StackExchange/blackbox |
 | **blade** | 0.0.85 | A simple, fast, clean and dynamic language | https://bladelang.com/ |
 | **blas-openblas** | 0.3.26 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
-| **blink** | 1:1.0.0-1 | Tiny x86-64 Linux emulator | https://justine.lol/blinkenlights/ |
+| **blink** | 1:1.1.0 | Tiny x86-64 Linux emulator | https://justine.lol/blinkenlights/ |
 | **blk-utils** | 2.39.3-3 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
 | **blogc** | 0.20.1 | A blog compiler | https://blogc.rgm.io/ |
 | **bmon** | 4.0-3 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
