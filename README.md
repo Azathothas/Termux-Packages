@@ -246,7 +246,7 @@
 | **colm** | 0.14.7-1 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 2.4.0-10 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 2.4.0-11 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.7.1 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **cookcli** | 0.7.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -1994,8 +1994,8 @@
 | **quick-lint-js** | 3.1.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20210327-2 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.67 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
-| **racket** | 8.11.1 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
-| **racket-static** | 8.11.1 | Static libraries for racket | https://racket-lang.org |
+| **racket** | 8.12 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
+| **racket-static** | 8.12 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 5.8.8 | Advanced Hexadecimal Editor | https://rada.re |
 | **radare2-static** | 5.7.8 | Static libraries for radare2 | https://rada.re |
 | **rage** | 0.10.0 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
