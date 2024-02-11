@@ -180,7 +180,7 @@
 | **calc** | 2.15.0.5 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.1 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.1 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
-| **capnproto** | 1.0.1.1 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
+| **capnproto** | 1.0.2 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.1 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **cargo-c** | 0.9.30 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
@@ -2445,7 +2445,7 @@
 | **wcalc** | 2.5-5 | Capable calculator | http://w-calc.sourceforge.net |
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **websocat** | 1.12.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
-| **websocketd** | 0.4.1-2 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
+| **websocketd** | 0.4.1-3 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
 | **weechat** | 4.2.1-1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
 | **weechat-lua-plugin** | 4.2.1-1 | WeeChat Lua Plugin | https://weechat.org/ |
 | **weechat-perl-plugin** | 4.2.1-1 | WeeChat Perl Plugin | https://weechat.org/ |
