@@ -393,7 +393,7 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.2.0-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.0.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 12.76 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 12.76-1 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -709,7 +709,7 @@
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
 | **ired** | 0.6-2 | Minimalist hexadecimal editor | https://github.com/radare/ired |
-| **irssi** | 1.4.5-1 | Terminal based IRC client | https://irssi.org/ |
+| **irssi** | 1.4.5-2 | Terminal based IRC client | https://irssi.org/ |
 | **isync** | 1.4.4 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
 | **iverilog** | 12.0 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
 | **iverilog-static** | 12.0 | Static libraries for iverilog | http://iverilog.icarus.com/ |
@@ -810,7 +810,7 @@
 | **libao-static** | 1.2.2-7 | Static libraries for libao | https://www.xiph.org/ao/ |
 | **libaom** | 3.7.0-1 | AV1 Video Codec Library | https://aomedia.org/ |
 | **libaom-static** | 3.7.0-1 | Static libraries for libaom | https://aomedia.org/ |
-| **libapt-pkg-perl** | 0.1.40-9 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
+| **libapt-pkg-perl** | 0.1.40-10 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.7.2 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.7.2 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 15.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
@@ -1231,7 +1231,7 @@
 | **librav1e** | 0.7.1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **librav1e-static** | 0.7.1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
 | **libre2** | 2023.07.01-1 | A regular expression library | https://github.com/google/re2 |
-| **libregexp-assemble-perl** | 0.38-5 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
+| **libregexp-assemble-perl** | 0.38-6 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-4 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
 | **libretls-static** | 3.8.1 | Static libraries for libretls | https://git.causal.agency/libretls/about/ |
@@ -1840,7 +1840,7 @@
 | **pdftk** | 3.3.3-1 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-4 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
-| **perl** | 5.38.0-3 | Capable, feature-rich programming language | https://www.perl.org/ |
+| **perl** | 5.38.2 | Capable, feature-rich programming language | https://www.perl.org/ |
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
 | **pet** | 0.6.0 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1 | Portable Forth in C | http://www.softsynth.com/pforth/ |
@@ -2217,10 +2217,10 @@
 | **stuntman** | 1.2.16-3 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 0.20.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4 | DVD subtitle ripper for Linux | http://subtitleripper.sourceforge.net/ |
-| **subversion** | 1.14.2-6 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
-| **subversion-perl** | 1.14.2-6 | Perl interface to Subversion | https://subversion.apache.org |
-| **subversion-perl-static** | 1.14.2-6 | Static libraries for subversion-perl | https://subversion.apache.org |
-| **subversion-static** | 1.14.2-6 | Static libraries for subversion | https://subversion.apache.org |
+| **subversion** | 1.14.3 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
+| **subversion-perl** | 1.14.3 | Perl interface to Subversion | https://subversion.apache.org |
+| **subversion-perl-static** | 1.14.3 | Static libraries for subversion-perl | https://subversion.apache.org |
+| **subversion-static** | 1.14.3 | Static libraries for subversion | https://subversion.apache.org |
 | **suil** | 0.10.20 | A library for loading and wrapping LV2 plugin UIs | https://drobilla.net/software/suil.html |
 | **suite3270** | 4.1ga11-1 | A family of IBM 3270 terminal emulators and related tools | http://x3270.bgp.nu/ |
 | **sun** | 1.0.0-3 | A very simple note taking cli app | https://stand-up-notes.org |
