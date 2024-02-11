@@ -2446,11 +2446,11 @@
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **websocat** | 1.12.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-2 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **weechat** | 4.2.1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
-| **weechat-lua-plugin** | 4.2.1 | WeeChat Lua Plugin | https://weechat.org/ |
-| **weechat-perl-plugin** | 4.2.1 | WeeChat Perl Plugin | https://weechat.org/ |
-| **weechat-python-plugin** | 4.2.1 | WeeChat Python3 Plugin | https://weechat.org/ |
-| **weechat-ruby-plugin** | 4.2.1 | WeeChat Ruby Plugin | https://weechat.org/ |
+| **weechat** | 4.2.1-1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
+| **weechat-lua-plugin** | 4.2.1-1 | WeeChat Lua Plugin | https://weechat.org/ |
+| **weechat-perl-plugin** | 4.2.1-1 | WeeChat Perl Plugin | https://weechat.org/ |
+| **weechat-python-plugin** | 4.2.1-1 | WeeChat Python3 Plugin | https://weechat.org/ |
+| **weechat-ruby-plugin** | 4.2.1-1 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.2-1 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.21.4-1 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
