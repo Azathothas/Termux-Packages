@@ -730,8 +730,8 @@
 | **jove** | 4.17.5.3 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
 | **jp2a** | 1.2.0 | A simple JPEG to ASCII converter | https://csl.name/jp2a/ |
 | **jpegoptim** | 1.5.5 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
-| **jq** | 1.7 | Command-line JSON processor | http://stedolan.github.io/jq/ |
-| **jq-static** | 1.7 | Static libraries for jq | http://stedolan.github.io/jq/ |
+| **jq** | 1.7.1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
+| **jq-static** | 1.7.1 | Static libraries for jq | https://stedolan.github.io/jq/ |
 | **jql** | 7.1.3 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.17 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.17 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
@@ -1213,8 +1213,8 @@
 | **libpngwriter-static** | 0.7.0 | Static libraries for libpngwriter | http://pngwriter.sourceforge.net |
 | **libpoco** | 1.13.1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
 | **libpolly** | 17.0.6 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
-| **libpopt** | 1.19-1 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
-| **libpopt-static** | 1.19-1 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
+| **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
+| **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libprotobuf** | 2:25.1 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
 | **libprotobuf-c** | 1.5.0 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.0 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
@@ -1842,7 +1842,7 @@
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
 | **perl** | 5.38.2 | Capable, feature-rich programming language | https://www.perl.org/ |
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
-| **pet** | 0.6.0 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
+| **pet** | 0.6.1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1 | Portable Forth in C | http://www.softsynth.com/pforth/ |
 | **photon-rss** | 2023.02.02-2 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
 | **php** | 8.2.8-2 | Server-side, HTML-embedded scripting language | https://php.net |
@@ -2129,7 +2129,7 @@
 | **shellcheck** | 0.8.0-1 | Shell script analysis tool | https://www.shellcheck.net/ |
 | **shellharden** | 4.3.0 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
-| **shfmt** | 3.7.0-1 | A shell parser and formatter | https://github.com/mvdan/sh |
+| **shfmt** | 3.8.0 | A shell parser and formatter | https://github.com/mvdan/sh |
 | **shiori** | 1.5.5-2 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
