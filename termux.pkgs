@@ -1136,8 +1136,8 @@
 | **libnewt-static** | 0.52.24 | Static libraries for libnewt | https://pagure.io/newt |
 | **libnfc** | 1.8.0 | Free/Libre Near Field Communication (NFC) library | https://github.com/nfc-tools/libnfc |
 | **libnfc-static** | 1.8.0 | Static libraries for libnfc | https://github.com/nfc-tools/libnfc |
-| **libnfs** | 5.0.2 | NFS client library | https://github.com/sahlberg/libnfs |
-| **libnfs-static** | 5.0.2 | Static libraries for libnfs | https://github.com/sahlberg/libnfs |
+| **libnfs** | 5.0.3 | NFS client library | https://github.com/sahlberg/libnfs |
+| **libnfs-static** | 5.0.3 | Static libraries for libnfs | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.2.6 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.2.6 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
 | **libnghttp2** | 1.59.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
@@ -2167,7 +2167,7 @@
 | **speex-utils** | 1.2.1 | Speex command line tools | https://www.speex.org/ |
 | **speexdsp** | 1.2.1 | Speex audio processing library | https://speex.org/ |
 | **speexdsp-static** | 1.2.1 | Static libraries for speexdsp | https://speex.org/ |
-| **spglib** | 2.3.0 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
+| **spglib** | 2.3.1 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
 | **spglib-static** | 2.0.2 | Static libraries for spglib | https://spglib.github.io/spglib/index.html |
 | **spiped** | 1.6.2-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.3.261.1 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
