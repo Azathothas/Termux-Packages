@@ -85,7 +85,7 @@
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.1 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.1 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 17.2.1 | Magical shell history | https://github.com/ellie/atuin |
+| **atuin** | 18.0.1 | Magical shell history | https://github.com/ellie/atuin |
 | **aubio** | 0.4.9-2 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-2 | Static libraries for aubio | https://aubio.org/ |
 | **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
@@ -119,12 +119,12 @@
 | **bgrep** | 1.0-3 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
 | **biboumi** | 9.0-3 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
 | **binaryen** | 116 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
-| **binutils** | 2.41 | GNU Binutils (metapackage) | https://www.gnu.org/software/binutils/ |
-| **binutils-bin** | 2.41 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
-| **binutils-cross** | 2.41 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
-| **binutils-gold** | 2.41 | gold linker | https://www.gnu.org/software/binutils/ |
+| **binutils** | 2.42 | GNU Binutils (metapackage) | https://www.gnu.org/software/binutils/ |
+| **binutils-bin** | 2.42 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
+| **binutils-cross** | 2.42 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
+| **binutils-gold** | 2.42 | gold linker | https://www.gnu.org/software/binutils/ |
 | **binutils-is-llvm** | 0.3-3 | Use llvm as binutils | https://github.com/trentbuck/binutils-is-llvm |
-| **binutils-libs** | 2.41 | GNU Binutils libraries | https://www.gnu.org/software/binutils/ |
+| **binutils-libs** | 2.42 | GNU Binutils libraries | https://www.gnu.org/software/binutils/ |
 | **bionic-host** | 8.0.0-r51-2 | bionic libc, libm, libdl and dynamic linker for ubuntu host | https://android.googlesource.com/platform/bionic/ |
 | **bison** | 3.8.2-3 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-3 | Static libraries for bison | https://www.gnu.org/software/bison/ |
@@ -180,7 +180,7 @@
 | **calc** | 2.15.0.5 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.1 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.1 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
-| **capnproto** | 1.0.1.1 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
+| **capnproto** | 1.0.2 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.1 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **cargo-c** | 0.9.30 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
@@ -210,7 +210,7 @@
 | **chafa-static** | 1.14.0 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.46.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.46.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.3.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.3.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.4 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -230,7 +230,7 @@
 | **cloneit** | 20221024-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2024.2.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20240129.095441 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20240208.214732 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 3.28.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 3.28.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.0 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
@@ -393,7 +393,7 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.2.0-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.0.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 12.76 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 12.76-1 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -402,7 +402,7 @@
 | **fakeroot** | 1.33 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.33 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.8.2 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.8.3 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **fclones** | 0.34.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
@@ -559,7 +559,7 @@
 | **gnushogi** | 1.4.2-4 | Program that plays the game of Shogi, also known as Japanese Chess | https://www.gnu.org/software/gnushogi/ |
 | **gnuski** | 0.3-6 | Open source clone of Skifree, the old Windows game | https://sourceforge.net/projects/gnuski |
 | **gnustep-make** | 2.9.1 | The GNUstep makefile package | http://www.gnustep.org |
-| **gnutls** | 3.8.2 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
+| **gnutls** | 3.8.3 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-3 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
 | **goaccess** | 1.9.1 | An open source real-time web log analyzer and interactive viewer | http://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-2 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
@@ -593,8 +593,8 @@
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.42 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.42 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
-| **graphviz** | 9.0.0 | Rich set of graph drawing tools | https://www.graphviz.org/ |
-| **graphviz-static** | 9.0.0 | Static libraries for graphviz | https://www.graphviz.org/ |
+| **graphviz** | 10.0.1 | Rich set of graph drawing tools | https://www.graphviz.org/ |
+| **graphviz-static** | 10.0.1 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.2-2 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.11 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.4 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
@@ -685,8 +685,8 @@
 | **id3lib-static** | 3.8.3-3 | Static libraries for id3lib | http://id3lib.sourceforge.net/ |
 | **id3ted** | 1.0-3 | A comand line id3 tag editor | https://muennich.github.io/id3ted/ |
 | **id3v2** | 0.1.12-1 | A command line id3v2 tag editor | http://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.1.27 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.1.27 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.1.28 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.1.28 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.9 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-7 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.2 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
@@ -709,7 +709,7 @@
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
 | **ired** | 0.6-2 | Minimalist hexadecimal editor | https://github.com/radare/ired |
-| **irssi** | 1.4.5-1 | Terminal based IRC client | https://irssi.org/ |
+| **irssi** | 1.4.5-2 | Terminal based IRC client | https://irssi.org/ |
 | **isync** | 1.4.4 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
 | **iverilog** | 12.0 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
 | **iverilog-static** | 12.0 | Static libraries for iverilog | http://iverilog.icarus.com/ |
@@ -730,8 +730,8 @@
 | **jove** | 4.17.5.3 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
 | **jp2a** | 1.2.0 | A simple JPEG to ASCII converter | https://csl.name/jp2a/ |
 | **jpegoptim** | 1.5.5 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
-| **jq** | 1.7 | Command-line JSON processor | http://stedolan.github.io/jq/ |
-| **jq-static** | 1.7 | Static libraries for jq | http://stedolan.github.io/jq/ |
+| **jq** | 1.7.1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
+| **jq-static** | 1.7.1 | Static libraries for jq | https://stedolan.github.io/jq/ |
 | **jql** | 7.1.3 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.17 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.17 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
@@ -810,7 +810,7 @@
 | **libao-static** | 1.2.2-7 | Static libraries for libao | https://www.xiph.org/ao/ |
 | **libaom** | 3.7.0-1 | AV1 Video Codec Library | https://aomedia.org/ |
 | **libaom-static** | 3.7.0-1 | Static libraries for libaom | https://aomedia.org/ |
-| **libapt-pkg-perl** | 0.1.40-9 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
+| **libapt-pkg-perl** | 0.1.40-10 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.7.2 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.7.2 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 15.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
@@ -977,8 +977,8 @@
 | **libgmp-static** | 6.3.0 | Static libraries for libgmp | https://gmplib.org/ |
 | **libgnt** | 2.14.3-1 | An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way | https://keep.imfreedom.org/libgnt/libgnt |
 | **libgnustep-base** | 1.29.0-4 | A library of general-purpose, non-graphical Objective C objects | http://www.gnustep.org |
-| **libgnutls** | 3.8.2 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
-| **libgnutls-static** | 3.8.2 | Static libraries for libgnutls | https://www.gnutls.org/ |
+| **libgnutls** | 3.8.3 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
+| **libgnutls-static** | 3.8.3 | Static libraries for libgnutls | https://www.gnutls.org/ |
 | **libgpg-error** | 1.47 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.47 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
@@ -1213,8 +1213,8 @@
 | **libpngwriter-static** | 0.7.0 | Static libraries for libpngwriter | http://pngwriter.sourceforge.net |
 | **libpoco** | 1.13.1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
 | **libpolly** | 17.0.6 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
-| **libpopt** | 1.19-1 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
-| **libpopt-static** | 1.19-1 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
+| **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
+| **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libprotobuf** | 2:25.1 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
 | **libprotobuf-c** | 1.5.0 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.0 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
@@ -1231,7 +1231,7 @@
 | **librav1e** | 0.7.1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **librav1e-static** | 0.7.1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
 | **libre2** | 2023.07.01-1 | A regular expression library | https://github.com/google/re2 |
-| **libregexp-assemble-perl** | 0.38-5 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
+| **libregexp-assemble-perl** | 0.38-6 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-4 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
 | **libretls-static** | 3.8.1 | Static libraries for libretls | https://git.causal.agency/libretls/about/ |
@@ -1658,7 +1658,7 @@
 | **music-file-organizer** | 1.0.4-1 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.12-1 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 14.0.1 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 14.0.2 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.2-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -1840,9 +1840,9 @@
 | **pdftk** | 3.3.3-1 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-4 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
-| **perl** | 5.38.0-3 | Capable, feature-rich programming language | https://www.perl.org/ |
+| **perl** | 5.38.2 | Capable, feature-rich programming language | https://www.perl.org/ |
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
-| **pet** | 0.6.0 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
+| **pet** | 0.6.1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1 | Portable Forth in C | http://www.softsynth.com/pforth/ |
 | **photon-rss** | 2023.02.02-2 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
 | **php** | 8.2.8-2 | Server-side, HTML-embedded scripting language | https://php.net |
@@ -1879,7 +1879,7 @@
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.21.2 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.21.3 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 3.3 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 3.3 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -1926,19 +1926,19 @@
 | **pure-ftpd** | 1.0.51 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
 | **pv** | 1.8.5 | Terminal-based tool for monitoring the progress of data through a pipeline | http://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-1 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
-| **pycairo** | 1.25.1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
+| **pycairo** | 1.26.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.44.1 | Python package which provides bindings for GObject based libraries | https://pygobject.readthedocs.io/ |
 | **pypy** | 7.3.15 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tkinter** | 7.3.15 | Tkinter support for PyPy | https://pypy.org |
 | **pypy3** | 7.3.13 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.13 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
-| **python** | 3.11.6-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
+| **python** | 3.11.8 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.45.1.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 2.7.2-2 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.1.2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-cryptography** | 42.0.2 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
-| **python-ensurepip-wheels** | 3.11.6-1 | Wheels for Python ensurepip | https://python.org/ |
+| **python-ensurepip-wheels** | 3.11.8 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.0.3 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.61.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
@@ -1950,8 +1950,8 @@
 | **python-pip** | 24.0-1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 15.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-sabyenc3** | 8.1.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
-| **python-static** | 3.11.6-1 | Static libraries for python | https://python.org/ |
-| **python-tkinter** | 3.11.6-1 | Tkinter support for Python 3 | https://python.org/ |
+| **python-static** | 3.11.8 | Static libraries for python | https://python.org/ |
+| **python-tkinter** | 3.11.8 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-4 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
 | **python-torch** | 2.1.2-1 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
 | **python-torch-static** | 2.1.2-1 | Static libraries for python-torch | https://pytorch.org/ |
@@ -2075,7 +2075,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.75.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240205 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240212 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.75.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.75.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2129,7 +2129,7 @@
 | **shellcheck** | 0.8.0-1 | Shell script analysis tool | https://www.shellcheck.net/ |
 | **shellharden** | 4.3.0 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
-| **shfmt** | 3.7.0-1 | A shell parser and formatter | https://github.com/mvdan/sh |
+| **shfmt** | 3.8.0 | A shell parser and formatter | https://github.com/mvdan/sh |
 | **shiori** | 1.5.5-2 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
@@ -2217,10 +2217,10 @@
 | **stuntman** | 1.2.16-3 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 0.20.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4 | DVD subtitle ripper for Linux | http://subtitleripper.sourceforge.net/ |
-| **subversion** | 1.14.2-6 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
-| **subversion-perl** | 1.14.2-6 | Perl interface to Subversion | https://subversion.apache.org |
-| **subversion-perl-static** | 1.14.2-6 | Static libraries for subversion-perl | https://subversion.apache.org |
-| **subversion-static** | 1.14.2-6 | Static libraries for subversion | https://subversion.apache.org |
+| **subversion** | 1.14.3 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
+| **subversion-perl** | 1.14.3 | Perl interface to Subversion | https://subversion.apache.org |
+| **subversion-perl-static** | 1.14.3 | Static libraries for subversion-perl | https://subversion.apache.org |
+| **subversion-static** | 1.14.3 | Static libraries for subversion | https://subversion.apache.org |
 | **suil** | 0.10.20 | A library for loading and wrapping LV2 plugin UIs | https://drobilla.net/software/suil.html |
 | **suite3270** | 4.1ga11-1 | A family of IBM 3270 terminal emulators and related tools | http://x3270.bgp.nu/ |
 | **sun** | 1.0.0-3 | A very simple note taking cli app | https://stand-up-notes.org |
@@ -2276,7 +2276,7 @@
 | **termux-elf-cleaner** | 2.2.1 | Cleaner of ELF files for Android | https://github.com/termux/termux-elf-cleaner |
 | **termux-exec** | 1:1.0 | An execve() wrapper to make /bin and /usr/bin shebangs work | https://github.com/termux/termux-exec |
 | **termux-gui-bash** | 0.1.2 | A bash library for Termux:GUI | https://github.com/tareksander/termux-gui-bash |
-| **termux-gui-c** | 0.1.1 | A C library for the Termux:GUI plugin | https://github.com/tareksander/termux-gui-c-bindings |
+| **termux-gui-c** | 0.1.2 | A C library for the Termux:GUI plugin | https://github.com/tareksander/termux-gui-c-bindings |
 | **termux-gui-package** | 0.1.6-1 | A Termux package containing utilities for Termux:GUI | https://github.com/tareksander/termux-gui-package |
 | **termux-gui-pm** | 1.0.0-1 | A graphical package manager for various package formats for Termux and proot-distro distros | https://github.com/tareksander/termux-gui-pm |
 | **termux-keyring** | 3.11 | GPG public keys for the official Termux repositories | https://github.com/termux |
@@ -2421,7 +2421,7 @@
 | **vlc-static** | 3.0.20-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.63 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.64a | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20231230 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.277 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
@@ -2445,7 +2445,7 @@
 | **wcalc** | 2.5-5 | Capable calculator | http://w-calc.sourceforge.net |
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **websocat** | 1.12.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
-| **websocketd** | 0.4.1-2 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
+| **websocketd** | 0.4.1-3 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
 | **weechat** | 4.2.1-1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
 | **weechat-lua-plugin** | 4.2.1-1 | WeeChat Lua Plugin | https://weechat.org/ |
 | **weechat-perl-plugin** | 4.2.1-1 | WeeChat Perl Plugin | https://weechat.org/ |
