@@ -685,8 +685,8 @@
 | **id3lib-static** | 3.8.3-3 | Static libraries for id3lib | http://id3lib.sourceforge.net/ |
 | **id3ted** | 1.0-3 | A comand line id3 tag editor | https://muennich.github.io/id3ted/ |
 | **id3v2** | 0.1.12-1 | A command line id3v2 tag editor | http://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.1.27 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.1.27 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.1.28 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.1.28 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.9 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-7 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.2 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
@@ -1926,7 +1926,7 @@
 | **pure-ftpd** | 1.0.51 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
 | **pv** | 1.8.5 | Terminal-based tool for monitoring the progress of data through a pipeline | http://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-1 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
-| **pycairo** | 1.25.1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
+| **pycairo** | 1.26.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.44.1 | Python package which provides bindings for GObject based libraries | https://pygobject.readthedocs.io/ |
 | **pypy** | 7.3.15 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tkinter** | 7.3.15 | Tkinter support for PyPy | https://pypy.org |
@@ -2421,7 +2421,7 @@
 | **vlc-static** | 3.0.20-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.63 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.64a | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20231230 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.277 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
