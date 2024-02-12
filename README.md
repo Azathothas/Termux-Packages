@@ -119,12 +119,12 @@
 | **bgrep** | 1.0-3 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
 | **biboumi** | 9.0-3 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
 | **binaryen** | 116 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
-| **binutils** | 2.41 | GNU Binutils (metapackage) | https://www.gnu.org/software/binutils/ |
-| **binutils-bin** | 2.41 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
-| **binutils-cross** | 2.41 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
-| **binutils-gold** | 2.41 | gold linker | https://www.gnu.org/software/binutils/ |
+| **binutils** | 2.42 | GNU Binutils (metapackage) | https://www.gnu.org/software/binutils/ |
+| **binutils-bin** | 2.42 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
+| **binutils-cross** | 2.42 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
+| **binutils-gold** | 2.42 | gold linker | https://www.gnu.org/software/binutils/ |
 | **binutils-is-llvm** | 0.3-3 | Use llvm as binutils | https://github.com/trentbuck/binutils-is-llvm |
-| **binutils-libs** | 2.41 | GNU Binutils libraries | https://www.gnu.org/software/binutils/ |
+| **binutils-libs** | 2.42 | GNU Binutils libraries | https://www.gnu.org/software/binutils/ |
 | **bionic-host** | 8.0.0-r51-2 | bionic libc, libm, libdl and dynamic linker for ubuntu host | https://android.googlesource.com/platform/bionic/ |
 | **bison** | 3.8.2-3 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-3 | Static libraries for bison | https://www.gnu.org/software/bison/ |
@@ -2276,7 +2276,7 @@
 | **termux-elf-cleaner** | 2.2.1 | Cleaner of ELF files for Android | https://github.com/termux/termux-elf-cleaner |
 | **termux-exec** | 1:1.0 | An execve() wrapper to make /bin and /usr/bin shebangs work | https://github.com/termux/termux-exec |
 | **termux-gui-bash** | 0.1.2 | A bash library for Termux:GUI | https://github.com/tareksander/termux-gui-bash |
-| **termux-gui-c** | 0.1.1 | A C library for the Termux:GUI plugin | https://github.com/tareksander/termux-gui-c-bindings |
+| **termux-gui-c** | 0.1.2 | A C library for the Termux:GUI plugin | https://github.com/tareksander/termux-gui-c-bindings |
 | **termux-gui-package** | 0.1.6-1 | A Termux package containing utilities for Termux:GUI | https://github.com/tareksander/termux-gui-package |
 | **termux-gui-pm** | 1.0.0-1 | A graphical package manager for various package formats for Termux and proot-distro distros | https://github.com/tareksander/termux-gui-pm |
 | **termux-keyring** | 3.11 | GPG public keys for the official Termux repositories | https://github.com/termux |
