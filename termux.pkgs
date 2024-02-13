@@ -2495,8 +2495,8 @@
 | **yadm** | 3.2.2 | Yet Another Dotfiles Manager | https://github.com/TheLocehiliosan/yadm |
 | **yajl** | 2.1.0-7 | Yet Another JSON Library | https://lloyd.github.io/yajl/ |
 | **yajl-static** | 2.1.0-7 | Static libraries for yajl | https://lloyd.github.io/yajl/ |
-| **yara** | 4.3.2 | Tool aimed at helping malware researchers to identify and classify malware samples | https://github.com/VirusTotal/yara |
-| **yara-static** | 4.3.2 | Static libraries for yara | https://github.com/VirusTotal/yara |
+| **yara** | 4.5.0 | Tool aimed at helping malware researchers to identify and classify malware samples | https://github.com/VirusTotal/yara |
+| **yara-static** | 4.5.0 | Static libraries for yara | https://github.com/VirusTotal/yara |
 | **yarn** | 1.22.19-1 | Fast, reliable, and secure dependency management | https://yarnpkg.com/ |
 | **yasm** | 1.3.0-6 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-6 | Static libraries for yasm | https://yasm.tortall.net/ |
