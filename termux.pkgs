@@ -503,7 +503,7 @@
 | **ghc** | 9.2.5-1 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghc-libs** | 9.2.5-1 | The Glasgow Haskell Compiler libraries | https://www.haskell.org/ghc/ |
 | **ghc-libs-static** | 8.10.7-3 | Static libraries for ghc-libs | https://www.haskell.org/ghc/ |
-| **ghostscript** | 10.02.0 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
+| **ghostscript** | 10.02.1 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.1-2 | A library for reading and writing gif images | https://sourceforge.net/projects/giflib/ |
 | **giflib-static** | 5.2.1-2 | Static libraries for giflib | https://sourceforge.net/projects/giflib/ |
 | **giflib-utils** | 5.2.1-2 | A set of utilities that comes with giflib package | https://sourceforge.net/projects/giflib/ |
