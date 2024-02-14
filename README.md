@@ -606,8 +606,8 @@
 | **gsf-tools** | 1.14.52 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.7.1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.7.1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
-| **gst-libav** | 1.22.9 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
-| **gst-plugins-bad** | 1.22.9 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-libav** | 1.22.10 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
+| **gst-plugins-bad** | 1.22.10 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.22.8 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-gl-headers** | 1.22.8 | OpenGL headers for GStreamer plugins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.22.8-1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
@@ -1360,8 +1360,8 @@
 | **libucontext-static** | 1.2 | Static libraries for libucontext | https://github.com/kaniini/libucontext |
 | **libudfread** | 1.1.2 | A library for reading UDF | https://code.videolan.org/videolan/libudfread/ |
 | **libudfread-static** | 1.1.2 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
-| **libunbound** | 1.19.0 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
-| **libunbound-static** | 1.19.0 | Static libraries for libunbound | https://unbound.net/ |
+| **libunbound** | 1.19.1 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
+| **libunbound-static** | 1.19.1 | Static libraries for libunbound | https://unbound.net/ |
 | **libunibilium** | 2.1.1 | Terminfo parsing library | https://github.com/neovim/unibilium |
 | **libunistring** | 1.1 | Library providing functions for manipulating Unicode strings | https://www.gnu.org/software/libunistring/ |
 | **libunistring-static** | 1.1 | Static libraries for libunistring | https://www.gnu.org/software/libunistring/ |
@@ -1961,7 +1961,7 @@
 | **python-xlib** | 0.33 | The Python X Library | https://github.com/python-xlib/python-xlib |
 | **python2** | 2.7.18-13 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-13 | Static libraries for python2 | http://python.org/ |
-| **pyunbound** | 1.19.0 | Python bindings for Unbound | https://unbound.net/ |
+| **pyunbound** | 1.19.1 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.5-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 4.9.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
@@ -2090,7 +2090,7 @@
 | **rustscan** | 2.1.1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 4.2.2 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 4.2.2-1 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **salty-chat** | 0.0.22-3 | A secure, easy, self-hosted messaging | https://salty.im/ |
 | **samba** | 4.16.11 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
@@ -2357,7 +2357,7 @@
 | **ugit** | 5.8 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 4.5.2 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.7-6 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
-| **unbound** | 1.19.0 | Unbound command-line tools | https://unbound.net/ |
+| **unbound** | 1.19.1 | Unbound command-line tools | https://unbound.net/ |
 | **unbound-static** | 1.17.1 | Static libraries for unbound | https://unbound.net/ |
 | **unicode-data** | 15.1.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicorn** | 2.0.1.post1 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
