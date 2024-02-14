@@ -982,7 +982,7 @@
 | **libgpg-error** | 1.47 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.47 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
-| **libgrpc** | 1.61.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **libgrpc** | 1.62.0-pre1-0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.0 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.0 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.52 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
