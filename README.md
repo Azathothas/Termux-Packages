@@ -351,7 +351,7 @@
 | **dte** | 1.11.1-1 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
 | **dua** | 2.28.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
-| **duckdb** | 0.9.2 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
+| **duckdb** | 0.10.0 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.40.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0 | Simple REPL for Duktape | https://www.duktape.org/ |
@@ -904,8 +904,8 @@
 | **libdmtx** | 0.7.7 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.7 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
 | **libdrm** | 2.4.120 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
-| **libduckdb** | 0.9.2 | An in-process SQL OLAP database management system | https://duckdb.org/ |
-| **libduckdb-static** | 0.9.2 | Static libraries for libduckdb | https://duckdb.org/ |
+| **libduckdb** | 0.10.0 | An in-process SQL OLAP database management system | https://duckdb.org/ |
+| **libduckdb-static** | 0.10.0 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
 | **libdvbcsa** | 1.1.0-2 | An implementation of the DVB Common Scrambling Algorithm - DVB/CSA - with encryption and decryption capabilities | https://www.videolan.org/developers/libdvbcsa.html |
 | **libdvbcsa-static** | 1.1.0-2 | Static libraries for libdvbcsa | https://www.videolan.org/developers/libdvbcsa.html |
@@ -1551,7 +1551,7 @@
 | **marisa-static** | 0.2.6-1 | Static libraries for marisa | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.0-2 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
 | **mathomatic** | 16.0.5-6 | Simple CAS and symbolic calculator | https://en.wikipedia.org/wiki/Mathomatic |
-| **matplotlib** | 3.8.2-1 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
+| **matplotlib** | 3.8.3 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-2 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **mautrix-whatsapp** | 0.10.5 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
