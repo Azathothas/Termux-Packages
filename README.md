@@ -391,13 +391,13 @@
 | **espeak-static** | 1.51-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.8-3 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
-| **exercism** | 3.2.0-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
+| **exercism** | 3.3.0 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.0.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 12.76-1 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.18.2 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.18.3 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.33 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.33 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
