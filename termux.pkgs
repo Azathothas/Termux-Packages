@@ -509,14 +509,14 @@
 | **giflib-utils** | 5.2.1-2 | A set of utilities that comes with giflib package | https://sourceforge.net/projects/giflib/ |
 | **gifsicle** | 1.94 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
 | **gifski** | 1.14.4 | GIF encoder based on libimagequant | https://gif.ski/ |
-| **git** | 2.43.1-1 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
+| **git** | 2.43.2 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.16.5-2 | A syntax-highlighter for git and diff output | https://github.com/dandavison/delta |
-| **git-gitk** | 2.43.1-1 | Git repository browser | https://git-scm.com/ |
-| **git-gui** | 2.43.1-1 | A graphical interface to Git | https://git-scm.com/ |
+| **git-gitk** | 2.43.2 | Git repository browser | https://git-scm.com/ |
+| **git-gui** | 2.43.2 | A graphical interface to Git | https://git-scm.com/ |
 | **git-lfs** | 3.4.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
-| **git-svn** | 2.43.1-1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
+| **git-svn** | 2.43.2 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **gitea** | 1.21.5 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.33.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
@@ -631,7 +631,7 @@
 | **helix** | 23.10 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 23.10 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 3.14.0 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 3.14.1 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-4 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
 | **hexedit** | 1.6 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
@@ -752,7 +752,7 @@
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
 | **kotlin** | 1.9.22 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.21.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
-| **kubectl** | 1.29.1 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.29.2 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.28.0-1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **ladspa-sdk** | 1.17-1 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-4 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
@@ -1600,7 +1600,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.0.51 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.02.13.15.35.11 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2024.02.14.21.36.02 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.26.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.5 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -1701,7 +1701,7 @@
 | **netsed** | 1.3-5 | Alter the contents of packets forwarded through network in real time | http://silicone.homelinux.org/projects/netsed/ |
 | **nettle** | 3.9.1 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.34 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
-| **nginx** | 1.25.3 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.25.4 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 26.1-2 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 42 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.0.2 | Nim programming language compiler | https://nim-lang.org/ |
@@ -1869,7 +1869,7 @@
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 21 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
-| **plantuml** | 1.2024.1 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
+| **plantuml** | 1.2024.2 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.8.1 | A superset of Lua 5.4, with unique features, optimizations, and improvements | https://plutolang.github.io/ |
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
