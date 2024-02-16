@@ -256,7 +256,7 @@
 | **cpufetch** | 1.05 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.30.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 9.6.9 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 9.6.10 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.1 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/lise-henry |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
@@ -1825,9 +1825,9 @@
 | **pcaudiolib-static** | 1.2-2 | Static libraries for pcaudiolib | https://github.com/espeak-ng/pcaudiolib |
 | **pcre** | 8.45-1 | Library implementing regular expression pattern matching using the same syntax and semantics as Perl 5 | https://www.pcre.org |
 | **pcre-static** | 8.45-1 | Static libraries for pcre | https://www.pcre.org |
-| **pcre2** | 10.42 | Perl 5 compatible regular expression library | https://www.pcre.org |
-| **pcre2-static** | 10.42 | Static libraries for pcre2 | https://www.pcre.org |
-| **pcre2grep** | 10.42 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
+| **pcre2** | 10.43 | Perl 5 compatible regular expression library | https://www.pcre.org |
+| **pcre2-static** | 10.43 | Static libraries for pcre2 | https://www.pcre.org |
+| **pcre2grep** | 10.43 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcregrep** | 8.45-1 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pdf2djvu** | 0.9.19-4 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
 | **pdf2svg** | 0.2.3-10 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
