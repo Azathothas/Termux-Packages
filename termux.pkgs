@@ -144,7 +144,7 @@
 | **borgbackup** | 1.2.7 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
 | **botan3** | 3.2.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
 | **botan3-static** | 3.2.0 | Static libraries for botan3 | https://botan.randombit.net/ |
-| **boxes** | 2.2.1 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
+| **boxes** | 2.3.0 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
 | **brainfuck** | 1:2.7.3 | Brainfuck Interpreter written in C | https://github.com/fabianishere/brainfuck |
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.13 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
@@ -1789,7 +1789,6 @@
 | **opus-tools** | 0.2-3 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
 | **opusfile** | 0.12-3 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
 | **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
-| **osm2pgsql** | 1.9.2 | osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database | https://osm2pgsql.org/ |
 | **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmesa** | 23.3.5 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
 | **osmium-tool** | 1.16.0-1 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
