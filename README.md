@@ -260,7 +260,7 @@
 | **cpufetch** | 1.05 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.30.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 9.6.10 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 9.6.11 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.1 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/lise-henry |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
