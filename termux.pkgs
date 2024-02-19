@@ -251,7 +251,7 @@
 | **corkscrew** | 2.0-3 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
 | **cowsay** | 3.7.0 | Program which generates ASCII pictures of a cow with a message | https://en.wikipedia.org/wiki/Cowsay |
 | **cpio** | 2.14 | CPIO implementation from the GNU project | https://www.gnu.org/software/cpio/ |
-| **cppcheck** | 2.13.3 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
+| **cppcheck** | 2.13.4 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
 | **cppi** | 1.18-1 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://www.gnu.org/software/cppi/ |
 | **cpufetch** | 1.05 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
@@ -2418,7 +2418,7 @@
 | **vlc-static** | 3.0.20-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.71 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.72 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20231230 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.277 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
