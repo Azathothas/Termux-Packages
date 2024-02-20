@@ -541,8 +541,8 @@
 | **glslang** | 14.0.0-1 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-1 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.5.4-5 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
-| **gmic** | 3.3.3 | Full-featured framework for image processing | https://gmic.eu |
-| **gmic-gm** | 3.3.3 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
+| **gmic** | 3.3.4 | Full-featured framework for image processing | https://gmic.eu |
+| **gmic-gm** | 3.3.4 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
 | **gn** | 20220502-1 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-3 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.2.9-2 | Chess-playing program | https://www.gnu.org/software/chess/ |
@@ -1033,8 +1033,8 @@
 | **libjansi** | 2.4.1 | A small java library that allows you to use ANSI escape codes to format your console output | https://fusesource.github.io/jansi/ |
 | **libjansson** | 2.14 | C library for encoding, decoding and manipulating JSON data | http://www.digip.org/jansson/ |
 | **libjansson-static** | 2.14 | Static libraries for libjansson | http://www.digip.org/jansson/ |
-| **libjasper** | 4.2.0 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
-| **libjasper-utils** | 4.2.0 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
+| **libjasper** | 4.2.1 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
+| **libjasper-utils** | 4.2.1 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
 | **libjpeg-turbo** | 3.0.2 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.0.2 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.0.2 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
@@ -1213,7 +1213,7 @@
 | **libpng-static** | 1.6.42 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0 | C++ library for creating PNG images | http://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0 | Static libraries for libpngwriter | http://pngwriter.sourceforge.net |
-| **libpoco** | 1.13.1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
+| **libpoco** | 1.13.2 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
 | **libpolly** | 17.0.6 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
@@ -2410,9 +2410,9 @@
 | **viddy** | 0.4.0 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.13 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8y | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.0.2000 | Vi IMproved - enhanced vi editor | https://www.vim.org |
-| **vim-python** | 9.0.2000 | Vi IMproved - enhanced vi editor - with python support | https://www.vim.org |
-| **vim-runtime** | 9.0.2000 | Vi IMproved - Runtime files | https://www.vim.org |
+| **vim** | 9.1.0100 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim-python** | 9.1.0100 | Vi IMproved - enhanced vi editor - with python support | https://www.vim.org |
+| **vim-runtime** | 9.1.0100 | Vi IMproved - Runtime files | https://www.vim.org |
 | **virustotal-cli** | 1.0.0 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
 | **vis** | 0.8 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-2 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
