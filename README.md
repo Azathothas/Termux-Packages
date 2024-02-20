@@ -277,7 +277,7 @@
 | **cups** | 2.4.7 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1 | CUPS PDF backend | https://www.cups-pdf.de/ |
 | **cups-static** | 2.4.7 | Static libraries for cups | https://www.cups.org/ |
-| **curl** | 8.6.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
+| **curl** | 8.6.0-1 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.7.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-4 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
 | **cvs** | 1:1.12.13-2 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
@@ -882,8 +882,8 @@
 | **libcue** | 2.3.0 | CUE Sheet Parser Library | https://github.com/lipnitsk/libcue/ |
 | **libcunit** | 2.1.3 | C Unit Testing Framework | https://sourceforge.net/projects/cunit/ |
 | **libcunit-static** | 2.1.3 | Static libraries for libcunit | https://sourceforge.net/projects/cunit/ |
-| **libcurl** | 8.6.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
-| **libcurl-static** | 8.6.0 | Static libraries for libcurl | https://curl.se/ |
+| **libcurl** | 8.6.0-1 | Easy-to-use client-side URL transfer library | https://curl.se/ |
+| **libcurl-static** | 8.6.0-1 | Static libraries for libcurl | https://curl.se/ |
 | **libcwidget** | 0.5.18 | high-level terminal interface library for C++ | https://salsa.debian.org/cwidget-team/ |
 | **libcwidget-static** | 0.5.18 | Static libraries for libcwidget | https://salsa.debian.org/cwidget-team/ |
 | **libczmq** | 4.2.1-3 | High-level C binding for ZeroMQ | https://zeromq.org/ |
@@ -1148,6 +1148,8 @@
 | **libnftnl-static** | 1.2.6 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
 | **libnghttp2** | 1.59.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
 | **libnghttp2-static** | 1.59.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
+| **libnghttp3** | 1.1.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
+| **libnghttp3-static** | 1.1.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libnl** | 3.9.0 | Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces | https://github.com/thom311/libnl |
 | **libnl-cli** | 3.9.0 | Command-line interface utilities for libnl | https://github.com/thom311/libnl |
 | **libnl-cli-static** | 3.9.0 | Static libraries for libnl-cli | https://github.com/thom311/libnl |
@@ -1783,11 +1785,11 @@
 | **openscad** | 2021.01 | The programmers solid 3D CAD modeller (headless build) | http://openscad.org/ |
 | **openssh** | 9.6p1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
 | **openssh-sftp-server** | 9.6p1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
-| **openssl** | 1:3.2.1 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
+| **openssl** | 1:3.2.1-1 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1** | 1:1.1.1w | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1-static** | 1:1.1.1w | Static libraries for openssl-1.1 | https://www.openssl.org/ |
-| **openssl-static** | 1:3.2.1 | Static libraries for openssl | https://www.openssl.org/ |
-| **openssl-tool** | 1:3.2.1 | The openssl command line cryptographic tool | https://www.openssl.org/ |
+| **openssl-static** | 1:3.2.1-1 | Static libraries for openssl | https://www.openssl.org/ |
+| **openssl-tool** | 1:3.2.1-1 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **openssl1.1-tool** | 1:1.1.1w | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **optipng** | 0.7.8 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-3 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
