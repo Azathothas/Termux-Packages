@@ -673,7 +673,7 @@
 | **hut** | 0.4.0 | A CLI tool for sr.ht | https://git.sr.ht/~emersion/hut |
 | **hydroxide** | 0.2.28 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.18.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
-| **hz** | 0.8.0 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
+| **hz** | 0.8.1 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
 | **i2pd** | 2.50.2 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
 | **i2pd-static** | 2.50.2 | Static libraries for i2pd | https://i2pd.website/ |
 | **icecast** | 2.4.4-5 | Icecast is a streaming media (audio/video) server | https://icecast.org |
@@ -1485,7 +1485,7 @@
 | **libzopfli** | 1.0.3-3 | New zlib compatible compressor library | https://github.com/google/zopfli |
 | **libzthread-static** | 2.3.2-1 | Static libraries for libzthread | http://zthread.sourceforge.net/ |
 | **libzxing-cpp** | 2.1.0 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/nu-book/zxing-cpp |
-| **lighttpd** | 1.4.73 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
+| **lighttpd** | 1.4.74 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lighttpd-static** | 1.4.70-2 | Static libraries for lighttpd | https://www.lighttpd.net |
 | **lilv** | 0.24.24 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.24.3 | A music engraving program | https://lilypond.org/ |
