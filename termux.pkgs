@@ -224,7 +224,7 @@
 | **clinfo** | 3.0.23.01.25 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20221024-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2024.2.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2024.2.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20240208.214732 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 3.28.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -256,7 +256,7 @@
 | **cpufetch** | 1.05 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.30.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 9.6.11 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 9.6.12 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.1 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/lise-henry |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
@@ -1719,7 +1719,7 @@
 | **nmon** | 16p | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
 | **nnn** | 4.9 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-1 | This project provides a command line tool called nms that recreates the famous data decryption effect. | https://github.com/bartobri/no-more-secrets |
-| **nodejs** | 20.2.0-1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs** | 21.6.2 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **nodejs-lts** | 18.16.1-2 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.9-1 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.9-1 | Platform-independent data for notcurses | https://notcurses.com/ |
