@@ -100,7 +100,7 @@
 | **awesomeshot** | 1.1.0 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
 | **axel** | 2.17.13 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.5.0 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
-| **babl** | 0.1.106 | Dynamic pixel format translation library | https://gegl.org/babl/ |
+| **babl** | 0.1.108 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacula-fd** | 13.0.3 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd-static** | 13.0.3 | Static libraries for bacula-fd | https://www.bacula.org |
 | **badvpn-udpgw** | 1.999.130 | UDP gateway for BadVPN | https://github.com/ambrop72/badvpn |
