@@ -1529,7 +1529,7 @@
 | **luajit** | 1:2.1.1707061634 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.9.2 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.47.0-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
-| **lux** | 0.22.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
+| **lux** | 0.23.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lv2** | 1.18.10-3 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.14.3 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.8.9rel.1-7 | The text web browser | http://lynx.browser.org/ |
@@ -1940,7 +1940,7 @@
 | **python-apsw** | 3.45.1.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 2.7.2-2 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.1.2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
-| **python-cryptography** | 42.0.3 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
+| **python-cryptography** | 42.0.4 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.11.8 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.0.3 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.62.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
