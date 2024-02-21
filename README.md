@@ -513,14 +513,14 @@
 | **giflib-utils** | 5.2.1-2 | A set of utilities that comes with giflib package | https://sourceforge.net/projects/giflib/ |
 | **gifsicle** | 1.94 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
 | **gifski** | 1.14.4 | GIF encoder based on libimagequant | https://gif.ski/ |
-| **git** | 2.43.2 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
+| **git** | 2.43.2-1 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.16.5-2 | A syntax-highlighter for git and diff output | https://github.com/dandavison/delta |
-| **git-gitk** | 2.43.2 | Git repository browser | https://git-scm.com/ |
-| **git-gui** | 2.43.2 | A graphical interface to Git | https://git-scm.com/ |
+| **git-gitk** | 2.43.2-1 | Git repository browser | https://git-scm.com/ |
+| **git-gui** | 2.43.2-1 | A graphical interface to Git | https://git-scm.com/ |
 | **git-lfs** | 3.4.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
-| **git-svn** | 2.43.2 | Convert between Git and Subversion repositories | https://git-scm.com/ |
+| **git-svn** | 2.43.2-1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **gitea** | 1.21.5 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.33.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
