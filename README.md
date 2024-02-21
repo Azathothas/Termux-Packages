@@ -495,8 +495,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.13.12 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.13.12 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.13.13 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.13.13 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.22.4 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.22.4 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.2 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -524,7 +524,7 @@
 | **gitea** | 1.21.5 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.33.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
-| **gitui** | 0.24.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
+| **gitui** | 0.25.0 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.36.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **glib** | 2.78.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
@@ -1310,8 +1310,8 @@
 | **libssh2-static** | 1.11.0 | Static libraries for libssh2 | https://www.libssh2.org |
 | **libstemmer** | 2.2.0-1 | Snowball compiler and stemming algorithms | https://snowballstem.org/ |
 | **libstemmer-static** | 2.2.0-1 | Static libraries for libstemmer | https://snowballstem.org/ |
-| **libstrophe** | 0.13.0 | libstrophe is a minimal XMPP library written in C | https://strophe.im/libstrophe |
-| **libstrophe-static** | 0.13.0 | Static libraries for libstrophe | https://strophe.im/libstrophe |
+| **libstrophe** | 0.13.1 | libstrophe is a minimal XMPP library written in C | https://strophe.im/libstrophe |
+| **libstrophe-static** | 0.13.1 | Static libraries for libstrophe | https://strophe.im/libstrophe |
 | **libt3config** | 1.0.0 | A library for reading and writing configuration files | https://os.ghalkes.nl/t3/libt3config.html |
 | **libt3highlight** | 0.5.0 | A library for syntax highlighting different types of text files | https://os.ghalkes.nl/t3/libt3highlight.html |
 | **libt3key** | 0.2.10 | A library and database with escape sequence to key symbol mappings | https://os.ghalkes.nl/t3/libt3key.html |
@@ -1723,8 +1723,8 @@
 | **nmon** | 16p | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
 | **nnn** | 4.9 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-1 | This project provides a command line tool called nms that recreates the famous data decryption effect. | https://github.com/bartobri/no-more-secrets |
-| **nodejs** | 21.6.2 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **nodejs-lts** | 20.11.1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs** | 21.6.2-1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs-lts** | 20.11.1-1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.9-1 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.9-1 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.9-1 | Tools and demos for notcurses | https://notcurses.com/ |
