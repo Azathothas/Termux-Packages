@@ -103,7 +103,7 @@
 | **barcode** | 0.99-4 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
 | **base16384** | 2.2.5-1 | Encode binary to printable utf16be | https://github.com/fumiama/base16384 |
 | **bash** | 5.2.26 | A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh) | https://www.gnu.org/software/bash/ |
-| **bash-completion** | 2.11-2 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
+| **bash-completion** | 2.12.0 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
 | **bastet** | 0.43.2-9 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
 | **bat** | 0.24.0 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.07.1-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
@@ -1720,7 +1720,7 @@
 | **nnn** | 4.9 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-1 | This project provides a command line tool called nms that recreates the famous data decryption effect. | https://github.com/bartobri/no-more-secrets |
 | **nodejs** | 21.6.2 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **nodejs-lts** | 18.16.1-2 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs-lts** | 20.11.1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.9-1 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.9-1 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.9-1 | Tools and demos for notcurses | https://notcurses.com/ |
