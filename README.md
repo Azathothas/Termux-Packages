@@ -1648,8 +1648,8 @@
 | **mpg123** | 1.32.5 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
 | **mpg123-static** | 1.32.5 | Static libraries for mpg123 | https://mpg123.org/ |
 | **mpv** | 0.37.0 | Command-line media player | https://mpv.io/ |
-| **mruby** | 3.2.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
-| **mruby-static** | 3.2.0 | Static libraries for mruby | https://mruby.org/ |
+| **mruby** | 3.3.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
+| **mruby-static** | 3.3.0 | Static libraries for mruby | https://mruby.org/ |
 | **msmtp** | 1.8.25 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.1.6 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
 | **mtools** | 4.0.43 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
