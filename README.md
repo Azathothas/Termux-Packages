@@ -661,7 +661,7 @@
 | **httrack-data** | 3.49.4 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.4 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.123.1 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.123.2 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20210101 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -857,7 +857,7 @@
 | **libcddb-static** | 1.3.2 | Static libraries for libcddb | http://libcddb.sourceforge.net/ |
 | **libcdk** | 5.0-20230201-0 | Curses Development Kit | https://dickey.his.com/cdk/cdk.html |
 | **libcec** | 6.0.2-1 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | http://libcec.pulse-eight.com/ |
-| **libceres-solver** | 2.1.0 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
+| **libceres-solver** | 2.2.0 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-1 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
 | **libcln** | 1.3.6-5 | CLN is a library for efficient computations with all kinds of numbers in arbitrary precision | https://www.ginac.de/CLN/ |
 | **libcln-static** | 1.3.6-5 | Static libraries for libcln | https://www.ginac.de/CLN/ |
@@ -1739,7 +1739,7 @@
 | **nwipe** | 0.35 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
-| **o-editor** | 2.65.8 | Small, fast and limited text editor | https://github.com/xyproto/o |
+| **o-editor** | 2.65.10 | Small, fast and limited text editor | https://github.com/xyproto/o |
 | **oathtool** | 2.6.7-2 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.7-2 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
 | **obfs4proxy** | 0.0.14-3 | A pluggable transport plugin for Tor | https://github.com/Yawning/obfs4 |
@@ -2060,6 +2060,7 @@
 | **rp-pppoe** | 4.0 | A PPP-over-Ethernet redirector for pppd | https://dianne.skoll.ca/projects/rp-pppoe/ |
 | **rpm** | 4.18.1 | RPM Package Manager | https://rpm.org/ |
 | **rq** | 1.0.4 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
+| **rsgain** | 3.4 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.4.5 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
 | **rsync** | 3.2.7-1 | Utility that provides fast incremental file transfer | https://rsync.samba.org/ |
 | **rtmpdump** | 2.4-6 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
