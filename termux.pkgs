@@ -1204,8 +1204,8 @@
 | **libpixman** | 0.42.2 | Low-level library for pixel manipulation | http://www.pixman.org/ |
 | **libpixman-static** | 0.42.2 | Static libraries for libpixman | http://www.pixman.org/ |
 | **libplacebo** | 6.338.1 | Reusable library for GPU-accelerated video/image rendering | http://libplacebo.org/ |
-| **libplist** | 2.3.0 | A small portable C library to handle Apple Property List files in binary or XML format | https://libimobiledevice.org |
-| **libplist-static** | 2.3.0 | Static libraries for libplist | https://libimobiledevice.org |
+| **libplist** | 2.4.0 | A small portable C library to handle Apple Property List files in binary or XML format | https://libimobiledevice.org |
+| **libplist-static** | 2.4.0 | Static libraries for libplist | https://libimobiledevice.org |
 | **libpluto** | 0.8.1 | Shared library for the Pluto interpreter. | https://plutolang.github.io/ |
 | **libpng** | 1.6.42 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
 | **libpng-static** | 1.6.42 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
