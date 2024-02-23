@@ -365,7 +365,7 @@
 | **eja** | 13.11.25-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.6 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
 | **electric-fence-static** | 2.2.6 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
-| **electrum** | 4.5.2 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
+| **electrum** | 4.5.3 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.190 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.17.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.16.1 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
@@ -398,7 +398,7 @@
 | **fakeroot** | 1.33 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.33 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.8.4 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.8.5 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **fclones** | 0.34.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
