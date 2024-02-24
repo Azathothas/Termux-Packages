@@ -720,7 +720,7 @@
 | **jbig2enc-static** | 2023.01.08-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.52.10 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.53.1 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1940,7 +1940,7 @@
 | **python-apsw** | 3.45.1.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 2.7.2-2 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.1.2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
-| **python-cryptography** | 42.0.4 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
+| **python-cryptography** | 42.0.5 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.11.8 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.0.3 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.62.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
@@ -2050,7 +2050,7 @@
 | **ripgrep-all** | 1.0.0-alpha.5-2 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.7 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7 | A terminal IRC client in C | https://github.com/rcr/rirc |
-| **rizin** | 0.6.3 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
+| **rizin** | 0.7.0 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.46.1 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
 | **rnr** | 0.4.2 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
 | **robin-map** | 1.2.1 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
@@ -2143,7 +2143,7 @@
 | **simh** | 1:3.12.4 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-1 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.8.5 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.8.6 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 0.2.2-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.02-2 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
