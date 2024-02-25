@@ -242,7 +242,7 @@
 | **colm** | 0.14.7-1 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 2.4.0-12 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 2.4.0-13 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.7.1 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **cookcli** | 0.8.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -1987,8 +1987,8 @@
 | **qemu-utils** | 1:8.0.2-1 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
 | **qhull** | 8.1-alpha3-0 | Calculate convex hulls and related structures | http://www.qhull.org |
 | **qhull-static** | 8.1-alpha3-0 | Static libraries for qhull | http://www.qhull.org |
-| **qpdf** | 11.8.0 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
-| **qpdf-static** | 11.8.0 | Static libraries for qpdf | http://qpdf.sourceforge.net |
+| **qpdf** | 11.9.0 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
+| **qpdf-static** | 11.9.0 | Static libraries for qpdf | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-3 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **quick-lint-js** | 3.1.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20210327-2 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
@@ -2460,7 +2460,7 @@
 | **which** | 2.21 | Shows the full path of (shell) commands | https://carlowood.github.io/which/ |
 | **whiptail** | 0.52.24 | Display dialog boxes from shell scripts | https://pagure.io/newt |
 | **whitebox-tools** | 2.3.0-1 | An advanced geospatial data analysis platform | https://github.com/jblindsay/whitebox-tools |
-| **whois** | 5.5.20 | An intelligent Whois client | https://github.com/rfc1036/whois |
+| **whois** | 5.5.21 | An intelligent Whois client | https://github.com/rfc1036/whois |
 | **wireguard-tools** | 1.0.20210914 | Tools for the WireGuard secure network tunnel | https://www.wireguard.com |
 | **wiz** | 2022.06.02 | A high-level assembly language for writing homebrew software for retro console platforms | http://wiz-lang.org/ |
 | **woff2** | 1.0.2-3 | font compression reference code | https://www.w3.org/TR/WOFF2/ |
