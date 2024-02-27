@@ -1776,8 +1776,8 @@
 | **openjdk-17** | 17.0-29 | Java development kit and runtime | https://github.com/PojavLauncherTeam/mobile |
 | **openjdk-17-source** | 17.0-29 | Source files for openjdk-17 | https://github.com/PojavLauncherTeam/mobile |
 | **openjdk-17-x** | 17.0-29 | Portion of openjdk-17 requiring X11 functionality | https://github.com/PojavLauncherTeam/mobile |
-| **openjpeg** | 2.5.0-1 | JPEG 2000 image compression library | http://www.openjpeg.org/ |
-| **openjpeg-tools** | 2.5.0-1 | Command-line tools using the JPEG 2000 library | http://www.openjpeg.org/ |
+| **openjpeg** | 2.5.1 | JPEG 2000 image compression library | http://www.openjpeg.org/ |
+| **openjpeg-tools** | 2.5.1 | Command-line tools using the JPEG 2000 library | http://www.openjpeg.org/ |
 | **openldap** | 2.6.7 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.6.7 | Static libraries for openldap | https://openldap.org |
 | **openmpi** | 4.1.5 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
