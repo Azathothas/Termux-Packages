@@ -491,8 +491,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.13.13 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.13.13 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.13.14 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.13.14 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.22.5 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.22.5 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.2 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -2393,13 +2393,13 @@
 | **valac-static** | 0.56.14 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.14 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.14 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.1.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.2.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-1 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-1 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vbindiff** | 3.0-beta5-0 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
-| **vcsh** | 2.0.7 | Config manager based on Git | https://github.com/RichiH/vcsh |
+| **vcsh** | 2.0.8 | Config manager based on Git | https://github.com/RichiH/vcsh |
 | **vde2** | 2.3.3-2 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
 | **vde2-static** | 2.3.3-2 | Static libraries for vde2 | https://github.com/virtualsquare/vde-2 |
 | **vegeta** | 12.11.1 | HTTP load testing tool | https://github.com/tsenart/vegeta |
