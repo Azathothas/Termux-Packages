@@ -1590,7 +1590,7 @@
 | **mediainfo** | 24.01.1 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **megacmd** | 1.6.3-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
-| **memcached** | 1.6.23 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
+| **memcached** | 1.6.24 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
 | **mesa** | 23.3.5 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
@@ -2143,7 +2143,7 @@
 | **simh** | 1:3.12.4 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-1 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.8.6 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.8.7 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 0.2.2-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.02-2 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2538,7 +2538,7 @@
 | **zstd** | 1.5.5-1 | Zstandard compression | https://github.com/facebook/zstd |
 | **zstd-static** | 1.5.5-1 | Static libraries for zstd | https://github.com/facebook/zstd |
 | **zsync** | 0.6.2-5 | A file transfer program to download files from remote web servers | http://zsync.moria.org.uk/ |
-| **zziplib** | 0.13.72-1 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | http://zziplib.sourceforge.net/ |
+| **zziplib** | 0.13.73 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
 | **zzuf** | 2022.05.29 | A transparent application input fuzzer | http://caca.zoy.org/wiki/zzuf |
 | **zzuf-static** | 2022.05.29 | Static libraries for zzuf | http://caca.zoy.org/wiki/zzuf |
 
