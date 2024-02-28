@@ -118,7 +118,7 @@
 | **bftpd** | 6.2 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
 | **bgrep** | 1.0-3 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
 | **biboumi** | 9.0-3 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
-| **binaryen** | 116 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
+| **binaryen** | 117 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
 | **binutils** | 2.42 | GNU Binutils (metapackage) | https://www.gnu.org/software/binutils/ |
 | **binutils-bin** | 2.42 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
 | **binutils-cross** | 2.42 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
@@ -2212,7 +2212,7 @@
 | **stoken** | 0.93 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-2 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.95.1 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.96.6 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.3.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.7 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-2 | Records and splits streaming mp3 into tracks | http://streamripper.sourceforge.net/ |
@@ -2425,7 +2425,7 @@
 | **vlc-static** | 3.0.20-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.73 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.74 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20240218 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.278 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
