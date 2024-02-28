@@ -203,7 +203,7 @@
 | **cfengine** | 1:3.23.0 | CFEngine is a configuration management technology | https://cfengine.com/ |
 | **cfengine-static** | 1:3.23.0 | Static libraries for cfengine | https://cfengine.com/ |
 | **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
-| **cgal** | 5.6 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
+| **cgal** | 5.6.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
 | **cgif** | 0.3.2 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
 | **chafa** | 1.14.0 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
@@ -576,7 +576,7 @@
 | **goose** | 3.18.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.15.11 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
-| **gopls** | 0.15.0 | The official Go language server | https://github.com/golang/tools |
+| **gopls** | 0.15.1 | The official Go language server | https://github.com/golang/tools |
 | **gotop** | 4.2.0-3 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotty** | 1.5.0-3 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
 | **gpac** | 2.2.1-3 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
@@ -662,7 +662,7 @@
 | **httrack-data** | 3.49.4 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.4 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.123.4 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.123.5 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20210101 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1039,8 +1039,8 @@
 | **libjpeg-turbo** | 3.0.2 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.0.2 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.0.2 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
-| **libjxl** | 0.10.0 | JPEG XL image format reference implementation | https://jpegxl.info/ |
-| **libjxl-progs** | 0.10.0 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
+| **libjxl** | 0.10.1 | JPEG XL image format reference implementation | https://jpegxl.info/ |
+| **libjxl-progs** | 0.10.1 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkiwix** | 13.1.0 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-1 | Knot DNS libraries | https://www.knot-dns.cz/ |
 | **libknot-static** | 3.2.4-1 | Static libraries for libknot | https://www.knot-dns.cz/ |
@@ -1211,7 +1211,7 @@
 | **libplacebo** | 6.338.1 | Reusable library for GPU-accelerated video/image rendering | http://libplacebo.org/ |
 | **libplist** | 2.4.0 | A small portable C library to handle Apple Property List files in binary or XML format | https://libimobiledevice.org |
 | **libplist-static** | 2.4.0 | Static libraries for libplist | https://libimobiledevice.org |
-| **libpluto** | 0.8.1 | Shared library for the Pluto interpreter. | https://plutolang.github.io/ |
+| **libpluto** | 0.8.2 | Shared library for the Pluto interpreter. | https://plutolang.github.io/ |
 | **libpng** | 1.6.43 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
 | **libpng-static** | 1.6.43 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0 | C++ library for creating PNG images | http://pngwriter.sourceforge.net |
@@ -1777,8 +1777,8 @@
 | **openjdk-17** | 17.0-29 | Java development kit and runtime | https://github.com/PojavLauncherTeam/mobile |
 | **openjdk-17-source** | 17.0-29 | Source files for openjdk-17 | https://github.com/PojavLauncherTeam/mobile |
 | **openjdk-17-x** | 17.0-29 | Portion of openjdk-17 requiring X11 functionality | https://github.com/PojavLauncherTeam/mobile |
-| **openjpeg** | 2.5.1 | JPEG 2000 image compression library | http://www.openjpeg.org/ |
-| **openjpeg-tools** | 2.5.1 | Command-line tools using the JPEG 2000 library | http://www.openjpeg.org/ |
+| **openjpeg** | 2.5.2 | JPEG 2000 image compression library | http://www.openjpeg.org/ |
+| **openjpeg-tools** | 2.5.2 | Command-line tools using the JPEG 2000 library | http://www.openjpeg.org/ |
 | **openldap** | 2.6.7 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.6.7 | Static libraries for openldap | https://openldap.org |
 | **openmpi** | 4.1.5 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
@@ -1879,7 +1879,7 @@
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
 | **plantuml** | 1.2024.3 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
-| **plutolang** | 0.8.1 | A superset of Lua 5.4, with unique features, optimizations, and improvements | https://plutolang.github.io/ |
+| **plutolang** | 0.8.2 | A superset of Lua 5.4, with unique features, optimizations, and improvements | https://plutolang.github.io/ |
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
