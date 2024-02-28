@@ -576,6 +576,7 @@
 | **goose** | 3.18.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.15.11 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
+| **gopls** | 0.15.0 | The official Go language server | https://github.com/golang/tools |
 | **gotop** | 4.2.0-3 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotty** | 1.5.0-3 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
 | **gpac** | 2.2.1-3 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
@@ -1182,7 +1183,7 @@
 | **libopus-static** | 1.4 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
 | **libopusenc-static** | 0.2.1-3 | Static libraries for libopusenc | https://github.com/xiph/libopusenc |
-| **liborc** | 0.4.37 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
+| **liborc** | 0.4.38 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
 | **libosl** | 0.9.7 | A Specification and a Library for Data Exchange in Polyhedral Compilation Tools | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosl-static** | 0.9.7 | Static libraries for libosl | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosmium** | 2.20.0 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
