@@ -285,7 +285,7 @@
 | **daemonize** | 1.7.8-2 | Run a command as a Unix daemon | http://software.clapper.org/daemonize/ |
 | **dar** | 2.7.13 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.7.13 | Static libraries for dar | http://dar.linux.free.fr/ |
-| **darkhttpd** | 1.15 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
+| **darkhttpd** | 1.16 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.3.0 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 2.6.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
@@ -662,7 +662,7 @@
 | **httrack-data** | 3.49.4 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.4 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.123.5 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.123.6 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20210101 | American english dictionary for hunspell | https://hunspell.github.io |
