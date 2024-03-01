@@ -631,7 +631,7 @@
 | **has** | 1.5.0 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.3 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
-| **hcl** | 2.19.1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
+| **hcl** | 2.20.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
 | **hcloud** | 1.42.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 23.10 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 23.10 | Helix grammars | https://helix-editor.com/ |
@@ -931,8 +931,8 @@
 | **libevent** | 2.1.12-2 | Library that provides asynchronous event notification | https://libevent.org/ |
 | **libexif** | 0.6.24 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
 | **libexif-static** | 0.6.24 | Static libraries for libexif | https://libexif.github.io/ |
-| **libexpat** | 2.6.0 | XML parsing C library | https://libexpat.github.io/ |
-| **libexpat-static** | 2.6.0 | Static libraries for libexpat | https://libexpat.github.io/ |
+| **libexpat** | 2.6.1 | XML parsing C library | https://libexpat.github.io/ |
+| **libexpat-static** | 2.6.1 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcft** | 3.1.6-1 | A small font loading and glyph rasterization library | https://codeberg.org/dnkl/fcft |
 | **libfcl** | 0.7.0-1 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
