@@ -526,7 +526,7 @@
 | **glib** | 2.78.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.78.4 | Programs for the GLib library | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.78.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
-| **glib-networking** | 2.78.0 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
+| **glib-networking** | 2.78.1 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 0.9.9.8 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
 | **global** | 6.6.11 | Source code search and browse tools | https://www.gnu.org/software/global/ |
