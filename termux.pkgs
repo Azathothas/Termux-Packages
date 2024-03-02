@@ -27,7 +27,7 @@
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.5 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.16.0 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
-| **alist** | 3.30.0 | A file list program that supports multiple storage | https://alist.nn.ci |
+| **alist** | 3.32.0 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **amber** | 0.6.0 | A code search / replace tool | https://github.com/dalance/amber |
 | **amfora** | 1.9.2-3 | Aims to be the best looking Gemini client | https://github.com/makeworld-the-better-one/amfora |
@@ -1125,8 +1125,8 @@
 | **libmusicbrainz** | 5.1.0-2 | The MusicBrainz Client Library | https://musicbrainz.org/doc/libmusicbrainz |
 | **libmypaint** | 1.6.1-1 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
 | **libmypaint-static** | 1.6.1-1 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
-| **libnats-c** | 3.7.0-1 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
-| **libnats-c-static** | 3.7.0-1 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
+| **libnats-c** | 3.8.0 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
+| **libnats-c-static** | 3.8.0 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
 | **libncnn** | 20230627-2 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
 | **libncnn-static** | 20230627-2 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
 | **libneon** | 0.32.5-1 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
@@ -1204,7 +1204,7 @@
 | **libpipeline-static** | 1.5.7 | Static libraries for libpipeline | http://libpipeline.nongnu.org/ |
 | **libpixman** | 0.42.2 | Low-level library for pixel manipulation | http://www.pixman.org/ |
 | **libpixman-static** | 0.42.2 | Static libraries for libpixman | http://www.pixman.org/ |
-| **libplacebo** | 6.338.1 | Reusable library for GPU-accelerated video/image rendering | http://libplacebo.org/ |
+| **libplacebo** | 6.338.2 | Reusable library for GPU-accelerated video/image rendering | http://libplacebo.org/ |
 | **libplist** | 2.4.0 | A small portable C library to handle Apple Property List files in binary or XML format | https://libimobiledevice.org |
 | **libplist-static** | 2.4.0 | Static libraries for libplist | https://libimobiledevice.org |
 | **libpluto** | 0.8.2 | Shared library for the Pluto interpreter. | https://plutolang.github.io/ |
