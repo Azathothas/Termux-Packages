@@ -398,7 +398,7 @@
 | **fakeroot** | 1.33 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.33 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.8.6 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.8.7 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **fclones** | 0.34.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
@@ -1531,7 +1531,7 @@
 | **lychee** | 0.14.3 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.8.9rel.1-7 | The text web browser | http://lynx.browser.org/ |
 | **lz4** | 1.9.4 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
-| **lzip** | 1.24 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
+| **lzip** | 1.24.1 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
 | **lzlib** | 1.14 | A library providing in-memory LZMA compression and decompression functions | http://www.nongnu.org/lzip/lzlib.html |
 | **lzlib-static** | 1.14 | Static libraries for lzlib | http://www.nongnu.org/lzip/lzlib.html |
 | **lzop** | 1.04-1 | File compressor using lzo lib. | https://www.lzop.org |
