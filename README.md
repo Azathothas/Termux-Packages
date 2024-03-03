@@ -2051,7 +2051,7 @@
 | **ripgrep-all** | 1.0.0-alpha.5-2 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.7 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7 | A terminal IRC client in C | https://github.com/rcr/rirc |
-| **rizin** | 0.7.0 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
+| **rizin** | 0.7.1 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.46.1 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
 | **rnr** | 0.4.2 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
 | **robin-map** | 1.2.1 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
@@ -2257,7 +2257,7 @@
 | **tcllib** | 1.21 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.10 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.10 | Tools for TDB | https://tdb.samba.org/ |
-| **tdl** | 0.16.0 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
+| **tdl** | 0.16.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.9.2 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.6.1 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |
 | **teckit** | 2.5.12 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
