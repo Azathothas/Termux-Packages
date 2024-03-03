@@ -210,7 +210,7 @@
 | **chafa-static** | 1.14.0 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.47.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.47.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.3.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.3.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.4 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -1426,8 +1426,8 @@
 | **libxapian-static** | 1.4.24 | Static libraries for libxapian | https://xapian.org |
 | **libxau** | 1.0.11 | X11 authorisation library | https://xorg.freedesktop.org/ |
 | **libxau-static** | 1.0.11 | Static libraries for libxau | https://xorg.freedesktop.org/ |
-| **libxcb** | 1.16 | X11 client-side library | https://xcb.freedesktop.org/ |
-| **libxcb-static** | 1.16 | Static libraries for libxcb | https://xcb.freedesktop.org/ |
+| **libxcb** | 1.16.1 | X11 client-side library | https://xcb.freedesktop.org/ |
+| **libxcb-static** | 1.16.1 | Static libraries for libxcb | https://xcb.freedesktop.org/ |
 | **libxcfun** | 2.1.1 | A library of exchange-correlation functionals with arbitrary-order derivatives | https://github.com/dftlibs/xcfun |
 | **libxcursor** | 1.2.1-1 | X cursor management library | https://xorg.freedesktop.org/ |
 | **libxcursor-static** | 1.2.1-1 | Static libraries for libxcursor | https://xorg.freedesktop.org/ |
