@@ -571,7 +571,7 @@
 | **gomp** | 2023.02.02-2 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 0.3.0-3 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
-| **google-glog** | 0.6.0-1 | Logging library for C++ | https://github.com/google/glog |
+| **google-glog** | 0.7.0 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.14.0 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.18.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.15.11 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
@@ -858,7 +858,7 @@
 | **libcddb-static** | 1.3.2 | Static libraries for libcddb | http://libcddb.sourceforge.net/ |
 | **libcdk** | 5.0-20230201-0 | Curses Development Kit | https://dickey.his.com/cdk/cdk.html |
 | **libcec** | 6.0.2-1 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | http://libcec.pulse-eight.com/ |
-| **libceres-solver** | 2.2.0 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
+| **libceres-solver** | 2.2.0-1 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-1 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
 | **libcln** | 1.3.6-5 | CLN is a library for efficient computations with all kinds of numbers in arbitrary precision | https://www.ginac.de/CLN/ |
 | **libcln-static** | 1.3.6-5 | Static libraries for libcln | https://www.ginac.de/CLN/ |
@@ -1240,7 +1240,7 @@
 | **libresolv-wrapper** | 1.1.7-4 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
 | **libretls-static** | 3.8.1 | Static libraries for libretls | https://git.causal.agency/libretls/about/ |
-| **librime** | 1.10.0 | A modular, extensible input method engine in cross-platform C++ code | https://rime.im/ |
+| **librime** | 1.10.0-1 | A modular, extensible input method engine in cross-platform C++ code | https://rime.im/ |
 | **librinutils** | 0.10.2 | A C11 / gnu11 utilities C library | https://github.com/shlomif/rinutils |
 | **librnnoise** | 2021.03.12 | RNN-based noise suppression | https://jmvalin.ca/demo/rnnoise/ |
 | **librnnoise-static** | 2021.03.12 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
