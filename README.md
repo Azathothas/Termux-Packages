@@ -2394,10 +2394,10 @@
 | **uuid-utils** | 2.39.3-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uwsgi** | 2.0.24 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.13.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
-| **valac** | 0.56.14 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
-| **valac-static** | 0.56.14 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
-| **valadoc** | 0.56.14 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
-| **valadoc-static** | 0.56.14 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
+| **valac** | 0.56.15 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
+| **valac-static** | 0.56.15 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
+| **valadoc** | 0.56.15 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
+| **valadoc-static** | 0.56.15 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
 | **vale** | 3.2.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0 | Static libraries for valgrind | https://valgrind.org/ |
