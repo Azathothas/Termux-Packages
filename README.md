@@ -1663,7 +1663,7 @@
 | **music-file-organizer** | 1.0.4-1 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.12-1 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 14.0.3 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 14.0.4 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.2-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -1995,7 +1995,7 @@
 | **qpdf** | 11.9.0 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qpdf-static** | 11.9.0 | Static libraries for qpdf | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-3 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
-| **quick-lint-js** | 3.1.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
+| **quick-lint-js** | 3.2.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20210327-2 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.67 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **racket** | 8.12 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
@@ -2080,7 +2080,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.76.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240226 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240304 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.76.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.76.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2433,7 +2433,7 @@
 | **vulkan-headers** | 1.3.279 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 26b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.3.278 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.3.279 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.3.279 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.3.279 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-volk** | 1.3.270 | Meta loader for Vulkan API | https://github.com/zeux/volk |
