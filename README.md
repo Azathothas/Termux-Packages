@@ -270,7 +270,7 @@
 | **cscope** | 15.9-1 | A developers tool for browsing program code | http://cscope.sourceforge.net/ |
 | **csh** | 20110502-1 | C Shell with process control from 3BSD | https://packages.debian.org/sid/csh |
 | **csol** | 1.6.0 | A small collection of solitaire games implemented in C using ncurses | https://github.com/nielssp/csol |
-| **csview** | 1.2.2 | Pretty-printing CSV/TSV/xSV on terminal | https://github.com/wfxr/csview |
+| **csview** | 1.2.4 | Pretty-printing CSV/TSV/xSV on terminal | https://github.com/wfxr/csview |
 | **ctags** | 2:6.1.0 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctypes-sh** | 1.2-1 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
@@ -703,7 +703,7 @@
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
 | **iperf3** | 3.15 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.15 | Static libraries for iperf3 | https://github.com/esnet/iperf |
-| **ipfs** | 0.26.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **ipfs** | 0.27.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.7.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.1.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
@@ -1177,8 +1177,8 @@
 | **libopencore-amr** | 0.1.6 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr |
 | **libopencore-amr-static** | 0.1.6 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr |
 | **libopenfec** | 1.4.2.9 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
-| **libopenmpt** | 0.7.3 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
-| **libopenmpt-static** | 0.7.3 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt** | 0.7.4 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt-static** | 0.7.4 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
 | **libopus** | 1.4 | Reference implementation of the Opus codec | https://www.opus-codec.org/ |
 | **libopus-static** | 1.4 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
@@ -2317,7 +2317,7 @@
 | **tmate** | 2.4.0-2 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
 | **tmux** | 3.3a-p20230428-0 | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-2 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
-| **tokei** | 13.0.0-alpha.0-0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
+| **tokei** | 13.0.0-alpha.1-0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-3 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 3.8.1 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 14.0.1 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
