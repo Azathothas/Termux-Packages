@@ -2051,7 +2051,7 @@
 | **ripgrep-all** | 1.0.0-alpha.5-2 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.7 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7 | A terminal IRC client in C | https://github.com/rcr/rirc |
-| **rizin** | 0.7.1 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
+| **rizin** | 0.7.2 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.46.1 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
 | **rnr** | 0.4.2 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
 | **robin-map** | 1.2.1 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
