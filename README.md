@@ -533,8 +533,8 @@
 | **glib-networking** | 2.78.1 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 0.9.9.8 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
-| **global** | 6.6.11 | Source code search and browse tools | https://www.gnu.org/software/global/ |
-| **global-static** | 6.6.11 | Static libraries for global | https://www.gnu.org/software/global/ |
+| **global** | 6.6.12 | Source code search and browse tools | https://www.gnu.org/software/global/ |
+| **global-static** | 6.6.12 | Static libraries for global | https://www.gnu.org/software/global/ |
 | **glow** | 1.5.1-1 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
 | **glpk** | 5.0-1 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
 | **glpk-static** | 5.0-1 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
@@ -721,7 +721,7 @@
 | **jbig2enc-static** | 2023.01.08-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.53.1 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.53.2 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1609,7 +1609,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.1.0 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.03.03.17.50.39 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2024.03.05.04.48.44 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.26.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.6 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
