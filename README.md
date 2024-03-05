@@ -1839,7 +1839,7 @@
 | **pcregrep** | 8.45-1 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pdf2djvu** | 0.9.19-4 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
 | **pdf2svg** | 0.2.3-10 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
-| **pdfcpu** | 0.6.0 | A PDF processor written in Go | https://pdfcpu.io |
+| **pdfcpu** | 0.7.0 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.1.2-16 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-1 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-4 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
