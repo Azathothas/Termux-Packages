@@ -148,7 +148,7 @@
 | **brainfuck** | 1:2.7.3 | Brainfuck Interpreter written in C | https://github.com/fabianishere/brainfuck |
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.13 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
-| **brook** | 20240214 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
+| **brook** | 20240404 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
 | **broot** | 1.35.0 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
@@ -303,7 +303,7 @@
 | **dialog-static** | 1.3-20230209-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
 | **dictd** | 1.13.1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diffstat** | 1.66 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
-| **difftastic** | 0.56.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
+| **difftastic** | 0.56.1 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.10 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-4 | Web Directory Fuzzer | http://dirb.sourceforge.net/ |
 | **direnv** | 2.34.0 | Environment switcher for shell | https://github.com/direnv/direnv |
@@ -594,7 +594,7 @@
 | **graphviz-static** | 10.0.1-1 | Static libraries for graphviz | https://www.graphviz.org/ |
 | **greed** | 4.2-2 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.11 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
-| **grex** | 1.4.4 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
+| **grex** | 1.4.5 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
 | **groovy** | 4.0.16-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
