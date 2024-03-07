@@ -748,7 +748,7 @@
 | **kak-lsp** | 16.0.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2023.08.05-1 | Code editor heavily inspired by Vim | https://github.com/mawww/kakoune |
 | **kcptun** | 20240107 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
-| **keybase** | 6.2.4 | Key directory that maps social media identities to encryption keys | https://keybase.io |
+| **keybase** | 6.2.8 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-1 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
 | **kiwix-tools** | 3.6.0 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
