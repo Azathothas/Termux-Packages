@@ -286,7 +286,7 @@
 | **dar** | 2.7.13 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.7.13 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.16 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dart** | 3.3.0 | Dart is a general-purpose programming language | https://dart.dev/ |
+| **dart** | 3.3.1 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 2.6.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
