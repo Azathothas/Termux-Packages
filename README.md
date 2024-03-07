@@ -526,7 +526,7 @@
 | **gitoxide** | 0.34.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.25.1 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.36.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.37.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **glib** | 2.78.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.78.4 | Programs for the GLib library | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.78.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -662,7 +662,7 @@
 | **httrack-data** | 3.49.4 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.4 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.123.7 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.123.8 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20210101 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1365,8 +1365,8 @@
 | **libucontext-static** | 1.2 | Static libraries for libucontext | https://github.com/kaniini/libucontext |
 | **libudfread** | 1.1.2 | A library for reading UDF | https://code.videolan.org/videolan/libudfread/ |
 | **libudfread-static** | 1.1.2 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
-| **libunbound** | 1.19.1 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
-| **libunbound-static** | 1.19.1 | Static libraries for libunbound | https://unbound.net/ |
+| **libunbound** | 1.19.2 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
+| **libunbound-static** | 1.19.2 | Static libraries for libunbound | https://unbound.net/ |
 | **libunibilium** | 2.1.1 | Terminfo parsing library | https://github.com/neovim/unibilium |
 | **libunistring** | 1.1 | Library providing functions for manipulating Unicode strings | https://www.gnu.org/software/libunistring/ |
 | **libunistring-static** | 1.1 | Static libraries for libunistring | https://www.gnu.org/software/libunistring/ |
@@ -1965,7 +1965,7 @@
 | **python-xlib** | 0.33 | The Python X Library | https://github.com/python-xlib/python-xlib |
 | **python2** | 2.7.18-13 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-13 | Static libraries for python2 | http://python.org/ |
-| **pyunbound** | 1.19.1 | Python bindings for Unbound | https://unbound.net/ |
+| **pyunbound** | 1.19.2 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.5-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 4.9.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
@@ -2362,7 +2362,7 @@
 | **ugit** | 5.8 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 5.0.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.7-6 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
-| **unbound** | 1.19.1 | Unbound command-line tools | https://unbound.net/ |
+| **unbound** | 1.19.2 | Unbound command-line tools | https://unbound.net/ |
 | **unbound-static** | 1.17.1 | Static libraries for unbound | https://unbound.net/ |
 | **unicode-data** | 15.1.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicorn** | 2.0.1.post1 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
