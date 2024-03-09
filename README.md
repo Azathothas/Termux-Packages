@@ -153,7 +153,7 @@
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.13 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20240404 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.35.0 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.36.0 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
 | **bsd-finger** | 0.17 | User information lookup program | http://ftp.linux.org.uk/pub/linux/Networking/netkit/ |
@@ -1075,8 +1075,8 @@
 | **libluajit** | 1:2.1.1707061634 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **libluajit-static** | 1:2.1.1707061634 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.9.4 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
-| **liblzma** | 5.6.0-1 | XZ-format compression library | https://xz.tukaani.org/xz-utils/ |
-| **liblzma-static** | 5.6.0-1 | Static libraries for liblzma | https://xz.tukaani.org/xz-utils/ |
+| **liblzma** | 5.6.1 | XZ-format compression library | https://xz.tukaani.org/xz-utils/ |
+| **liblzma-static** | 5.6.1 | Static libraries for liblzma | https://xz.tukaani.org/xz-utils/ |
 | **liblzo** | 2.10-3 | Portable lossless data compression library | http://www.oberhumer.com/opensource/lzo |
 | **liblzo-static** | 2.10-3 | Static libraries for liblzo | http://www.oberhumer.com/opensource/lzo |
 | **libmaa** | 1.4.7 | Provides many low-level data structures which are helpful for writing compilers | https://sourceforge.net/projects/dict/ |
@@ -2501,7 +2501,7 @@
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |
 | **xxhash** | 0.8.2 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.2 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
-| **xz-utils** | 5.6.0-1 | XZ-format compression tools | https://xz.tukaani.org/xz-utils/ |
+| **xz-utils** | 5.6.1 | XZ-format compression tools | https://xz.tukaani.org/xz-utils/ |
 | **yadm** | 3.2.2 | Yet Another Dotfiles Manager | https://github.com/TheLocehiliosan/yadm |
 | **yajl** | 2.1.0-7 | Yet Another JSON Library | https://lloyd.github.io/yajl/ |
 | **yajl-static** | 2.1.0-7 | Static libraries for yajl | https://lloyd.github.io/yajl/ |
