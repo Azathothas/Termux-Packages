@@ -534,7 +534,7 @@
 | **glow** | 1.5.1-1 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
 | **glpk** | 5.0-1 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
 | **glpk-static** | 5.0-1 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
-| **glslang** | 14.0.0-1 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
+| **glslang** | 14.1.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-1 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.5.4-5 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
 | **gmic** | 3.3.4 | Full-featured framework for image processing | https://gmic.eu |
@@ -1418,8 +1418,8 @@
 | **libx264-static** | 1:0.164.3101 | Static libraries for libx264 | https://www.videolan.org/developers/x264.html |
 | **libx265** | 3.5-p20230222-0 | H.265/HEVC video stream encoder library | http://x265.org/ |
 | **libx265-static** | 3.5-p20230222-0 | Static libraries for libx265 | http://x265.org/ |
-| **libxapian** | 1.4.24 | Xapian search engine library | https://xapian.org |
-| **libxapian-static** | 1.4.24 | Static libraries for libxapian | https://xapian.org |
+| **libxapian** | 1.4.25 | Xapian search engine library | https://xapian.org |
+| **libxapian-static** | 1.4.25 | Static libraries for libxapian | https://xapian.org |
 | **libxau** | 1.0.11 | X11 authorisation library | https://xorg.freedesktop.org/ |
 | **libxau-static** | 1.0.11 | Static libraries for libxau | https://xorg.freedesktop.org/ |
 | **libxcb** | 1.16.1 | X11 client-side library | https://xcb.freedesktop.org/ |
@@ -2121,7 +2121,7 @@
 | **serf** | 1.3.10 | High performance C-based HTTP client library | https://serf.apache.org/ |
 | **serf-static** | 1.3.10 | Static libraries for serf | https://serf.apache.org/ |
 | **sfeed** | 2.0 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
-| **shaderc** | 2023.8 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
+| **shaderc** | 2024.0 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **shairport-sync** | 3.1.2-6 | An AirPlay audio player | https://github.com/mikebrady/shairport-sync |
 | **sharutils** | 4.15.2-3 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
 | **shc** | 4.0.3-3 | Shell script compiler | https://neurobin.org/projects/softwares/unix/shc/ |
@@ -2261,7 +2261,7 @@
 | **tectonic** | 0.14.1-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20231228 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 15.1.1 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 15.1.3 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.5.1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
@@ -2425,7 +2425,7 @@
 | **vtm** | 0.9.74 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20240218 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
-| **vulkan-extension-layer** | 1.3.279 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
+| **vulkan-extension-layer** | 1.3.280 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.3.280 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 26b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
@@ -2475,7 +2475,7 @@
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |
 | **x264** | 1:0.164.3101 | Commandline video encoder for the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **x265** | 3.5-p20230222-0 | H.265/HEVC video stream encoder tool | http://x265.org/ |
-| **xapian-tools** | 1.4.24 | Basic tools for the Xapian search engine | https://xapian.org |
+| **xapian-tools** | 1.4.25 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.16.0 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-1 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
 | **xh** | 0.21.0 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
