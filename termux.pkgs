@@ -1194,8 +1194,8 @@
 | **libpangomm-2.48** | 2.50.1 | A C++ API for Pango | https://www.gtkmm.org/ |
 | **libpano13** | 2.9.22-1 | Part of the Panorama Tools by Helmut Dersch | https://panotools.sourceforge.net/ |
 | **libpano13-static** | 2.9.22-1 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
-| **libpaper** | 2.1.3 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
-| **libpaper-static** | 2.1.3 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
+| **libpaper** | 2.2.2 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
+| **libpaper-static** | 2.2.2 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
 | **libpcap** | 1.10.4 | Library for network traffic capture | https://www.tcpdump.org |
 | **libpcap-static** | 1.10.4 | Static libraries for libpcap | https://www.tcpdump.org |
 | **libpcreposix** | 8.45-1 | Posix-compatible runtime libraries for libpcre | https://www.pcre.org |
@@ -2010,7 +2010,7 @@
 | **ravencoin** | 4.6.1-4 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
 | **ravencoin-static** | 4.6.1-4 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.9.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
-| **rclone** | 1.65.2 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.66.0 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rcshell** | 1.7.4-4 | An alternative implementation of the plan 9 rc shell | http://tobold.org/article/rc |
@@ -2290,7 +2290,7 @@
 | **testssl.sh** | 3.0.8 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
 | **tex-gyre** | 2.501-1 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
 | **texinfo** | 7.1 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
-| **texlab** | 5.12.4 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
+| **texlab** | 5.13.0 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
 | **texlive-bin** | 20230313-3 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 20230313-3 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20230313 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
