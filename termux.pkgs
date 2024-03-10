@@ -345,7 +345,7 @@
 | **dtc** | 1.7.0 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.7.0 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-1 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.28.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.29.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 0.10.0 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
@@ -368,7 +368,7 @@
 | **electrum** | 4.5.3 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.190 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.17.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
-| **elixir** | 1.16.1 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
+| **elixir** | 1.16.2 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.19.2-2 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
@@ -1605,7 +1605,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.1.0 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.03.07.00.43.48 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2024.03.10.02.53.48 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.26.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.6 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
