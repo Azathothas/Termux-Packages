@@ -2077,7 +2077,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.76.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240304 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240311 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.76.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.76.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2092,7 +2092,7 @@
 | **rustscan** | 2.1.1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 4.2.2-1 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 4.2.3 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **salty-chat** | 0.0.22-3 | A secure, easy, self-hosted messaging | https://salty.im/ |
 | **samba** | 4.16.11 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
@@ -2184,7 +2184,7 @@
 | **squashfs-tools-ng** | 1.2.0 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.2.0 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 1.9.9.1430 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
-| **squid** | 6.7 | Full-featured Web proxy cache server | http://www.squid-cache.org |
+| **squid** | 6.8 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.16 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-7 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay |
 | **srt-tools** | 1.5.3 | Command-line tools for libsrt | https://github.com/Haivision/srt |
