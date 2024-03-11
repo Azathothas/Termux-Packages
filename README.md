@@ -1198,8 +1198,8 @@
 | **libpangomm-2.48** | 2.50.1 | A C++ API for Pango | https://www.gtkmm.org/ |
 | **libpano13** | 2.9.22-1 | Part of the Panorama Tools by Helmut Dersch | https://panotools.sourceforge.net/ |
 | **libpano13-static** | 2.9.22-1 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
-| **libpaper** | 2.2.2 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
-| **libpaper-static** | 2.2.2 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
+| **libpaper** | 2.2.3 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
+| **libpaper-static** | 2.2.3 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
 | **libpcap** | 1.10.4 | Library for network traffic capture | https://www.tcpdump.org |
 | **libpcap-static** | 1.10.4 | Static libraries for libpcap | https://www.tcpdump.org |
 | **libpcreposix** | 8.45-1 | Posix-compatible runtime libraries for libpcre | https://www.pcre.org |
@@ -1729,7 +1729,7 @@
 | **notcurses** | 3.0.9-1 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.9-1 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.9-1 | Tools and demos for notcurses | https://notcurses.com/ |
-| **notmuch** | 0.38.2 | Thread-based email index, search and tagging system | https://notmuchmail.org |
+| **notmuch** | 0.38.3 | Thread-based email index, search and tagging system | https://notmuchmail.org |
 | **npush** | 0.7-1 | Curses-based logic game similar to Sokoban and Boulder Dash | http://npush.sourceforge.net/ |
 | **nsis** | 3.09 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.09 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
