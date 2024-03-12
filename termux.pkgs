@@ -1945,8 +1945,8 @@
 | **python-libsass** | 0.22.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.1.0 | A straightforward binding of libsass for Python | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.0.8 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
-| **python-numpy** | 1.26.4 | The fundamental package for scientific computing with Python | https://numpy.org/ |
-| **python-numpy-static** | 1.26.4 | Static libraries for python-numpy | https://numpy.org/ |
+| **python-numpy** | 1.26.4-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
+| **python-numpy-static** | 1.26.4-1 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-pillow** | 10.2.0-1 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.0-1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 15.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
