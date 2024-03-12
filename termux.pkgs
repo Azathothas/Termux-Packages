@@ -2328,7 +2328,7 @@
 | **transmission** | 4.0.5 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.1.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **trojan-go** | 0.10.6-3 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
-| **trurl** | 0.9 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
+| **trurl** | 0.10 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
 | **trzsz-go** | 1.1.7 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
 | **tsduck-java** | 3.36.3528 | Java bindings for TSDuck | https://tsduck.io/ |
 | **tsduck-plugins** | 3.36.3528 | Plugins for TSDuck | https://tsduck.io/ |
