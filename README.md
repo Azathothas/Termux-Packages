@@ -463,7 +463,7 @@
 | **fwknop** | 2.6.10-5 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.10-5 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 32.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.47.0 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
+| **fzf** | 0.48.0 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.78.1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.3-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -573,7 +573,7 @@
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
 | **google-glog** | 0.7.0 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.14.0 | Google C++ testing framework | https://github.com/google/googletest |
-| **goose** | 3.19.1 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
+| **goose** | 3.19.2 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.15.11 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.15.2 | The official Go language server | https://github.com/golang/tools |
@@ -751,7 +751,7 @@
 | **keybase** | 6.2.8 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-1 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
-| **kiwix-tools** | 3.6.0 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
+| **kiwix-tools** | 3.7.0 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
 | **knockd** | 0.8-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-1 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
@@ -931,8 +931,8 @@
 | **libevent** | 2.1.12-2 | Library that provides asynchronous event notification | https://libevent.org/ |
 | **libexif** | 0.6.24 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
 | **libexif-static** | 0.6.24 | Static libraries for libexif | https://libexif.github.io/ |
-| **libexpat** | 2.6.1 | XML parsing C library | https://libexpat.github.io/ |
-| **libexpat-static** | 2.6.1 | Static libraries for libexpat | https://libexpat.github.io/ |
+| **libexpat** | 2.6.2 | XML parsing C library | https://libexpat.github.io/ |
+| **libexpat-static** | 2.6.2 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcft** | 3.1.6-1 | A small font loading and glyph rasterization library | https://codeberg.org/dnkl/fcft |
 | **libfcl** | 0.7.0-1 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
