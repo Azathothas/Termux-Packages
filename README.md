@@ -1351,8 +1351,8 @@
 | **libtpms-static** | 0.9.6 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.3-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
 | **libtree-ldd** | 3.1.1-1 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
-| **libtreesitter** | 0.21.0-pre-release-1-0 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
-| **libtreesitter-static** | 0.21.0-pre-release-1-0 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter** | 0.22.1 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter-static** | 0.22.1 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
 | **libtsduck** | 3.36.3528 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
 | **libtsduck-static** | 3.36.3528 | Static libraries for libtsduck | https://tsduck.io/ |
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
