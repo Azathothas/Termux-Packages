@@ -196,7 +196,7 @@
 | **ccache** | 4.9.1 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
 | **cccc** | 3.2.0 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
 | **ccextractor** | 0.94-4 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
-| **ccls** | 0.20220729-1 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
+| **ccls** | 0.20240202 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
 | **ccrypt** | 1.11 | Secure encryption and decryption of files and streams utility | http://ccrypt.sourceforge.net/ |
 | **cec-client** | 6.0.2-1 | Client applications for libCEC | http://libcec.pulse-eight.com/ |
 | **ceu-lang** | 2019.07.17 | The Structured Synchronous Reactive Programming Language Céu | https://github.com/ceu-lang/ceu |
@@ -2266,7 +2266,7 @@
 | **tectonic** | 0.14.1-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20231228 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 15.1.3 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 15.1.4 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.5.1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
