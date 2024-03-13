@@ -81,7 +81,7 @@
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.1 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.1 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.0.2 | Magical shell history | https://github.com/ellie/atuin |
+| **atuin** | 18.1.0 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-2 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-2 | Static libraries for aubio | https://aubio.org/ |
 | **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
@@ -299,8 +299,8 @@
 | **desed** | 1.2.1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.2 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
-| **dialog** | 1.3-20230209-0 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
-| **dialog-static** | 1.3-20230209-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
+| **dialog** | 1.3-20240307-0 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
+| **dialog-static** | 1.3-20240307-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
 | **dictd** | 1.13.1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diffstat** | 1.66 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
 | **difftastic** | 0.56.1 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
@@ -701,7 +701,7 @@
 | **iperf3-static** | 3.15 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipfs** | 0.27.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 6.7.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iproute2** | 6.8.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.1.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
@@ -1068,8 +1068,8 @@
 | **liblua53-static** | 5.3.6 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.6-1 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.6-1 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1707061634 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1707061634 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1710088188 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1710088188 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.9.4 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.6.1 | XZ-format compression library | https://xz.tukaani.org/xz-utils/ |
 | **liblzma-static** | 5.6.1 | Static libraries for liblzma | https://xz.tukaani.org/xz-utils/ |
@@ -1385,7 +1385,7 @@
 | **libvbisam-static** | 2.0-1 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.11.2 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.15.1-2 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.15.2 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvips-static** | 8.13.3-3 | Static libraries for libvips | https://libvips.github.io/libvips/ |
 | **libvmaf** | 3.0.0 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
 | **libvmaf-static** | 3.0.0 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
@@ -1523,7 +1523,7 @@
 | **lua52** | 5.2.4-8 | Simple, extensible, embeddable programming language | https://www.lua.org |
 | **lua53** | 5.3.6 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua54** | 5.4.6-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1707061634 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1710088188 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.9.2 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.48.0-2-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **lux** | 0.23.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
@@ -1869,7 +1869,7 @@
 | **pingme** | 0.2.6-3 | A small utility which can be called from anywhere to send a message with particular information | https://github.com/kha7iq/pingme |
 | **pipebuffer** | 0.0.git20211120 | Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline) | https://github.com/tfenne/pipebuffer |
 | **pipes.sh** | 2018.04.22 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
-| **pipewire** | 1.0.3 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
+| **pipewire** | 1.0.4 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 21 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
