@@ -2164,7 +2164,7 @@
 | **softether-vpn** | 5.02.5180-4 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.02.5180-4 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.7.0-3 | A user-friendly IRC bouncer | https://git.sr.ht/~emersion/soju |
-| **solidity** | 0.8.24 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
+| **solidity** | 0.8.25 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
 | **sops** | 3.8.1 | Simple and flexible tool for managing secrets | https://github.com/mozilla/sops |
 | **sord** | 0.16.16 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sox** | 14.4.2-25 | Command line utility for converting between and applying effects to various audio files formats | http://sox.sourceforge.net/ |
@@ -2256,7 +2256,7 @@
 | **tcc** | 1:0.9.27-p20230415-1 | Tiny C Compiler | https://bellard.org/tcc/ |
 | **tcl** | 8.6.13 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 1.21 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
-| **tcsh** | 6.24.10 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
+| **tcsh** | 6.24.11 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.10 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.16.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.9.2 | The official CLI for Gitea | https://gitea.com/gitea/tea |
