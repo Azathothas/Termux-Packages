@@ -1385,7 +1385,7 @@
 | **libvbisam-static** | 2.0-1 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.11.2 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.15.2 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.15.2a | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvips-static** | 8.13.3-3 | Static libraries for libvips | https://libvips.github.io/libvips/ |
 | **libvmaf** | 3.0.0 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
 | **libvmaf-static** | 3.0.0 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
@@ -2391,10 +2391,10 @@
 | **uuid-utils** | 2.39.3-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uwsgi** | 2.0.24 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.14.1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
-| **valac** | 0.56.15 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
-| **valac-static** | 0.56.15 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
-| **valadoc** | 0.56.15 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
-| **valadoc-static** | 0.56.15 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
+| **valac** | 0.56.16 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
+| **valac-static** | 0.56.16 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
+| **valadoc** | 0.56.16 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
+| **valadoc-static** | 0.56.16 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
 | **vale** | 3.3.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0 | Static libraries for valgrind | https://valgrind.org/ |
