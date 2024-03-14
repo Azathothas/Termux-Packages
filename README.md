@@ -636,7 +636,7 @@
 | **helix** | 23.10 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 23.10 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 3.14.2 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 3.14.3 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-4 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
 | **hexedit** | 1.6 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
@@ -1486,7 +1486,7 @@
 | **libzopfli** | 1.0.3-3 | New zlib compatible compressor library | https://github.com/google/zopfli |
 | **libzthread-static** | 2.3.2-1 | Static libraries for libzthread | http://zthread.sourceforge.net/ |
 | **libzxing-cpp** | 2.1.0 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/nu-book/zxing-cpp |
-| **lighttpd** | 1.4.74 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
+| **lighttpd** | 1.4.75 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lighttpd-static** | 1.4.70-2 | Static libraries for lighttpd | https://www.lighttpd.net |
 | **lilv** | 0.24.24 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.24.3 | A music engraving program | https://lilypond.org/ |
