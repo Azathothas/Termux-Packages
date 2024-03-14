@@ -283,7 +283,7 @@
 | **dar-static** | 2.7.13 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.16 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.3.1 | Dart is a general-purpose programming language | https://dart.dev/ |
-| **dasel** | 2.6.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 2.7.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.8 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -365,7 +365,7 @@
 | **eja** | 13.11.25-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.6 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
 | **electric-fence-static** | 2.2.6 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
-| **electrum** | 4.5.3 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
+| **electrum** | 4.5.4 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.190 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.17.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.16.2 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
@@ -393,7 +393,7 @@
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.18.6 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.18.7 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.34 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.34 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
