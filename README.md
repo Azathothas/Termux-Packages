@@ -757,7 +757,7 @@
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
 | **kotlin** | 1.9.23 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.21.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
-| **kubectl** | 1.29.2 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.29.3 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.28.0-1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **ladspa-sdk** | 1.17-1 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-4 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
@@ -1447,11 +1447,11 @@
 | **libxls** | 1.6.2 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.2 | Static libraries for libxls | https://github.com/libxls/libxls |
 | **libxlsxwriter** | 1.1.5-1 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
-| **libxml2** | 2.12.5 | Library for parsing XML documents | http://www.xmlsoft.org |
-| **libxml2-python** | 2.12.5 | Python bindings for libxml2 | http://www.xmlsoft.org |
-| **libxml2-python-static** | 2.12.5 | Static libraries for libxml2-python | http://www.xmlsoft.org |
-| **libxml2-static** | 2.12.5 | Static libraries for libxml2 | http://www.xmlsoft.org |
-| **libxml2-utils** | 2.12.5 | XML utilities | http://www.xmlsoft.org |
+| **libxml2** | 2.12.6 | Library for parsing XML documents | http://www.xmlsoft.org |
+| **libxml2-python** | 2.12.6 | Python bindings for libxml2 | http://www.xmlsoft.org |
+| **libxml2-python-static** | 2.12.6 | Static libraries for libxml2-python | http://www.xmlsoft.org |
+| **libxml2-static** | 2.12.6 | Static libraries for libxml2 | http://www.xmlsoft.org |
+| **libxml2-utils** | 2.12.6 | XML utilities | http://www.xmlsoft.org |
 | **libxrandr** | 1.5.4 | X11 RandR extension library | https://xorg.freedesktop.org/ |
 | **libxrandr-static** | 1.5.4 | Static libraries for libxrandr | https://xorg.freedesktop.org/ |
 | **libxrender** | 0.9.11 | X Rendering Extension client library | https://xorg.freedesktop.org/ |
@@ -1622,7 +1622,7 @@
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 17.0.6 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **mold** | 2.4.1 | mold: A Modern Linker | https://github.com/rui314/mold |
+| **mold** | 2.30.0 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.3.1-2 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.12.0.199 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
 | **mono-libs** | 6.12.0.199 | Platform-independent libraries for mono | https://www.mono-project.com/ |
@@ -2394,7 +2394,7 @@
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.39.3-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uwsgi** | 2.0.24 | uWSGI application server container | https://projects.unbit.it/uwsgi |
-| **v2ray** | 5.14.1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
+| **v2ray** | 5.15.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.16 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.16 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.16 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
