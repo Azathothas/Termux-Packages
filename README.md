@@ -397,7 +397,7 @@
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.18.7 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.18.7-1 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.34 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.34 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -2356,7 +2356,7 @@
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0 | The frontend for libtwolame | https://www.twolame.org/ |
 | **typst** | 0.11.0 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
-| **typst-lsp** | 0.12.1 | Language server for Typst | https://github.com/nvarner/typst-lsp |
+| **typst-lsp** | 0.13.0 | Language server for Typst | https://github.com/nvarner/typst-lsp |
 | **uchardet** | 0.0.8 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **uftrace** | 0.15.2 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
