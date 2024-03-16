@@ -393,7 +393,7 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.3.0 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.0.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 12.78 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 12.79 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -462,7 +462,7 @@
 | **fte** | 20110708-1 | A free text editor for developers | http://fte.sourceforge.net/ |
 | **fwknop** | 2.6.10-5 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.10-5 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
-| **fx** | 32.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
+| **fx** | 33.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.48.0 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.78.1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
@@ -1559,7 +1559,7 @@
 | **matplotlib** | 3.8.3 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-2 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
-| **mautrix-whatsapp** | 0.10.5 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
+| **mautrix-whatsapp** | 0.10.6 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.6 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13 | Mazes in your terminal | https://github.com/Canop/mazter |
@@ -1610,7 +1610,7 @@
 | **miniflux** | 2.1.0 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
 | **minio** | 2024.03.15.01.07.19 | Multi-Cloud Object Storage | https://min.io/ |
-| **miniserve** | 0.26.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
+| **miniserve** | 0.27.1 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.6 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
 | **miniupnpc-static** | 2.2.6 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
