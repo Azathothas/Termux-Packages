@@ -341,9 +341,9 @@
 | **dotconf-static** | 1.3 | Static libraries for dotconf | https://github.com/williamh/dotconf |
 | **double-conversion** | 3.3.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
 | **doxygen** | 1.10.0 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
-| **dpkg** | 1.22.1-1 | Debian package management system | https://packages.debian.org/dpkg |
-| **dpkg-perl** | 1.22.1-1 | Perl modules for dpkg | https://packages.debian.org/dpkg |
-| **dpkg-scanpackages** | 1.22.1-1 | Creates Packages index files | https://packages.debian.org/dpkg |
+| **dpkg** | 1.22.2 | Debian package management system | https://packages.debian.org/dpkg |
+| **dpkg-perl** | 1.22.2 | Perl modules for dpkg | https://packages.debian.org/dpkg |
+| **dpkg-scanpackages** | 1.22.2 | Creates Packages index files | https://packages.debian.org/dpkg |
 | **dropbear** | 2022.83-1 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | **dtach** | 0.9 | Emulates the detach feature of screen | http://dtach.sourceforge.net/ |
 | **dtc** | 1.7.0 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
@@ -374,7 +374,7 @@
 | **elinks** | 0.17.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.16.2 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
-| **elvish** | 0.19.2-2 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
+| **elvish** | 0.20.1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emscripten** | 3.1.56 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 3.1.56 | Emscripten-compatible Binaryen | https://emscripten.org |
@@ -392,7 +392,7 @@
 | **et** | 6.2.8-3 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.3.0 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
-| **exhale** | 1.2.0.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
+| **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 12.79 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
@@ -415,8 +415,8 @@
 | **fdupes** | 2.3.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.3.0 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.10.2 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
-| **fetchmail** | 6.4.37 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
-| **fetchmailconf** | 6.4.37 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
+| **fetchmail** | 6.4.38 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
+| **fetchmailconf** | 6.4.38 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
 | **ffmpeg** | 6.1.1-3 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffsend** | 0.2.76 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
@@ -456,14 +456,14 @@
 | **frobtads** | 2.0-3 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frogcomposband** | 7.1.salmiak-1 | Open world Angband variant with many additions | https://github.com/sulkasormi/frogcomposband/ |
 | **frotz** | 2.54-1 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
-| **frp** | 0.54.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
+| **frp** | 0.55.1 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
 | **fselect** | 0.8.5 | Find files with SQL-like queries | https://github.com/jhspetersson/fselect |
 | **fsmon** | 1.8.5 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fte** | 20110708-1 | A free text editor for developers | http://fte.sourceforge.net/ |
 | **fwknop** | 2.6.10-5 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.10-5 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 33.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.48.0 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
+| **fzf** | 0.48.1 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.78.1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.3-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -530,7 +530,7 @@
 | **glib** | 2.78.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.78.4 | Programs for the GLib library | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.78.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
-| **glib-networking** | 2.78.1 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
+| **glib-networking** | 2.80.0 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 0.9.9.8 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
 | **global** | 6.6.12 | Source code search and browse tools | https://www.gnu.org/software/global/ |
@@ -658,9 +658,9 @@
 | **htslib** | 1.19.1 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
 | **htslib-static** | 1.19.1 | Static libraries for htslib | https://github.com/samtools/htslib |
 | **httping** | 2.9 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
-| **httrack** | 3.49.4 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
-| **httrack-data** | 3.49.4 | Platform-independent data for httrack | http://www.httrack.com |
-| **httrack-static** | 3.49.4 | Static libraries for httrack | http://www.httrack.com |
+| **httrack** | 3.49.5 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
+| **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
+| **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
 | **hugo** | 0.124.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
@@ -706,7 +706,7 @@
 | **ipfs** | 0.27.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.8.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
-| **ipv6calc** | 4.1.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
+| **ipv6calc** | 4.2.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
 | **ired** | 0.6-2 | Minimalist hexadecimal editor | https://github.com/radare/ired |
@@ -1997,7 +1997,7 @@
 | **qpdf-static** | 11.9.0 | Static libraries for qpdf | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-3 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **quick-lint-js** | 3.2.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
-| **quickjs** | 1:20210327-2 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
+| **quickjs** | 1:20240113 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.67 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **racket** | 8.12 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 8.12 | Static libraries for racket | https://racket-lang.org |
@@ -2139,7 +2139,7 @@
 | **shiori** | 1.5.5-2 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
-| **signify** | 31 | Lightweight cryptographic signing and verifying tool | https://github.com/aperezdc/signify |
+| **signify** | 32 | Lightweight cryptographic signing and verifying tool | https://github.com/aperezdc/signify |
 | **silicon** | 0.5.2 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-5 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simh** | 1:3.12.4 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
@@ -2232,7 +2232,7 @@
 | **sun** | 1.0.0-3 | A very simple note taking cli app | https://stand-up-notes.org |
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 2.0.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
-| **swaks** | 20201014.0-1 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
+| **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 9.1.11 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 5.10 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 5.10 | Swift runtime libraries for Android armv7 | https://swift.org/ |
@@ -2241,7 +2241,7 @@
 | **swift-sdk-arm** | 5.10 | Swift SDK for Android armv7 | https://swift.org/ |
 | **swift-sdk-x86-64** | 5.10 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 110.0.5481.177 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
-| **swig** | 4.1.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
+| **swig** | 4.2.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.8.1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.8.1 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
 | **syncthing** | 1.27.3 | Decentralized file synchronization | https://syncthing.net/ |
