@@ -1100,8 +1100,8 @@
 | **libmesode-static** | 0.10.1-4 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-2 | A thread-safe hash library which provides a uniform interface to hash algorithms | http://mhash.sourceforge.net/ |
 | **libmhash-static** | 0.9.9.9-2 | Static libraries for libmhash | http://mhash.sourceforge.net/ |
-| **libmicrohttpd** | 0.9.77 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
-| **libmicrohttpd-static** | 0.9.77 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd** | 1.0.1 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
+| **libmicrohttpd-static** | 1.0.1 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
 | **libminizip** | 1.3.1 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
 | **libminizip-ng** | 4.0.5 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
 | **libminizip-static** | 1.3.1 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
@@ -1345,7 +1345,7 @@
 | **libtommath-static** | 1.2.1 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.4.7-1 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
 | **libtorrent** | 0.13.8-3 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
-| **libtorrent-rasterbar** | 2.0.9-1 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
+| **libtorrent-rasterbar** | 2.0.10 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
 | **libtorrent-static** | 0.13.8-3 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.9.6 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.9.6 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
@@ -1594,9 +1594,9 @@
 | **memcached** | 1.6.24 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 23.3.5 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 23.3.5 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 23.3.5 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 24.0.3 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 24.0.3 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 24.0.3 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20230406 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.13 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -1765,7 +1765,7 @@
 | **opencl-clhpp** | 2023.12.14 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2023.12.14 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
-| **opencolorio** | 2.3.1 | A color management framework for visual effects and animation | https://opencolorio.org |
+| **opencolorio** | 2.3.2 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **opencolorio-static** | 2.1.2 | Static libraries for opencolorio | https://opencolorio.org |
 | **opencv** | 4.9.0 | Open Source Computer Vision Library | https://opencv.org/ |
 | **opencv-python** | 4.9.0 | Python bindings for OpenCV | https://opencv.org/ |
@@ -1797,7 +1797,7 @@
 | **opusfile** | 0.12-3 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
 | **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
-| **osmesa** | 23.3.5 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
+| **osmesa** | 24.0.3 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
 | **osmium-tool** | 1.16.0-1 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
 | **osslsigncode** | 2.8 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
@@ -1807,9 +1807,9 @@
 | **p7zip** | 17.05-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 6.0.2-13 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-3 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
-| **panda3d** | 1.10.13-1 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
-| **panda3d-samples** | 1.10.13-1 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
-| **panda3d-static** | 1.10.13-1 | Static libraries for panda3d | https://www.panda3d.org/ |
+| **panda3d** | 1.10.14 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
+| **panda3d-samples** | 1.10.14 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
+| **panda3d-static** | 1.10.14 | Static libraries for panda3d | https://www.panda3d.org/ |
 | **pango** | 1.50.14 | Library for laying out and rendering text | https://www.pango.org/ |
 | **paperkey** | 1.6 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 0.8.1-3 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
@@ -2263,7 +2263,7 @@
 | **tealdeer** | 1.6.1 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |
 | **teckit** | 2.5.12 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.12 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
-| **tectonic** | 0.14.1-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
+| **tectonic** | 0.15.0 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20231228 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
 | **teleport-tsh** | 15.1.6 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
@@ -2327,7 +2327,7 @@
 | **torsocks-static** | 2.4.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
 | **toxic** | 0.14.1 | A command line client for Tox | https://github.com/JFreegman/toxic |
 | **tracepath** | 20240117 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
-| **traceroute** | 2.1.3 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
+| **traceroute** | 2.1.5 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.5 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.1.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
@@ -2447,7 +2447,7 @@
 | **wasmedge** | 0.13.5 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **watchexec** | 1.22.3 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.7.0 | WavPack command-line programs | https://www.wavpack.com/ |
-| **waypipe** | 0.8.6 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
+| **waypipe** | 0.9.0 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-5 | Capable calculator | http://w-calc.sourceforge.net |
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **websocat** | 1.12.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
