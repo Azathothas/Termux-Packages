@@ -83,8 +83,8 @@
 | **atomicparsley** | 1:20221229.172126.d813aa6 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.5.0 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
-| **attr** | 2.5.1 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
-| **attr-static** | 2.5.1 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
+| **attr** | 2.5.2 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
+| **attr-static** | 2.5.2 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
 | **atuin** | 18.1.0 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-2 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-2 | Static libraries for aubio | https://aubio.org/ |
@@ -139,15 +139,15 @@
 | **blogc** | 0.20.1 | A blog compiler | https://blogc.rgm.io/ |
 | **bmon** | 4.0-3 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
 | **boinc** | 7.24.3 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
-| **boinctui** | 2.7.0-2 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
+| **boinctui** | 2.7.1 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
 | **bombadillo** | 2.4.0-2 | A non-web client for the terminal, supporting Gopher, Gemini and much more | https://bombadillo.colorfield.space/ |
 | **boost** | 1.83.0-1 | Free peer-reviewed portable C++ source libraries | https://boost.org |
 | **boost-headers** | 1.83.0-1 | Boost header files | https://boost.org |
 | **boost-static** | 1.83.0-1 | Static libraries for boost | https://boost.org |
 | **bore** | 0.5.0 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
 | **borgbackup** | 1.2.7 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
-| **botan3** | 3.2.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
-| **botan3-static** | 3.2.0 | Static libraries for botan3 | https://botan.randombit.net/ |
+| **botan3** | 3.3.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
+| **botan3-static** | 3.3.0 | Static libraries for botan3 | https://botan.randombit.net/ |
 | **boxes** | 2.3.0 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
 | **brainfuck** | 1:2.7.3 | Brainfuck Interpreter written in C | https://github.com/fabianishere/brainfuck |
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
@@ -164,7 +164,7 @@
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.36.1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.4.2 | Binary file editor based on vi | http://bvi.sourceforge.net/ |
-| **byacc** | 20230521 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
+| **byacc** | 20240109 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 5.133 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | http://byobu.co/ |
 | **bzip2** | 1.0.8-6 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.27.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
@@ -297,7 +297,7 @@
 | **dbus-static** | 1.15.6-1 | Static libraries for dbus | https://dbus.freedesktop.org |
 | **dcmtk** | 3.6.7-4 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
 | **dcraw** | 9.28.0-6 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
-| **ddrescue** | 1.27 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
+| **ddrescue** | 1.28 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
 | **debianutils** | 5.17 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.134 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **desed** | 1.2.1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
@@ -358,12 +358,12 @@
 | **dust** | 0.9.0 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
 | **dvdauthor** | 0.7.2-2 | Generates a DVD-Video movie from a valid MPEG-2 stream | https://dvdauthor.sourceforge.net/ |
 | **dvtm** | 0.15-3 | Terminal tiling window manager | https://github.com/martanne/dvtm |
-| **dwarves** | 1.25 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
+| **dwarves** | 1.26 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
 | **dx** | 1:1.16-7 | Command which takes in Java class files and converts them to format executable by Dalvik VM | http://developer.android.com/tools/help/index.html |
 | **e2fsprogs** | 1.47.0-1 | EXT 2/3/4 filesystem utilities | https://e2fsprogs.sourceforge.net |
 | **e2tools** | 0.1.0 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
-| **ed** | 1.19 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
+| **ed** | 1.20.1 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
 | **edbrowse** | 3.8.9 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **eigen** | 3.4.0 | Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms | http://eigen.tuxfamily.org |
 | **eja** | 13.11.25-1 | eja micro web server | https://github.com/eja/eja |
@@ -1433,11 +1433,11 @@
 | **libxcursor-static** | 1.2.1-1 | Static libraries for libxcursor | https://xorg.freedesktop.org/ |
 | **libxdg-basedir** | 1.2.3 | An implementation of the XDG Base Directory specifications | https://github.com/devnev/libxdg-basedir |
 | **libxdg-basedir-static** | 1.2.3 | Static libraries for libxdg-basedir | https://github.com/devnev/libxdg-basedir |
-| **libxdmcp** | 1.1.4 | X11 Display Manager Control Protocol library | https://xorg.freedesktop.org/ |
-| **libxdmcp-static** | 1.1.4 | Static libraries for libxdmcp | https://xorg.freedesktop.org/ |
+| **libxdmcp** | 1.1.5 | X11 Display Manager Control Protocol library | https://xorg.freedesktop.org/ |
+| **libxdmcp-static** | 1.1.5 | Static libraries for libxdmcp | https://xorg.freedesktop.org/ |
 | **libxdrfile** | 1.1.4 | Library for reading and writing xtc, edr and trr files | https://userguide.mdanalysis.org/stable/formats/reference/xtc.html |
-| **libxext** | 1.3.5 | X11 miscellaneous extensions library | https://xorg.freedesktop.org/ |
-| **libxext-static** | 1.3.5 | Static libraries for libxext | https://xorg.freedesktop.org/ |
+| **libxext** | 1.3.6 | X11 miscellaneous extensions library | https://xorg.freedesktop.org/ |
+| **libxext-static** | 1.3.6 | Static libraries for libxext | https://xorg.freedesktop.org/ |
 | **libxfixes** | 6.0.1 | X11 miscellaneous 'fixes' extension library | https://xorg.freedesktop.org/ |
 | **libxfixes-static** | 6.0.1 | Static libraries for libxfixes | https://xorg.freedesktop.org/ |
 | **libxft** | 2.3.8 | FreeType-based font drawing library for X | https://xorg.freedesktop.org/ |
@@ -2254,7 +2254,7 @@
 | **tasksh** | 1.2.0-8 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
 | **taskwarrior** | 2.6.2-3 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-1 | Tiny C Compiler | https://bellard.org/tcc/ |
-| **tcl** | 8.6.13 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
+| **tcl** | 8.6.14 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 1.21 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.11 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.10 | Tools for TDB | https://tdb.samba.org/ |
