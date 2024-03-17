@@ -77,7 +77,7 @@
 | **at** | 3.2.5 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.50.2 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20221229.172126.d813aa6 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
-| **atomvm** | 1:0.5.0 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
+| **atomvm** | 1:0.6.0 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.2 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.2 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
@@ -255,7 +255,7 @@
 | **cppi** | 1.18-1 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://www.gnu.org/software/cppi/ |
 | **cpufetch** | 1.05 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
-| **crawl** | 0.30.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
+| **crawl** | 0.31.0 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
 | **croc** | 9.6.14 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.1 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/lise-henry |
@@ -935,8 +935,8 @@
 | **libfdisk** | 2.39.3-4 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **libfdk-aac** | 2.0.3 | Fraunhofer FDK AAC Codec Library | https://github.com/mstorsjo/fdk-aac |
 | **libfdk-aac-static** | 2.0.3 | Static libraries for libfdk-aac | https://github.com/mstorsjo/fdk-aac |
-| **libffi** | 3.4.4-1 | Library providing a portable, high level programming interface to various calling conventions | https://sourceware.org/libffi/ |
-| **libffi-static** | 3.4.4-1 | Static libraries for libffi | https://sourceware.org/libffi/ |
+| **libffi** | 3.4.6 | Library providing a portable, high level programming interface to various calling conventions | https://sourceware.org/libffi/ |
+| **libffi-static** | 3.4.6 | Static libraries for libffi | https://sourceware.org/libffi/ |
 | **libfinalcut** | 0.9.0 | A C++ class library and widget toolkit for creating a text-based user interface | https://github.com/gansm/finalcut |
 | **libfinalcut-static** | 0.9.0 | Static libraries for libfinalcut | https://github.com/gansm/finalcut |
 | **libfixposix** | 0.5.1 | Thin wrapper over POSIX syscalls | https://github.com/sionescu/libfixposix/ |
