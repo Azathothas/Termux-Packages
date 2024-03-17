@@ -479,14 +479,14 @@
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
 | **gdal** | 3.8.4-1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdal-static** | 3.5.3 | Static libraries for gdal | https://gdal.org |
-| **gdb** | 14.1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
+| **gdb** | 14.2 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.23 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.23 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
-| **gdbserver** | 14.1 | The gdbserver program | https://www.gnu.org/software/gdb/ |
+| **gdbserver** | 14.2 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.42.10-2 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
 | **gdu** | 5.27.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
-| **geckodriver** | 0.33.0 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
+| **geckodriver** | 0.34.0 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
 | **gecode-static** | 6.2.0 | Static libraries for gecode | https://github.com/Gecode/gecode |
 | **gegl** | 0.4.48 | Data flow based image processing framework | https://gegl.org/ |
@@ -511,7 +511,7 @@
 | **giflib** | 5.2.2 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
 | **giflib-static** | 5.2.2 | Static libraries for giflib | https://giflib.sourceforge.net/ |
 | **giflib-utils** | 5.2.2 | A set of utilities that comes with giflib package | https://giflib.sourceforge.net/ |
-| **gifsicle** | 1.94 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
+| **gifsicle** | 1.95 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
 | **gifski** | 1.14.4 | GIF encoder based on libimagequant | https://gif.ski/ |
 | **git** | 2.44.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
@@ -957,8 +957,8 @@
 | **libgc-static** | 8.2.6 | Static libraries for libgc | https://www.hboehm.info/gc/ |
 | **libgcrypt** | 1.10.3 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
 | **libgcrypt-static** | 1.10.3 | Static libraries for libgcrypt | https://www.gnu.org/software/libgcrypt/ |
-| **libgd** | 1:2.3.3-3 | GD is an open source code library for the dynamic creation of images by programmers | https://libgd.github.io/ |
-| **libgd-static** | 1:2.3.3-3 | Static libraries for libgd | https://libgd.github.io/ |
+| **libgd** | 1:2.3.3-4 | GD is an open source code library for the dynamic creation of images by programmers | https://libgd.github.io/ |
+| **libgd-static** | 1:2.3.3-4 | Static libraries for libgd | https://libgd.github.io/ |
 | **libgee** | 0.20.6 | A collection library providing GObject-based interfaces and classes for commonly used data structures | https://wiki.gnome.org/Projects/Libgee |
 | **libgee-static** | 0.20.6 | Static libraries for libgee | https://wiki.gnome.org/Projects/Libgee |
 | **libgeos** | 3.12.1 | Geometry Engine, C++ port of the Java Topology Suite | https://geos.osgeo.org/ |
@@ -980,8 +980,8 @@
 | **libgnustep-base** | 1.29.0-4 | A library of general-purpose, non-graphical Objective C objects | http://www.gnustep.org |
 | **libgnutls** | 3.8.3 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
 | **libgnutls-static** | 3.8.3 | Static libraries for libgnutls | https://www.gnutls.org/ |
-| **libgpg-error** | 1.47 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
-| **libgpg-error-static** | 1.47 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
+| **libgpg-error** | 1.48 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
+| **libgpg-error-static** | 1.48 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
 | **libgrpc** | 1.62.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.0 | GNU SASL library | https://www.gnu.org/software/gsasl |
@@ -1401,8 +1401,8 @@
 | **libvpx-static** | 1:1.14.0-1 | Static libraries for libvpx | https://www.webmproject.org |
 | **libvterm** | 1:0.3.2 | Terminal emulator library | https://www.leonerd.org.uk/code/libvterm/ |
 | **libvxl** | 3.5.0-1 | A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding | https://vxl.github.io |
-| **libwavpack** | 5.6.0 | A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode | https://www.wavpack.com/ |
-| **libwavpack-static** | 5.6.0 | Static libraries for libwavpack | https://www.wavpack.com/ |
+| **libwavpack** | 5.7.0 | A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode | https://www.wavpack.com/ |
+| **libwavpack-static** | 5.7.0 | Static libraries for libwavpack | https://www.wavpack.com/ |
 | **libwayland** | 1.22.0-1 | Wayland protocol library | https://wayland.freedesktop.org/ |
 | **libwayland-cross-scanner** | 1.22.0-1 | wayland-scanner for host (NOT for Termux) | https://wayland.freedesktop.org/ |
 | **libwayland-protocols** | 1.31-1 | Wayland protocols library | https://wayland.freedesktop.org/ |
@@ -1429,8 +1429,8 @@
 | **libxcb** | 1.16.1 | X11 client-side library | https://xcb.freedesktop.org/ |
 | **libxcb-static** | 1.16.1 | Static libraries for libxcb | https://xcb.freedesktop.org/ |
 | **libxcfun** | 2.1.1 | A library of exchange-correlation functionals with arbitrary-order derivatives | https://github.com/dftlibs/xcfun |
-| **libxcursor** | 1.2.1-1 | X cursor management library | https://xorg.freedesktop.org/ |
-| **libxcursor-static** | 1.2.1-1 | Static libraries for libxcursor | https://xorg.freedesktop.org/ |
+| **libxcursor** | 1.2.2 | X cursor management library | https://xorg.freedesktop.org/ |
+| **libxcursor-static** | 1.2.2 | Static libraries for libxcursor | https://xorg.freedesktop.org/ |
 | **libxdg-basedir** | 1.2.3 | An implementation of the XDG Base Directory specifications | https://github.com/devnev/libxdg-basedir |
 | **libxdg-basedir-static** | 1.2.3 | Static libraries for libxdg-basedir | https://github.com/devnev/libxdg-basedir |
 | **libxdmcp** | 1.1.5 | X11 Display Manager Control Protocol library | https://xorg.freedesktop.org/ |
@@ -1485,7 +1485,7 @@
 | **libzmq-static** | 4.3.5 | Static libraries for libzmq | https://zeromq.org/ |
 | **libzopfli** | 1.0.3-3 | New zlib compatible compressor library | https://github.com/google/zopfli |
 | **libzthread-static** | 2.3.2-1 | Static libraries for libzthread | http://zthread.sourceforge.net/ |
-| **libzxing-cpp** | 2.1.0 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/nu-book/zxing-cpp |
+| **libzxing-cpp** | 2.2.1 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/nu-book/zxing-cpp |
 | **lighttpd** | 1.4.75 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lighttpd-static** | 1.4.70-2 | Static libraries for lighttpd | https://www.lighttpd.net |
 | **lilv** | 0.24.24 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
@@ -1528,7 +1528,7 @@
 | **lua53** | 5.3.6 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua54** | 5.4.6-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **luajit** | 1:2.1.1710088188 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
-| **luarocks** | 3.9.2 | Deployment and management system for Lua modules | https://luarocks.org/ |
+| **luarocks** | 3.11.0 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.48.0-2-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **lux** | 0.23.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lv2** | 1.18.10-3 | A plugin standard for audio systems | https://lv2plug.in/ |
@@ -1540,10 +1540,10 @@
 | **lzlib-static** | 1.14 | Static libraries for lzlib | http://www.nongnu.org/lzip/lzlib.html |
 | **lzop** | 1.04-1 | File compressor using lzo lib. | https://www.lzop.org |
 | **m4** | 1.4.19-4 | Traditional Unix macro processor | https://www.gnu.org/software/m4/m4.html |
-| **magic-wormhole-rs** | 0.6.0 | Rust implementation of Magic Wormhole, with new features and enhancements | https://github.com/magic-wormhole/magic-wormhole.rs |
+| **magic-wormhole-rs** | 0.6.1 | Rust implementation of Magic Wormhole, with new features and enhancements | https://github.com/magic-wormhole/magic-wormhole.rs |
 | **mailsync** | 5.2.7-1 | A way of synchronizing a collection of mailboxes | http://mailsync.sourceforge.net/ |
-| **mailutils** | 3.16 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
-| **mailutils-static** | 3.16 | Static libraries for mailutils | https://mailutils.org/ |
+| **mailutils** | 3.17 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
+| **mailutils-static** | 3.17 | Static libraries for mailutils | https://mailutils.org/ |
 | **make** | 4.4.1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **make-guile** | 4.4.1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **man** | 1.14.6-1 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
@@ -1607,7 +1607,7 @@
 | **minesweeper** | 0.3.1-3 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
 | **minicom** | 2.9 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
-| **miniflux** | 2.1.0 | A minimalist and opinionated feed reader | https://miniflux.app/ |
+| **miniflux** | 2.1.1 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
 | **minio** | 2024.03.15.01.07.19 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.27.1 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
@@ -1623,7 +1623,7 @@
 | **mlir** | 17.0.6 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 2.30.0 | mold: A Modern Linker | https://github.com/rui314/mold |
-| **monero** | 0.18.3.1-2 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
+| **monero** | 0.18.3.3 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.12.0.199 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
 | **mono-libs** | 6.12.0.199 | Platform-independent libraries for mono | https://www.mono-project.com/ |
 | **mono-static** | 6.12.0.199 | Static libraries for mono | https://www.mono-project.com/ |
@@ -2446,7 +2446,7 @@
 | **wasi-libc** | 20 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasmedge** | 0.13.5 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **watchexec** | 1.22.3 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
-| **wavpack** | 5.6.0 | WavPack command-line programs | https://www.wavpack.com/ |
+| **wavpack** | 5.7.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.8.6 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-5 | Capable calculator | http://w-calc.sourceforge.net |
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
