@@ -1351,8 +1351,8 @@
 | **libtpms-static** | 0.9.6 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.3-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
 | **libtree-ldd** | 3.1.1-1 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
-| **libtreesitter** | 0.22.1 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
-| **libtreesitter-static** | 0.22.1 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter** | 0.22.2 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter-static** | 0.22.2 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
 | **libtsduck** | 3.36.3528 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
 | **libtsduck-static** | 3.36.3528 | Static libraries for libtsduck | https://tsduck.io/ |
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
@@ -2136,7 +2136,7 @@
 | **shellharden** | 4.3.0 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
 | **shfmt** | 3.8.0 | A shell parser and formatter | https://github.com/mvdan/sh |
-| **shiori** | 1.5.5-2 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
+| **shiori** | 1.6.0 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
 | **signify** | 32 | Lightweight cryptographic signing and verifying tool | https://github.com/aperezdc/signify |
@@ -2266,7 +2266,7 @@
 | **tectonic** | 0.15.0 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20231228 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 15.1.6 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 15.1.7 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.5.1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
