@@ -75,7 +75,7 @@
 | **astra-sm** | 2019.06.19 | Software for digital TV broadcasting | https://gitlab.com/berdyansk/astra-sm |
 | **asymptote** | 2.86 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.50.2 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
+| **at-spi2-core** | 2.52.0 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20221229.172126.d813aa6 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.0 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
@@ -206,7 +206,7 @@
 | **chafa-static** | 1.14.0 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.47.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.47.2 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.3.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.3.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.4 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -1173,8 +1173,8 @@
 | **libopencore-amr** | 0.1.6 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr |
 | **libopencore-amr-static** | 0.1.6 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr |
 | **libopenfec** | 1.4.2.9 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
-| **libopenmpt** | 0.7.4 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
-| **libopenmpt-static** | 0.7.4 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt** | 0.7.5 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
+| **libopenmpt-static** | 0.7.5 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
 | **libopus** | 1.4 | Reference implementation of the Opus codec | https://www.opus-codec.org/ |
 | **libopus-static** | 1.4 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
@@ -1242,7 +1242,7 @@
 | **librnnoise-static** | 2021.03.12 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
 | **librocksdb** | 8.11.3 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
 | **librocksdb-static** | 8.11.3 | Static libraries for librocksdb | https://rocksdb.org/ |
-| **librsvg** | 2.57.2 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
+| **librsvg** | 2.57.3 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-1 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-1 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
