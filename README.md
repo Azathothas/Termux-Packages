@@ -1572,7 +1572,7 @@
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
 | **mdbook-epub** | 0.4.37 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
 | **mdbook-graphviz** | 0.1.6 | mdbook preprocessor to add graphviz support | https://github.com/dylanowen/mdbook-graphviz |
-| **mdbook-katex** | 0.6.0 | A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time | https://github.com/lzanini/mdbook-katex |
+| **mdbook-katex** | 0.7.0 | A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time | https://github.com/lzanini/mdbook-katex |
 | **mdbook-linkcheck** | 0.7.7 | A backend for mdbook which will check your links for you | https://michael-f-bryan.github.io/mdbook-linkcheck/ |
 | **mdbook-mermaid** | 0.13.0 | A preprocessor for mdbook to add mermaid support | https://github.com/badboy/mdbook-mermaid |
 | **mdbook-open-on-gh** | 2.4.2 | A preprocessor for mdbook to add a open-on-github link on every page | https://github.com/badboy/mdbook-open-on-gh |
