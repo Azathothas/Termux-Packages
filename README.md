@@ -34,7 +34,7 @@
 | **alist** | 3.32.0 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **amber** | 0.6.0 | A code search / replace tool | https://github.com/dalance/amber |
-| **amfora** | 1.10.0 | Aims to be the best looking Gemini client | https://github.com/makeworld-the-better-one/amfora |
+| **amfora** | 1.10.0-1 | Aims to be the best looking Gemini client | https://github.com/makeworld-the-better-one/amfora |
 | **anacron** | 2.3 | A periodic command scheduler | http://anacron.sourceforge.net/ |
 | **android-tools** | 34.0.4-4 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
@@ -2081,7 +2081,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.76.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240311 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240318 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.76.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.76.0 | Rust source code files | https://www.rust-lang.org/ |
