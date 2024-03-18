@@ -34,7 +34,7 @@
 | **alist** | 3.32.0 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **amber** | 0.6.0 | A code search / replace tool | https://github.com/dalance/amber |
-| **amfora** | 1.9.2-3 | Aims to be the best looking Gemini client | https://github.com/makeworld-the-better-one/amfora |
+| **amfora** | 1.10.0 | Aims to be the best looking Gemini client | https://github.com/makeworld-the-better-one/amfora |
 | **anacron** | 2.3 | A periodic command scheduler | http://anacron.sourceforge.net/ |
 | **android-tools** | 34.0.4-4 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
@@ -425,8 +425,8 @@
 | **figlet** | 2.2.5-2 | Program for making large letters out of ordinary text | http://www.figlet.org/ |
 | **file** | 5.45 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
 | **file-static** | 5.45 | Static libraries for file | https://darwinsys.com/file/ |
-| **finch** | 2.14.12-2 | Text-based multi-protocol instant messaging client | https://pidgin.im/ |
-| **finch-static** | 2.14.12-2 | Static libraries for finch | https://pidgin.im/ |
+| **finch** | 2.14.13 | Text-based multi-protocol instant messaging client | https://pidgin.im/ |
+| **finch-static** | 2.14.13 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 9.0.4 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.9.0-2 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
 | **fish** | 3.7.0 | The user-friendly command line shell | https://fishshell.com/ |
@@ -1302,9 +1302,9 @@
 | **libspice-protocol** | 0.14.4 | SPICE protocol headers | https://www.spice-space.org/ |
 | **libspice-server** | 0.15.1-1 | Implements the server side of the SPICE protocol | https://www.spice-space.org/ |
 | **libspice-server-static** | 0.15.1-1 | Static libraries for libspice-server | https://www.spice-space.org/ |
-| **libsqlite** | 3.44.2 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
-| **libsqlite-static** | 3.44.2 | Static libraries for libsqlite | https://www.sqlite.org |
-| **libsqlite-tcl** | 3.44.2 | tcl bindings for SQLite | https://www.sqlite.org |
+| **libsqlite** | 3.45.2 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
+| **libsqlite-static** | 3.45.2 | Static libraries for libsqlite | https://www.sqlite.org |
+| **libsqlite-tcl** | 3.45.2 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.3 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.10.6 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.0 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -1753,7 +1753,7 @@
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.4 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-7 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **onefetch** | 2.19.0 | A command-line Git information tool written in Rust | https://github.com/o2sh/onefetch |
+| **onefetch** | 2.20.0 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **oniguruma** | 6.9.9 | Regular expressions library | https://github.com/kkos/oniguruma |
 | **oniguruma-static** | 6.9.9 | Static libraries for oniguruma | https://github.com/kkos/oniguruma |
 | **oorexx** | 4.2.0-3 | Open Object Rexx | https://www.oorexx.org/ |
@@ -2184,7 +2184,7 @@
 | **spirv-tools** | 1.3.261.1 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.5.6 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.5.6 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
-| **sqlite** | 3.44.2 | Command line shell for SQLite | https://www.sqlite.org |
+| **sqlite** | 3.45.2 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.0 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.0 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 1.9.9.1430 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
@@ -2314,7 +2314,7 @@
 | **tinyproxy** | 1.11.1-1 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-1 | Very small scheme implementation | http://tinyscheme.sourceforge.net/home.html |
 | **tizonia** | 0.22.0-14 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
-| **tk** | 8.6.13 | A windowing toolkit for use with tcl | http://tcl.sourceforge.net/ |
+| **tk** | 8.6.14 | A windowing toolkit for use with tcl | https://tcl.sourceforge.net/ |
 | **tmate** | 2.4.0-2 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
 | **tmux** | 3.3a-p20230428-0 | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-2 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
@@ -2441,7 +2441,7 @@
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
 | **wabt** | 1.0.34 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 1.89.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 1.90.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.7.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 20 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasmedge** | 0.13.5 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
