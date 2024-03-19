@@ -138,7 +138,7 @@
 | **blk-utils** | 2.39.3-4 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
 | **blogc** | 0.20.1 | A blog compiler | https://blogc.rgm.io/ |
 | **bmon** | 4.0-3 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
-| **boinc** | 7.24.3 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
+| **boinc** | 8.0.0 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
 | **boinctui** | 2.7.1 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
 | **bombadillo** | 2.4.0-2 | A non-web client for the terminal, supporting Gopher, Gemini and much more | https://bombadillo.colorfield.space/ |
 | **boost** | 1.83.0-1 | Free peer-reviewed portable C++ source libraries | https://boost.org |
