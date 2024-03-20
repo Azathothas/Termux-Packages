@@ -2051,7 +2051,7 @@
 | **rizin** | 0.7.2 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.46.1 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
 | **rnr** | 0.4.2 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
-| **robin-map** | 1.2.1 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
+| **robin-map** | 1.2.2 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
 | **robotfindskitten** | 2022.05.21 | A very fun adventure game for robots and humans | https://github.com/noncombatant/robotfindskitten |
 | **root-repo** | 2.4-2 | Package repository containing programs for rooted devices | https://github.com/termux/termux-root-packages |
 | **roqet** | 0.9.33-1 | Standalone command line RDF query utility program | https://librdf.org/rasqal/ |
@@ -2262,7 +2262,7 @@
 | **tectonic** | 0.15.0 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20231228 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 15.1.8 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 15.1.9 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.5.1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
