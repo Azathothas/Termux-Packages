@@ -662,7 +662,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.124.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.124.1 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20210101 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1612,8 +1612,8 @@
 | **minio** | 2024.03.15.01.07.19 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.27.1 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
-| **miniupnpc** | 2.2.6 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
-| **miniupnpc-static** | 2.2.6 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
+| **miniupnpc** | 2.2.7 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
+| **miniupnpc-static** | 2.2.7 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.8.3 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.8.3 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
 | **mkbootimg** | 2022.11.09 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
@@ -2216,7 +2216,7 @@
 | **stone** | 2.4-2 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
 | **storj-uplink** | 1.96.6 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.3.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
-| **strace** | 6.7 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
+| **strace** | 6.8 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-2 | Records and splits streaming mp3 into tracks | http://streamripper.sourceforge.net/ |
 | **stunnel** | 5.72 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.72 | Static libraries for stunnel | https://www.stunnel.org/ |
