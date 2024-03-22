@@ -18,7 +18,7 @@
 | **acr** | 2.1.2 | A fully compatible autoconf replacement | https://github.com/radare/acr |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.17.0 | A pretty good email client | https://aerc-mail.org/ |
-| **agate** | 3.3.5 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
+| **agate** | 3.3.6 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
 | **age** | 1:1.1.1-2 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
@@ -1511,7 +1511,7 @@
 | **lr** | 1.6 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.651 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-0 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
-| **lsd** | 1.0.0 | Next gen ls command | https://github.com/lsd-rs/lsd |
+| **lsd** | 1.1.0 | Next gen ls command | https://github.com/lsd-rs/lsd |
 | **lsix** | 1.8.2 | Shows thumbnails in terminal using sixel graphics | https://github.com/hackerb9/lsix |
 | **lsof** | 4.99.3 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.3 | Static libraries for lsof | https://github.com/lsof-org/lsof |
