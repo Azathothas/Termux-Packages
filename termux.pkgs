@@ -1841,7 +1841,7 @@
 | **pdftk** | 3.3.3-1 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-4 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
-| **perl** | 5.38.2 | Capable, feature-rich programming language | https://www.perl.org/ |
+| **perl** | 5.38.2-1 | Capable, feature-rich programming language | https://www.perl.org/ |
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
 | **pet** | 0.7.0 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1 | Portable Forth in C | http://www.softsynth.com/pforth/ |
