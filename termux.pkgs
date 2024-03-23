@@ -226,7 +226,7 @@
 | **cloneit** | 20221024-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2024.3.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
-| **clvk** | 0.0.20240309.174732 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
+| **clvk** | 0.0.20240319.131235 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 3.29.0 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 3.29.0 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.0 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
@@ -932,7 +932,7 @@
 | **libexpat-static** | 2.6.2 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcft** | 3.1.6-1 | A small font loading and glyph rasterization library | https://codeberg.org/dnkl/fcft |
-| **libfcl** | 0.7.0-1 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
+| **libfcl** | 0.7.0-2 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
 | **libfdisk** | 2.39.3-4 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **libfdk-aac** | 2.0.3 | Fraunhofer FDK AAC Codec Library | https://github.com/mstorsjo/fdk-aac |
 | **libfdk-aac-static** | 2.0.3 | Static libraries for libfdk-aac | https://github.com/mstorsjo/fdk-aac |
@@ -1744,8 +1744,8 @@
 | **ocl-icd** | 2.3.2 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.28 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
 | **ocrad-static** | 0.28 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
-| **octomap** | 1.9.8-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
-| **octomap-static** | 1.9.8-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
+| **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
+| **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.4 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
