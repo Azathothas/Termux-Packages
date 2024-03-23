@@ -895,8 +895,8 @@
 | **libde265-static** | 1.0.15 | Static libraries for libde265 | https://github.com/strukturag/libde265 |
 | **libdebuginfod** | 0.190 | Library for debuginfod | https://sourceware.org/elfutils/ |
 | **libdecor** | 0.2.2 | Client-side decorations library for Wayland clients | https://gitlab.freedesktop.org/libdecor/libdecor |
-| **libdeflate** | 1.19 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
-| **libdeflate-static** | 1.19 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
+| **libdeflate** | 1.20 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
+| **libdeflate-static** | 1.20 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
 | **libdevil** | 1.8.0-5 | A cross-platform image library utilizing a simple syntax | http://openil.sourceforge.net/ |
 | **libdispatch** | 1:5.10 | The libdispatch project, for concurrency on multicore hardware | https://github.com/apple/swift-corelibs-libdispatch |
 | **libdmtx** | 0.7.7 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
