@@ -747,6 +747,7 @@
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 16.0.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2023.08.05-1 | Code editor heavily inspired by Vim | https://github.com/mawww/kakoune |
+| **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20240107 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.2.8 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-1 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
@@ -1624,9 +1625,9 @@
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 2.30.0 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.3.3 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
-| **mono** | 6.12.0.199 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
-| **mono-libs** | 6.12.0.199 | Platform-independent libraries for mono | https://www.mono-project.com/ |
-| **mono-static** | 6.12.0.199 | Static libraries for mono | https://www.mono-project.com/ |
+| **mono** | 6.12.0.199-1 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
+| **mono-libs** | 6.12.0.199-1 | Platform-independent libraries for mono | https://www.mono-project.com/ |
+| **mono-static** | 6.12.0.199-1 | Static libraries for mono | https://www.mono-project.com/ |
 | **monolith** | 2.8.1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
 | **moreutils** | 0.67 | A growing collection of the unix tools that nobody thought to write thirty years ago | http://joeyh.name/code/moreutils/ |
@@ -2250,7 +2251,7 @@
 | **ta-lib-static** | 0.4.0-1 | Static libraries for ta-lib | https://sourceforge.net/projects/ta-lib/ |
 | **taglib** | 1.13.1 | A Library for reading and editing the meta-data of several popular audio formats. | http://taglib.github.io/ |
 | **tar** | 1.35 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
-| **task-spooler** | 2.0.0 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
+| **task-spooler** | 1:1.0.3 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
 | **tasksh** | 1.2.0-8 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
 | **taskwarrior** | 2.6.2-3 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-1 | Tiny C Compiler | https://bellard.org/tcc/ |
