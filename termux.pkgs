@@ -511,7 +511,7 @@
 | **gifski** | 1.14.4 | GIF encoder based on libimagequant | https://gif.ski/ |
 | **git** | 2.44.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
-| **git-delta** | 0.17.0 | A syntax-highlighter for git and diff output | https://github.com/dandavison/delta |
+| **git-delta** | 0.17.0-1 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-gitk** | 2.44.0 | Git repository browser | https://git-scm.com/ |
 | **git-gui** | 2.44.0 | A graphical interface to Git | https://git-scm.com/ |
 | **git-lfs** | 3.5.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
@@ -2292,9 +2292,9 @@
 | **tex-gyre** | 2.501-1 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
 | **texinfo** | 7.1 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
 | **texlab** | 5.13.1 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
-| **texlive-bin** | 20230313-3 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
-| **texlive-bin-static** | 20230313-3 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
-| **texlive-installer** | 20230313 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
+| **texlive-bin** | 20240310 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
+| **texlive-bin-static** | 20240310 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
+| **texlive-installer** | 20240310 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
 | **tidy** | 5.9.14-next-0 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
 | **tidy-static** | 5.9.14-next-0 | Static libraries for tidy | http://www.html-tidy.org/ |
 | **tig** | 2.5.8 | Ncurses-based text-mode interface for git | https://jonas.github.io/tig/ |
