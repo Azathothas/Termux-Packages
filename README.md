@@ -2204,7 +2204,7 @@
 | **sssnake** | 0.3.2 | cli snake game that plays itself | https://github.com/AngelJumbo/sssnake |
 | **ssss** | 0.5.7 | Simple command-line implementation of Shamir's Secret Sharing Scheme | https://github.com/MrJoy/ssss |
 | **stag** | 1.0.0 | Streaming bar graphs. For stats and stuff. | https://github.com/seenaburns/stag |
-| **starship** | 1.18.0 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
+| **starship** | 1.18.1 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
 | **stdman** | 2022.07.30 | Formatted C++20 stdlib man pages (cppreference) | https://github.com/jeaye/stdman |
 | **stdoutisatty** | 1.0 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-6 | Embeds a message in a file by replacing some of the least significant bits | http://steghide.sourceforge.net/ |
@@ -2295,7 +2295,7 @@
 | **testssl.sh** | 3.0.8 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
 | **tex-gyre** | 2.501-1 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
 | **texinfo** | 7.1 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
-| **texlab** | 5.13.1 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
+| **texlab** | 5.14.0 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
 | **texlive-bin** | 20240310 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 20240310 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20240310 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
