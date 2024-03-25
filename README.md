@@ -402,7 +402,7 @@
 | **fakeroot** | 1.34 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.34 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.8.9 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.8.10 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **fclones** | 0.34.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
@@ -1417,8 +1417,8 @@
 | **libwslay** | 1.1.1 | WebSocket library | https://github.com/tatsuhiro-t/wslay |
 | **libwv** | 1.2.9-3 | A library which allows access to Microsoft Word files | http://wvware.sourceforge.net/ |
 | **libwv-static** | 1.2.9-3 | Static libraries for libwv | http://wvware.sourceforge.net/ |
-| **libx11** | 1.8.7 | X11 client-side library | https://xorg.freedesktop.org/ |
-| **libx11-static** | 1.8.7 | Static libraries for libx11 | https://xorg.freedesktop.org/ |
+| **libx11** | 1.8.8 | X11 client-side library | https://xorg.freedesktop.org/ |
+| **libx11-static** | 1.8.8 | Static libraries for libx11 | https://xorg.freedesktop.org/ |
 | **libx264** | 1:0.164.3101 | Library for encoding video streams into the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **libx264-static** | 1:0.164.3101 | Static libraries for libx264 | https://www.videolan.org/developers/x264.html |
 | **libx265** | 3.5-p20230222-0 | H.265/HEVC video stream encoder library | http://x265.org/ |
@@ -2082,7 +2082,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.76.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240318 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240325 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.76.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.76.0 | Rust source code files | https://www.rust-lang.org/ |
