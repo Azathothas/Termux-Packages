@@ -355,7 +355,7 @@
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.40.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0 | Simple REPL for Duktape | https://www.duktape.org/ |
-| **dust** | 0.9.0 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
+| **dust** | 1.0.0 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
 | **dvdauthor** | 0.7.2-2 | Generates a DVD-Video movie from a valid MPEG-2 stream | https://dvdauthor.sourceforge.net/ |
 | **dvtm** | 0.15-3 | Terminal tiling window manager | https://github.com/martanne/dvtm |
 | **dwarves** | 1.26 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
@@ -2038,7 +2038,7 @@
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-1 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
 | **redis** | 7.2.4 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
-| **remind** | 1:04.03.03 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
+| **remind** | 1:04.03.04 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-2 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
