@@ -2084,19 +2084,19 @@
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.76.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.76.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20240325 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.76.0 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.76.0 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.76.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.76.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.76.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.76.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasi** | 1.76.0 | Rust std for target wasm32-wasi | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.76.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.76.0 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.76.0 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-docs** | 1.76.0-1 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.76.0-1 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.76.0-1 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.76.0-1 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.76.0-1 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.76.0-1 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasi** | 1.76.0-1 | Rust std for target wasm32-wasi | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.76.0-1 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.76.0-1 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.76.0-1 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.1.1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
@@ -2238,12 +2238,12 @@
 | **svt-av1** | 2.0.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 9.1.11 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
-| **swift-runtime-aarch64** | 5.10 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
-| **swift-runtime-arm** | 5.10 | Swift runtime libraries for Android armv7 | https://swift.org/ |
-| **swift-runtime-x86-64** | 5.10 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
-| **swift-sdk-aarch64** | 5.10 | Swift SDK for Android AArch64 | https://swift.org/ |
-| **swift-sdk-arm** | 5.10 | Swift SDK for Android armv7 | https://swift.org/ |
-| **swift-sdk-x86-64** | 5.10 | Swift SDK for Android x86_64 | https://swift.org/ |
+| **swift-runtime-aarch64** | 5.10-1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
+| **swift-runtime-arm** | 5.10-1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
+| **swift-runtime-x86-64** | 5.10-1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
+| **swift-sdk-aarch64** | 5.10-1 | Swift SDK for Android AArch64 | https://swift.org/ |
+| **swift-sdk-arm** | 5.10-1 | Swift SDK for Android armv7 | https://swift.org/ |
+| **swift-sdk-x86-64** | 5.10-1 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 110.0.5481.177 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.2.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.8.1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
