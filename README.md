@@ -431,8 +431,8 @@
 | **findutils** | 4.9.0-2 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
 | **fish** | 3.7.1 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.4.3 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
-| **flatbuffers** | 24.3.7 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
-| **flatbuffers-static** | 24.3.7 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
+| **flatbuffers** | 24.3.25 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
+| **flatbuffers-static** | 24.3.25 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
 | **flex** | 2.6.4-3 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-3 | Static libraries for flex | https://github.com/westes/flex |
 | **fluidsynth** | 2.3.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
