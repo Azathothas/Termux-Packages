@@ -1971,7 +1971,7 @@
 | **python2** | 2.7.18-13 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-13 | Static libraries for python2 | http://python.org/ |
 | **pyunbound** | 1.19.3 | Python bindings for Unbound | https://unbound.net/ |
-| **pzstd** | 1.5.5-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
+| **pzstd** | 1.5.6 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.0.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
 | **qalc-static** | 5.0.0 | Static libraries for qalc | https://qalculate.github.io/ |
@@ -2541,8 +2541,8 @@
 | **zsh** | 5.9-3 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
-| **zstd** | 1.5.5-1 | Zstandard compression | https://github.com/facebook/zstd |
-| **zstd-static** | 1.5.5-1 | Static libraries for zstd | https://github.com/facebook/zstd |
+| **zstd** | 1.5.6 | Zstandard compression | https://github.com/facebook/zstd |
+| **zstd-static** | 1.5.6 | Static libraries for zstd | https://github.com/facebook/zstd |
 | **zsync** | 0.6.2-5 | A file transfer program to download files from remote web servers | http://zsync.moria.org.uk/ |
 | **zziplib** | 0.13.74 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
 | **zzuf** | 2022.05.29 | A transparent application input fuzzer | http://caca.zoy.org/wiki/zzuf |
