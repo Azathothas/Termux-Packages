@@ -602,7 +602,6 @@
 | **groff** | 1.23.0 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
 | **groovy** | 4.0.16-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
-| **grv** | 0.3.2-3 | A terminal based interface for viewing Git repositories | https://github.com/rgburke/grv |
 | **gsasl** | 2.2.0 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.52 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.7.1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
@@ -943,8 +942,8 @@
 | **libfdisk** | 2.39.3-4 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **libfdk-aac** | 2.0.3 | Fraunhofer FDK AAC Codec Library | https://github.com/mstorsjo/fdk-aac |
 | **libfdk-aac-static** | 2.0.3 | Static libraries for libfdk-aac | https://github.com/mstorsjo/fdk-aac |
-| **libffi** | 3.4.6 | Library providing a portable, high level programming interface to various calling conventions | https://sourceware.org/libffi/ |
-| **libffi-static** | 3.4.6 | Static libraries for libffi | https://sourceware.org/libffi/ |
+| **libffi** | 3.4.6-1 | Library providing a portable, high level programming interface to various calling conventions | https://sourceware.org/libffi/ |
+| **libffi-static** | 3.4.6-1 | Static libraries for libffi | https://sourceware.org/libffi/ |
 | **libfinalcut** | 0.9.0 | A C++ class library and widget toolkit for creating a text-based user interface | https://github.com/gansm/finalcut |
 | **libfinalcut-static** | 0.9.0 | Static libraries for libfinalcut | https://github.com/gansm/finalcut |
 | **libfixposix** | 0.5.1 | Thin wrapper over POSIX syscalls | https://github.com/sionescu/libfixposix/ |
@@ -1169,7 +1168,7 @@
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
 | **libobjc2** | 2.1-2 | The GNUstep Objective-C runtime | http://www.gnustep.org/ |
-| **libode** | 0.16.4 | An open source, high performance library for simulating rigid body dynamics | https://www.ode.org |
+| **libode** | 0.16.5 | An open source, high performance library for simulating rigid body dynamics | https://www.ode.org |
 | **libogg** | 1.3.5 | Library for working with the Ogg multimedia container format | https://xiph.org/ogg/ |
 | **libogg-static** | 1.3.5 | Static libraries for libogg | https://xiph.org/ogg/ |
 | **liboggz** | 1.1.1-5 | Command and library to inspect, tweak, edit and validate Ogg files | https://www.xiph.org/oggz/ |
@@ -1853,21 +1852,21 @@
 | **pet** | 0.7.0 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1 | Portable Forth in C | http://www.softsynth.com/pforth/ |
 | **photon-rss** | 2023.02.02-2 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
-| **php** | 8.2.8-2 | Server-side, HTML-embedded scripting language | https://php.net |
-| **php-apache** | 8.2.8-2 | Apache 2.0 Handler module for PHP | https://php.net |
-| **php-apache-ldap** | 8.2.8-2 | LDAP module for PHP/Apache | https://php.net |
-| **php-apache-opcache** | 8.2.8-2 | OPcache module for PHP/Apache | https://php.net |
-| **php-apache-pgsql** | 8.2.8-2 | PostgreSQL modules for PHP/Apache | https://php.net |
-| **php-apache-sodium** | 8.2.8-2 | Sodium module for PHP/Apache | https://php.net |
-| **php-apcu** | 5.1.23 | APCu - APC User Cache | http://php.net/apcu |
-| **php-fpm** | 8.2.8-2 | FastCGI Process Manager for PHP | https://php.net |
-| **php-imagick** | 3.7.0-2 | The Imagick PHP extension | https://github.com/Imagick/imagick |
-| **php-ldap** | 8.2.8-2 | LDAP module for PHP | https://php.net |
-| **php-pgsql** | 8.2.8-2 | PostgreSQL modules for PHP | https://php.net |
-| **php-psr** | 1.2.0-1 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
-| **php-redis** | 6.0.2 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
-| **php-sodium** | 8.2.8-2 | Sodium module for PHP | https://php.net |
-| **php-zephir-parser** | 1.6.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
+| **php** | 8.3.4-1 | Server-side, HTML-embedded scripting language | https://php.net |
+| **php-apache** | 8.3.4-1 | Apache 2.0 Handler module for PHP | https://php.net |
+| **php-apache-ldap** | 8.3.4-1 | LDAP module for PHP/Apache | https://php.net |
+| **php-apache-opcache** | 8.3.4-1 | OPcache module for PHP/Apache | https://php.net |
+| **php-apache-pgsql** | 8.3.4-1 | PostgreSQL modules for PHP/Apache | https://php.net |
+| **php-apache-sodium** | 8.3.4-1 | Sodium module for PHP/Apache | https://php.net |
+| **php-apcu** | 5.1.23-2 | APCu - APC User Cache | http://php.net/apcu |
+| **php-fpm** | 8.3.4-1 | FastCGI Process Manager for PHP | https://php.net |
+| **php-imagick** | 3.7.0-4 | The Imagick PHP extension | https://github.com/Imagick/imagick |
+| **php-ldap** | 8.3.4-1 | LDAP module for PHP | https://php.net |
+| **php-pgsql** | 8.3.4-1 | PostgreSQL modules for PHP | https://php.net |
+| **php-psr** | 1.2.0-3 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
+| **php-redis** | 6.0.2-2 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
+| **php-sodium** | 8.3.4-1 | Sodium module for PHP | https://php.net |
+| **php-zephir-parser** | 1.6.0-2 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.1 | A PHP tool for administering MySQL databases | https://www.phpmyadmin.net |
 | **pianobar** | 2022.04.01-1 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-2 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
