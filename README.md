@@ -169,8 +169,8 @@
 | **bzip2** | 1.0.8-6 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.27.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
-| **c-toxcore** | 0.2.18-p20240129-0 | Backend library for the Tox protocol | https://tox.chat |
-| **c-toxcore-static** | 0.2.18-p20240129-0 | Static libraries for c-toxcore | https://tox.chat |
+| **c-toxcore** | 0.2.18-p20240317-0 | Backend library for the Tox protocol | https://tox.chat |
+| **c-toxcore-static** | 0.2.18-p20240317-0 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2024.03.11 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2024.03.11 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabal-install** | 3.8.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
@@ -286,7 +286,7 @@
 | **dar** | 2.7.13 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.7.13 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.16 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dart** | 3.3.2 | Dart is a general-purpose programming language | https://dart.dev/ |
+| **dart** | 3.3.3 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 2.7.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
@@ -2328,7 +2328,7 @@
 | **tor** | 0.4.8.10 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.4.0 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.4.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
-| **toxic** | 0.14.1 | A command line client for Tox | https://github.com/JFreegman/toxic |
+| **toxic** | 0.15.0 | A command line client for Tox | https://github.com/JFreegman/toxic |
 | **tracepath** | 20240117 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.5 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
