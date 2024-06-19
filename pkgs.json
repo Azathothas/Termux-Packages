@@ -7855,7 +7855,7 @@
   },
   {
     "Package": "libsoup",
-    "Version": "2.74.3-2",
+    "Version": "2.74.3-3",
     "Description": "HTTP client and server library",
     "Homepage": "https://wiki.gnome.org/action/show/Projects/libsoup"
   },
@@ -10369,7 +10369,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.9.5-1",
+    "Version": "0.10.0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
