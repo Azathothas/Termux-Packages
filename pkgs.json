@@ -3511,7 +3511,7 @@
   },
   {
     "Package": "gopls",
-    "Version": "0.15.3",
+    "Version": "0.16.0",
     "Description": "The official Go language server",
     "Homepage": "https://github.com/golang/tools"
   },
@@ -3691,37 +3691,37 @@
   },
   {
     "Package": "gst-libav",
-    "Version": "1.24.4",
+    "Version": "1.24.5",
     "Description": "GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code",
     "Homepage": "https://gstreamer.freedesktop.org/modules/gst-libav.html"
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.24.4",
+    "Version": "1.24.5",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.24.4",
+    "Version": "1.24.5",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-gl-headers",
-    "Version": "1.24.4",
+    "Version": "1.24.5",
     "Description": "OpenGL headers for GStreamer plugins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.24.4",
+    "Version": "1.24.5",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.24.4",
+    "Version": "1.24.5",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -3841,7 +3841,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.43.1",
+    "Version": "1.44.0",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -5941,13 +5941,13 @@
   },
   {
     "Package": "libgmime",
-    "Version": "3.2.14",
+    "Version": "3.2.15",
     "Description": "MIME message parser and creator",
     "Homepage": "https://github.com/jstedfast/gmime"
   },
   {
     "Package": "libgmime-static",
-    "Version": "3.2.14",
+    "Version": "3.2.15",
     "Description": "Static libraries for libgmime",
     "Homepage": "https://github.com/jstedfast/gmime"
   },
@@ -12679,7 +12679,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.4.9",
+    "Version": "0.4.10",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -12949,7 +12949,7 @@
   },
   {
     "Package": "sensible-utils",
-    "Version": "0.0.22",
+    "Version": "0.0.23",
     "Description": "Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager",
     "Homepage": "https://packages.debian.org/sid/sensible-utils"
   },
@@ -13777,7 +13777,7 @@
   },
   {
     "Package": "tdl",
-    "Version": "0.17.1",
+    "Version": "0.17.2",
     "Description": "Telegram downloader/tools written in Golang",
     "Homepage": "https://docs.iyear.me/tdl/"
   },
