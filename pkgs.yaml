@@ -1603,7 +1603,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.18.18
+  Version: 0.18.19
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -6231,7 +6231,7 @@
   Description: Bare libuv bindings for lua
   Homepage: https://github.com/luvit/luv
 - Package: luvi
-  Version: "20240216"
+  Version: 20240216-2
   Description: A project in-between luv and luvit.
   Homepage: https://luvit.io
 - Package: luvit
@@ -7019,7 +7019,7 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect.
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 22.2.0
+  Version: 22.3.0
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
@@ -10319,7 +10319,7 @@
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
-  Version: 5.9-3
+  Version: 5.9-4
   Description: Shell with lots of features
   Homepage: https://www.zsh.org
 - Package: zsh-completions

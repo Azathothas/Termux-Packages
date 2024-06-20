@@ -2407,7 +2407,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.18.18",
+    "Version": "0.18.19",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -9349,7 +9349,7 @@
   },
   {
     "Package": "luvi",
-    "Version": "20240216",
+    "Version": "20240216-2",
     "Description": "A project in-between luv and luvit.",
     "Homepage": "https://luvit.io"
   },
@@ -10531,7 +10531,7 @@
   },
   {
     "Package": "nodejs",
-    "Version": "22.2.0",
+    "Version": "22.3.0",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
@@ -15481,7 +15481,7 @@
   },
   {
     "Package": "zsh",
-    "Version": "5.9-3",
+    "Version": "5.9-4",
     "Description": "Shell with lots of features",
     "Homepage": "https://www.zsh.org"
   },

@@ -411,7 +411,7 @@
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.18.18 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.18.19 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.35 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.35 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -1568,7 +1568,7 @@
 | **luajit** | 1:2.1.1716656478-1 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.11.1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.48.0-2-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
-| **luvi** | 20240216 | A project in-between luv and luvit. | https://luvit.io |
+| **luvi** | 20240216-2 | A project in-between luv and luvit. | https://luvit.io |
 | **luvit** | 2.18.1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-1 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lv2** | 1.18.10-3 | A plugin standard for audio systems | https://lv2plug.in/ |
@@ -1765,7 +1765,7 @@
 | **nmon** | 16q | Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode | https://nmon.sourceforge.net/ |
 | **nnn** | 4.9 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-1 | This project provides a command line tool called nms that recreates the famous data decryption effect. | https://github.com/bartobri/no-more-secrets |
-| **nodejs** | 22.2.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs** | 22.3.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **nodejs-lts** | 20.14.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.9-1 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.9-1 | Platform-independent data for notcurses | https://notcurses.com/ |
@@ -2590,7 +2590,7 @@
 | **zoxide** | 0.9.4-1 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
 | **zrok** | 0.4.31 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
-| **zsh** | 5.9-3 | Shell with lots of features | https://www.zsh.org |
+| **zsh** | 5.9-4 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
 | **zstd** | 1.5.6 | Zstandard compression | https://github.com/facebook/zstd |
