@@ -10351,7 +10351,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.7.4",
+    "Version": "0.7.5",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -10687,7 +10687,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.14.0",
+    "Version": "21.15.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12301,7 +12301,7 @@
   },
   {
     "Package": "rbw",
-    "Version": "1.10.2",
+    "Version": "1.11.0",
     "Description": "An unofficial command line client for Bitwarden",
     "Homepage": "https://github.com/doy/rbw"
   },
