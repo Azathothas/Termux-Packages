@@ -10687,7 +10687,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.15.1",
+    "Version": "21.16.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11779,7 +11779,7 @@
   },
   {
     "Package": "pycairo",
-    "Version": "1.26.0",
+    "Version": "1.26.1",
     "Description": "Python bindings for the cairo graphics library",
     "Homepage": "https://www.cairographics.org/pycairo/"
   },

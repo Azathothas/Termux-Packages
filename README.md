@@ -1791,7 +1791,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 21.15.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 21.16.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -1973,7 +1973,7 @@
 | **pure-ftpd** | 1.0.51 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
 | **pv** | 1.8.10 | Terminal-based tool for monitoring the progress of data through a pipeline | http://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-1 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
-| **pycairo** | 1.26.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
+| **pycairo** | 1.26.1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.44.1 | Python package which provides bindings for GObject based libraries | https://pygobject.readthedocs.io/ |
 | **pypy** | 7.3.15 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tkinter** | 7.3.15 | Tkinter support for PyPy | https://pypy.org |
