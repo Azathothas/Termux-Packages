@@ -631,8 +631,8 @@
 | **gst-plugins-gl-headers** | 1.24.5 | OpenGL headers for GStreamer plugins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.24.5 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.24.5 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.24.4 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
-| **gstreamer** | 1.24.4 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.24.5 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gstreamer** | 1.24.5 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.9.5-2 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.9-2 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
 | **guile-static** | 3.0.9-2 | Static libraries for guile | http://www.gnu.org/software/guile/ |

@@ -3727,13 +3727,13 @@
   },
   {
     "Package": "gst-python",
-    "Version": "1.24.4",
+    "Version": "1.24.5",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gstreamer",
-    "Version": "1.24.4",
+    "Version": "1.24.5",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
