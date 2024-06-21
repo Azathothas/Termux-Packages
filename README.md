@@ -754,7 +754,7 @@
 | **jq** | 1.7.1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
 | **jq-lsp** | 0.1.3 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.7.1 | Static libraries for jq | https://stedolan.github.io/jq/ |
-| **jql** | 7.1.11 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
+| **jql** | 7.1.12 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.17 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.17 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
 | **json-glib** | 1.8.0 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
@@ -2495,7 +2495,7 @@
 | **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
 | **wabt** | 1.0.35 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
 | **wakatime-cli** | 1.91.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
-| **walk** | 1.7.0 | A terminal file manager | https://github.com/antonmedv/walk |
+| **walk** | 1.8.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 20 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasmedge** | 0.14.0 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmedge-static** | 0.14.0 | Static libraries for wasmedge | https://wasmedge.org/ |
@@ -2590,7 +2590,7 @@
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.4-1 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 0.4.31 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 0.4.32 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-4 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |

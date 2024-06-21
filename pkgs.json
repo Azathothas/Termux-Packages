@@ -4465,7 +4465,7 @@
   },
   {
     "Package": "jql",
-    "Version": "7.1.11",
+    "Version": "7.1.12",
     "Description": "A JSON Query Language CLI tool",
     "Homepage": "https://github.com/yamafaktory/jql"
   },
@@ -14911,7 +14911,7 @@
   },
   {
     "Package": "walk",
-    "Version": "1.7.0",
+    "Version": "1.8.0",
     "Description": "A terminal file manager",
     "Homepage": "https://github.com/antonmedv/walk"
   },
@@ -15481,7 +15481,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "0.4.31",
+    "Version": "0.4.32",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
