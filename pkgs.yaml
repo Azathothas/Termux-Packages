@@ -258,6 +258,10 @@
   Version: 2.8.6-1
   Description: A self-hosted comment system
   Homepage: https://artalk.js.org/
+- Package: arturo
+  Version: 0.9.83
+  Description: Simple, expressive & portable programming language for efficient scripting
+  Homepage: https://arturo-lang.io
 - Package: asciidoc
   Version: 10.2.0-3
   Description: Text document format for short documents, articles, books and UNIX man pages.
