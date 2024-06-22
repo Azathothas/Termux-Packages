@@ -973,7 +973,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.33.0",
+    "Version": "1.34.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -6397,13 +6397,13 @@
   },
   {
     "Package": "libksba",
-    "Version": "1.6.6",
+    "Version": "1.6.7",
     "Description": "Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible",
     "Homepage": "https://gnupg.org/related_software/libksba/"
   },
   {
     "Package": "libksba-static",
-    "Version": "1.6.6",
+    "Version": "1.6.7",
     "Description": "Static libraries for libksba",
     "Homepage": "https://gnupg.org/related_software/libksba/"
   },
@@ -14911,7 +14911,7 @@
   },
   {
     "Package": "walk",
-    "Version": "1.8.0",
+    "Version": "1.9.0",
     "Description": "A terminal file manager",
     "Homepage": "https://github.com/antonmedv/walk"
   },
