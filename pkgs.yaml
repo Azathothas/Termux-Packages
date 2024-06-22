@@ -6559,7 +6559,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.06.13.22.53.53
+  Version: 2024.06.22.05.26.45
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -6751,15 +6751,15 @@
   Description: Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
   Homepage: http://www.vanheusden.com/multitail/
 - Package: mupdf
-  Version: 1.24.3
+  Version: 1.24.4
   Description: Lightweight PDF and XPS viewer (library)
   Homepage: https://mupdf.com/
 - Package: mupdf-static
-  Version: 1.24.3
+  Version: 1.24.4
   Description: Static libraries for mupdf
   Homepage: https://mupdf.com/
 - Package: mupdf-tools
-  Version: 1.24.3
+  Version: 1.24.4
   Description: Lightweight PDF and XPS viewer (utilities)
   Homepage: https://mupdf.com/
 - Package: music-file-organizer
@@ -6903,7 +6903,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.7.5
+  Version: 0.7.6
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://github.com/Decodetalkers/neocmakelsp
 - Package: neofetch
@@ -9987,23 +9987,23 @@
   Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
   Homepage: http://websocketd.com/
 - Package: weechat
-  Version: 4.3.2-1
+  Version: 4.3.3
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.3.2-1
+  Version: 4.3.3
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-perl-plugin
-  Version: 4.3.2-1
+  Version: 4.3.3
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.3.2-1
+  Version: 4.3.3
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.3.2-1
+  Version: 4.3.3
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli
