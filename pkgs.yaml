@@ -1035,7 +1035,7 @@
   Description: CPIO implementation from the GNU project
   Homepage: https://www.gnu.org/software/cpio/
 - Package: cppcheck
-  Version: 2.14.1
+  Version: 2.14.2
   Description: tool for static C/C++ code analysis
   Homepage: https://github.com/danmar/cppcheck
 - Package: cppi
@@ -6007,7 +6007,7 @@
   Description: Static libraries for libzen
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libzim
-  Version: 9.2.1
+  Version: 9.2.2
   Description: The ZIM library is the reference implementation for the ZIM file format.
   Homepage: https://openzim.org
 - Package: libzimg
@@ -6923,7 +6923,7 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.10.0
+  Version: 0.10.0-1
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9490,6 +9490,30 @@
   Version: 2.1.1
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
+- Package: tree-sitter-lua
+  Version: 0.1.0
+  Description: Lua grammar for tree-sitter
+  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
+- Package: tree-sitter-lua-static
+  Version: 0.1.0
+  Description: Static libraries for tree-sitter-lua
+  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
+- Package: tree-sitter-query
+  Version: 0.4.0
+  Description: TS query grammar for tree-sitter
+  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
+- Package: tree-sitter-query-static
+  Version: 0.4.0
+  Description: Static libraries for tree-sitter-query
+  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
+- Package: tree-sitter-vimdoc
+  Version: 3.0.0
+  Description: Tree-sitter parser for Vim help files
+  Homepage: https://github.com/neovim/tree-sitter-vimdoc
+- Package: tree-sitter-vimdoc-static
+  Version: 3.0.0
+  Description: Static libraries for tree-sitter-vimdoc
+  Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: trojan-go
   Version: 0.10.6-3
   Description: A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW
