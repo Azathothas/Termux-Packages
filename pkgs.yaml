@@ -999,7 +999,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 2.4.0-29
+  Version: 2.4.0-30
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -3259,11 +3259,11 @@
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
-  Version: 28-3
+  Version: "29"
   Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
   Homepage: https://github.com/termux/libandroid-support
 - Package: libandroid-support-static
-  Version: 28-3
+  Version: "29"
   Description: Static libraries for libandroid-support
   Homepage: https://github.com/termux/libandroid-support
 - Package: libandroid-sysv-semaphore
