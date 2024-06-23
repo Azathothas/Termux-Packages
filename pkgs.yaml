@@ -255,7 +255,7 @@
   Description: Open-source version of arj archiver
   Homepage: http://arj.sourceforge.net/
 - Package: artalk
-  Version: 2.8.6-1
+  Version: 2.8.7
   Description: A self-hosted comment system
   Homepage: https://artalk.js.org/
 - Package: arturo
@@ -2142,6 +2142,10 @@
   Version: 1.42.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
+- Package: gleam
+  Version: 1.2.1
+  Description: A friendly language for building type-safe, scalable systems!
+  Homepage: https://gleam.run
 - Package: glib
   Version: 2.80.3
   Description: Library providing core building blocks for libraries and applications written in C
@@ -6331,11 +6335,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:11.4.2
+  Version: 2:11.4.2-1
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:11.4.2
+  Version: 2:11.4.2-1
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
@@ -9466,6 +9470,10 @@
   Version: 2.4.0
   Description: Static libraries for torsocks
   Homepage: https://gitlab.torproject.org/tpo/core/torsocks
+- Package: totem-pl-parser
+  Version: 3.26.6
+  Description: Simple GObject-based library to parse and save a host of playlist formats
+  Homepage: https://gitlab.gnome.org/GNOME/totem-pl-parser
 - Package: toxic
   Version: 0.15.1
   Description: A command line client for Tox
