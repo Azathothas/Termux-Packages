@@ -15,7 +15,7 @@
 | **2048-c** | 2022.10.23 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
 | **2ping** | 4.5.1-3 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
 | **6tunnel** | 0.13 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
-| **7zip** | 24.06-2 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
+| **7zip** | 24.07 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
 | **8086tiny** | 1.25-4 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
 | **a52dec** | 0.8.0-1 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-11 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
@@ -1999,7 +1999,7 @@
 | **python-numpy** | 1.26.4-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 1.26.4-1 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-pillow** | 10.3.0-1 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 24.0-2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 24.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 16.1.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pynvim** | 0.5.0 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-sabyenc3** | 8.2.3 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |

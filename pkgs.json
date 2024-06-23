@@ -31,7 +31,7 @@
   },
   {
     "Package": "7zip",
-    "Version": "24.06-2",
+    "Version": "24.07",
     "Description": "7-Zip file archiver with a high compression ratio",
     "Homepage": "https://www.7-zip.org"
   },
@@ -11935,7 +11935,7 @@
   },
   {
     "Package": "python-pip",
-    "Version": "24.0-2",
+    "Version": "24.1",
     "Description": "The PyPA recommended tool for installing Python packages",
     "Homepage": "https://pip.pypa.io/"
   },

@@ -19,7 +19,7 @@
   Description: Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa
   Homepage: https://github.com/wojtekka/6tunnel
 - Package: 7zip
-  Version: 24.06-2
+  Version: "24.07"
   Description: 7-Zip file archiver with a high compression ratio
   Homepage: https://www.7-zip.org
 - Package: 8086tiny
@@ -7955,7 +7955,7 @@
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
-  Version: 24.0-2
+  Version: "24.1"
   Description: The PyPA recommended tool for installing Python packages
   Homepage: https://pip.pypa.io/
 - Package: python-pyarrow
