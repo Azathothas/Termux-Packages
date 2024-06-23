@@ -9887,7 +9887,7 @@
   Description: Terminal image viewer with native support for iTerm and Kitty
   Homepage: https://github.com/atanunq/viu
 - Package: vivid
-  Version: 0.9.0
+  Version: 0.10.1
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
