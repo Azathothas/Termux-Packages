@@ -1969,7 +1969,7 @@
   },
   {
     "Package": "dnslookup",
-    "Version": "1.11.0",
+    "Version": "1.11.1",
     "Description": "Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.",
     "Homepage": "https://github.com/ameshkov/dnslookup"
   },
@@ -4183,13 +4183,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.1.33-1",
+    "Version": "7.1.1.34",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.1.33-1",
+    "Version": "7.1.1.34",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
