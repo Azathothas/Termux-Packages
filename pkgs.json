@@ -12733,7 +12733,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240617",
+    "Version": "20240624",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
