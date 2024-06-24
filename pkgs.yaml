@@ -122,6 +122,18 @@
   Version: "2.26"
   Description: Fast, easy to use email client
   Homepage: http://alpine.x10host.com/
+- Package: alsa-lib
+  Version: 1.2.11
+  Description: The Advanced Linux Sound Architecture (ALSA) - library
+  Homepage: https://www.alsa-project.org
+- Package: alsa-utils
+  Version: 1.2.11
+  Description: The Advanced Linux Sound Architecture (ALSA) - utils
+  Homepage: https://www.alsa-project.org
+- Package: alsa-utils-static
+  Version: 1.2.11
+  Description: Static libraries for alsa-utils
+  Homepage: https://www.alsa-project.org
 - Package: amber
   Version: 0.6.0
   Description: A code search / replace tool
@@ -1519,7 +1531,7 @@
   Description: A friendly and expressive Unix shell
   Homepage: https://github.com/elves/elvish
 - Package: emacs
-  Version: "29.3"
+  Version: "29.4"
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emscripten
@@ -2139,7 +2151,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.42.0
+  Version: 1.43.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2902,6 +2914,18 @@
   Version: "0.22"
   Description: 'A tool to analyze #includes in C and C++ source files'
   Homepage: https://include-what-you-use.org/
+- Package: jack
+  Version: 0.0.1
+  Description: A metapackage that provides JACK Audio Connection Kit
+  Homepage: https://github.com/termux/termux-packages
+- Package: jack-example-tools
+  Version: "4"
+  Description: Official JACK example clients and tools
+  Homepage: https://jackaudio.org/
+- Package: jack2
+  Version: 1.9.22
+  Description: The JACK low-latency audio server
+  Homepage: https://jackaudio.org/
 - Package: jbig2dec
   Version: "0.20"
   Description: Decoder implementation of the JBIG2 image compression format
@@ -2927,7 +2951,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.58.2
+  Version: 2.59.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -6727,7 +6751,7 @@
   Description: Static libraries for mpg123
   Homepage: https://mpg123.org/
 - Package: mpv
-  Version: 0.38.0
+  Version: 0.38.0-1
   Description: Command-line media player
   Homepage: https://mpv.io/
 - Package: mruby
@@ -7395,7 +7419,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20240522"
+  Version: "20240622"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
@@ -9567,7 +9591,7 @@
   Description: transparent network access through a SOCKS 4 or 5 proxy
   Homepage: http://tsocks.sf.net
 - Package: tsu
-  Version: 8.6.0
+  Version: 8.6.0-1
   Description: A su wrapper for Termux
   Homepage: https://github.com/cswl/tsu
 - Package: ttf-dejavu
