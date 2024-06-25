@@ -2443,13 +2443,13 @@
   },
   {
     "Package": "fakeroot",
-    "Version": "1.35",
+    "Version": "1.35.1",
     "Description": "Tool for simulating superuser privileges (with tcp ipc)",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
   {
     "Package": "fakeroot-static",
-    "Version": "1.35",
+    "Version": "1.35.1",
     "Description": "Static libraries for fakeroot",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
@@ -5323,13 +5323,13 @@
   },
   {
     "Package": "libcoap",
-    "Version": "4.3.5-rc1-0",
+    "Version": "4.3.5-rc2-0",
     "Description": "Implementation of CoAP, a lightweight protocol for resource constrained devices",
     "Homepage": "https://libcoap.net/"
   },
   {
     "Package": "libcoap-static",
-    "Version": "4.3.5-rc1-0",
+    "Version": "4.3.5-rc2-0",
     "Description": "Static libraries for libcoap",
     "Homepage": "https://libcoap.net/"
   },
