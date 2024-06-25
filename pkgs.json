@@ -187,19 +187,19 @@
   },
   {
     "Package": "alsa-lib",
-    "Version": "1.2.11",
+    "Version": "1.2.12",
     "Description": "The Advanced Linux Sound Architecture (ALSA) - library",
     "Homepage": "https://www.alsa-project.org"
   },
   {
     "Package": "alsa-utils",
-    "Version": "1.2.11",
+    "Version": "1.2.12",
     "Description": "The Advanced Linux Sound Architecture (ALSA) - utils",
     "Homepage": "https://www.alsa-project.org"
   },
   {
     "Package": "alsa-utils-static",
-    "Version": "1.2.11",
+    "Version": "1.2.12",
     "Description": "Static libraries for alsa-utils",
     "Homepage": "https://www.alsa-project.org"
   },
