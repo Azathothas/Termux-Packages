@@ -513,7 +513,7 @@
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.51.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.52.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.2.5-1 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghc-libs** | 9.2.5-1 | The Glasgow Haskell Compiler libraries | https://www.haskell.org/ghc/ |
 | **ghc-libs-static** | 8.10.7-3 | Static libraries for ghc-libs | https://www.haskell.org/ghc/ |
@@ -1151,9 +1151,9 @@
 | **libmpeg2-static** | 0.5.1 | Static libraries for libmpeg2 | https://libmpeg2.sourceforge.io/ |
 | **libmpfr** | 4.2.1 | C library for multiple-precision floating-point computations with correct rounding | https://www.mpfr.org/ |
 | **libmpfr-static** | 4.2.1 | Static libraries for libmpfr | https://www.mpfr.org/ |
-| **libmsgpack** | 6.0.0 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
+| **libmsgpack** | 6.0.2 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
 | **libmsgpack-cxx** | 6.1.1 | msgpack for C++ | https://msgpack.org/ |
-| **libmsgpack-static** | 6.0.0 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
+| **libmsgpack-static** | 6.0.2 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
 | **libmuparser** | 2.3.4 | An extensible high performance math expression parser library written in C++ | https://beltoforion.de/en/muparser |
 | **libmusicbrainz** | 5.1.0-3 | The MusicBrainz Client Library | https://musicbrainz.org/doc/libmusicbrainz |
 | **libmypaint** | 1.6.1-1 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
@@ -1789,7 +1789,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 21.16.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 21.16.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2050,7 +2050,7 @@
 | **rage** | 0.10.0 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 3.9.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 3.9.3 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.3-6 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-4 | fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2503,7 +2503,7 @@
 | **wakatime-cli** | 1.91.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.9.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 22 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
-| **wasm-component-ld** | 0.5.3 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
+| **wasm-component-ld** | 0.5.4 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.14.0 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmedge-static** | 0.14.0 | Static libraries for wasmedge | https://wasmedge.org/ |
 | **watchexec** | 1.22.3 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |

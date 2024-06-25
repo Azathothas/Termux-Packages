@@ -3091,7 +3091,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.51.0",
+    "Version": "2.52.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -6919,7 +6919,7 @@
   },
   {
     "Package": "libmsgpack",
-    "Version": "6.0.0",
+    "Version": "6.0.2",
     "Description": "MessagePack implementation for C",
     "Homepage": "https://github.com/msgpack/msgpack-c/"
   },
@@ -6931,7 +6931,7 @@
   },
   {
     "Package": "libmsgpack-static",
-    "Version": "6.0.0",
+    "Version": "6.0.2",
     "Description": "Static libraries for libmsgpack",
     "Homepage": "https://github.com/msgpack/msgpack-c/"
   },
@@ -10747,7 +10747,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.16.1",
+    "Version": "21.16.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12313,7 +12313,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.9.0",
+    "Version": "3.9.3",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15031,7 +15031,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.3",
+    "Version": "0.5.4",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },

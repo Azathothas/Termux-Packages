@@ -2059,7 +2059,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.51.0
+  Version: 2.52.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -4611,7 +4611,7 @@
   Description: Static libraries for libmpfr
   Homepage: https://www.mpfr.org/
 - Package: libmsgpack
-  Version: 6.0.0
+  Version: 6.0.2
   Description: MessagePack implementation for C
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmsgpack-cxx
@@ -4619,7 +4619,7 @@
   Description: msgpack for C++
   Homepage: https://msgpack.org/
 - Package: libmsgpack-static
-  Version: 6.0.0
+  Version: 6.0.2
   Description: Static libraries for libmsgpack
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmuparser
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.16.1
+  Version: 21.16.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8207,7 +8207,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 3.9.0
+  Version: 3.9.3
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10019,7 +10019,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.3
+  Version: 0.5.4
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
