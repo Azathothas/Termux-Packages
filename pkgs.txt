@@ -265,7 +265,7 @@
  cpufetch  1.05  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-1  CPU usage limiter  https://github.com/opsengine/cpulimit 
  crawl  0.31.0  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
- croc  1:10.0.8  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
+ croc  1:10.0.9  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
  cronie  1.7.2  Daemon that runs specified programs at scheduled times and related tools  https://github.com/cronie-crond/cronie/ 
  crowbook  0.16.1-2  Allows you to write a book in Markdown without worrying about formatting or typography  https://github.com/crowdagger/crowbook 
  crunch  3.6-4  Highly customizable wordlist generator  https://sourceforge.net/projects/crunch-wordlist 
@@ -487,7 +487,7 @@
  gawk-static  5.3.0  Static libraries for gawk  https://www.gnu.org/software/gawk/ 
  gbt  2.0.0-6  Highly configurable prompt builder for Bash and ZSH written in Go  https://github.com/jtyr/gbt 
  gcal  4.1-3  Program for calculating and printing calendars  https://www.gnu.org/software/gcal/ 
- gdal  3.9.0  A translator library for raster and vector geospatial data formats  https://gdal.org 
+ gdal  3.9.1  A translator library for raster and vector geospatial data formats  https://gdal.org 
  gdal-static  3.5.3  Static libraries for gdal  https://gdal.org 
  gdb  14.2  The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages  https://www.gnu.org/software/gdb/ 
  gdbm  1.23  Library of database functions that use extensible hashing  https://www.gnu.org.ua/software/gdbm/ 
@@ -643,7 +643,7 @@
  hash-slinger  3.3  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-8  Programs to compute hashsums of arbitrary number of files recursively  http://md5deep.sourceforge.net/ 
  hcl  2.21.0  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
- hcloud  1.44.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
+ hcloud  1.44.1  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
  helix  24.03-1  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  24.03-1  Helix grammars  https://helix-editor.com/ 
  hello  2.12.1-1  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
@@ -927,7 +927,7 @@
  libdispatch  1:5.10  The libdispatch project, for concurrency on multicore hardware  https://github.com/apple/swift-corelibs-libdispatch 
  libdmtx  0.7.7  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
  libdmtx-static  0.7.7  Static libraries for libdmtx  https://github.com/dmtx/libdmtx 
- libdrm  2.4.121  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
+ libdrm  2.4.122  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
  libduckdb  1.0.0  An in-process SQL OLAP database management system  https://duckdb.org/ 
  libduckdb-static  1.0.0  Static libraries for libduckdb  https://duckdb.org/ 
  libduktape  2.7.0  An embeddable Javascript engine with a focus on portability and compact footprint  https://www.duktape.org/ 
@@ -1351,7 +1351,7 @@
  libtalloc-static  2.4.2  Static libraries for libtalloc  https://talloc.samba.org/talloc/doc/html/index.html 
  libtasn1  4.19.0-1  This is GNU Libtasn1, a small ASN.1 library  https://www.gnu.org/software/libtasn1/ 
  libtasn1-static  4.19.0-1  Static libraries for libtasn1  https://www.gnu.org/software/libtasn1/ 
- libtbb  2021.12.0  oneAPI Threading Building Blocks  https://oneapi-src.github.io/oneTBB/ 
+ libtbb  2021.13.0  oneAPI Threading Building Blocks  https://oneapi-src.github.io/oneTBB/ 
  libtd  1.8.0  Library for building Telegram clients  https://core.telegram.org/tdlib/ 
  libtd-static  1.8.0  Static libraries for libtd  https://core.telegram.org/tdlib/ 
  libtdb  1.4.10  A trivial database system  https://tdb.samba.org/ 
@@ -2168,7 +2168,7 @@
  sed  4.9-1  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
  sendxmpp  1.24  A perl-script to send XMPP (jabber) messages  https://sendxmpp.hostname.sk/ 
  senpai  1:0.3.0-3  An IRC client that works best with bouncers  https://git.sr.ht/~taiite/senpai 
- sensible-utils  0.0.23  Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager  https://packages.debian.org/sid/sensible-utils 
+ sensible-utils  0.0.24  Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager  https://packages.debian.org/sid/sensible-utils 
  serd  0.32.2  A lightweight C library for RDF syntax  https://drobilla.net/software/serd.html 
  serf  1.3.10  High performance C-based HTTP client library  https://serf.apache.org/ 
  serf-static  1.3.10  Static libraries for serf  https://serf.apache.org/ 
@@ -2604,6 +2604,6 @@
  zstd  1.5.6  Zstandard compression  https://github.com/facebook/zstd 
  zstd-static  1.5.6  Static libraries for zstd  https://github.com/facebook/zstd 
  zsync  0.6.2-5  A file transfer program to download files from remote web servers  http://zsync.moria.org.uk/ 
- zziplib  0.13.76  Provides read access to zipped files in a zip-archive, using compression based on free algorithms  https://zziplib.sourceforge.net/ 
+ zziplib  0.13.77  Provides read access to zipped files in a zip-archive, using compression based on free algorithms  https://zziplib.sourceforge.net/ 
  zzuf  2022.05.29  A transparent application input fuzzer  http://caca.zoy.org/wiki/zzuf 
  zzuf-static  2022.05.29  Static libraries for zzuf  http://caca.zoy.org/wiki/zzuf 

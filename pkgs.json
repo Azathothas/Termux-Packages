@@ -1603,7 +1603,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.0.8",
+    "Version": "1:10.0.9",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2935,7 +2935,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.9.0",
+    "Version": "3.9.1",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -3871,7 +3871,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.44.0",
+    "Version": "1.44.1",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -5575,7 +5575,7 @@
   },
   {
     "Package": "libdrm",
-    "Version": "2.4.121",
+    "Version": "2.4.122",
     "Description": "Userspace interface to kernel DRM services",
     "Homepage": "https://dri.freedesktop.org/wiki/"
   },
@@ -8119,7 +8119,7 @@
   },
   {
     "Package": "libtbb",
-    "Version": "2021.12.0",
+    "Version": "2021.13.0",
     "Description": "oneAPI Threading Building Blocks",
     "Homepage": "https://oneapi-src.github.io/oneTBB/"
   },
@@ -13021,7 +13021,7 @@
   },
   {
     "Package": "sensible-utils",
-    "Version": "0.0.23",
+    "Version": "0.0.24",
     "Description": "Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager",
     "Homepage": "https://packages.debian.org/sid/sensible-utils"
   },
@@ -15637,7 +15637,7 @@
   },
   {
     "Package": "zziplib",
-    "Version": "0.13.76",
+    "Version": "0.13.77",
     "Description": "Provides read access to zipped files in a zip-archive, using compression based on free algorithms",
     "Homepage": "https://zziplib.sourceforge.net/"
   },
