@@ -10663,7 +10663,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.94.2",
+    "Version": "0.95.0",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -12313,7 +12313,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.10.0",
+    "Version": "3.11.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15013,7 +15013,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.92.0",
+    "Version": "1.93.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
@@ -15595,7 +15595,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "0.4.32",
+    "Version": "0.4.33",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
