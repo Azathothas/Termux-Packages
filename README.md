@@ -198,7 +198,7 @@
 | **capnproto** | 1.0.2 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.1 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **cargo-c** | 0.10.0 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
+| **cargo-c** | 0.10.1 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **catdoc** | 0.95 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
 | **catimg** | 2.7.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
@@ -648,9 +648,9 @@
 | **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.13 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **haproxy** | 3.0.2 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
-| **harfbuzz** | 8.5.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-icu** | 8.5.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-utils** | 8.5.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz** | 9.0.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-icu** | 9.0.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-utils** | 9.0.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **has** | 1.5.0-1 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.3 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
@@ -748,7 +748,7 @@
 | **jbig2enc-static** | 2023.01.08-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.59.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.59.1 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1080,8 +1080,8 @@
 | **libjpeg-turbo** | 3.0.3 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.0.3 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.0.3 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
-| **libjxl** | 0.10.2 | JPEG XL image format reference implementation | https://jpegxl.info/ |
-| **libjxl-progs** | 0.10.2 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
+| **libjxl** | 0.10.3 | JPEG XL image format reference implementation | https://jpegxl.info/ |
+| **libjxl-progs** | 0.10.3 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkiwix** | 13.1.0-1 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-1 | Knot DNS libraries | https://www.knot-dns.cz/ |
 | **libknot-static** | 3.2.4-1 | Static libraries for libknot | https://www.knot-dns.cz/ |
@@ -1135,8 +1135,8 @@
 | **libmd** | 1.1.0 | Message Digest functions from BSD systems | https://www.hadrons.org/software/libmd/ |
 | **libmd-static** | 1.1.0 | Static libraries for libmd | https://www.hadrons.org/software/libmd/ |
 | **libmdbx** | 0.12.7 | An extremely fast, compact, powerful, embedded, transactional key-value database | https://libmdbx.dqdkfa.ru/ |
-| **libmediainfo** | 24.05-1 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **libmediainfo-static** | 24.05-1 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo** | 24.06 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo-static** | 24.06 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
 | **libmesode** | 0.10.1-4 | Minimal XMPP library written for use with Profanity XMPP client | https://github.com/boothj5/libmesode |
 | **libmesode-static** | 0.10.1-4 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-2 | A thread-safe hash library which provides a uniform interface to hash algorithms | http://mhash.sourceforge.net/ |
@@ -1638,7 +1638,7 @@
 | **mdns-scan** | 0.5-2 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
 | **mdp** | 1.0.15-2 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 10.1.0-1 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
-| **mediainfo** | 24.05-1 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **mediainfo** | 24.06 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **megacmd** | 1.7.0-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
 | **memcached** | 1.6.28 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
@@ -1707,9 +1707,9 @@
 | **mu** | 1.12.5 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
 | **multitail** | 7.1.2 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
-| **mupdf** | 1.24.4 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
-| **mupdf-static** | 1.24.4 | Static libraries for mupdf | https://mupdf.com/ |
-| **mupdf-tools** | 1.24.4 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
+| **mupdf** | 1.24.5 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
+| **mupdf-static** | 1.24.5 | Static libraries for mupdf | https://mupdf.com/ |
+| **mupdf-tools** | 1.24.5 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-2 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.13 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
@@ -1810,7 +1810,7 @@
 | **oniguruma-static** | 6.9.9 | Static libraries for oniguruma | https://github.com/kkos/oniguruma |
 | **oorexx** | 4.2.0-3 | Open Object Rexx | https://www.oorexx.org/ |
 | **oorexx-static** | 4.2.0-3 | Static libraries for oorexx | https://www.oorexx.org/ |
-| **open-adventure** | 1.18-1 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
+| **open-adventure** | 1.19 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
 | **openal-soft** | 1.23.1 | Software implementation of the OpenAL API | https://openal-soft.org/ |
 | **openbabel** | 3.1.1-8 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.1.7 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
@@ -2609,7 +2609,7 @@
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.4-1 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 0.4.33 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 0.4.34 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-4 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |

@@ -751,7 +751,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: cargo-c
-  Version: 0.10.0
+  Version: 0.10.1
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: catdoc
@@ -2551,15 +2551,15 @@
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
-  Version: 8.5.0
+  Version: 9.0.0
   Description: OpenType text shaping engine
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-icu
-  Version: 8.5.0
+  Version: 9.0.0
   Description: OpenType text shaping engine ICU backend
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-utils
-  Version: 8.5.0
+  Version: 9.0.0
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: has
@@ -2951,7 +2951,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.59.0
+  Version: 2.59.1
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -4279,11 +4279,11 @@
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
-  Version: 0.10.2
+  Version: 0.10.3
   Description: JPEG XL image format reference implementation
   Homepage: https://jpegxl.info/
 - Package: libjxl-progs
-  Version: 0.10.2
+  Version: 0.10.3
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkiwix
@@ -4499,11 +4499,11 @@
   Description: An extremely fast, compact, powerful, embedded, transactional key-value database
   Homepage: https://libmdbx.dqdkfa.ru/
 - Package: libmediainfo
-  Version: 24.05-1
+  Version: "24.06"
   Description: Library for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmediainfo-static
-  Version: 24.05-1
+  Version: "24.06"
   Description: Static libraries for libmediainfo
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmesode
@@ -6511,7 +6511,7 @@
   Description: List of standard media types and their usual file extension
   Homepage: https://pagure.io/mailcap
 - Package: mediainfo
-  Version: 24.05-1
+  Version: "24.06"
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: megacmd
@@ -6787,15 +6787,15 @@
   Description: Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
   Homepage: http://www.vanheusden.com/multitail/
 - Package: mupdf
-  Version: 1.24.4
+  Version: 1.24.5
   Description: Lightweight PDF and XPS viewer (library)
   Homepage: https://mupdf.com/
 - Package: mupdf-static
-  Version: 1.24.4
+  Version: 1.24.5
   Description: Static libraries for mupdf
   Homepage: https://mupdf.com/
 - Package: mupdf-tools
-  Version: 1.24.4
+  Version: 1.24.5
   Description: Lightweight PDF and XPS viewer (utilities)
   Homepage: https://mupdf.com/
 - Package: music-file-organizer
@@ -7199,7 +7199,7 @@
   Description: Static libraries for oorexx
   Homepage: https://www.oorexx.org/
 - Package: open-adventure
-  Version: 1.18-1
+  Version: "1.19"
   Description: Forward-port of the original Colossal Cave Adventure from 1976-77
   Homepage: http://www.catb.org/~esr/open-adventure/
 - Package: openal-soft
@@ -10395,7 +10395,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 0.4.33
+  Version: 0.4.34
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
