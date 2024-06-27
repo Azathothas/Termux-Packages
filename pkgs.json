@@ -1843,7 +1843,7 @@
   },
   {
     "Package": "debootstrap",
-    "Version": "1.0.134",
+    "Version": "1.0.136",
     "Description": "Bootstrap a basic Debian system",
     "Homepage": "https://wiki.debian.org/Debootstrap"
   },
@@ -2431,7 +2431,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.18.19",
+    "Version": "0.18.20",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -3625,7 +3625,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "11.0.0",
+    "Version": "11.1.0",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },

@@ -305,7 +305,7 @@
  dcraw  9.28.0-6  Raw digital camera images decoding utility  https://www.dechifro.org/dcraw/ 
  ddrescue  1.28  GNU data recovery tool  https://www.gnu.org/software/ddrescue/ 
  debianutils  5.19  Small utilities which are used primarily by the installation scripts of Debian packages  https://packages.debian.org/debianutils 
- debootstrap  1.0.134  Bootstrap a basic Debian system  https://wiki.debian.org/Debootstrap 
+ debootstrap  1.0.136  Bootstrap a basic Debian system  https://wiki.debian.org/Debootstrap 
  desed  1.2.1  Demystifies and debugs your sed scripts  https://github.com/SoptikHa2/desed 
  deutex  5.2.2  WAD composer for Doom, Heretic, Hexen, and Strife  https://github.com/Doom-Utils/deutex/ 
  dex2jar  2.4  Tools to work with android .dex and java .class files  https://github.com/pxb1988/dex2jar 
@@ -403,7 +403,7 @@
  exiv2  2:0.27.7-1  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  exiv2-static  2:0.27.7-1  Static libraries for exiv2  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
- eza  0.18.19  A modern replacement for ls  https://github.com/eza-community/eza 
+ eza  0.18.20  A modern replacement for ls  https://github.com/eza-community/eza 
  fact++  1.6.5-1  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
  fakeroot  1.35.1  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.35.1  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
@@ -602,7 +602,7 @@
  gping  1.16.1  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-2  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
  gradle  1:8.8  Powerful build system for the JVM  https://gradle.org/ 
- grafana  11.0.0  The open-source platform for monitoring and observability  https://grafana.com/ 
+ grafana  11.1.0  The open-source platform for monitoring and observability  https://grafana.com/ 
  graphene  1.10.8-1  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
  graphicsmagick  1.3.43-1  Collection of image processing tools  http://www.graphicsmagick.org/ 
  graphicsmagick-static  1.3.43-1  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
