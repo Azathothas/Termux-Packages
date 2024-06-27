@@ -1135,8 +1135,8 @@
 | **libmd** | 1.1.0 | Message Digest functions from BSD systems | https://www.hadrons.org/software/libmd/ |
 | **libmd-static** | 1.1.0 | Static libraries for libmd | https://www.hadrons.org/software/libmd/ |
 | **libmdbx** | 0.12.7 | An extremely fast, compact, powerful, embedded, transactional key-value database | https://libmdbx.dqdkfa.ru/ |
-| **libmediainfo** | 24.06 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **libmediainfo-static** | 24.06 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo** | 24.06-1 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo-static** | 24.06-1 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
 | **libmesode** | 0.10.1-4 | Minimal XMPP library written for use with Profanity XMPP client | https://github.com/boothj5/libmesode |
 | **libmesode-static** | 0.10.1-4 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-2 | A thread-safe hash library which provides a uniform interface to hash algorithms | http://mhash.sourceforge.net/ |
