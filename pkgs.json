@@ -11977,7 +11977,7 @@
   },
   {
     "Package": "python-pip",
-    "Version": "24.1",
+    "Version": "24.1.1",
     "Description": "The PyPA recommended tool for installing Python packages",
     "Homepage": "https://pip.pypa.io/"
   },

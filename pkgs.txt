@@ -1994,7 +1994,7 @@
  python-numpy  1.26.4-1  The fundamental package for scientific computing with Python  https://numpy.org/ 
  python-numpy-static  1.26.4-1  Static libraries for python-numpy  https://numpy.org/ 
  python-pillow  10.3.0-1  Python Imaging Library  https://python-pillow.org/ 
- python-pip  24.1  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
+ python-pip  24.1.1  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
  python-pyarrow  16.1.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pynvim  0.5.0  Python client for Neovim  https://github.com/neovim/pynvim 
  python-sabyenc3  8.2.3  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
