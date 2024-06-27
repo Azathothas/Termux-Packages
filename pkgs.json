@@ -2845,7 +2845,7 @@
   },
   {
     "Package": "fx",
-    "Version": "34.0.0",
+    "Version": "35.0.0",
     "Description": "Interactive JSON viewer on your terminal",
     "Homepage": "https://github.com/antonmedv/fx"
   },
@@ -4585,7 +4585,7 @@
   },
   {
     "Package": "kak-lsp",
-    "Version": "17.0.1",
+    "Version": "17.1.1",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kak-lsp/kak-lsp"
   },

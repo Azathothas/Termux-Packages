@@ -472,7 +472,7 @@
 | **fte** | 20110708-1 | A free text editor for developers | http://fte.sourceforge.net/ |
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
-| **fx** | 34.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
+| **fx** | 35.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.53.0 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.80.1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
@@ -762,7 +762,7 @@
 | **k2pdfopt** | 2.55 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.32.5 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
-| **kak-lsp** | 17.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
+| **kak-lsp** | 17.1.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20240107 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
