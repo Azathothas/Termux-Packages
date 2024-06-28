@@ -2739,9 +2739,9 @@
   Description: Static libraries for hunspell
   Homepage: https://hunspell.github.io
 - Package: hut
-  Version: 0.5.0
+  Version: 0.6.0
   Description: A CLI tool for sr.ht
-  Homepage: https://git.sr.ht/~emersion/hut
+  Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hydroxide
   Version: 0.2.28
   Description: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
