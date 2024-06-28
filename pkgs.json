@@ -169,7 +169,7 @@
   },
   {
     "Package": "algernon",
-    "Version": "1.16.0",
+    "Version": "1.17.0",
     "Description": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
     "Homepage": "https://algernon.roboticoverlords.org/"
   },
@@ -4657,7 +4657,7 @@
   },
   {
     "Package": "krb5",
-    "Version": "1.21.2",
+    "Version": "1.21.3",
     "Description": "The Kerberos network authentication system",
     "Homepage": "https://web.mit.edu/kerberos"
   },
@@ -9973,7 +9973,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.32.0",
+    "Version": "2.32.1",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },
@@ -12739,7 +12739,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.4.10",
+    "Version": "0.5.0",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15319,7 +15319,7 @@
   },
   {
     "Package": "xmlto",
-    "Version": "0.0.28-1",
+    "Version": "0.0.29",
     "Description": "Convert xml to many other formats",
     "Homepage": "https://pagure.io/xmlto/"
   },
