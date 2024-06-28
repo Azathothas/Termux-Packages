@@ -9769,7 +9769,7 @@
   },
   {
     "Package": "mediainfo",
-    "Version": "24.06",
+    "Version": "24.06-1",
     "Description": "Command-line utility for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },

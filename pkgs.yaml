@@ -6511,7 +6511,7 @@
   Description: List of standard media types and their usual file extension
   Homepage: https://pagure.io/mailcap
 - Package: mediainfo
-  Version: "24.06"
+  Version: 24.06-1
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: megacmd

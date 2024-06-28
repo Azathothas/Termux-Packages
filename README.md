@@ -1638,7 +1638,7 @@
 | **mdns-scan** | 0.5-2 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
 | **mdp** | 1.0.15-2 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 10.1.0-1 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
-| **mediainfo** | 24.06 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **mediainfo** | 24.06-1 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **megacmd** | 1.7.0-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
 | **memcached** | 1.6.28 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
