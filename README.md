@@ -304,7 +304,7 @@
 | **dar-static** | 2.7.14 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.16 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.4.4 | Dart is a general-purpose programming language | https://dart.dev/ |
-| **dasel** | 2.7.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 2.8.0 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.8 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -1261,7 +1261,7 @@
 | **libpolly** | 18.1.8 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
-| **libprotobuf** | 2:25.1-1 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
+| **libprotobuf** | 2:25.1-2 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
 | **libprotobuf-c** | 1.5.0-1 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.0-1 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
 | **libprotozero** | 1.7.1 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
@@ -1420,7 +1420,7 @@
 | **libusbmuxd-static** | 2.0.2-p20230430-0 | Static libraries for libusbmuxd | https://libimobiledevice.org |
 | **libusbredir** | 0.13.0 | network protocol for sending USB device traffic over a network connection | https://www.spice-space.org/ |
 | **libusbredir-static** | 0.7.1 | Static libraries for libusbredir | https://www.spice-space.org/ |
-| **libutf8-range** | 2:25.1-1 | Fast UTF-8 validation with Range algorithm | https://github.com/protocolbuffers/protobuf |
+| **libutf8-range** | 2:25.1-2 | Fast UTF-8 validation with Range algorithm | https://github.com/protocolbuffers/protobuf |
 | **libuuid** | 2.39.3-4 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **libuv** | 1.48.0 | Support library with a focus on asynchronous I/O | https://libuv.org |
 | **libuv-static** | 1.48.0 | Static libraries for libuv | https://libuv.org |
@@ -1659,7 +1659,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.1.3 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.06.26.01.06.18 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2024.06.28.09.06.49 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.27.1 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.8 | Small UPnP client library and tool to access Internet Gateway Devices | http://miniupnp.free.fr/ |
@@ -1967,9 +1967,9 @@
 | **proj** | 9.4.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.14.1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
-| **protobuf** | 2:25.1-1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
-| **protobuf-dev** | 2:25.1-1 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
-| **protobuf-static** | 25.1-1 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
+| **protobuf** | 2:25.1-2 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
+| **protobuf-dev** | 2:25.1-2 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
+| **protobuf-static** | 25.1-2 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
 | **prover9** | 2009-11A-0 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **proxychains-ng** | 4.17 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.7 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
