@@ -7659,7 +7659,7 @@
   Description: Animated pipes terminal screensaver
   Homepage: https://github.com/pipeseroni/pipes.sh
 - Package: pipewire
-  Version: 1.1.82-1
+  Version: 1.2.0
   Description: A server and user space API to deal with multimedia pipelines
   Homepage: https://pipewire.org/
 - Package: pkg-config
