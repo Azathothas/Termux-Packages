@@ -6523,7 +6523,7 @@
   Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
   Homepage: https://megatools.megous.com/
 - Package: memcached
-  Version: 1.6.28
+  Version: 1.6.29
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury

@@ -9787,7 +9787,7 @@
   },
   {
     "Package": "memcached",
-    "Version": "1.6.28",
+    "Version": "1.6.29",
     "Description": "Free & open source, high-performance, distributed memory object caching system",
     "Homepage": "https://memcached.org/"
   },
