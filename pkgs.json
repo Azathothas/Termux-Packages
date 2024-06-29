@@ -2461,7 +2461,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.17.0",
+    "Version": "2.17.1",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -3067,7 +3067,7 @@
   },
   {
     "Package": "gexiv2",
-    "Version": "0.14.2",
+    "Version": "0.14.3",
     "Description": "A GObject-based Exiv2 wrapper",
     "Homepage": "https://wiki.gnome.org/Projects/gexiv2"
   },
