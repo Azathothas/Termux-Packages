@@ -6811,7 +6811,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 15.0.2
+  Version: 16.0.0
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.17.0
+  Version: 21.17.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8355,7 +8355,7 @@
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/danielgtaylor/restish
 - Package: rgbds
-  Version: 0.7.0
+  Version: 0.8.0
   Description: Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color
   Homepage: https://rgbds.gbdev.io
 - Package: rhash
@@ -9119,7 +9119,7 @@
   Description: Shell Users Revolutionary Front Rage Against the Web
   Homepage: https://gitlab.com/surfraw/Surfraw
 - Package: svt-av1
-  Version: 2.1.1
+  Version: 2.1.2
   Description: Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
   Homepage: https://gitlab.com/AOMediaCodec/SVT-AV1
 - Package: swaks
@@ -9959,7 +9959,7 @@
   Description: Utilities for testing and working with virtual terminals
   Homepage: https://github.com/fornwall/vtutils
 - Package: vulkan-extension-layer
-  Version: 1.3.287
+  Version: 1.3.289
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
@@ -9975,7 +9975,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.3.288
+  Version: 1.3.289
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
