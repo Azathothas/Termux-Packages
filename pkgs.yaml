@@ -1159,11 +1159,11 @@
   Description: Run a command as a Unix daemon
   Homepage: http://software.clapper.org/daemonize/
 - Package: dar
-  Version: 2.7.14
+  Version: 2.7.15
   Description: A full featured command-line backup tool, short for Disk ARchive
   Homepage: http://dar.linux.free.fr/
 - Package: dar-static
-  Version: 2.7.14
+  Version: 2.7.15
   Description: Static libraries for dar
   Homepage: http://dar.linux.free.fr/
 - Package: darkhttpd
@@ -6595,7 +6595,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.06.28.09.06.49
+  Version: 2024.06.29.01.20.47
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.17.1
+  Version: 21.17.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7363,7 +7363,7 @@
   Description: A multipurpose command line tool based on the Osmium Library
   Homepage: https://osmcode.org/osmium-tool/
 - Package: osslsigncode
-  Version: "2.8"
+  Version: "2.9"
   Description: OpenSSL based Authenticode signing for PE/MSI/Java CAB files
   Homepage: https://github.com/mtrojnar/osslsigncode
 - Package: ossp-uuid
