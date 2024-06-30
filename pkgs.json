@@ -10411,7 +10411,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.7.6",
+    "Version": "0.7.7",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -14227,7 +14227,7 @@
   },
   {
     "Package": "toml11",
-    "Version": "4.0.1",
+    "Version": "4.0.2",
     "Description": "toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library",
     "Homepage": "https://github.com/ToruNiina/toml11"
   },
