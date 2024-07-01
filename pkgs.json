@@ -1189,7 +1189,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.10",
+    "Version": "4.10.1",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "dasel",
-    "Version": "2.8.0",
+    "Version": "2.8.1",
     "Description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility",
     "Homepage": "https://github.com/TomWright/dasel"
   },
@@ -2365,7 +2365,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.21.5",
+    "Version": "0.22.0",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
