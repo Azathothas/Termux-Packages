@@ -7303,11 +7303,11 @@
   Description: The programmers solid 3D CAD modeller (headless build)
   Homepage: http://openscad.org/
 - Package: openssh
-  Version: 9.8p1-1
+  Version: 9.8p1-2
   Description: Secure shell for logging into a remote machine
   Homepage: https://www.openssh.com/
 - Package: openssh-sftp-server
-  Version: 9.8p1-1
+  Version: 9.8p1-2
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
