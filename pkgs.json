@@ -4603,7 +4603,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20240107",
+    "Version": "20240701",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -10957,13 +10957,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "9.8p1",
+    "Version": "9.8p1-1",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "9.8p1",
+    "Version": "9.8p1-1",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
@@ -11971,7 +11971,7 @@
   },
   {
     "Package": "python-pillow",
-    "Version": "10.3.0-1",
+    "Version": "10.4.0",
     "Description": "Python Imaging Library",
     "Homepage": "https://python-pillow.org/"
   },
@@ -12085,13 +12085,13 @@
   },
   {
     "Package": "qalc",
-    "Version": "5.1.1",
+    "Version": "5.2.0",
     "Description": "Powerful and easy to use command line calculator",
     "Homepage": "https://qalculate.github.io/"
   },
   {
     "Package": "qalc-static",
-    "Version": "5.1.1",
+    "Version": "5.2.0",
     "Description": "Static libraries for qalc",
     "Homepage": "https://qalculate.github.io/"
   },

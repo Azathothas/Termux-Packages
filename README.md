@@ -777,7 +777,7 @@
 | **kak-lsp** | 17.1.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kcptun** | 20240107 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20240701 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.3.1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-1 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -1836,8 +1836,8 @@
 | **openmpi** | 4.1.5 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5 | Static libraries for openmpi | https://www.open-mpi.org |
 | **openscad** | 2021.01 | The programmers solid 3D CAD modeller (headless build) | http://openscad.org/ |
-| **openssh** | 9.8p1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
-| **openssh-sftp-server** | 9.8p1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
+| **openssh** | 9.8p1-1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
+| **openssh-sftp-server** | 9.8p1-1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
 | **openssl** | 1:3.2.1-1 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1** | 1:1.1.1w | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1-static** | 1:1.1.1w | Static libraries for openssl-1.1 | https://www.openssl.org/ |
@@ -2005,7 +2005,7 @@
 | **python-msgpack** | 1.0.8 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 1.26.4-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 1.26.4-1 | Static libraries for python-numpy | https://numpy.org/ |
-| **python-pillow** | 10.3.0-1 | Python Imaging Library | https://python-pillow.org/ |
+| **python-pillow** | 10.4.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.1.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 16.1.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pynvim** | 0.5.0 | Python client for Neovim | https://github.com/neovim/pynvim |
@@ -2024,8 +2024,8 @@
 | **pyunbound** | 1.20.0 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.6 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
-| **qalc** | 5.1.1 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
-| **qalc-static** | 5.1.1 | Static libraries for qalc | https://qalculate.github.io/ |
+| **qalc** | 5.2.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
+| **qalc-static** | 5.2.0 | Static libraries for qalc | https://qalculate.github.io/ |
 | **qemu-common** | 1:8.2.5-2 | A set common files used by the QEMU emulators | https://www.qemu.org |
 | **qemu-system-aarch64-headless** | 1:8.2.5-2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
 | **qemu-system-arm-headless** | 1:8.2.5-2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
