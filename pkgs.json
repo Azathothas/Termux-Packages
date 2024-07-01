@@ -2431,7 +2431,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.18.20",
+    "Version": "0.18.21",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -11557,13 +11557,13 @@
   },
   {
     "Package": "poke",
-    "Version": "4.1",
+    "Version": "4.2",
     "Description": "Interactive, extensible editor for binary data.",
     "Homepage": "http://www.jemarch.net/poke.html"
   },
   {
     "Package": "poke-static",
-    "Version": "4.1",
+    "Version": "4.2",
     "Description": "Static libraries for poke",
     "Homepage": "http://www.jemarch.net/poke.html"
   },
@@ -12769,7 +12769,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240624",
+    "Version": "20240701",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
@@ -13897,7 +13897,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.0.1",
+    "Version": "16.0.3",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -14233,7 +14233,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "14.0.1",
+    "Version": "15.0.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },

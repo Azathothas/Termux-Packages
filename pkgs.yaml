@@ -1619,7 +1619,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.18.20
+  Version: 0.18.21
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -7703,11 +7703,11 @@
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
-  Version: "4.1"
+  Version: "4.2"
   Description: Interactive, extensible editor for binary data.
   Homepage: http://www.jemarch.net/poke.html
 - Package: poke-static
-  Version: "4.1"
+  Version: "4.2"
   Description: Static libraries for poke
   Homepage: http://www.jemarch.net/poke.html
 - Package: polipo
@@ -8511,7 +8511,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240624"
+  Version: "20240701"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -9263,7 +9263,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 16.0.1
+  Version: 16.0.3
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -9487,7 +9487,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 14.0.1
+  Version: 15.0.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
