@@ -505,8 +505,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.14.5 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.14.5 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.14.6 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.14.6 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.22.5 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.22.5 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.3 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -544,7 +544,7 @@
 | **glib-networking** | 2.80.0 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 0.9.9.8 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
-| **global** | 6.6.12 | Source code search and browse tools | https://www.gnu.org/software/global/ |
+| **global** | 6.6.13 | Source code search and browse tools | https://www.gnu.org/software/global/ |
 | **global-static** | 6.6.12 | Static libraries for global | https://www.gnu.org/software/global/ |
 | **glow** | 1.5.1-1 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
 | **glpk** | 5.0-1 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
@@ -588,7 +588,7 @@
 | **goose** | 3.21.1 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.15.13-1 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
-| **gopls** | 0.16.0 | The official Go language server | https://github.com/golang/tools |
+| **gopls** | 0.16.1 | The official Go language server | https://github.com/golang/tools |
 | **gotop** | 4.2.0-3 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotty** | 1.5.0-3 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
 | **gpac** | 2.2.1-3 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
@@ -862,7 +862,7 @@
 | **libburn-static** | 1.5.6 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-6 | BZ2 format compression library | http://www.bzip.org/ |
 | **libc++** | 26b | C++ Standard Library | https://libcxx.llvm.org/ |
-| **libc++utilities** | 5.24.9 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
+| **libc++utilities** | 5.25.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-3 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-3 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-1 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |

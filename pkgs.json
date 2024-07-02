@@ -3043,13 +3043,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.14.5",
+    "Version": "1.14.6",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.14.5",
+    "Version": "1.14.6",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "global",
-    "Version": "6.6.12",
+    "Version": "6.6.13",
     "Description": "Source code search and browse tools",
     "Homepage": "https://www.gnu.org/software/global/"
   },
@@ -3541,7 +3541,7 @@
   },
   {
     "Package": "gopls",
-    "Version": "0.16.0",
+    "Version": "0.16.1",
     "Description": "The official Go language server",
     "Homepage": "https://github.com/golang/tools"
   },
@@ -5185,7 +5185,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.24.9",
+    "Version": "5.25.0",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
