@@ -283,7 +283,7 @@
   },
   {
     "Package": "apache2",
-    "Version": "1:2.4.59",
+    "Version": "1:2.4.60",
     "Description": "Apache Web Server",
     "Homepage": "https://httpd.apache.org"
   },
@@ -12517,7 +12517,7 @@
   },
   {
     "Package": "restic",
-    "Version": "0.16.4",
+    "Version": "0.16.5",
     "Description": "Fast, secure, efficient backup program",
     "Homepage": "https://restic.net/"
   },
@@ -14293,7 +14293,7 @@
   },
   {
     "Package": "tree",
-    "Version": "2.1.1",
+    "Version": "2.1.2",
     "Description": "Recursive directory lister producing a depth indented listing of files",
     "Homepage": "http://mama.indstate.edu/users/ice/tree/"
   },

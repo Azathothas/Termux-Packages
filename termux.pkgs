@@ -45,7 +45,7 @@
 | **antibody** | 6.1.1-2 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-3 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
 | **aom-tools** | 3.9.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
-| **apache2** | 1:2.4.59 | Apache Web Server | https://httpd.apache.org |
+| **apache2** | 1:2.4.60 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 0.16.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
 | **appstream** | 1.0.3 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
@@ -2084,7 +2084,7 @@
 | **renameutils** | 0.12.0-2 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
-| **restic** | 0.16.4 | Fast, secure, efficient backup program | https://restic.net/ |
+| **restic** | 0.16.5 | Fast, secure, efficient backup program | https://restic.net/ |
 | **restic-server** | 0.12.1-1 | Restic's REST backend API server | https://restic.net/ |
 | **restish** | 0.20.0 | A CLI for interacting with REST-ish HTTP APIs | https://github.com/danielgtaylor/restish |
 | **rgbds** | 0.8.0 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
@@ -2380,7 +2380,7 @@
 | **traceroute** | 2.1.5 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
-| **tree** | 2.1.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
+| **tree** | 2.1.2 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter-lua** | 0.1.0 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
 | **tree-sitter-lua-static** | 0.1.0 | Static libraries for tree-sitter-lua | https://github.com/tree-sitter-grammars/tree-sitter-lua |
 | **tree-sitter-query** | 0.4.0 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
