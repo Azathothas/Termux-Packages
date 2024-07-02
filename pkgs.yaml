@@ -287,7 +287,7 @@
   Description: Record and share your terminal sessions, the right way
   Homepage: https://asciinema.org/
 - Package: asm-lsp
-  Version: 0.6.0-1
+  Version: 0.7.1
   Description: language server for NASM/GAS/GO assembly
   Homepage: https://github.com/bergercookie/asm-lsp
 - Package: aspell
@@ -751,7 +751,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: cargo-c
-  Version: 0.10.1
+  Version: 0.10.2
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: catdoc
@@ -2743,7 +2743,7 @@
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hydroxide
-  Version: 0.2.28
+  Version: 0.2.29
   Description: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
   Homepage: https://github.com/emersion/hydroxide
 - Package: hyperfine
@@ -8299,11 +8299,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.37.5
+  Version: 1.39.1
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.37.5
+  Version: 1.39.1
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recoll-static

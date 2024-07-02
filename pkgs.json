@@ -433,7 +433,7 @@
   },
   {
     "Package": "asm-lsp",
-    "Version": "0.6.0-1",
+    "Version": "0.7.1",
     "Description": "language server for NASM/GAS/GO assembly",
     "Homepage": "https://github.com/bergercookie/asm-lsp"
   },
@@ -1129,7 +1129,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.1",
+    "Version": "0.10.2",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -4117,7 +4117,7 @@
   },
   {
     "Package": "hydroxide",
-    "Version": "0.2.28",
+    "Version": "0.2.29",
     "Description": "A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge",
     "Homepage": "https://github.com/emersion/hydroxide"
   },
@@ -12451,13 +12451,13 @@
   },
   {
     "Package": "recoll",
-    "Version": "1.37.5",
+    "Version": "1.39.1",
     "Description": "Full-text search for your desktop",
     "Homepage": "https://www.recoll.org/"
   },
   {
     "Package": "recoll-python",
-    "Version": "1.37.5",
+    "Version": "1.39.1",
     "Description": "Python interface for Recoll",
     "Homepage": "https://www.recoll.org/"
   },
