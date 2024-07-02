@@ -2353,7 +2353,7 @@
   },
   {
     "Package": "entr",
-    "Version": "5.5",
+    "Version": "5.6",
     "Description": "Event Notify Test Runner - run arbitrary commands when files change",
     "Homepage": "http://eradman.com/entrproject/"
   },
@@ -3901,7 +3901,7 @@
   },
   {
     "Package": "helm-ls",
-    "Version": "0.0.17",
+    "Version": "0.0.18",
     "Description": "Language server for Helm",
     "Homepage": "https://github.com/mrjosh/helm-ls"
   },
@@ -4057,7 +4057,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.128.0",
+    "Version": "0.128.1",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -11071,7 +11071,7 @@
   },
   {
     "Package": "p11-kit",
-    "Version": "0.25.3",
+    "Version": "0.25.4",
     "Description": "Provides a way to load and enumerate PKCS#11 modules",
     "Homepage": "https://p11-glue.github.io/p11-glue/p11-kit.html"
   },
@@ -13759,7 +13759,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "1.27.8",
+    "Version": "1.27.9",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
@@ -14311,13 +14311,13 @@
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.2.3",
+    "Version": "0.2.3-1",
     "Description": "Tree-sitter parser for Markdown",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
   },
   {
     "Package": "tree-sitter-markdown-static",
-    "Version": "0.2.3",
+    "Version": "0.2.3-1",
     "Description": "Static libraries for tree-sitter-markdown",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
   },

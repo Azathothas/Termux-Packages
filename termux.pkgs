@@ -390,7 +390,7 @@
 | **enchant** | 2.8.1 | Wraps a number of different spelling libraries and programs with a consistent interface | https://abiword.github.io/enchant/ |
 | **enchant-static** | 2.8.1 | Static libraries for enchant | https://abiword.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
-| **entr** | 5.5 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
+| **entr** | 5.6 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
 | **erlang** | 27.0-1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.23.0 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.51-2 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
@@ -648,7 +648,7 @@
 | **helix-grammars** | 24.03-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.15.2 | Helm helps you manage Kubernetes applications | https://helm.sh |
-| **helm-ls** | 0.0.17 | Language server for Helm | https://github.com/mrjosh/helm-ls |
+| **helm-ls** | 0.0.18 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-5 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
 | **hexedit** | 1.6 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
@@ -674,7 +674,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.128.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.128.1 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1843,7 +1843,7 @@
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-3 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **p11-kit** | 0.25.3 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
+| **p11-kit** | 0.25.4 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.05-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 6.1.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-3 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
@@ -2291,7 +2291,7 @@
 | **swig** | 4.2.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.9.0 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.9.0 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 1.27.8 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 1.27.9 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-5 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |
@@ -2383,8 +2383,8 @@
 | **tree** | 2.1.2 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter-lua** | 0.1.0 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
 | **tree-sitter-lua-static** | 0.1.0 | Static libraries for tree-sitter-lua | https://github.com/tree-sitter-grammars/tree-sitter-lua |
-| **tree-sitter-markdown** | 0.2.3 | Tree-sitter parser for Markdown | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
-| **tree-sitter-markdown-static** | 0.2.3 | Static libraries for tree-sitter-markdown | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
+| **tree-sitter-markdown** | 0.2.3-1 | Tree-sitter parser for Markdown | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
+| **tree-sitter-markdown-static** | 0.2.3-1 | Static libraries for tree-sitter-markdown | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
 | **tree-sitter-query** | 0.4.0 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
 | **tree-sitter-query-static** | 0.4.0 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars/tree-sitter-query |
 | **tree-sitter-vimdoc** | 3.0.0 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
