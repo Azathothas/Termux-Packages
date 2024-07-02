@@ -2224,7 +2224,7 @@
 | **softether-vpn-static** | 5.02.5180-4 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.8.0 | A user-friendly IRC bouncer | https://git.sr.ht/~emersion/soju |
 | **solidity** | 0.8.26 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
-| **sops** | 3.8.1 | Simple and flexible tool for managing secrets | https://github.com/mozilla/sops |
+| **sops** | 3.9.0 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.16-1 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sox** | 14.4.2-25 | Command line utility for converting between and applying effects to various audio files formats | http://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-25 | Static libraries for sox | http://sox.sourceforge.net/ |

@@ -8855,9 +8855,9 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://solidity.readthedocs.io
 - Package: sops
-  Version: 3.8.1
+  Version: 3.9.0
   Description: Simple and flexible tool for managing secrets
-  Homepage: https://github.com/mozilla/sops
+  Homepage: https://github.com/getsops/sops
 - Package: sord
   Version: 0.16.16-1
   Description: A lightweight C library for storing RDF data in memory
