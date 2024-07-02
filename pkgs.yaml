@@ -1575,7 +1575,7 @@
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.22.0
+  Version: 0.23.0
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -3067,7 +3067,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
-  Version: "20240701"
+  Version: "20240702"
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
