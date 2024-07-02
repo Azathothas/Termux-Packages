@@ -1748,7 +1748,7 @@
 | **neocmakelsp** | 0.7.7 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20240425 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.10.0-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim** | 0.10.0-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.0 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2395,6 +2395,8 @@
 | **tree** | 2.1.2 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **tree-sitter-lua** | 0.1.0 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
 | **tree-sitter-lua-static** | 0.1.0 | Static libraries for tree-sitter-lua | https://github.com/tree-sitter-grammars/tree-sitter-lua |
+| **tree-sitter-markdown** | 0.2.3 | Tree-sitter parser for Markdown | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
+| **tree-sitter-markdown-static** | 0.2.3 | Static libraries for tree-sitter-markdown | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
 | **tree-sitter-query** | 0.4.0 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
 | **tree-sitter-query-static** | 0.4.0 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars/tree-sitter-query |
 | **tree-sitter-vimdoc** | 3.0.0 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |

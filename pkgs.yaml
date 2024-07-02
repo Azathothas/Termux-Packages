@@ -6951,7 +6951,7 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.10.0-1
+  Version: 0.10.0-2
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9538,6 +9538,14 @@
   Version: 0.1.0
   Description: Static libraries for tree-sitter-lua
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
+- Package: tree-sitter-markdown
+  Version: 0.2.3
+  Description: Tree-sitter parser for Markdown
+  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
+- Package: tree-sitter-markdown-static
+  Version: 0.2.3
+  Description: Static libraries for tree-sitter-markdown
+  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
 - Package: tree-sitter-query
   Version: 0.4.0
   Description: TS query grammar for tree-sitter
