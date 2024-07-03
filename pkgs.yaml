@@ -3067,7 +3067,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
-  Version: 20240702-1
+  Version: "20240703"
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
@@ -7699,7 +7699,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.22.14
+  Version: 0.22.15
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
