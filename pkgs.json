@@ -12919,7 +12919,7 @@
   },
   {
     "Package": "scc",
-    "Version": "3.3.4",
+    "Version": "3.3.5",
     "Description": "Counts physical the lines of code, blank lines, comment lines, and physical lines of source code",
     "Homepage": "https://github.com/boyter/scc"
   },
