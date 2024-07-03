@@ -1252,7 +1252,7 @@
 | **libplacebo** | 6.338.2 | Reusable library for GPU-accelerated video/image rendering | http://libplacebo.org/ |
 | **libplist** | 2.6.0 | A small portable C library to handle Apple Property List files in binary or XML format | https://libimobiledevice.org |
 | **libplist-static** | 2.6.0 | Static libraries for libplist | https://libimobiledevice.org |
-| **libpluto** | 0.9.3 | Shared library for the Pluto interpreter. | https://plutolang.github.io/ |
+| **libpluto** | 0.9.4 | Shared library for the Pluto interpreter. | https://plutolang.github.io/ |
 | **libpng** | 1.6.43 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
 | **libpng-static** | 1.6.43 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0 | C++ library for creating PNG images | http://pngwriter.sourceforge.net |
@@ -1931,7 +1931,7 @@
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
 | **plantuml** | 1.2024.5 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
-| **plutolang** | 0.9.3 | A superset of Lua 5.4, with unique features, optimizations, and improvements | https://plutolang.github.io/ |
+| **plutolang** | 0.9.4 | A superset of Lua 5.4, with unique features, optimizations, and improvements | https://plutolang.github.io/ |
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
