@@ -29,7 +29,7 @@
 | **ack-grep** | 3.7.0 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.1.4 | A fully compatible autoconf replacement | https://github.com/radare/acr |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
-| **aerc** | 0.17.0 | A pretty good email client | https://aerc-mail.org/ |
+| **aerc** | 0.18.0 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.7 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
 | **age** | 1:1.1.1-2 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
@@ -225,7 +225,7 @@
 | **chafa-static** | 1.14.1 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.49.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.50.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.3.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.3.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.4 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -246,8 +246,8 @@
 | **cloudflared** | 2024.6.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20240627.202929 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 3.29.6 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 3.29.6 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 3.30.0 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 3.30.0 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.0 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.0 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -851,8 +851,8 @@
 | **libasio** | 1.24.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.191 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.191 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
-| **libass** | 0.17.2 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
-| **libass-static** | 0.17.2 | Static libraries for libass | https://github.com/libass/libass |
+| **libass** | 0.17.3 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
+| **libass-static** | 0.17.3 | Static libraries for libass | https://github.com/libass/libass |
 | **libassuan** | 2.5.7 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
 | **libassuan-static** | 2.5.7 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
 | **libatomic-ops** | 7.8.2 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/ivmai/libatomic_ops |

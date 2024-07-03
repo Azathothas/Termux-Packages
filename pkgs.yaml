@@ -75,7 +75,7 @@
   Description: A code generator for the Verilog-AMS language
   Homepage: https://github.com/qucs/adms
 - Package: aerc
-  Version: 0.17.0
+  Version: 0.18.0
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
@@ -859,7 +859,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.49.1
+  Version: 2.50.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -943,11 +943,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 3.29.6
+  Version: 3.30.0
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 3.29.6
+  Version: 3.30.0
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -3363,11 +3363,11 @@
   Description: Static library to assemble and disassemble instructions
   Homepage: https://sourceware.org/elfutils/
 - Package: libass
-  Version: 0.17.2
+  Version: 0.17.3
   Description: A portable library for SSA/ASS subtitles rendering
   Homepage: https://github.com/libass/libass
 - Package: libass-static
-  Version: 0.17.2
+  Version: 0.17.3
   Description: Static libraries for libass
   Homepage: https://github.com/libass/libass
 - Package: libassuan
