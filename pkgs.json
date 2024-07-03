@@ -3871,7 +3871,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.44.1",
+    "Version": "1.44.2",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
