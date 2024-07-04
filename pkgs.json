@@ -9895,7 +9895,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.06.29.01.20.47",
+    "Version": "2024.07.04.14.25.45",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -10747,7 +10747,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.18.1",
+    "Version": "21.20.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14935,7 +14935,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.83",
+    "Version": "0.9.84",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
