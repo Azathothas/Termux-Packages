@@ -7597,7 +7597,7 @@
   },
   {
     "Package": "libre2",
-    "Version": "2024.03.01-1",
+    "Version": "2024.07.02",
     "Description": "A regular expression library",
     "Homepage": "https://github.com/google/re2"
   },
@@ -11845,7 +11845,7 @@
   },
   {
     "Package": "pygobject",
-    "Version": "3.44.1",
+    "Version": "3.48.2",
     "Description": "Python package which provides bindings for GObject based libraries",
     "Homepage": "https://pygobject.readthedocs.io/"
   },
