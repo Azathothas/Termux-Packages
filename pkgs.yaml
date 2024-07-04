@@ -2431,11 +2431,11 @@
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
-  Version: 11.0.0
+  Version: 12.0.0
   Description: Rich set of graph drawing tools
   Homepage: https://www.graphviz.org/
 - Package: graphviz-static
-  Version: 11.0.0
+  Version: 12.0.0
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
@@ -2703,7 +2703,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.128.1
+  Version: 0.128.2
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -6383,7 +6383,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.9.0
+  Version: 3.9.1
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.17.2
+  Version: 21.18.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7379,7 +7379,7 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: p11-kit
-  Version: 0.25.4
+  Version: 0.25.5
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 - Package: p7zip
@@ -9263,7 +9263,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 16.0.3
+  Version: 16.0.4
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -10019,7 +10019,7 @@
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
-  Version: 1.9.0
+  Version: 1.10.0
   Description: A terminal file manager
   Homepage: https://github.com/antonmedv/walk
 - Package: wasi-libc
