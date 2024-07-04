@@ -186,8 +186,8 @@
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.18-p20240317-0 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.18-p20240317-0 | Static libraries for c-toxcore | https://tox.chat |
-| **ca-certificates** | 1:2024.03.11-2 | Common CA certificates | https://curl.se/docs/caextract.html |
-| **ca-certificates-java** | 1:2024.03.11-2 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
+| **ca-certificates** | 1:2024.07.02 | Common CA certificates | https://curl.se/docs/caextract.html |
+| **ca-certificates-java** | 1:2024.07.02 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabal-install** | 3.8.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.24-2 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
@@ -561,7 +561,7 @@
 | **glow** | 1.5.1-1 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
 | **glpk** | 5.0-1 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
 | **glpk-static** | 5.0-1 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
-| **glslang** | 14.2.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
+| **glslang** | 14.3.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-1 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.5.4-5 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
 | **gmic** | 3.4.0 | Full-featured framework for image processing | https://gmic.eu |

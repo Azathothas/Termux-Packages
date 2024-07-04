@@ -703,11 +703,11 @@
   Description: Static libraries for c-toxcore
   Homepage: https://tox.chat
 - Package: ca-certificates
-  Version: 1:2024.03.11-2
+  Version: 1:2024.07.02
   Description: Common CA certificates
   Homepage: https://curl.se/docs/caextract.html
 - Package: ca-certificates-java
-  Version: 1:2024.03.11-2
+  Version: 1:2024.07.02
   Description: Common CA certificates (java keystore format)
   Homepage: https://curl.se/docs/caextract.html
 - Package: cabal-install
@@ -2203,7 +2203,7 @@
   Description: Static libraries for glpk
   Homepage: https://www.gnu.org/software/glpk/
 - Package: glslang
-  Version: 14.2.0
+  Version: 14.3.0
   Description: OpenGL and OpenGL ES shader front end and validator
   Homepage: https://github.com/KhronosGroup/glslang
 - Package: gluelang
