@@ -2461,7 +2461,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.17.1",
+    "Version": "2.17.2",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.22.0",
+    "Version": "1.22.1",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
