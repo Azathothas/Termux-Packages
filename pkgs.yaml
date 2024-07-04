@@ -95,7 +95,7 @@
   Description: Converts ANSI escape sequences of a unix terminal to HTML code
   Homepage: https://github.com/theZiz/aha
 - Package: aichat
-  Version: 0.18.0
+  Version: 0.19.0
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
@@ -187,7 +187,7 @@
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: apache2
-  Version: 1:2.4.60
+  Version: 1:2.4.61
   Description: Apache Web Server
   Homepage: https://httpd.apache.org
 - Package: apkeep
@@ -315,7 +315,7 @@
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: assimp
-  Version: 5.4.1
+  Version: 5.4.2
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
 - Package: assimp-static
@@ -6811,7 +6811,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 16.0.0
+  Version: 16.0.1
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -10071,23 +10071,23 @@
   Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
   Homepage: http://websocketd.com/
 - Package: weechat
-  Version: 4.3.3
+  Version: 4.3.4
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.3.3
+  Version: 4.3.4
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-perl-plugin
-  Version: 4.3.3
+  Version: 4.3.4
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.3.3
+  Version: 4.3.4
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.3.3
+  Version: 4.3.4
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli
@@ -10387,7 +10387,7 @@
   Description: Zig language server
   Homepage: https://github.com/zigtools/zls
 - Package: znc
-  Version: 1.9.0-1
+  Version: 1.9.1
   Description: An advanced IRC bouncer
   Homepage: https://znc.in/
 - Package: zopfli
