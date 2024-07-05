@@ -12739,7 +12739,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.5.0",
+    "Version": "0.5.1",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
