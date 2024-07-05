@@ -2725,7 +2725,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "7.0.4",
+    "Version": "7.0.5",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -14935,7 +14935,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.84",
+    "Version": "0.9.85",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
