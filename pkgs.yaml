@@ -5911,23 +5911,23 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.13.1-1
+  Version: 2.13.2
   Description: Library for parsing XML documents
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python
-  Version: 2.13.1-1
+  Version: 2.13.2
   Description: Python bindings for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python-static
-  Version: 2.13.1-1
+  Version: 2.13.2
   Description: Static libraries for libxml2-python
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-static
-  Version: 2.13.1-1
+  Version: 2.13.2
   Description: Static libraries for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-utils
-  Version: 2.13.1-1
+  Version: 2.13.2
   Description: XML utilities
   Homepage: http://www.xmlsoft.org
 - Package: libxmlb
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.20.0
+  Version: 21.20.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
