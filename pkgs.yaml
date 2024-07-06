@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.20.2
+  Version: 21.21.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7675,7 +7675,7 @@
   Description: Interactive package manager and resource monitor
   Homepage: https://github.com/orhun/pkgtop
 - Package: plantuml
-  Version: 1.2024.5
+  Version: 1.2024.6
   Description: Draws UML diagrams, using a simple and human readable text description
   Homepage: https://plantuml.com/
 - Package: play-audio
@@ -7699,7 +7699,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.22.15
+  Version: 0.22.16
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -9375,7 +9375,7 @@
   Description: Documentation system for on-line information and printed output
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: texlab
-  Version: 5.17.0
+  Version: 5.18.0
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
