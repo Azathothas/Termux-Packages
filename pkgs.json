@@ -949,7 +949,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.39.0",
+    "Version": "1.39.1",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
