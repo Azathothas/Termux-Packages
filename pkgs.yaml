@@ -3015,7 +3015,7 @@
   Description: Static libraries for json-c
   Homepage: https://github.com/json-c/json-c/wiki
 - Package: json-glib
-  Version: 1.8.0
+  Version: 1.8.0-1
   Description: GLib JSON manipulation library
   Homepage: https://wiki.gnome.org/Projects/JsonGlib
 - Package: jsoncpp
@@ -3035,7 +3035,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.30.0
+  Version: 1.30.1
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
