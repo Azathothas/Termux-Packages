@@ -9523,7 +9523,7 @@
   Description: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
   Homepage: https://www.soimort.org/translate-shell
 - Package: transmission
-  Version: 4.0.6
+  Version: 4.0.6-1
   Description: Easy, lean and powerful BitTorrent client
   Homepage: https://transmissionbt.com/
 - Package: tree
