@@ -2281,7 +2281,7 @@
   },
   {
     "Package": "elixir",
-    "Version": "1.17.1",
+    "Version": "1.17.2",
     "Description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
     "Homepage": "https://elixir-lang.org/"
   },
@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.29.1",
+    "Version": "1.30.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },

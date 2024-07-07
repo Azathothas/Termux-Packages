@@ -378,7 +378,7 @@
 | **electrum** | 4.5.5 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.191 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.17.0-1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
-| **elixir** | 1.17.1 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
+| **elixir** | 1.17.2 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.20.1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.4 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
@@ -757,7 +757,7 @@
 | **jsoncpp-static** | 1.9.5-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.29.1 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.30.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.32.5 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
