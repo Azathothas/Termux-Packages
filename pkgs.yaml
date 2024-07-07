@@ -9955,7 +9955,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.85
+  Version: 0.9.86
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
