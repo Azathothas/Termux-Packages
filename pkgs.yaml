@@ -3015,7 +3015,7 @@
   Description: Static libraries for json-c
   Homepage: https://github.com/json-c/json-c/wiki
 - Package: json-glib
-  Version: 1.8.0-1
+  Version: 1.9.2
   Description: GLib JSON manipulation library
   Homepage: https://wiki.gnome.org/Projects/JsonGlib
 - Package: jsoncpp

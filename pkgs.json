@@ -4525,7 +4525,7 @@
   },
   {
     "Package": "json-glib",
-    "Version": "1.8.0-1",
+    "Version": "1.9.2",
     "Description": "GLib JSON manipulation library",
     "Homepage": "https://wiki.gnome.org/Projects/JsonGlib"
   },
