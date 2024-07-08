@@ -10747,7 +10747,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.21.1",
+    "Version": "21.21.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12853,7 +12853,7 @@
   },
   {
     "Package": "rustscan",
-    "Version": "2.2.3",
+    "Version": "2.3.0",
     "Description": "The modern,fast,smart and effective port scanner",
     "Homepage": "https://rustscan.github.io/RustScan"
   },

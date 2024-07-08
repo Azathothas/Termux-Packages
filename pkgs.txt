@@ -1789,7 +1789,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  21.21.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  21.21.2  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.5.1  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-8  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2140,7 +2140,7 @@
  rust-std-x86-64-linux-android  1.79.0-1  Rust std for target x86_64-linux-android  https://www.rust-lang.org/ 
  rustc-dev  1.79.0-1  Rust compiler development libs  https://www.rust-lang.org/ 
  rustc-src  1.79.0-1  Rust compiler source code files  https://www.rust-lang.org/ 
- rustscan  2.2.3  The modern,fast,smart and effective port scanner  https://rustscan.github.io/RustScan 
+ rustscan  2.3.0  The modern,fast,smart and effective port scanner  https://rustscan.github.io/RustScan 
  rw  1.0.1  A Rust implementation of sponge(1) that never write to TMPDIR  https://github.com/jridgewell/rw 
  rxfetch  2023.01.07  A custom system info fetching tool  https://github.com/Mangeshrex/rxfetch 
  sabnzbd  4.3.2  Fully automated Usenet Binary Downloader  https://sabnzbd.org/ 
