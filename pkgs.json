@@ -739,7 +739,7 @@
   },
   {
     "Package": "binaryen",
-    "Version": "117",
+    "Version": "118",
     "Description": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
     "Homepage": "https://github.com/WebAssembly/binaryen"
   },
@@ -3241,19 +3241,19 @@
   },
   {
     "Package": "glib",
-    "Version": "2.80.3",
+    "Version": "2.80.4",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-bin",
-    "Version": "2.80.3",
+    "Version": "2.80.4",
     "Description": "Programs for the GLib library",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.80.3",
+    "Version": "2.80.4",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -11977,7 +11977,7 @@
   },
   {
     "Package": "python-pip",
-    "Version": "24.1.1",
+    "Version": "24.1.2",
     "Description": "The PyPA recommended tool for installing Python packages",
     "Homepage": "https://pip.pypa.io/"
   },
@@ -14065,7 +14065,7 @@
   },
   {
     "Package": "texlab",
-    "Version": "5.18.0",
+    "Version": "5.19.0",
     "Description": "A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system",
     "Homepage": "https://texlab.netlify.app/"
   },
@@ -14767,7 +14767,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.6.0",
+    "Version": "3.6.1",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
@@ -14935,7 +14935,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.86",
+    "Version": "0.9.87",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
@@ -15295,7 +15295,7 @@
   },
   {
     "Package": "xh",
-    "Version": "0.22.0",
+    "Version": "0.22.2",
     "Description": "A friendly and fast tool for sending HTTP requests",
     "Homepage": "https://github.com/ducaale/xh"
   },

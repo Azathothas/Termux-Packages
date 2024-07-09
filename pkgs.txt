@@ -121,7 +121,7 @@
  bftpd  6.2  Small, easy-to-configure FTP server  https://bftpd.sourceforge.net/ 
  bgrep  1.0-3  Binary string grep tool  https://debugmo.de/2009/04/bgrep-a-binary-grep/ 
  biboumi  9.0-4  An XMPP gateway that connects to IRC servers and translates between the two protocols  https://biboumi.louiz.org/ 
- binaryen  117  Binaryen is a compiler and toolchain infrastructure library for WebAssembly  https://github.com/WebAssembly/binaryen 
+ binaryen  118  Binaryen is a compiler and toolchain infrastructure library for WebAssembly  https://github.com/WebAssembly/binaryen 
  binutils  2.42  GNU Binutils (metapackage)  https://www.gnu.org/software/binutils/ 
  binutils-bin  2.42  Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.42  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
@@ -538,9 +538,9 @@
  gkermit  2.01  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.43.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.2.1  A friendly language for building type-safe, scalable systems!  https://gleam.run 
- glib  2.80.3  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
- glib-bin  2.80.3  Programs for the GLib library  https://developer.gnome.org/glib/ 
- glib-cross  2.80.3  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
+ glib  2.80.4  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
+ glib-bin  2.80.4  Programs for the GLib library  https://developer.gnome.org/glib/ 
+ glib-cross  2.80.4  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
  glib-networking  2.80.0  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
  glibc-repo  1.0  A package repository containing glibc-based programs and libraries  https://github.com/termux/glibc-packages 
  glm  0.9.9.8  C++ mathematics library for graphics software based on the GLSL specifications  https://glm.g-truc.net/ 
@@ -1994,7 +1994,7 @@
  python-numpy  1.26.4-1  The fundamental package for scientific computing with Python  https://numpy.org/ 
  python-numpy-static  1.26.4-1  Static libraries for python-numpy  https://numpy.org/ 
  python-pillow  10.4.0  Python Imaging Library  https://python-pillow.org/ 
- python-pip  24.1.1  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
+ python-pip  24.1.2  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
  python-pyarrow  16.1.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pynvim  0.5.0  Python client for Neovim  https://github.com/neovim/pynvim 
  python-sabyenc3  8.2.3  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
@@ -2342,7 +2342,7 @@
  testssl.sh  3.0.9  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
  tex-gyre  2.501-1  The TeX Gyre (TG) Collection of Fonts  https://www.gust.org.pl/projects/e-foundry/tex-gyre/ 
  texinfo  7.1-2  Documentation system for on-line information and printed output  https://www.gnu.org/software/texinfo/ 
- texlab  5.18.0  A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system  https://texlab.netlify.app/ 
+ texlab  5.19.0  A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system  https://texlab.netlify.app/ 
  texlive-bin  20240310-1  TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.  https://www.tug.org/texlive/ 
  texlive-bin-static  20240310-1  Static libraries for texlive-bin  https://www.tug.org/texlive/ 
  texlive-installer  20240310-1  Wrapper around texlive's install-tl script  https://www.tug.org/texlive/ 
@@ -2459,7 +2459,7 @@
  valac-static  0.56.17  Static libraries for valac  https://wiki.gnome.org/Projects/Vala 
  valadoc  0.56.17  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
  valadoc-static  0.56.17  Static libraries for valadoc  https://wiki.gnome.org/Projects/Vala 
- vale  3.6.0  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
+ vale  3.6.1  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
  valgrind  3.22.0-1  Instrumentation framework for building dynamic analysis tools  https://valgrind.org/ 
  valgrind-static  3.22.0-1  Static libraries for valgrind  https://valgrind.org/ 
  vamp-plugin-sdk  2.10-2  An API for audio analysis and feature extraction plugins  https://www.vamp-plugins.org/ 
@@ -2487,7 +2487,7 @@
  vlc-static  3.0.21  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-2  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.2-2  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  0.9.86  Terminal multiplexer with TUI window manager and multi-party session sharing  https://vtm.netxs.online/ 
+ vtm  0.9.87  Terminal multiplexer with TUI window manager and multi-party session sharing  https://vtm.netxs.online/ 
  vttest  20240218  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-4  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.3.289  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
@@ -2547,7 +2547,7 @@
  xapian-tools  1.4.25  Basic tools for the Xapian search engine  https://xapian.org 
  xcb-proto  1.17.0  XML-XCB protocol descriptions  https://xcb.freedesktop.org/ 
  xdelta3  3.1.0-1  xdelta3 - VCDIFF (RFC 3284) binary diff tool  https://github.com/jmacd/xdelta 
- xh  0.22.0  A friendly and fast tool for sending HTTP requests  https://github.com/ducaale/xh 
+ xh  0.22.2  A friendly and fast tool for sending HTTP requests  https://github.com/ducaale/xh 
  xls2csv  1.6.2  A command-line tool for converting XLS to CSV  https://github.com/libxls/libxls 
  xmake  2.9.3  A cross-platform build utility based on Lua  https://xmake.io/ 
  xmlsec  1.3.4  XML Security Library  https://www.aleksey.com/xmlsec/ 
