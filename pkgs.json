@@ -3235,7 +3235,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.2.1",
+    "Version": "1.3.0",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -8653,7 +8653,7 @@
   },
   {
     "Package": "libwolfssl",
-    "Version": "5.7.0",
+    "Version": "5.7.2",
     "Description": "A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud",
     "Homepage": "https://www.wolfssl.com/"
   },
@@ -10747,7 +10747,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.22.0",
+    "Version": "21.23.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
