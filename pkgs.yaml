@@ -219,7 +219,7 @@
   Description: Static libraries for apr-util
   Homepage: https://apr.apache.org/
 - Package: apt
-  Version: 2.7.14
+  Version: 2.7.14-1
   Description: Front-end for the dpkg package manager
   Homepage: https://packages.debian.org/apt
 - Package: apt-file
@@ -227,11 +227,11 @@
   Description: search for files within packages
   Homepage: https://wiki.debian.org/apt-file
 - Package: apt-ftparchive
-  Version: 2.7.14
+  Version: 2.7.14-1
   Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
   Homepage: https://packages.debian.org/apt
 - Package: apt-transport-tor
-  Version: 2.7.14
+  Version: 2.7.14-1
   Description: APT transport for anonymous package downloads via Tor
   Homepage: https://packages.debian.org/apt
 - Package: aptitude
@@ -1871,7 +1871,7 @@
   Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
   Homepage: https://gitlab.com/DavidGriffith/frotz
 - Package: frp
-  Version: 0.58.1
+  Version: 0.59.0
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
@@ -5911,23 +5911,23 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.13.2
+  Version: 2.13.2-1
   Description: Library for parsing XML documents
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python
-  Version: 2.13.2
+  Version: 2.13.2-1
   Description: Python bindings for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python-static
-  Version: 2.13.2
+  Version: 2.13.2-1
   Description: Static libraries for libxml2-python
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-static
-  Version: 2.13.2
+  Version: 2.13.2-1
   Description: Static libraries for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-utils
-  Version: 2.13.2
+  Version: 2.13.2-1
   Description: XML utilities
   Homepage: http://www.xmlsoft.org
 - Package: libxmlb
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.21.2
+  Version: 21.21.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7919,7 +7919,7 @@
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
-  Version: 3.11.9-2
+  Version: 3.11.9-3
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
@@ -7943,7 +7943,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
-  Version: 3.11.9-2
+  Version: 3.11.9-3
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
@@ -7999,11 +7999,11 @@
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-static
-  Version: 3.11.9-2
+  Version: 3.11.9-3
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tkinter
-  Version: 3.11.9-2
+  Version: 3.11.9-3
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp
@@ -9339,7 +9339,7 @@
   Description: A graphical package manager for various package formats for Termux and proot-distro distros
   Homepage: https://github.com/tareksander/termux-gui-pm
 - Package: termux-keyring
-  Version: "3.12"
+  Version: 3.12-1
   Description: GPG public keys for the official Termux repositories
   Homepage: https://github.com/termux
 - Package: termux-licenses

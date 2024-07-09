@@ -331,7 +331,7 @@
   },
   {
     "Package": "apt",
-    "Version": "2.7.14",
+    "Version": "2.7.14-1",
     "Description": "Front-end for the dpkg package manager",
     "Homepage": "https://packages.debian.org/apt"
   },
@@ -343,13 +343,13 @@
   },
   {
     "Package": "apt-ftparchive",
-    "Version": "2.7.14",
+    "Version": "2.7.14-1",
     "Description": "apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source",
     "Homepage": "https://packages.debian.org/apt"
   },
   {
     "Package": "apt-transport-tor",
-    "Version": "2.7.14",
+    "Version": "2.7.14-1",
     "Description": "APT transport for anonymous package downloads via Tor",
     "Homepage": "https://packages.debian.org/apt"
   },
@@ -2809,7 +2809,7 @@
   },
   {
     "Package": "frp",
-    "Version": "0.58.1",
+    "Version": "0.59.0",
     "Description": "A fast reverse proxy to expose a local server behind a NAT or firewall to the internet",
     "Homepage": "https://github.com/fatedier/frp"
   },
@@ -8869,31 +8869,31 @@
   },
   {
     "Package": "libxml2",
-    "Version": "2.13.2",
+    "Version": "2.13.2-1",
     "Description": "Library for parsing XML documents",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-python",
-    "Version": "2.13.2",
+    "Version": "2.13.2-1",
     "Description": "Python bindings for libxml2",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-python-static",
-    "Version": "2.13.2",
+    "Version": "2.13.2-1",
     "Description": "Static libraries for libxml2-python",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-static",
-    "Version": "2.13.2",
+    "Version": "2.13.2-1",
     "Description": "Static libraries for libxml2",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-utils",
-    "Version": "2.13.2",
+    "Version": "2.13.2-1",
     "Description": "XML utilities",
     "Homepage": "http://www.xmlsoft.org"
   },
@@ -10747,7 +10747,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.21.2",
+    "Version": "21.21.3",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11881,7 +11881,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.11.9-2",
+    "Version": "3.11.9-3",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -11917,7 +11917,7 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.11.9-2",
+    "Version": "3.11.9-3",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
@@ -12001,13 +12001,13 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.11.9-2",
+    "Version": "3.11.9-3",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.11.9-2",
+    "Version": "3.11.9-3",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
@@ -14011,7 +14011,7 @@
   },
   {
     "Package": "termux-keyring",
-    "Version": "3.12",
+    "Version": "3.12-1",
     "Description": "GPG public keys for the official Termux repositories",
     "Homepage": "https://github.com/termux"
   },
