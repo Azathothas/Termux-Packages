@@ -4419,7 +4419,7 @@
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
-  Version: 1.9.4
+  Version: 1.9.4-1
   Description: Fast LZ compression algorithm library
   Homepage: https://lz4.github.io/lz4/
 - Package: liblzma
@@ -6295,7 +6295,7 @@
   Description: The text web browser
   Homepage: http://lynx.browser.org/
 - Package: lz4
-  Version: 1.9.4
+  Version: 1.9.4-1
   Description: Fast LZ compression algorithm tool
   Homepage: https://lz4.github.io/lz4/
 - Package: lzip
@@ -7463,7 +7463,7 @@
   Description: A command-line tool to generate, analyze, convert and manipulate colors
   Homepage: https://github.com/sharkdp/pastel
 - Package: patch
-  Version: 2.7.6-3
+  Version: 2.7.6-4
   Description: GNU patch which applies diff files to create patched files
   Homepage: https://savannah.gnu.org/projects/patch/
 - Package: patchelf
@@ -9255,7 +9255,7 @@
   Description: A modernized, complete, self-contained TeX/LaTeX engine
   Homepage: https://tectonic-typesetting.github.io/
 - Package: telegram-bot-api
-  Version: "20240618"
+  Version: "20240707"
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: telegram-cli

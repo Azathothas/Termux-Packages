@@ -1103,7 +1103,7 @@
 | **liblua54-static** | 5.4.6-1 | Static libraries for liblua54 | https://www.lua.org/ |
 | **libluajit** | 1:2.1.1720049189 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **libluajit-static** | 1:2.1.1720049189 | Static libraries for libluajit | https://luajit.org/ |
-| **liblz4** | 1.9.4 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
+| **liblz4** | 1.9.4-1 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.6.2 | XZ-format compression library | https://xz.tukaani.org/xz-utils/ |
 | **liblzma-static** | 5.6.2 | Static libraries for liblzma | https://xz.tukaani.org/xz-utils/ |
 | **liblzo** | 2.10-3 | Portable lossless data compression library | http://www.oberhumer.com/opensource/lzo |
@@ -1572,7 +1572,7 @@
 | **lv2** | 1.18.10-3 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.15.1 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.8.9rel.1-8 | The text web browser | http://lynx.browser.org/ |
-| **lz4** | 1.9.4 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
+| **lz4** | 1.9.4-1 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
 | **lzip** | 1.24.1 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
 | **lzlib** | 1.14 | A library providing in-memory LZMA compression and decompression functions | http://www.nongnu.org/lzip/lzlib.html |
 | **lzlib-static** | 1.14 | Static libraries for lzlib | http://www.nongnu.org/lzip/lzlib.html |
@@ -1864,7 +1864,7 @@
 | **passphrase2pgp** | 1.3.0-2 | Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase | https://github.com/skeeto/passphrase2pgp |
 | **pastebinit** | 1.5.1-1 | Command-line pastebin client | https://launchpad.net/pastebinit |
 | **pastel** | 0.9.0-1 | A command-line tool to generate, analyze, convert and manipulate colors | https://github.com/sharkdp/pastel |
-| **patch** | 2.7.6-3 | GNU patch which applies diff files to create patched files | https://savannah.gnu.org/projects/patch/ |
+| **patch** | 2.7.6-4 | GNU patch which applies diff files to create patched files | https://savannah.gnu.org/projects/patch/ |
 | **patchelf** | 0.18.0 | Utility to modify the dynamic linker and RPATH of ELF executables | https://nixos.org/patchelf.html |
 | **pathpicker** | 0.9.5-1 | Facebook PathPicker - a terminal-based file picker | https://facebook.github.io/PathPicker/ |
 | **pb** | 2022.11.03-1 | A helper utility for using 0x0 pastebin services | https://tildegit.org/tomasino/pb |
@@ -2312,7 +2312,7 @@
 | **teckit** | 2.5.12 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.12 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.15.0-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
-| **telegram-bot-api** | 20240618 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
+| **telegram-bot-api** | 20240707 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
 | **teleport-tsh** | 16.0.4 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
