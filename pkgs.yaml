@@ -1639,7 +1639,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.17.2
+  Version: 2.18.0
   Description: A neofetch-like tool for fetching system information and displaying them in a pretty way
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -2155,7 +2155,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.3.0
+  Version: 1.3.1
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -4091,11 +4091,11 @@
   Description: Static libraries for libhdf5
   Homepage: https://portal.hdfgroup.org/display/support
 - Package: libheif
-  Version: 1.17.6
+  Version: 1.18.0
   Description: HEIF (HEIC/AVIF) image encoding and decoding library
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-progs
-  Version: 1.17.6
+  Version: 1.18.0
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-static
@@ -7059,11 +7059,11 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect.
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 22.4.0
+  Version: 22.4.1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
-  Version: 20.14.0
+  Version: 20.15.1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.23.0
+  Version: 21.23.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
