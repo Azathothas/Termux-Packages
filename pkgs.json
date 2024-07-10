@@ -14293,7 +14293,7 @@
   },
   {
     "Package": "tree",
-    "Version": "2.1.2",
+    "Version": "2.1.3",
     "Description": "Recursive directory lister producing a depth indented listing of files",
     "Homepage": "http://mama.indstate.edu/users/ice/tree/"
   },
@@ -14935,7 +14935,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.87",
+    "Version": "0.9.88",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
