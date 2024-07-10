@@ -1571,7 +1571,7 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: http://eradman.com/entrproject/
 - Package: erlang
-  Version: 27.0-1
+  Version: 27.0.1
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -1963,7 +1963,7 @@
   Description: Static libraries for gdal
   Homepage: https://gdal.org
 - Package: gdb
-  Version: "14.2"
+  Version: 14.2-1
   Description: The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdbm
@@ -1975,7 +1975,7 @@
   Description: Static libraries for gdbm
   Homepage: https://www.gnu.org.ua/software/gdbm/
 - Package: gdbserver
-  Version: "14.2"
+  Version: 14.2-1
   Description: The gdbserver program
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdk-pixbuf
@@ -2595,7 +2595,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 3.15.2
+  Version: 3.15.3
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -3003,7 +3003,7 @@
   Description: Static libraries for jq
   Homepage: https://stedolan.github.io/jq/
 - Package: jql
-  Version: 7.1.12
+  Version: 7.1.13
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -3043,7 +3043,7 @@
   Description: Python for the Java Platform
   Homepage: https://www.jython.org/
 - Package: k2pdfopt
-  Version: "2.55"
+  Version: 2.55-1
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
@@ -6787,15 +6787,15 @@
   Description: Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
   Homepage: http://www.vanheusden.com/multitail/
 - Package: mupdf
-  Version: 1.24.5
+  Version: 1.24.6
   Description: Lightweight PDF and XPS viewer (library)
   Homepage: https://mupdf.com/
 - Package: mupdf-static
-  Version: 1.24.5
+  Version: 1.24.6
   Description: Static libraries for mupdf
   Homepage: https://mupdf.com/
 - Package: mupdf-tools
-  Version: 1.24.5
+  Version: 1.24.6
   Description: Lightweight PDF and XPS viewer (utilities)
   Homepage: https://mupdf.com/
 - Package: music-file-organizer
@@ -10019,7 +10019,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.93.0
+  Version: 1.94.1
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk

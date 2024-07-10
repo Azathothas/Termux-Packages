@@ -403,7 +403,7 @@
 | **enchant-static** | 2.8.1 | Static libraries for enchant | https://abiword.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.6 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
-| **erlang** | 27.0-1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang** | 27.0.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.23.0 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.51-2 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.51-2 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -501,10 +501,10 @@
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
 | **gdal** | 3.9.1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdal-static** | 3.5.3 | Static libraries for gdal | https://gdal.org |
-| **gdb** | 14.2 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
+| **gdb** | 14.2-1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.23 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.23 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
-| **gdbserver** | 14.2 | The gdbserver program | https://www.gnu.org/software/gdb/ |
+| **gdbserver** | 14.2-1 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.42.12 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
 | **gdu** | 5.29.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
@@ -659,7 +659,7 @@
 | **helix** | 24.03-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 24.03-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 3.15.2 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 3.15.3 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.0.18 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-5 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
@@ -761,7 +761,7 @@
 | **jq** | 1.7.1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
 | **jq-lsp** | 0.1.3 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.7.1 | Static libraries for jq | https://stedolan.github.io/jq/ |
-| **jql** | 7.1.12 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
+| **jql** | 7.1.13 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.17 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.17 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
 | **json-glib** | 1.9.2 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
@@ -771,7 +771,7 @@
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **just** | 1.30.1 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
-| **k2pdfopt** | 2.55 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
+| **k2pdfopt** | 2.55-1 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.32.5 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 17.1.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
@@ -1707,9 +1707,9 @@
 | **mu** | 1.12.5 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
 | **multitail** | 7.1.3 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
-| **mupdf** | 1.24.5 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
-| **mupdf-static** | 1.24.5 | Static libraries for mupdf | https://mupdf.com/ |
-| **mupdf-tools** | 1.24.5 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
+| **mupdf** | 1.24.6 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
+| **mupdf-static** | 1.24.6 | Static libraries for mupdf | https://mupdf.com/ |
+| **mupdf-tools** | 1.24.6 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-2 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.13 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
@@ -2515,7 +2515,7 @@
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
 | **wabt** | 1.0.35 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 1.93.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 1.94.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.10.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 22 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.4 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |

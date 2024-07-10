@@ -2359,7 +2359,7 @@
   },
   {
     "Package": "erlang",
-    "Version": "27.0-1",
+    "Version": "27.0.1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
@@ -2947,7 +2947,7 @@
   },
   {
     "Package": "gdb",
-    "Version": "14.2",
+    "Version": "14.2-1",
     "Description": "The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -2965,7 +2965,7 @@
   },
   {
     "Package": "gdbserver",
-    "Version": "14.2",
+    "Version": "14.2-1",
     "Description": "The gdbserver program",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -3895,7 +3895,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.15.2",
+    "Version": "3.15.3",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -4507,7 +4507,7 @@
   },
   {
     "Package": "jql",
-    "Version": "7.1.12",
+    "Version": "7.1.13",
     "Description": "A JSON Query Language CLI tool",
     "Homepage": "https://github.com/yamafaktory/jql"
   },
@@ -4567,7 +4567,7 @@
   },
   {
     "Package": "k2pdfopt",
-    "Version": "2.55",
+    "Version": "2.55-1",
     "Description": "A tool that optimizes PDF files for viewing on mobile readers",
     "Homepage": "https://www.willus.com/k2pdfopt/"
   },
@@ -10183,19 +10183,19 @@
   },
   {
     "Package": "mupdf",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "Lightweight PDF and XPS viewer (library)",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-static",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "Static libraries for mupdf",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-tools",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "Lightweight PDF and XPS viewer (utilities)",
     "Homepage": "https://mupdf.com/"
   },
@@ -15031,7 +15031,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.93.0",
+    "Version": "1.94.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
