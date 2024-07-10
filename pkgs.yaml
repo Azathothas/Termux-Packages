@@ -5087,7 +5087,7 @@
   Description: A modular, extensible input method engine in cross-platform C++ code
   Homepage: https://rime.im/
 - Package: librinutils
-  Version: 0.10.2
+  Version: 0.10.3
   Description: A C11 / gnu11 utilities C library
   Homepage: https://github.com/shlomif/rinutils
 - Package: librnnoise
@@ -6587,7 +6587,7 @@
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
-  Version: 2.1.3
+  Version: 2.1.4
   Description: A minimalist and opinionated feed reader
   Homepage: https://miniflux.app/
 - Package: minimodem
@@ -9691,7 +9691,7 @@
   Description: ugit helps you undo your last git command with grace. Your damage control git buddy
   Homepage: https://github.com/Bhupesh-V/ugit
 - Package: ugrep
-  Version: 6.1.0
+  Version: 6.2.0
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
