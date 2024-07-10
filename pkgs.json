@@ -2851,9 +2851,9 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.53.0",
+    "Version": "0.54.0",
     "Description": "Command-line fuzzy finder",
-    "Homepage": "https://github.com/junegunn/fzf"
+    "Homepage": "https://junegunn.github.io/fzf/"
   },
   {
     "Package": "fzy",
