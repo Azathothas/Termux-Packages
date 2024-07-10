@@ -2010,6 +2010,7 @@
 | **python-pyarrow** | 16.1.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pynvim** | 0.5.0 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-sabyenc3** | 8.2.3 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
+| **python-skia-pathops** | 0.8.0 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.11.9-3 | Static libraries for python | https://python.org/ |
 | **python-tkinter** | 3.11.9-3 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-4 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |

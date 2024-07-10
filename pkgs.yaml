@@ -7998,6 +7998,10 @@
   Version: 8.2.3
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
+- Package: python-skia-pathops
+  Version: 0.8.0
+  Description: Python bindings for the Skia librarys Path Ops
+  Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
   Version: 3.11.9-3
   Description: Static libraries for python
