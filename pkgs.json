@@ -13363,7 +13363,7 @@
   },
   {
     "Package": "spglib",
-    "Version": "2.4.0",
+    "Version": "2.5.0",
     "Description": "C library for finding and handling crystal symmetries",
     "Homepage": "https://spglib.github.io/spglib/index.html"
   },
@@ -14941,7 +14941,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.88",
+    "Version": "0.9.89",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
