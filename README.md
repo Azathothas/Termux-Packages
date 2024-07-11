@@ -50,7 +50,7 @@
 | **android-tools** | 35.0.1-2 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.5 | Dungeon exploration adventure game | https://rephial.org/ |
-| **angle-grinder** | 0.19.3 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
+| **angle-grinder** | 0.19.4 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.8-1 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.20 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.14 | Java based build tool like make | https://ant.apache.org/ |
@@ -411,7 +411,7 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.4.0 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 12.87 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 12.88 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -517,8 +517,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.14.6 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.14.6 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.14.7 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.14.7 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.22.5 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.22.5 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.3 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -549,7 +549,7 @@
 | **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.43.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **gleam** | 1.3.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
+| **gleam** | 1.3.2 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.80.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.80.4 | Programs for the GLib library | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.80.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -613,7 +613,7 @@
 | **gpgv** | 2.4.5-1 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.16.1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:8.8 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:8.9 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 11.1.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.43-1 | Collection of image processing tools | http://www.graphicsmagick.org/ |
@@ -1801,7 +1801,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 21.23.4 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 21.23.5 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |

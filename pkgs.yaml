@@ -159,7 +159,7 @@
   Description: Dungeon exploration adventure game
   Homepage: https://rephial.org/
 - Package: angle-grinder
-  Version: 0.19.3
+  Version: 0.19.4
   Description: Slice and dice logs on the command line
   Homepage: https://github.com/rcoh/angle-grinder
 - Package: ani-cli
@@ -1603,7 +1603,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "12.87"
+  Version: "12.88"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -2027,11 +2027,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.14.6
+  Version: 1.14.7
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.14.6
+  Version: 1.14.7
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -2155,7 +2155,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.3.1
+  Version: 1.3.2
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -2411,7 +2411,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: "1:8.8"
+  Version: "1:8.9"
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.23.4
+  Version: 21.23.5
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
