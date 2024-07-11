@@ -6595,7 +6595,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.07.04.14.25.45
+  Version: 2024.07.10.18.41.49
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -9131,7 +9131,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.7
+  Version: 9.3.8
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
