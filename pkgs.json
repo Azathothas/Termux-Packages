@@ -1093,7 +1093,7 @@
   },
   {
     "Package": "calc",
-    "Version": "2.15.0.7",
+    "Version": "2.15.1.0",
     "Description": "Arbitrary precision console calculator",
     "Homepage": "http://www.isthe.com/chongo/tech/comp/calc/"
   },
@@ -13549,7 +13549,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.27.0",
+    "Version": "0.27.1",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -14965,7 +14965,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.3.289",
+    "Version": "1.3.290",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
