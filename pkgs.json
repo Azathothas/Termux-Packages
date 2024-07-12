@@ -13549,7 +13549,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.26.2",
+    "Version": "0.27.0",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
