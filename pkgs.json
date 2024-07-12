@@ -3823,7 +3823,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.0.2",
+    "Version": "3.0.3",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -10747,7 +10747,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.23.5",
+    "Version": "21.24.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14941,7 +14941,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.89",
+    "Version": "0.9.90",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
