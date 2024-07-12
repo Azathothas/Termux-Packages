@@ -415,7 +415,7 @@
   Description: light command line download accelerator
   Homepage: https://github.com/axel-download-accelerator/axel
 - Package: b3sum
-  Version: 1.5.1
+  Version: 1.5.2
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
   Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
 - Package: babl
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.24.0
+  Version: 21.25.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9963,7 +9963,7 @@
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
-  Version: "20240218"
+  Version: "20240708"
   Description: Program for testing the VT100 compatibility of terminal emulators
   Homepage: https://invisible-island.net/vttest/
 - Package: vtutils
