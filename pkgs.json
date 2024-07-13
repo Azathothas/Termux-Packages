@@ -4699,7 +4699,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.43.0",
+    "Version": "0.43.1",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -7663,7 +7663,7 @@
   },
   {
     "Package": "librsvg",
-    "Version": "2.58.1",
+    "Version": "2.58.2",
     "Description": "Library to render SVG files using cairo",
     "Homepage": "https://wiki.gnome.org/action/show/Projects/LibRsvg"
   },
@@ -9895,7 +9895,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.07.10.18.41.49",
+    "Version": "2024.07.13.01.46.15",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -13339,7 +13339,7 @@
   },
   {
     "Package": "speedtest-go",
-    "Version": "1.7.7",
+    "Version": "1.7.8",
     "Description": "Command line interface to test internet speed using speedtest.net",
     "Homepage": "https://github.com/showwin/speedtest-go/"
   },
