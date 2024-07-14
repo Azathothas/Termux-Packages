@@ -1603,7 +1603,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "12.88"
+  Version: "12.89"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -7011,7 +7011,7 @@
   Description: Free, portable and lightweight Internet Relay Chat server
   Homepage: https://ngircd.barton.de/
 - Package: ngspice
-  Version: "42"
+  Version: "43"
   Description: A mixed-level/mixed-signal circuit simulator
   Homepage: https://ngspice.sourceforge.net/
 - Package: nim

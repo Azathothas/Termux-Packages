@@ -2407,7 +2407,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "12.88",
+    "Version": "12.89",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -10519,7 +10519,7 @@
   },
   {
     "Package": "ngspice",
-    "Version": "42",
+    "Version": "43",
     "Description": "A mixed-level/mixed-signal circuit simulator",
     "Homepage": "https://ngspice.sourceforge.net/"
   },
