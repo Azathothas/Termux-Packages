@@ -4225,13 +4225,13 @@
   },
   {
     "Package": "imlib2",
-    "Version": "1.12.2-1",
+    "Version": "1.12.3",
     "Description": "Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support",
     "Homepage": "https://sourceforge.net/projects/enlightenment/"
   },
   {
     "Package": "imlib2-static",
-    "Version": "1.12.2-1",
+    "Version": "1.12.3",
     "Description": "Static libraries for imlib2",
     "Homepage": "https://sourceforge.net/projects/enlightenment/"
   },
@@ -10747,7 +10747,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.25.0",
+    "Version": "21.26.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },

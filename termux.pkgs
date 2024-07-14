@@ -702,8 +702,8 @@
 | **imagemagick-static** | 7.1.1.34 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.11 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-7 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
-| **imlib2** | 1.12.2-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
-| **imlib2-static** | 1.12.2-1 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
+| **imlib2** | 1.12.3 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
+| **imlib2-static** | 1.12.3 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
 | **indent** | 2.2.13 | C language source code formatting program | https://www.gnu.org/software/indent/ |
 | **inetutils** | 2.4-1 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-3 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
@@ -1789,7 +1789,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 21.25.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 21.26.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
