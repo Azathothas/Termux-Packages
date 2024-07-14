@@ -3877,13 +3877,13 @@
   },
   {
     "Package": "helix",
-    "Version": "24.03-1",
+    "Version": "24.07",
     "Description": "A post-modern modal text editor written in rust",
     "Homepage": "https://helix-editor.com/"
   },
   {
     "Package": "helix-grammars",
-    "Version": "24.03-1",
+    "Version": "24.07",
     "Description": "Helix grammars",
     "Homepage": "https://helix-editor.com/"
   },
@@ -12745,7 +12745,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.5.1",
+    "Version": "0.5.2",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },

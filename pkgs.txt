@@ -644,8 +644,8 @@
  hashdeep  4.4-8  Programs to compute hashsums of arbitrary number of files recursively  http://md5deep.sourceforge.net/ 
  hcl  2.21.0  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
  hcloud  1.44.2  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
- helix  24.03-1  A post-modern modal text editor written in rust  https://helix-editor.com/ 
- helix-grammars  24.03-1  Helix grammars  https://helix-editor.com/ 
+ helix  24.07  A post-modern modal text editor written in rust  https://helix-editor.com/ 
+ helix-grammars  24.07  Helix grammars  https://helix-editor.com/ 
  hello  2.12.1-1  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
  helm  3.15.3  Helm helps you manage Kubernetes applications  https://helm.sh 
  helm-ls  0.0.18  Language server for Helm  https://github.com/mrjosh/helm-ls 
@@ -2122,7 +2122,7 @@
  rubiks-cube  1.2  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.3.2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.3.2  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.5.1  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.5.2  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-3  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.5.4  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
