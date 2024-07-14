@@ -8851,9 +8851,9 @@
   Description: Static libraries for softether-vpn
   Homepage: https://www.softether.org/
 - Package: soju
-  Version: 0.8.0
+  Version: 0.8.1
   Description: A user-friendly IRC bouncer
-  Homepage: https://git.sr.ht/~emersion/soju
+  Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
   Version: 0.8.26
   Description: An Ethereum smart contract-oriented language
