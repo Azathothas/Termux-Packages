@@ -1519,7 +1519,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-32",
+    "Version": "2.4.0-33",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -10885,7 +10885,7 @@
   },
   {
     "Package": "openfoam",
-    "Version": "2312-1",
+    "Version": "2406",
     "Description": "OpenFOAM is a CFD software written in C++",
     "Homepage": "https://www.openfoam.com"
   },

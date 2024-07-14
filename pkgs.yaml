@@ -1011,7 +1011,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 2.4.0-32
+  Version: 2.4.0-33
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -7255,7 +7255,7 @@
   Description: Provides the specification and reference implementation of the EXR file format
   Homepage: https://www.openexr.com/
 - Package: openfoam
-  Version: 2312-1
+  Version: "2406"
   Description: OpenFOAM is a CFD software written in C++
   Homepage: https://www.openfoam.com
 - Package: opengl
