@@ -114,7 +114,7 @@
 | **await** | 0.999 | Runs list of commands in parallel and waits for their termination | https://await-cli.app/ |
 | **awesomeshot** | 1.1.0 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
 | **axel** | 2.17.14 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
-| **b3sum** | 1.5.2 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
+| **b3sum** | 1.5.3 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.108 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacula-fd** | 15.0.2 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd-static** | 15.0.2 | Static libraries for bacula-fd | https://www.bacula.org |
@@ -433,7 +433,7 @@
 | **fdkaac** | 1.0.6 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
 | **fdm** | 2.2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
 | **fdroidcl** | 0.7.0-2 | F-Droid client | https://github.com/mvdan/fdroidcl |
-| **fdupes** | 2.3.1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
+| **fdupes** | 2.3.2 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.4.2 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.10.4 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
 | **fetchmail** | 6.4.38 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
@@ -1749,7 +1749,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20240425 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.10.0-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **nerdfix** | 0.4.0 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
+| **nerdfix** | 0.4.1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4 | Static libraries for net-snmp | http://www.net-snmp.org/ |
 | **net-tools** | 2.10.0 | Configuration tools for Linux networking | http://net-tools.sourceforge.net/ |
@@ -1801,7 +1801,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 21.26.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 21.26.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2139,7 +2139,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.79.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240708 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240715 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.79.0-1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.79.0-1 | Rust source code files | https://www.rust-lang.org/ |

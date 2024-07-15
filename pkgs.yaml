@@ -415,7 +415,7 @@
   Description: light command line download accelerator
   Homepage: https://github.com/axel-download-accelerator/axel
 - Package: b3sum
-  Version: 1.5.2
+  Version: 1.5.3
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
   Homepage: https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum
 - Package: babl
@@ -1691,7 +1691,7 @@
   Description: F-Droid client
   Homepage: https://github.com/mvdan/fdroidcl
 - Package: fdupes
-  Version: 2.3.1
+  Version: 2.3.2
   Description: Duplicates file detector
   Homepage: https://github.com/adrianlopezroche/fdupes
 - Package: fennel
@@ -6955,7 +6955,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
-  Version: 0.4.0
+  Version: 0.4.1
   Description: nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
   Homepage: https://github.com/loichyan/nerdfix
 - Package: net-snmp
@@ -7163,7 +7163,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.26.1
+  Version: 21.26.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8515,7 +8515,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240708"
+  Version: "20240715"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
