@@ -4201,13 +4201,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.1.34",
+    "Version": "7.1.1.35",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.1.34",
+    "Version": "7.1.1.35",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.30.1",
+    "Version": "1.31.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -10747,7 +10747,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.26.0",
+    "Version": "21.26.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14941,7 +14941,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.90",
+    "Version": "0.9.91",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
