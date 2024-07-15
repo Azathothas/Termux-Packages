@@ -282,6 +282,12 @@
     "Homepage": "https://aomedia.org/"
   },
   {
+    "Package": "apache-orc",
+    "Version": "2.0.1",
+    "Description": "Columnar storage for Hadoop workloads",
+    "Homepage": "https://orc.apache.org/"
+  },
+  {
     "Package": "apache2",
     "Version": "1:2.4.61",
     "Description": "Apache Web Server",
@@ -5023,7 +5029,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "16.0.0-2",
+    "Version": "16.1.0",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
