@@ -39,11 +39,11 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 13.0.0.6-11
+  Version: 13.0.0.6-12
   Description: Android Asset Packaging Tool
   Homepage: https://elinux.org/Android_aapt
 - Package: aapt2
-  Version: 13.0.0.6-11
+  Version: 13.0.0.6-12
   Description: AAPT2 (Android Asset Packaging Tool)
   Homepage: https://elinux.org/Android_aapt
 - Package: abduco
@@ -99,7 +99,7 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 13.0.0.6-11
+  Version: 13.0.0.6-12
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://elinux.org/Android_aapt
 - Package: alass
@@ -2347,7 +2347,7 @@
   Description: Logging library for C++
   Homepage: https://github.com/google/glog
 - Package: googletest
-  Version: 1.14.0
+  Version: 1.15.0
   Description: Google C++ testing framework
   Homepage: https://github.com/google/googletest
 - Package: goose
@@ -6815,7 +6815,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 16.0.1
+  Version: 16.1.0
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes

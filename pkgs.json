@@ -61,13 +61,13 @@
   },
   {
     "Package": "aapt",
-    "Version": "13.0.0.6-11",
+    "Version": "13.0.0.6-12",
     "Description": "Android Asset Packaging Tool",
     "Homepage": "https://elinux.org/Android_aapt"
   },
   {
     "Package": "aapt2",
-    "Version": "13.0.0.6-11",
+    "Version": "13.0.0.6-12",
     "Description": "AAPT2 (Android Asset Packaging Tool)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -151,7 +151,7 @@
   },
   {
     "Package": "aidl",
-    "Version": "13.0.0.6-11",
+    "Version": "13.0.0.6-12",
     "Description": "Android Interface Definition Language (AIDL)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -3523,7 +3523,7 @@
   },
   {
     "Package": "googletest",
-    "Version": "1.14.0",
+    "Version": "1.15.0",
     "Description": "Google C++ testing framework",
     "Homepage": "https://github.com/google/googletest"
   },
@@ -10225,7 +10225,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "16.0.1",
+    "Version": "16.1.0",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
