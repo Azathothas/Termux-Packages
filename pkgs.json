@@ -115,7 +115,7 @@
   },
   {
     "Package": "aerc",
-    "Version": "0.18.0",
+    "Version": "0.18.1",
     "Description": "A pretty good email client",
     "Homepage": "https://aerc-mail.org/"
   },
@@ -3505,7 +3505,7 @@
   },
   {
     "Package": "gomuks",
-    "Version": "0.3.0-3",
+    "Version": "0.3.1",
     "Description": "A terminal Matrix client written in Go",
     "Homepage": "https://maunium.net/go/gomuks/"
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20240713",
+    "Version": "20240716",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -9601,7 +9601,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.10.8",
+    "Version": "0.10.9",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -12463,13 +12463,13 @@
   },
   {
     "Package": "recoll",
-    "Version": "1.39.1",
+    "Version": "1.39.2",
     "Description": "Full-text search for your desktop",
     "Homepage": "https://www.recoll.org/"
   },
   {
     "Package": "recoll-python",
-    "Version": "1.39.1",
+    "Version": "1.39.2",
     "Description": "Python interface for Recoll",
     "Homepage": "https://www.recoll.org/"
   },

@@ -75,7 +75,7 @@
   Description: A code generator for the Verilog-AMS language
   Homepage: https://github.com/qucs/adms
 - Package: aerc
-  Version: 0.18.0
+  Version: 0.18.1
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
@@ -2335,7 +2335,7 @@
   Description: MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration
   Homepage: https://aditya-k2.github.io/gomp/
 - Package: gomuks
-  Version: 0.3.0-3
+  Version: 0.3.1
   Description: A terminal Matrix client written in Go
   Homepage: https://maunium.net/go/gomuks/
 - Package: google-drive-upload
@@ -3071,7 +3071,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
-  Version: "20240713"
+  Version: "20240716"
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
@@ -6399,7 +6399,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.10.8
+  Version: 0.10.9
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -8307,11 +8307,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.39.1
+  Version: 1.39.2
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.39.1
+  Version: 1.39.2
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recoll-static

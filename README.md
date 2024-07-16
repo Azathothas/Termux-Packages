@@ -29,7 +29,7 @@
 | **ack-grep** | 3.7.0 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.1.4 | A fully compatible autoconf replacement | https://github.com/radare/acr |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
-| **aerc** | 0.18.0 | A pretty good email client | https://aerc-mail.org/ |
+| **aerc** | 0.18.1 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.7 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
 | **age** | 1:1.1.1-2 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
@@ -594,7 +594,7 @@
 | **golang** | 3:1.22.5 | Go programming language compiler | https://golang.org/ |
 | **golang-doc** | 3:1.22.5 | Go programming language - documentation | https://golang.org/ |
 | **gomp** | 2023.02.02-2 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
-| **gomuks** | 0.3.0-3 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
+| **gomuks** | 0.3.1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
 | **google-glog** | 0.7.1 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.15.0 | Google C++ testing framework | https://github.com/google/googletest |
@@ -778,7 +778,7 @@
 | **kak-lsp** | 17.1.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kcptun** | 20240713 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20240716 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.3.1 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-1 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -1610,7 +1610,7 @@
 | **matplotlib** | 3.9.1 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-3 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
-| **mautrix-whatsapp** | 0.10.8 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
+| **mautrix-whatsapp** | 0.10.9 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.8 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13 | Mazes in your terminal | https://github.com/Canop/mazter |
@@ -2087,8 +2087,8 @@
 | **readline-static** | 8.2.10 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.14 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.14 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.39.1 | Full-text search for your desktop | https://www.recoll.org/ |
-| **recoll-python** | 1.39.1 | Python interface for Recoll | https://www.recoll.org/ |
+| **recoll** | 1.39.2 | Full-text search for your desktop | https://www.recoll.org/ |
+| **recoll-python** | 1.39.2 | Python interface for Recoll | https://www.recoll.org/ |
 | **recoll-static** | 1.37.5 | Static libraries for recoll | https://www.recoll.org/ |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
