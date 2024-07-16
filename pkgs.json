@@ -10345,7 +10345,7 @@
   },
   {
     "Package": "ncspot",
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "Description": "An ncurses Spotify client written in Rust",
     "Homepage": "https://github.com/hrkfdn/ncspot"
   },
@@ -14947,7 +14947,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.91",
+    "Version": "0.9.92",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
@@ -15055,7 +15055,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.4",
+    "Version": "0.5.5",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
