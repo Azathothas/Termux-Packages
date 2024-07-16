@@ -863,7 +863,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.50.0
+  Version: 2.51.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -4707,11 +4707,11 @@
   Description: Static libraries for libnfs
   Homepage: https://github.com/sahlberg/libnfs
 - Package: libnftnl
-  Version: 1.2.6-1
+  Version: 1.2.7
   Description: Netfilter library providing interface to the nf_tables subsystem
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnftnl-static
-  Version: 1.2.6-1
+  Version: 1.2.7
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
@@ -6599,7 +6599,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.07.13.01.46.15
+  Version: 2024.07.15.19.02.30
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.26.2
+  Version: 21.26.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
