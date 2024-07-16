@@ -1662,7 +1662,7 @@
 | **mlir** | 18.1.8 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 2.32.1 | mold: A Modern Linker | https://github.com/rui314/mold |
-| **monero** | 0.18.3.3 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
+| **monero** | 0.18.3.3-1 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.12.0.199-1 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
 | **mono-libs** | 6.12.0.199-1 | Platform-independent libraries for mono | https://www.mono-project.com/ |
 | **mono-static** | 6.12.0.199-1 | Static libraries for mono | https://www.mono-project.com/ |
