@@ -955,7 +955,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.39.2",
+    "Version": "1.40.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -12001,7 +12001,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "8.2.3",
+    "Version": "8.2.4",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
