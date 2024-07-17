@@ -644,7 +644,7 @@
  hash-slinger  3.3  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-8  Programs to compute hashsums of arbitrary number of files recursively  http://md5deep.sourceforge.net/ 
  hcl  2.21.0  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
- hcloud  1.44.2  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
+ hcloud  1.45.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
  helix  24.07  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  24.07  Helix grammars  https://helix-editor.com/ 
  hello  2.12.1-1  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
@@ -718,7 +718,7 @@
  iperf3-static  3.17.1  Static libraries for iperf3  https://github.com/esnet/iperf 
  ipfs  0.29.0  A peer-to-peer hypermedia distribution protocol  https://ipfs.io/ 
  ipmitool  1.8.19  Command-line interface to IPMI-enabled devices  https://github.com/ipmitool/ipmitool 
- iproute2  6.9.0  Utilities for controlling networking  https://wiki.linuxfoundation.org/networking/iproute2 
+ iproute2  6.10.0  Utilities for controlling networking  https://wiki.linuxfoundation.org/networking/iproute2 
  ipv6calc  4.2.0  Does some format changes and calculations of IPv6 addresses  https://www.deepspace6.net/projects/ipv6calc.html 
  ipv6toolkit  2022.09.30-2  SI6 Networks IPv6 Toolkit  https://www.si6networks.com/research/tools/ipv6toolkit/ 
  ircd-irc2  2.11.2p3-1  An Internet Relay Chat (IRC) daemon  http://www.irc.org/ 
@@ -1790,7 +1790,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  21.26.3  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  21.27.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.5.1  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-8  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 

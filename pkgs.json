@@ -3877,7 +3877,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.44.2",
+    "Version": "1.45.0",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -4321,7 +4321,7 @@
   },
   {
     "Package": "iproute2",
-    "Version": "6.9.0",
+    "Version": "6.10.0",
     "Description": "Utilities for controlling networking",
     "Homepage": "https://wiki.linuxfoundation.org/networking/iproute2"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.26.3",
+    "Version": "21.27.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
