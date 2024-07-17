@@ -1455,7 +1455,7 @@
   Description: Simple REPL for Duktape
   Homepage: https://www.duktape.org/
 - Package: dust
-  Version: 1.0.0-1
+  Version: 1.1.0
   Description: A more intuitive version of du in rust
   Homepage: https://github.com/bootandy/dust
 - Package: dvdauthor
@@ -4039,7 +4039,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.65.0
+  Version: 1.65.1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -7955,7 +7955,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.65.0
+  Version: 1.65.1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc
@@ -8842,6 +8842,18 @@
   Version: "1.5"
   Description: SNMP trap translator
   Homepage: http://www.snmptt.org/
+- Package: snowflake
+  Version: 2.9.2
+  Description: Pluggable Transport using WebRTC, inspired by Flashproxy
+  Homepage: https://snowflake.torproject.org/
+- Package: snowflake-client
+  Version: 2.9.2
+  Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Client)
+  Homepage: https://snowflake.torproject.org/
+- Package: snowflake-proxy
+  Version: 2.9.2
+  Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
+  Homepage: https://snowflake.torproject.org/
 - Package: socat
   Version: 1.8.0.0-2
   Description: Relay for bidirectional data transfer between two independent data channels
@@ -10079,23 +10091,23 @@
   Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
   Homepage: http://websocketd.com/
 - Package: weechat
-  Version: 4.3.4
+  Version: 4.3.5
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.3.4
+  Version: 4.3.5
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-perl-plugin
-  Version: 4.3.4
+  Version: 4.3.5
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.3.4
+  Version: 4.3.5
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.3.4
+  Version: 4.3.5
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli

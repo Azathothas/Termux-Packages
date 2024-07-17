@@ -374,7 +374,7 @@
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.41.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0 | Simple REPL for Duktape | https://www.duktape.org/ |
-| **dust** | 1.0.0-1 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
+| **dust** | 1.1.0 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
 | **dvdauthor** | 0.7.2-2 | Generates a DVD-Video movie from a valid MPEG-2 stream | https://dvdauthor.sourceforge.net/ |
 | **dvtm** | 0.15-3 | Terminal tiling window manager | https://github.com/martanne/dvtm |
 | **dwarves** | 1.27 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
@@ -1020,7 +1020,7 @@
 | **libgpg-error** | 1.49 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.49 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
-| **libgrpc** | 1.65.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **libgrpc** | 1.65.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.52 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
@@ -1999,7 +1999,7 @@
 | **python-cryptography** | 42.0.8 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.11.9-3 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.0.3 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
-| **python-grpcio** | 1.65.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **python-grpcio** | 1.65.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.22.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.2.2 | A straightforward binding of libsass for Python | https://github.com/lxml/lxml |
@@ -2221,6 +2221,9 @@
 | **snapcast-client** | 0.28.0 | A multiroom client-server audio player (client) | https://github.com/badaix/snapcast |
 | **snapcast-server** | 0.28.0 | A multiroom client-server audio player (server) | https://github.com/badaix/snapcast |
 | **snmptt** | 1.5 | SNMP trap translator | http://www.snmptt.org/ |
+| **snowflake** | 2.9.2 | Pluggable Transport using WebRTC, inspired by Flashproxy | https://snowflake.torproject.org/ |
+| **snowflake-client** | 2.9.2 | Pluggable Transport using WebRTC, inspired by Flashproxy (Client) | https://snowflake.torproject.org/ |
+| **snowflake-proxy** | 2.9.2 | Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy) | https://snowflake.torproject.org/ |
 | **socat** | 1.8.0.0-2 | Relay for bidirectional data transfer between two independent data channels | http://www.dest-unreach.org/socat/ |
 | **softether-vpn** | 5.02.5180-4 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.02.5180-4 | Static libraries for softether-vpn | https://www.softether.org/ |
@@ -2530,11 +2533,11 @@
 | **webp-pixbuf-loader** | 0.2.7 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.13.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-3 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **weechat** | 4.3.4 | Fast, light and extensible IRC chat client | https://weechat.org/ |
-| **weechat-lua-plugin** | 4.3.4 | WeeChat Lua Plugin | https://weechat.org/ |
-| **weechat-perl-plugin** | 4.3.4 | WeeChat Perl Plugin | https://weechat.org/ |
-| **weechat-python-plugin** | 4.3.4 | WeeChat Python3 Plugin | https://weechat.org/ |
-| **weechat-ruby-plugin** | 4.3.4 | WeeChat Ruby Plugin | https://weechat.org/ |
+| **weechat** | 4.3.5 | Fast, light and extensible IRC chat client | https://weechat.org/ |
+| **weechat-lua-plugin** | 4.3.5 | WeeChat Lua Plugin | https://weechat.org/ |
+| **weechat-perl-plugin** | 4.3.5 | WeeChat Perl Plugin | https://weechat.org/ |
+| **weechat-python-plugin** | 4.3.5 | WeeChat Python3 Plugin | https://weechat.org/ |
+| **weechat-ruby-plugin** | 4.3.5 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.2-1 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.24.5 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
