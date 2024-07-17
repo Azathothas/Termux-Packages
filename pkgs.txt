@@ -675,7 +675,7 @@
  httrack-data  3.49.5  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.5  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-5  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.128.2  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.129.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-3  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -777,7 +777,7 @@
  kotlin  2.0.0  The Kotlin Programming Language  https://kotlinlang.org/ 
  krb5  1.21.3  The Kerberos network authentication system  https://web.mit.edu/kerberos 
  kubecolor  0.3.3  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
- kubectl  1.30.2  Kubernetes.io client binary  https://kubernetes.io/ 
+ kubectl  1.30.3  Kubernetes.io client binary  https://kubernetes.io/ 
  kubelogin  1.28.1  A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication  https://github.com/int128/kubelogin 
  ladspa-sdk  1.17-2  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
  lame  3.100-5  High quality MPEG Audio Layer III (MP3) encoder - frontend  https://lame.sourceforge.io/ 
@@ -2604,7 +2604,7 @@
  zopfli  1.0.3-3  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.4-1  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
- zrok  0.4.34  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
+ zrok  0.4.35  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
  zsh  5.9-5  Shell with lots of features  https://www.zsh.org 
  zsh-completions  0.35.0  Additional completion definitions for Zsh  https://github.com/zsh-users/zsh-completions 
  zssh  1.5c-1  A program for interactively transferring files to a remote machine while using the secure shell (ssh)  http://zssh.sourceforge.net/ 

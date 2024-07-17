@@ -4063,7 +4063,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.128.2",
+    "Version": "0.129.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.30.2",
+    "Version": "1.30.3",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -15637,7 +15637,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "0.4.34",
+    "Version": "0.4.35",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
