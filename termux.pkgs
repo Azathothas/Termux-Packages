@@ -68,7 +68,7 @@
 | **arj** | 3.10.22-5 | Open-source version of arj archiver | http://arj.sourceforge.net/ |
 | **artalk** | 2.8.7 | A self-hosted comment system | https://artalk.js.org/ |
 | **arturo** | 0.9.83 | Simple, expressive & portable programming language for efficient scripting | https://arturo-lang.io |
-| **asciidoc** | 10.2.0-3 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
+| **asciidoc** | 10.2.1 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.23 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
 | **asciinema** | 2.4.0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
 | **asm-lsp** | 0.7.1 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |

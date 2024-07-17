@@ -279,7 +279,7 @@
   Description: Simple, expressive & portable programming language for efficient scripting
   Homepage: https://arturo-lang.io
 - Package: asciidoc
-  Version: 10.2.0-3
+  Version: 10.2.1
   Description: Text document format for short documents, articles, books and UNIX man pages.
   Homepage: https://asciidoc.org
 - Package: asciidoctor
