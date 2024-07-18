@@ -770,7 +770,7 @@
 | **jsoncpp-static** | 1.9.5-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.31.0 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.32.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-2 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.32.5 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
