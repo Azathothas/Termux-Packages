@@ -83,7 +83,7 @@
 | **asciidoc** | 10.2.1 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.23 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
 | **asciinema** | 2.4.0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
-| **asm-lsp** | 0.7.1 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
+| **asm-lsp** | 0.7.3 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
 | **aspell** | 0.60.8.1 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
 | **aspell-de** | 1:20161207.7.0 | German dictionary for aspell | http://aspell.net/ |
 | **aspell-en** | 1:2020.12.07 | English dictionary for aspell | http://aspell.net/ |
@@ -161,7 +161,7 @@
 | **boost-headers** | 1.83.0-1 | Boost header files | https://boost.org |
 | **boost-static** | 1.83.0-1 | Static libraries for boost | https://boost.org |
 | **bore** | 0.5.1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
-| **borgbackup** | 1.2.8 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
+| **borgbackup** | 1.4.0 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
 | **botan3** | 3.4.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
 | **botan3-static** | 3.4.0 | Static libraries for botan3 | https://botan.randombit.net/ |
 | **boxes** | 2.3.0 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
@@ -416,7 +416,7 @@
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.18.21 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.18.22 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.35.1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.35.1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |

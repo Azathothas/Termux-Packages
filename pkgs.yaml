@@ -291,7 +291,7 @@
   Description: Record and share your terminal sessions, the right way
   Homepage: https://asciinema.org/
 - Package: asm-lsp
-  Version: 0.7.1
+  Version: 0.7.3
   Description: language server for NASM/GAS/GO assembly
   Homepage: https://github.com/bergercookie/asm-lsp
 - Package: aspell
@@ -603,7 +603,7 @@
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.2.8
+  Version: 1.4.0
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -1623,7 +1623,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.18.21
+  Version: 0.18.22
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
