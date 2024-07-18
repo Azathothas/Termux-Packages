@@ -289,7 +289,7 @@
   },
   {
     "Package": "apache2",
-    "Version": "1:2.4.61",
+    "Version": "1:2.4.62",
     "Description": "Apache Web Server",
     "Homepage": "https://httpd.apache.org"
   },
@@ -2185,7 +2185,7 @@
   },
   {
     "Package": "dust",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "A more intuitive version of du in rust",
     "Homepage": "https://github.com/bootandy/dust"
   },
@@ -3097,7 +3097,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.52.0",
+    "Version": "2.53.0-1",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -9901,7 +9901,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.07.15.19.02.30",
+    "Version": "2024.07.16.23.46.41",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },

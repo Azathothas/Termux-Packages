@@ -58,7 +58,7 @@
 | **antiword** | 0.37-3 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
 | **aom-tools** | 3.9.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **apache-orc** | 2.0.1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
-| **apache2** | 1:2.4.61 | Apache Web Server | https://httpd.apache.org |
+| **apache2** | 1:2.4.62 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 0.16.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
 | **appstream** | 1.0.3 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
@@ -374,7 +374,7 @@
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.41.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0 | Simple REPL for Duktape | https://www.duktape.org/ |
-| **dust** | 1.1.0 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
+| **dust** | 1.1.1 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
 | **dvdauthor** | 0.7.2-2 | Generates a DVD-Video movie from a valid MPEG-2 stream | https://dvdauthor.sourceforge.net/ |
 | **dvtm** | 0.15-3 | Terminal tiling window manager | https://github.com/martanne/dvtm |
 | **dwarves** | 1.27 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
@@ -526,7 +526,7 @@
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.52.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.53.0-1 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.2.5-1 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghc-libs** | 9.2.5-1 | The Glasgow Haskell Compiler libraries | https://www.haskell.org/ghc/ |
 | **ghc-libs-static** | 8.10.7-3 | Static libraries for ghc-libs | https://www.haskell.org/ghc/ |
@@ -1660,7 +1660,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.1.4 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.07.15.19.02.30 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2024.07.16.23.46.41 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.27.1 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.8 | Small UPnP client library and tool to access Internet Gateway Devices | http://miniupnp.free.fr/ |
