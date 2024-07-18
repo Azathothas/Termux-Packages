@@ -947,11 +947,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 3.30.0
+  Version: 3.30.1
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 3.30.0
+  Version: 3.30.1
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -8499,7 +8499,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.5.2
+  Version: 0.5.3
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9975,7 +9975,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.92
+  Version: 0.9.93
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
