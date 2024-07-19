@@ -2857,7 +2857,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.54.0",
+    "Version": "0.54.1",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -7159,7 +7159,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.100",
+    "Version": "3.101",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10657,7 +10657,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.100",
+    "Version": "3.101",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -11833,7 +11833,7 @@
   },
   {
     "Package": "pv",
-    "Version": "1.8.10",
+    "Version": "1.8.12",
     "Description": "Terminal-based tool for monitoring the progress of data through a pipeline",
     "Homepage": "http://www.ivarch.com/programs/pv.shtml"
   },
