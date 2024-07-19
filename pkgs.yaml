@@ -9047,7 +9047,7 @@
   Description: A command-line tool which uses libstemmer
   Homepage: https://snowballstem.org/
 - Package: step-cli
-  Version: 0.27.1
+  Version: 0.27.2
   Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
   Homepage: https://smallstep.com/cli
 - Package: stfl
@@ -9371,7 +9371,7 @@
   Description: Service daemon for Termux
   Homepage: https://github.com/termux/termux-services/
 - Package: termux-tools
-  Version: 1.42.4
+  Version: 1.42.5
   Description: Basic system tools for Termux
   Homepage: https://termux.dev/
 - Package: teseq

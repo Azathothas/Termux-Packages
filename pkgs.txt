@@ -2260,7 +2260,7 @@
  stdoutisatty  1.0  Patch the isatty() calls for colored output in pipeline  https://github.com/lilydjwg/stdoutisatty 
  steghide  0.5.1-6  Embeds a message in a file by replacing some of the least significant bits  http://steghide.sourceforge.net/ 
  stemwords  2.2.0-1  A command-line tool which uses libstemmer  https://snowballstem.org/ 
- step-cli  0.27.1  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
+ step-cli  0.27.2  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
  stfl  0.24-6  Structured Terminal Forms Language/Library  http://www.clifford.at/stfl 
  stfl-static  0.24-6  Static libraries for stfl  http://www.clifford.at/stfl 
  stoken  0.93-1  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
@@ -2341,7 +2341,7 @@
  termux-keyring  3.12-1  GPG public keys for the official Termux repositories  https://github.com/termux 
  termux-licenses  2.0-3  Contains LICENSE files for common licenses  https://termux.dev 
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
- termux-tools  1.42.4  Basic system tools for Termux  https://termux.dev/ 
+ termux-tools  1.42.5  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
  tesseract  5.4.1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.0.9  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
