@@ -3631,7 +3631,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "11.1.999-zserge-test-0",
+    "Version": "1:11.1.0",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },
