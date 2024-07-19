@@ -615,7 +615,7 @@
 | **gping** | 1.16.1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:8.9 | Powerful build system for the JVM | https://gradle.org/ |
-| **grafana** | 11.1.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
+| **grafana** | 11.1.999-zserge-test-0 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.43-1 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.43-1 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
@@ -2353,7 +2353,7 @@
 | **termux-keyring** | 3.12-1 | GPG public keys for the official Termux repositories | https://github.com/termux |
 | **termux-licenses** | 2.0-3 | Contains LICENSE files for common licenses | https://termux.dev |
 | **termux-services** | 0.13-1 | Service daemon for Termux | https://github.com/termux/termux-services/ |
-| **termux-tools** | 1.42.5 | Basic system tools for Termux | https://termux.dev/ |
+| **termux-tools** | 1.43.1 | Basic system tools for Termux | https://termux.dev/ |
 | **teseq** | 1.1.1-1 | Tool for analyzing control characters and terminal control sequences | https://www.gnu.org/software/teseq/ |
 | **tesseract** | 5.4.1 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
 | **testssl.sh** | 3.0.9 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
