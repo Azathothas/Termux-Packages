@@ -3239,11 +3239,11 @@
   Description: Andris Main Loop library
   Homepage: https://github.com/any1/aml
 - Package: libandroid-complex-math
-  Version: "0.1"
+  Version: "0.2"
   Description: A shared library providing libm complex math functions
   Homepage: https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex
 - Package: libandroid-complex-math-static
-  Version: "0.1"
+  Version: "0.2"
   Description: Static libraries for libandroid-complex-math
   Homepage: https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex
 - Package: libandroid-execinfo
