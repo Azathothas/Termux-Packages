@@ -8725,13 +8725,13 @@
   },
   {
     "Package": "libxapian",
-    "Version": "1.4.25",
+    "Version": "1.4.26",
     "Description": "Xapian search engine library",
     "Homepage": "https://xapian.org"
   },
   {
     "Package": "libxapian-static",
-    "Version": "1.4.25",
+    "Version": "1.4.26",
     "Description": "Static libraries for libxapian",
     "Homepage": "https://xapian.org"
   },
@@ -10189,19 +10189,19 @@
   },
   {
     "Package": "mupdf",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "Lightweight PDF and XPS viewer (library)",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-static",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "Static libraries for mupdf",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-tools",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "Lightweight PDF and XPS viewer (utilities)",
     "Homepage": "https://mupdf.com/"
   },
@@ -15307,7 +15307,7 @@
   },
   {
     "Package": "xapian-tools",
-    "Version": "1.4.25",
+    "Version": "1.4.26",
     "Description": "Basic tools for the Xapian search engine",
     "Homepage": "https://xapian.org"
   },

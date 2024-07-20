@@ -5815,11 +5815,11 @@
   Description: Static libraries for libx265
   Homepage: http://x265.org/
 - Package: libxapian
-  Version: 1.4.25
+  Version: 1.4.26
   Description: Xapian search engine library
   Homepage: https://xapian.org
 - Package: libxapian-static
-  Version: 1.4.25
+  Version: 1.4.26
   Description: Static libraries for libxapian
   Homepage: https://xapian.org
 - Package: libxau
@@ -6791,15 +6791,15 @@
   Description: Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
   Homepage: http://www.vanheusden.com/multitail/
 - Package: mupdf
-  Version: 1.24.6
+  Version: 1.24.7
   Description: Lightweight PDF and XPS viewer (library)
   Homepage: https://mupdf.com/
 - Package: mupdf-static
-  Version: 1.24.6
+  Version: 1.24.7
   Description: Static libraries for mupdf
   Homepage: https://mupdf.com/
 - Package: mupdf-tools
-  Version: 1.24.6
+  Version: 1.24.7
   Description: Lightweight PDF and XPS viewer (utilities)
   Homepage: https://mupdf.com/
 - Package: music-file-organizer
@@ -10203,7 +10203,7 @@
   Description: H.265/HEVC video stream encoder tool
   Homepage: http://x265.org/
 - Package: xapian-tools
-  Version: 1.4.25
+  Version: 1.4.26
   Description: Basic tools for the Xapian search engine
   Homepage: https://xapian.org
 - Package: xcb-proto
