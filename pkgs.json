@@ -11989,7 +11989,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "16.1.0",
+    "Version": "17.0.0",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
