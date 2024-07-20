@@ -15019,7 +15019,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.3.290",
+    "Version": "1.3.291",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
