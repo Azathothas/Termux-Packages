@@ -115,7 +115,7 @@
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alist
-  Version: 3.35.0
+  Version: 3.36.0
   Description: A file list program that supports multiple storage
   Homepage: https://alist.nn.ci
 - Package: alpine
@@ -2603,7 +2603,7 @@
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
-  Version: 0.0.18
+  Version: 0.0.19
   Description: Language server for Helm
   Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
@@ -9079,7 +9079,7 @@
   Description: Tool for managing the installation of multiple software packages into a single directory
   Homepage: https://www.gnu.org/software/stow/
 - Package: strace
-  Version: "6.9"
+  Version: "6.10"
   Description: Debugging utility to monitor system calls and signals received
   Homepage: https://strace.io/
 - Package: streamripper

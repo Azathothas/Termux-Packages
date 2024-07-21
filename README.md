@@ -39,7 +39,7 @@
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.6 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.1 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
-| **alist** | 3.35.0 | A file list program that supports multiple storage | https://alist.nn.ci |
+| **alist** | 3.36.0 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **alsa-lib** | 1.2.12 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
 | **alsa-utils** | 1.2.12 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
@@ -661,7 +661,7 @@
 | **helix-grammars** | 24.07 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.15.3 | Helm helps you manage Kubernetes applications | https://helm.sh |
-| **helm-ls** | 0.0.18 | Language server for Helm | https://github.com/mrjosh/helm-ls |
+| **helm-ls** | 0.0.19 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-5 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
 | **hexedit** | 1.6 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
@@ -2280,7 +2280,7 @@
 | **stone** | 2.4-2 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
 | **storj-uplink** | 1.105.4 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.0 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
-| **strace** | 6.9 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
+| **strace** | 6.10 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-2 | Records and splits streaming mp3 into tracks | http://streamripper.sourceforge.net/ |
 | **stunnel** | 5.72 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.72 | Static libraries for stunnel | https://www.stunnel.org/ |

@@ -175,7 +175,7 @@
   },
   {
     "Package": "alist",
-    "Version": "3.35.0",
+    "Version": "3.36.0",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://alist.nn.ci"
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "helm-ls",
-    "Version": "0.0.18",
+    "Version": "0.0.19",
     "Description": "Language server for Helm",
     "Homepage": "https://github.com/mrjosh/helm-ls"
   },
@@ -13621,7 +13621,7 @@
   },
   {
     "Package": "strace",
-    "Version": "6.9",
+    "Version": "6.10",
     "Description": "Debugging utility to monitor system calls and signals received",
     "Homepage": "https://strace.io/"
   },
