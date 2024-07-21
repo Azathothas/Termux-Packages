@@ -523,7 +523,7 @@
   },
   {
     "Package": "atomvm",
-    "Version": "1:0.6.2",
+    "Version": "1:0.6.3",
     "Description": "The minimal Erlang VM implementation",
     "Homepage": "https://github.com/bettio/AtomVM"
   },
@@ -1897,7 +1897,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.58.0",
+    "Version": "0.59.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "21.27.0",
+    "Version": "21.28.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
