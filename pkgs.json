@@ -1039,7 +1039,7 @@
   },
   {
     "Package": "c-ares",
-    "Version": "1.31.0",
+    "Version": "1.32.2",
     "Description": "Library for asynchronous DNS requests (including name resolves)",
     "Homepage": "https://c-ares.haxx.se"
   },
