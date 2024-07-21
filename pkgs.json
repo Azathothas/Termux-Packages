@@ -4141,13 +4141,13 @@
   },
   {
     "Package": "i2pd",
-    "Version": "2.52.0",
+    "Version": "2.53.0",
     "Description": "A full-featured C++ implementation of the I2P router",
     "Homepage": "https://i2pd.website/"
   },
   {
     "Package": "i2pd-static",
-    "Version": "2.52.0",
+    "Version": "2.53.0",
     "Description": "Static libraries for i2pd",
     "Homepage": "https://i2pd.website/"
   },
@@ -10417,7 +10417,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.7.8",
+    "Version": "0.7.9",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -14257,7 +14257,7 @@
   },
   {
     "Package": "toml11",
-    "Version": "4.0.3",
+    "Version": "4.1.0",
     "Description": "toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library",
     "Homepage": "https://github.com/ToruNiina/toml11"
   },
