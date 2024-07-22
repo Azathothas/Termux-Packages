@@ -2603,7 +2603,7 @@
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
-  Version: 0.0.19
+  Version: 0.0.20
   Description: Language server for Helm
   Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
@@ -4835,11 +4835,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.7.8
+  Version: 0.7.9
   Description: OpenMPT based module player library and libopenmpt based command-line player
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.7.8
+  Version: 0.7.9
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 21.28.0
+  Version: 22.0.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
