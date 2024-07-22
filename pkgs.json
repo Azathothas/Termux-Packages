@@ -1195,7 +1195,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.10.1",
+    "Version": "4.10.2",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -3235,7 +3235,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.43.0",
+    "Version": "1.44.1",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -14965,7 +14965,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.95",
+    "Version": "0.9.96",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
