@@ -2407,7 +2407,7 @@
   Description: GNU privacy guard - signature verification tool
   Homepage: https://www.gnupg.org/
 - Package: gping
-  Version: 1.16.1
+  Version: 1.17.3
   Description: Ping, but with a graph
   Homepage: https://github.com/orf/gping
 - Package: gpsbabel
@@ -9863,7 +9863,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.6.1
+  Version: 3.7.0
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind
