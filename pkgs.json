@@ -3883,13 +3883,13 @@
   },
   {
     "Package": "helix",
-    "Version": "24.07",
+    "Version": "24.07-1",
     "Description": "A post-modern modal text editor written in rust",
     "Homepage": "https://helix-editor.com/"
   },
   {
     "Package": "helix-grammars",
-    "Version": "24.07",
+    "Version": "24.07-1",
     "Description": "Helix grammars",
     "Homepage": "https://helix-editor.com/"
   },

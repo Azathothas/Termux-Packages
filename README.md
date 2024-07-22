@@ -657,8 +657,8 @@
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.21.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
 | **hcloud** | 1.45.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
-| **helix** | 24.07 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
-| **helix-grammars** | 24.07 | Helix grammars | https://helix-editor.com/ |
+| **helix** | 24.07-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
+| **helix-grammars** | 24.07-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.15.3 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.0.19 | Language server for Helm | https://github.com/mrjosh/helm-ls |
