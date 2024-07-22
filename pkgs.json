@@ -2467,7 +2467,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.18.1",
+    "Version": "2.19.0",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -6637,7 +6637,7 @@
   },
   {
     "Package": "liblz4",
-    "Version": "1.9.4-1",
+    "Version": "1.10.0",
     "Description": "Fast LZ compression algorithm library",
     "Homepage": "https://lz4.github.io/lz4/"
   },
@@ -9451,7 +9451,7 @@
   },
   {
     "Package": "lz4",
-    "Version": "1.9.4-1",
+    "Version": "1.10.0",
     "Description": "Fast LZ compression algorithm tool",
     "Homepage": "https://lz4.github.io/lz4/"
   },
@@ -12781,7 +12781,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240715",
+    "Version": "20240722",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
