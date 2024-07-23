@@ -1643,7 +1643,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.19.0
+  Version: 2.19.1
   Description: A neofetch-like tool for fetching system information and displaying them in a pretty way
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -6171,7 +6171,7 @@
   Description: Lightning Network Daemon
   Homepage: https://github.com/lightningnetwork/lnd
 - Package: logo-ls
-  Version: 2024.06.04
+  Version: 2024.07.17
   Description: Modern ls command with vscode like File Icon and Git Integrations
   Homepage: https://github.com/Yash-Handa/logo-ls
 - Package: logrotate
@@ -6223,7 +6223,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.9.3
+  Version: 3.9.3-1
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
