@@ -1790,7 +1790,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 22.0.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 22.0.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -1982,7 +1982,7 @@
 | **python** | 3.11.9-3 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.46.0.1 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 2.9.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
-| **python-bcrypt** | 4.1.3 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
+| **python-bcrypt** | 4.2.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-contourpy** | 1.2.1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 42.0.8 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.11.9-3 | Wheels for Python ensurepip | https://python.org/ |
@@ -2163,8 +2163,8 @@
 | **scrypt** | 1.3.2-3 | scrypt KDF library and file encryption tool | https://www.tarsnap.com/scrypt.html |
 | **sd** | 1.0.0-1 | An intuitive find & replace CLI | https://github.com/chmln/sd |
 | **sdcv** | 0.5.5 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
-| **seafile-client** | 9.0.6 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
-| **seafile-client-static** | 9.0.6 | Static libraries for seafile-client | https://seafile.com |
+| **seafile-client** | 9.0.7 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
+| **seafile-client-static** | 9.0.7 | Static libraries for seafile-client | https://seafile.com |
 | **seccure** | 0.5-7 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-5 | Secure file, disk, swap, memory erasure utilities | http://www.thc.org/ |
 | **sed** | 4.9-1 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
@@ -2507,7 +2507,7 @@
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
 | **wabt** | 1.0.35 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 1.95.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 1.97.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.10.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 22 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.5 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |

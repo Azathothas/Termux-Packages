@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 22.0.1
+  Version: 22.0.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7935,7 +7935,7 @@
   Description: Python bindings for APT
   Homepage: https://apt-team.pages.debian.net/python-apt/
 - Package: python-bcrypt
-  Version: 4.1.3
+  Version: 4.2.0
   Description: Acceptable password hashing for your software and your servers
   Homepage: https://github.com/pyca/bcrypt
 - Package: python-contourpy
@@ -8659,11 +8659,11 @@
   Description: StarDict Console Version
   Homepage: http://dushistov.github.io/sdcv/
 - Package: seafile-client
-  Version: 9.0.6
+  Version: 9.0.7
   Description: Seafile is a file syncing and sharing software with file encryption and group sharing
   Homepage: https://seafile.com
 - Package: seafile-client-static
-  Version: 9.0.6
+  Version: 9.0.7
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seccure
@@ -10035,7 +10035,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.95.0
+  Version: 1.97.1
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
