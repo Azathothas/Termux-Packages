@@ -15025,7 +15025,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.3.289",
+    "Version": "1.3.290",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
