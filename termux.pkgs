@@ -142,7 +142,7 @@
 | **blk-utils** | 2.39.3-4 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
 | **blogc** | 0.20.1 | A blog compiler | https://blogc.rgm.io/ |
 | **bmon** | 4.0-3 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
-| **boinc** | 8.0.3 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
+| **boinc** | 8.0.4 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
 | **boinctui** | 2.7.1 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
 | **bombadillo** | 2.4.0-2 | A non-web client for the terminal, supporting Gopher, Gemini and much more | https://bombadillo.colorfield.space/ |
 | **boost** | 1.83.0-1 | Free peer-reviewed portable C++ source libraries | https://boost.org |
@@ -164,7 +164,7 @@
 | **bsd-games** | 1:3.3 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
 | **bsdtar** | 3.7.4 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 3.0.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
-| **buf** | 1.34.0 | A new way of working with Protocol Buffers | https://buf.build |
+| **buf** | 1.35.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.36.1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.4.2 | Binary file editor based on vi | http://bvi.sourceforge.net/ |
@@ -1022,8 +1022,8 @@
 | **libhangul-static** | 0.1.0-p20230415-0 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
 | **libhdf5** | 1.14.4.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.18.0 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.18.0 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.18.1 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.18.1 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libheif-static** | 1.15.2 | Static libraries for libheif | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.2.0 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhiredis-static** | 1.1.0 | Static libraries for libhiredis | https://redis.com/lp/hiredis |
@@ -2232,8 +2232,8 @@
 | **spglib** | 2.5.0 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
 | **spglib-static** | 2.0.2 | Static libraries for spglib | https://spglib.github.io/spglib/index.html |
 | **spiped** | 1.6.2-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
-| **spirv-headers** | 1.3.283.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
-| **spirv-tools** | 1.3.283.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
+| **spirv-headers** | 1.3.290.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
+| **spirv-tools** | 1.3.290.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.0 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.46.0 | Command line shell for SQLite | https://www.sqlite.org |
