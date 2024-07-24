@@ -14191,13 +14191,13 @@
   },
   {
     "Package": "tinygo",
-    "Version": "0.31.2-1",
+    "Version": "0.32.0",
     "Description": "Go compiler for microcontrollers, WASM, CLI tools",
     "Homepage": "https://tinygo.org"
   },
   {
     "Package": "tinygo-common",
-    "Version": "0.31.2-1",
+    "Version": "0.32.0",
     "Description": "TinyGo common files",
     "Homepage": "https://tinygo.org"
   },
