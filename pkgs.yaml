@@ -8731,7 +8731,7 @@
   Description: Executing shell commands via HTTP server
   Homepage: https://github.com/msoap/shell2http
 - Package: shellcheck
-  Version: 0.10.0
+  Version: 0.10.0-1
   Description: Shell script analysis tool
   Homepage: https://www.shellcheck.net/
 - Package: shellharden

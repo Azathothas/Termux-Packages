@@ -13099,7 +13099,7 @@
   },
   {
     "Package": "shellcheck",
-    "Version": "0.10.0",
+    "Version": "0.10.0-1",
     "Description": "Shell script analysis tool",
     "Homepage": "https://www.shellcheck.net/"
   },
