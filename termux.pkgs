@@ -171,7 +171,7 @@
 | **byacc** | 20240109 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 6.12 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://byobu.co/ |
 | **bzip2** | 1.0.8-6 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.32.2 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
+| **c-ares** | 1.32.3 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.18-p20240317-0 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.18-p20240317-0 | Static libraries for c-toxcore | https://tox.chat |
@@ -534,7 +534,7 @@
 | **git-svn** | 2.45.2 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **gitea** | 1.22.1 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
-| **gitoxide** | 0.36.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
+| **gitoxide** | 0.37.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.44.1 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
@@ -737,7 +737,7 @@
 | **jbig2enc-static** | 2023.01.08-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.59.1 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.60.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1381,8 +1381,8 @@
 | **libtpms-static** | 0.9.6 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.3-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
 | **libtree-ldd** | 3.1.1-1 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
-| **libtreesitter** | 0.22.6 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
-| **libtreesitter-static** | 0.22.6 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter** | 0.22.6-1 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter-static** | 0.22.6-1 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
 | **libtsduck** | 3.37.3670 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
 | **libtsduck-static** | 3.37.3670 | Static libraries for libtsduck | https://tsduck.io/ |
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
@@ -1737,7 +1737,7 @@
 | **neocmakelsp** | 0.7.9 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20240425 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.10.0-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim** | 0.10.1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2386,14 +2386,19 @@
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6-1 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.1.3 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter-lua** | 0.1.0 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
-| **tree-sitter-lua-static** | 0.1.0 | Static libraries for tree-sitter-lua | https://github.com/tree-sitter-grammars/tree-sitter-lua |
-| **tree-sitter-markdown** | 0.2.3-1 | Tree-sitter parser for Markdown | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
-| **tree-sitter-markdown-static** | 0.2.3-1 | Static libraries for tree-sitter-markdown | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
+| **tree-sitter-c** | 0.21.4 | C grammar for tree-sitter | https://github.com/tree-sitter |
+| **tree-sitter-c-static** | 0.21.4 | Static libraries for tree-sitter-c | https://github.com/tree-sitter |
+| **tree-sitter-lua** | 0.1.0-1 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars |
+| **tree-sitter-lua-static** | 0.1.0-1 | Static libraries for tree-sitter-lua | https://github.com/tree-sitter-grammars |
+| **tree-sitter-markdown** | 0.2.3-2 | Tree-sitter parser for Markdown | https://github.com/tree-sitter-grammars |
+| **tree-sitter-markdown-static** | 0.2.3-2 | Static libraries for tree-sitter-markdown | https://github.com/tree-sitter-grammars |
+| **tree-sitter-parsers** | 0.0.1 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
 | **tree-sitter-query** | 0.4.0 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
 | **tree-sitter-query-static** | 0.4.0 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars/tree-sitter-query |
-| **tree-sitter-vimdoc** | 3.0.0 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
-| **tree-sitter-vimdoc-static** | 3.0.0 | Static libraries for tree-sitter-vimdoc | https://github.com/neovim/tree-sitter-vimdoc |
+| **tree-sitter-vim** | 0.4.0 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars |
+| **tree-sitter-vim-static** | 0.4.0 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars |
+| **tree-sitter-vimdoc** | 3.0.0-1 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
+| **tree-sitter-vimdoc-static** | 3.0.0-1 | Static libraries for tree-sitter-vimdoc | https://github.com/neovim/tree-sitter-vimdoc |
 | **trojan-go** | 0.10.6-3 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
 | **trurl** | 0.13 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
 | **trzsz-go** | 1.1.7 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
@@ -2507,7 +2512,7 @@
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
 | **wabt** | 1.0.35 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 1.97.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 1.98.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.10.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 22 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.5 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |

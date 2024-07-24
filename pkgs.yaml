@@ -691,7 +691,7 @@
   Description: Tools for working with bzip2 compression
   Homepage: http://www.bzip.org/
 - Package: c-ares
-  Version: 1.32.2
+  Version: 1.32.3
   Description: Library for asynchronous DNS requests (including name resolves)
   Homepage: https://c-ares.haxx.se
 - Package: c-script
@@ -2143,7 +2143,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.36.0
+  Version: 0.37.0
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -2955,7 +2955,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.59.1
+  Version: 2.60.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -5531,11 +5531,11 @@
   Description: Like ldd(1), but prints a tree(1) like output
   Homepage: https://github.com/haampie/libtree
 - Package: libtreesitter
-  Version: 0.22.6
+  Version: 0.22.6-1
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: libtreesitter-static
-  Version: 0.22.6
+  Version: 0.22.6-1
   Description: Static libraries for libtreesitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: libtsduck
@@ -6955,7 +6955,7 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.10.0-2
+  Version: 0.10.1
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9550,22 +9550,34 @@
   Version: 2.1.3
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
+- Package: tree-sitter-c
+  Version: 0.21.4
+  Description: C grammar for tree-sitter
+  Homepage: https://github.com/tree-sitter
+- Package: tree-sitter-c-static
+  Version: 0.21.4
+  Description: Static libraries for tree-sitter-c
+  Homepage: https://github.com/tree-sitter
 - Package: tree-sitter-lua
-  Version: 0.1.0
+  Version: 0.1.0-1
   Description: Lua grammar for tree-sitter
-  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
+  Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-lua-static
-  Version: 0.1.0
+  Version: 0.1.0-1
   Description: Static libraries for tree-sitter-lua
-  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
+  Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-markdown
-  Version: 0.2.3-1
+  Version: 0.2.3-2
   Description: Tree-sitter parser for Markdown
-  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
+  Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-markdown-static
-  Version: 0.2.3-1
+  Version: 0.2.3-2
   Description: Static libraries for tree-sitter-markdown
-  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
+  Homepage: https://github.com/tree-sitter-grammars
+- Package: tree-sitter-parsers
+  Version: 0.0.1
+  Description: A metapackage that provides commonly used treesitter parsers
+  Homepage: https://github.com/termux/termux-packages
 - Package: tree-sitter-query
   Version: 0.4.0
   Description: TS query grammar for tree-sitter
@@ -9574,12 +9586,20 @@
   Version: 0.4.0
   Description: Static libraries for tree-sitter-query
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
+- Package: tree-sitter-vim
+  Version: 0.4.0
+  Description: Vimscript grammar for tree-sitter
+  Homepage: https://github.com/tree-sitter-grammars
+- Package: tree-sitter-vim-static
+  Version: 0.4.0
+  Description: Static libraries for tree-sitter-vim
+  Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-vimdoc
-  Version: 3.0.0
+  Version: 3.0.0-1
   Description: Tree-sitter parser for Vim help files
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: tree-sitter-vimdoc-static
-  Version: 3.0.0
+  Version: 3.0.0-1
   Description: Static libraries for tree-sitter-vimdoc
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: trojan-go
@@ -10035,7 +10055,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.97.1
+  Version: 1.98.1
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
