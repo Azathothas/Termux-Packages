@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "22.0.2",
+    "Version": "22.0.3",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14965,7 +14965,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.96",
+    "Version": "0.9.97",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
