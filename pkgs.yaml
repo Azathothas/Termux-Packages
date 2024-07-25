@@ -663,7 +663,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: buf
-  Version: 1.35.0
+  Version: 1.35.1
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -2535,7 +2535,7 @@
   Description: Static libraries for guile18
   Homepage: http://www.gnu.org/software/guile/
 - Package: gum
-  Version: 0.14.1
+  Version: 0.14.3
   Description: A tool for creating minimal interactive TUIs for shell scripts
   Homepage: https://github.com/charmbracelet/gum
 - Package: gumbo-parser
@@ -5915,23 +5915,23 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.13.2-1
+  Version: 2.13.3
   Description: Library for parsing XML documents
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python
-  Version: 2.13.2-1
+  Version: 2.13.3
   Description: Python bindings for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python-static
-  Version: 2.13.2-1
+  Version: 2.13.3
   Description: Static libraries for libxml2-python
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-static
-  Version: 2.13.2-1
+  Version: 2.13.3
   Description: Static libraries for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-utils
-  Version: 2.13.2-1
+  Version: 2.13.3
   Description: XML utilities
   Homepage: http://www.xmlsoft.org
 - Package: libxmlb
