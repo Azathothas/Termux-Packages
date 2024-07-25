@@ -295,7 +295,7 @@
 | **cups** | 2.4.10 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1 | CUPS PDF backend | https://www.cups-pdf.de/ |
 | **cups-static** | 2.4.10 | Static libraries for cups | https://www.cups.org/ |
-| **curl** | 8.8.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
+| **curl** | 8.9.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.7.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-4 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
 | **cvs** | 1:1.12.13-3 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
@@ -919,8 +919,8 @@
 | **libcue** | 2.3.0 | CUE Sheet Parser Library | https://github.com/lipnitsk/libcue/ |
 | **libcunit** | 2.1.3 | C Unit Testing Framework | https://sourceforge.net/projects/cunit/ |
 | **libcunit-static** | 2.1.3 | Static libraries for libcunit | https://sourceforge.net/projects/cunit/ |
-| **libcurl** | 8.8.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
-| **libcurl-static** | 8.8.0 | Static libraries for libcurl | https://curl.se/ |
+| **libcurl** | 8.9.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
+| **libcurl-static** | 8.9.0 | Static libraries for libcurl | https://curl.se/ |
 | **libcwidget** | 0.5.18 | high-level terminal interface library for C++ | https://salsa.debian.org/cwidget-team/ |
 | **libcwidget-static** | 0.5.18 | Static libraries for libcwidget | https://salsa.debian.org/cwidget-team/ |
 | **libczmq** | 4.2.1-3 | High-level C binding for ZeroMQ | https://zeromq.org/ |
@@ -1708,9 +1708,9 @@
 | **mu** | 1.12.5 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
 | **multitail** | 7.1.3 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
-| **mupdf** | 1.24.7 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
-| **mupdf-static** | 1.24.7 | Static libraries for mupdf | https://mupdf.com/ |
-| **mupdf-tools** | 1.24.7 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
+| **mupdf** | 1.24.8 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
+| **mupdf-static** | 1.24.8 | Static libraries for mupdf | https://mupdf.com/ |
+| **mupdf-tools** | 1.24.8 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-2 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.13 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
@@ -1802,7 +1802,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 22.0.3 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 22.1.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2135,7 +2135,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.2 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.5.4 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.5.5 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |

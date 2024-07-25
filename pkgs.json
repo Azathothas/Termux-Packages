@@ -1711,7 +1711,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.8.0",
+    "Version": "8.9.0",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -5455,13 +5455,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.8.0",
+    "Version": "8.9.0",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.8.0",
+    "Version": "8.9.0",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -10189,19 +10189,19 @@
   },
   {
     "Package": "mupdf",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "Lightweight PDF and XPS viewer (library)",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-static",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "Static libraries for mupdf",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-tools",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "Lightweight PDF and XPS viewer (utilities)",
     "Homepage": "https://mupdf.com/"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "22.0.3",
+    "Version": "22.1.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12751,7 +12751,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.5.4",
+    "Version": "0.5.5",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
