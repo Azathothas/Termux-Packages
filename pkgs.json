@@ -4135,7 +4135,7 @@
   },
   {
     "Package": "hz",
-    "Version": "0.9.1",
+    "Version": "0.9.2",
     "Description": "A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices",
     "Homepage": "https://www.cloudwego.io"
   },
