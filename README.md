@@ -412,11 +412,11 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.4.0 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 12.90 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 12.92 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.18.22 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.18.23 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.35.1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.35.1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -656,7 +656,7 @@
 | **hash-slinger** | 3.3 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.21.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.45.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.46.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 24.07-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 24.07-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
@@ -1378,8 +1378,8 @@
 | **libtins** | 4.5 | High-level, multiplatform C++ network packet sniffing and crafting library. | https://libtins.github.io |
 | **libtinyxml** | 2.6.2-1 | A simple, small, C++ XML parser | https://sourceforge.net/projects/tinyxml |
 | **libtinyxml2** | 10.0.0 | A simple, small, efficient, C++ XML parser | http://www.grinninglizard.com/tinyxml2/ |
-| **libtirpc** | 1.3.4-1 | Transport Independent RPC library | http://git.linux-nfs.org/?p=steved/libtirpc.git |
-| **libtirpc-static** | 1.3.4-1 | Static libraries for libtirpc | http://git.linux-nfs.org/?p=steved/libtirpc.git |
+| **libtirpc** | 1.3.5 | Transport Independent RPC library | http://git.linux-nfs.org/?p=steved/libtirpc.git |
+| **libtirpc-static** | 1.3.5 | Static libraries for libtirpc | http://git.linux-nfs.org/?p=steved/libtirpc.git |
 | **libtllist** | 1.1.0 | A small font loading and glyph rasterization library | https://codeberg.org/dnkl/fcft |
 | **libtomcrypt** | 1.18.2 | A fairly comprehensive, modular and portable cryptographic toolkit | https://www.libtom.net/LibTomCrypt/ |
 | **libtomcrypt-static** | 1.18.2 | Static libraries for libtomcrypt | https://www.libtom.net/LibTomCrypt/ |
@@ -1640,7 +1640,7 @@
 | **mdp** | 1.0.15-2 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 10.1.0-1 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 24.06-1 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **megacmd** | 1.7.0-1 | Provides non UI access to MEGA services | https://mega.io/ |
+| **megacmd** | 1.7.0-2 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
 | **memcached** | 1.6.29 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
