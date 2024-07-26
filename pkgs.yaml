@@ -1903,7 +1903,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.54.1
+  Version: 0.54.2
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 22.3.0
+  Version: 23.0.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8351,7 +8351,7 @@
   Description: Resolver configuration file
   Homepage: https://man7.org/linux/man-pages/man5/resolv.conf.5.html
 - Package: restic
-  Version: 0.16.5
+  Version: 0.17.0
   Description: Fast, secure, efficient backup program
   Homepage: https://restic.net/
 - Package: restic-server
@@ -9995,7 +9995,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.97
+  Version: 0.9.98
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest

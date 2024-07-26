@@ -2857,7 +2857,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.54.1",
+    "Version": "0.54.2",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "22.3.0",
+    "Version": "23.0.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12529,7 +12529,7 @@
   },
   {
     "Package": "restic",
-    "Version": "0.16.5",
+    "Version": "0.17.0",
     "Description": "Fast, secure, efficient backup program",
     "Homepage": "https://restic.net/"
   },
@@ -14995,7 +14995,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.97",
+    "Version": "0.9.98",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
