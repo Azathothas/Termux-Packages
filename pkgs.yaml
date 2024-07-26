@@ -2419,7 +2419,7 @@
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
-  Version: 1:11.1.2
+  Version: 1:11.1.3
   Description: The open-source platform for monitoring and observability
   Homepage: https://grafana.com/
 - Package: graphene
@@ -4039,7 +4039,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.65.1
+  Version: 1.65.2
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.0.1
+  Version: 23.0.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7955,7 +7955,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.65.1
+  Version: 1.65.2
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc
@@ -8335,7 +8335,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.00.01
+  Version: 1:05.00.02
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -8355,7 +8355,7 @@
   Description: Fast, secure, efficient backup program
   Homepage: https://restic.net/
 - Package: restic-server
-  Version: 0.12.1-1
+  Version: 0.13.0
   Description: Restics REST backend API server
   Homepage: https://restic.net/
 - Package: restish
