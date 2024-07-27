@@ -1231,7 +1231,7 @@
   Description: Small utilities which are used primarily by the installation scripts of Debian packages
   Homepage: https://packages.debian.org/debianutils
 - Package: debootstrap
-  Version: 1.0.136
+  Version: 1.0.137
   Description: Bootstrap a basic Debian system
   Homepage: https://wiki.debian.org/Debootstrap
 - Package: desed
@@ -6599,7 +6599,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.07.16.23.46.41
+  Version: 2024.07.26.20.48.21
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.0.2
+  Version: 23.2.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
