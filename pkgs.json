@@ -2485,19 +2485,19 @@
   },
   {
     "Package": "faust",
-    "Version": "2.70.3",
+    "Version": "2.74.6",
     "Description": "A functional programming language for signal processing and sound synthesis",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faust-static",
-    "Version": "2.70.3",
+    "Version": "2.74.6",
     "Description": "Static libraries for faust",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faustlibraries",
-    "Version": "2.70.3",
+    "Version": "2.74.6",
     "Description": "Faust DSP libraries",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
