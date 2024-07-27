@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.2.0",
+    "Version": "23.3.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15019,7 +15019,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.3.291",
+    "Version": "1.3.292",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
