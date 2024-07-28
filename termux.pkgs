@@ -702,7 +702,7 @@
 | **imagemagick** | 7.1.1.36 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
 | **imagemagick-static** | 7.1.1.36 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.11 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
-| **imgflo** | 0.4.2-7 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
+| **imgflo** | 0.4.2-8 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.3 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.3 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
 | **indent** | 2.2.13 | C language source code formatting program | https://www.gnu.org/software/indent/ |
@@ -1018,8 +1018,8 @@
 | **libgts** | 0.7.6-1 | Provides useful functions to deal with 3D surfaces meshed with interconnected triangles | https://gts.sourceforge.net/ |
 | **libgts-static** | 0.7.6-1 | Static libraries for libgts | https://gts.sourceforge.net/ |
 | **libgxps** | 0.3.2-2 | handling and rendering XPS documents | https://wiki.gnome.org/libgxps |
-| **libhangul** | 0.1.0-p20230415-0 | A library to support hangul input method logic | https://github.com/libhangul/libhangul |
-| **libhangul-static** | 0.1.0-p20230415-0 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
+| **libhangul** | 0.1.0-p20230415-1 | A library to support hangul input method logic | https://github.com/libhangul/libhangul |
+| **libhangul-static** | 0.1.0-p20230415-1 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
 | **libhdf5** | 1.14.4.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
 | **libheif** | 1.18.1 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
