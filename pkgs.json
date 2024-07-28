@@ -15637,7 +15637,7 @@
   },
   {
     "Package": "zls",
-    "Version": "0.12.0",
+    "Version": "0.13.0",
     "Description": "Zig language server",
     "Homepage": "https://github.com/zigtools/zls"
   },
