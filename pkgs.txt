@@ -553,8 +553,8 @@
  glslang  14.3.0  OpenGL and OpenGL ES shader front end and validator  https://github.com/KhronosGroup/glslang 
  gluelang  0.2.0-1  A programming language that has a strong nature to be a glue of commands  https://ryuichiueda.github.io/GlueLang/ 
  glulxe  0.5.4-5  Interpreter for the Glulx portable VM for interactive fiction (IF) games  https://www.eblong.com/zarf/glulx/ 
- gmic  3.4.0  Full-featured framework for image processing  https://gmic.eu 
- gmic-gm  3.4.0  Full-featured framework for image processing (GraphicsMagick variant)  https://gmic.eu 
+ gmic  3.4.0-1  Full-featured framework for image processing  https://gmic.eu 
+ gmic-gm  3.4.0-1  Full-featured framework for image processing (GraphicsMagick variant)  https://gmic.eu 
  gn  20220502-1  Meta-build system that generates build files for Ninja  https://gn.googlesource.com/gn 
  gnucap  20210107-3  The Gnu Circuit Analysis Package  https://www.gnu.org/software/gnucap/gnucap.html 
  gnuchess  6.2.9-3  Chess-playing program  https://www.gnu.org/software/chess/ 
@@ -595,10 +595,10 @@
  gpac  2.2.1-3  An open-source multimedia framework focused on modularity and standards compliance  https://gpac.wp.imt.fr/ 
  gpac-static  2.2.1-3  Static libraries for gpac  https://gpac.wp.imt.fr/ 
  gperf  3.1-7  A perfect hash function generator  https://www.gnu.org/software/gperf 
- gpgme  1.23.2  Library designed to make access to GnuPG easier  https://www.gnupg.org/related_software/gpgme/ 
- gpgme-static  1.23.2  Static libraries for gpgme  https://www.gnupg.org/related_software/gpgme/ 
- gpgmepp  1.23.2  Programmatic C++ library interface to GnuPG  https://www.gnupg.org/related_software/gpgme/ 
- gpgmepp-static  1.23.2  Static libraries for gpgmepp  https://www.gnupg.org/related_software/gpgme/ 
+ gpgme  1.23.2-1  Library designed to make access to GnuPG easier  https://www.gnupg.org/related_software/gpgme/ 
+ gpgme-static  1.23.2-1  Static libraries for gpgme  https://www.gnupg.org/related_software/gpgme/ 
+ gpgmepp  1.23.2-1  Programmatic C++ library interface to GnuPG  https://www.gnupg.org/related_software/gpgme/ 
+ gpgmepp-static  1.23.2-1  Static libraries for gpgmepp  https://www.gnupg.org/related_software/gpgme/ 
  gpgv  2.4.5-1  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
  gping  1.17.3  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-2  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 

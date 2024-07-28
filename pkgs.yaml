@@ -2219,11 +2219,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 3.4.0
+  Version: 3.4.0-1
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 3.4.0
+  Version: 3.4.0-1
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -2387,19 +2387,19 @@
   Description: A perfect hash function generator
   Homepage: https://www.gnu.org/software/gperf
 - Package: gpgme
-  Version: 1.23.2
+  Version: 1.23.2-1
   Description: Library designed to make access to GnuPG easier
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgme-static
-  Version: 1.23.2
+  Version: 1.23.2-1
   Description: Static libraries for gpgme
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgmepp
-  Version: 1.23.2
+  Version: 1.23.2-1
   Description: Programmatic C++ library interface to GnuPG
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgmepp-static
-  Version: 1.23.2
+  Version: 1.23.2-1
   Description: Static libraries for gpgmepp
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgv
