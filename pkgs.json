@@ -14881,7 +14881,7 @@
   },
   {
     "Package": "vegeta",
-    "Version": "12.11.1",
+    "Version": "12.11.3",
     "Description": "HTTP load testing tool",
     "Homepage": "https://github.com/tsenart/vegeta"
   },
@@ -15667,7 +15667,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "0.4.35",
+    "Version": "0.4.36",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
