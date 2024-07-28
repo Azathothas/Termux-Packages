@@ -1525,7 +1525,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-34",
+    "Version": "2.4.0-35",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -4207,13 +4207,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.1.35",
+    "Version": "7.1.1.36",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.1.35",
+    "Version": "7.1.1.36",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -10171,7 +10171,7 @@
   },
   {
     "Package": "mu",
-    "Version": "1.12.5",
+    "Version": "1.12.6",
     "Description": "Maildir indexer/searcher and Emacs client (mu4e)",
     "Homepage": "https://www.djcbsoftware.nl/code/mu/"
   },

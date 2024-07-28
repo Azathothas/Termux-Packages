@@ -1015,7 +1015,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 2.4.0-34
+  Version: 2.4.0-35
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -2803,11 +2803,11 @@
   Description: A command line id3v2 tag editor
   Homepage: http://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.1.35
+  Version: 7.1.1.36
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.1.35
+  Version: 7.1.1.36
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -6779,7 +6779,7 @@
   Description: Tool for manipulating FAT images
   Homepage: https://www.gnu.org/software/mtools/
 - Package: mu
-  Version: 1.12.5
+  Version: 1.12.6
   Description: Maildir indexer/searcher and Emacs client (mu4e)
   Homepage: https://www.djcbsoftware.nl/code/mu/
 - Package: muchsync
