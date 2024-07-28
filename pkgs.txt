@@ -204,8 +204,8 @@
  ccrypt  1.11  Secure encryption and decryption of files and streams utility  http://ccrypt.sourceforge.net/ 
  cec-client  6.0.2-1  Client applications for libCEC  http://libcec.pulse-eight.com/ 
  ceu-lang  2019.07.17-2  The Structured Synchronous Reactive Programming Language Céu  https://github.com/ceu-lang/ceu 
- cfengine  1:3.23.0  CFEngine is a configuration management technology  https://cfengine.com/ 
- cfengine-static  1:3.23.0  Static libraries for cfengine  https://cfengine.com/ 
+ cfengine  1:3.24.0  CFEngine is a configuration management technology  https://cfengine.com/ 
+ cfengine-static  1:3.24.0  Static libraries for cfengine  https://cfengine.com/ 
  cfm  1.2.0-3  A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast.  https://github.com/0l1v3rr/cli-file-manager 
  cgal  5.6.1  Computational Geometry Algorithms Library  https://www.cgal.org/ 
  cgdb  0.8.0  A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)  https://cgdb.github.io/ 
@@ -605,8 +605,8 @@
  gradle  1:8.9  Powerful build system for the JVM  https://gradle.org/ 
  grafana  1:11.1.3  The open-source platform for monitoring and observability  https://grafana.com/ 
  graphene  1.10.8-1  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
- graphicsmagick  1.3.43-1  Collection of image processing tools  http://www.graphicsmagick.org/ 
- graphicsmagick-static  1.3.43-1  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
+ graphicsmagick  1.3.43-2  Collection of image processing tools  http://www.graphicsmagick.org/ 
+ graphicsmagick-static  1.3.43-2  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
  graphviz  12.0.0  Rich set of graph drawing tools  https://www.graphviz.org/ 
  graphviz-static  12.0.0  Static libraries for graphviz  https://www.graphviz.org/ 
  greed  4.3  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
@@ -1203,7 +1203,7 @@
  libolm  3.2.16  An implementation of the Double Ratchet cryptographic ratchet  https://matrix.org/docs/projects/other/olm/ 
  libopenblas  0.3.27  An optimized BLAS library based on GotoBLAS2 1.13 BSD  https://www.openblas.net 
  libopenblas-static  0.3.27  Static libraries for libopenblas  https://www.openblas.net 
- libopencc  1.1.7  An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)  https://github.com/BYVoid/OpenCC 
+ libopencc  1.1.8  An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)  https://github.com/BYVoid/OpenCC 
  libopencore-amr  0.1.6  Open source implementation of the Adaptive Multi Rate (AMR) speech codec  https://sourceforge.net/projects/opencore-amr 
  libopencore-amr-static  0.1.6  Static libraries for libopencore-amr  https://sourceforge.net/projects/opencore-amr 
  libopenfec  1.4.2.9  Application-Level Forward Erasure Correction implementation library  http://openfec.org 
@@ -1802,7 +1802,7 @@
  open-adventure  1.19  Forward-port of the original Colossal Cave Adventure from 1976-77  http://www.catb.org/~esr/open-adventure/ 
  openal-soft  1.23.1  Software implementation of the OpenAL API  https://openal-soft.org/ 
  openbabel  3.1.1-8  Open Babel is a chemical toolbox designed to speak the many languages of chemical data  http://openbabel.org/wiki/Main_Page 
- opencc-tools  1.1.7  Command-line tools for OpenCC  https://github.com/BYVoid/OpenCC 
+ opencc-tools  1.1.8  Command-line tools for OpenCC  https://github.com/BYVoid/OpenCC 
  opencl-clhpp  2024.05.08  Khronos OpenCL C++ Headers  https://github.com/KhronosGroup/OpenCL-CLHPP 
  opencl-headers  2024.05.08  Khronos OpenCL-Headers  https://github.com/KhronosGroup/OpenCL-Headers 
  opencl-vendor-driver  0.3  OpenCL driver from system vendor  https://termux.dev 

@@ -1237,13 +1237,13 @@
   },
   {
     "Package": "cfengine",
-    "Version": "1:3.23.0",
+    "Version": "1:3.24.0",
     "Description": "CFEngine is a configuration management technology",
     "Homepage": "https://cfengine.com/"
   },
   {
     "Package": "cfengine-static",
-    "Version": "1:3.23.0",
+    "Version": "1:3.24.0",
     "Description": "Static libraries for cfengine",
     "Homepage": "https://cfengine.com/"
   },
@@ -3643,13 +3643,13 @@
   },
   {
     "Package": "graphicsmagick",
-    "Version": "1.3.43-1",
+    "Version": "1.3.43-2",
     "Description": "Collection of image processing tools",
     "Homepage": "http://www.graphicsmagick.org/"
   },
   {
     "Package": "graphicsmagick-static",
-    "Version": "1.3.43-1",
+    "Version": "1.3.43-2",
     "Description": "Static libraries for graphicsmagick",
     "Homepage": "http://www.graphicsmagick.org/"
   },
@@ -7231,7 +7231,7 @@
   },
   {
     "Package": "libopencc",
-    "Version": "1.1.7",
+    "Version": "1.1.8",
     "Description": "An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
@@ -10825,7 +10825,7 @@
   },
   {
     "Package": "opencc-tools",
-    "Version": "1.1.7",
+    "Version": "1.1.8",
     "Description": "Command-line tools for OpenCC",
     "Homepage": "https://github.com/BYVoid/OpenCC"
   },
