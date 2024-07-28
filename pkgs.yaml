@@ -4079,11 +4079,11 @@
   Description: handling and rendering XPS documents
   Homepage: https://wiki.gnome.org/libgxps
 - Package: libhangul
-  Version: 0.1.0-p20230415-1
+  Version: 0.1.0-p20230415-2
   Description: A library to support hangul input method logic
   Homepage: https://github.com/libhangul/libhangul
 - Package: libhangul-static
-  Version: 0.1.0-p20230415-1
+  Version: 0.1.0-p20230415-2
   Description: Static libraries for libhangul
   Homepage: https://github.com/libhangul/libhangul
 - Package: libhdf5
