@@ -10765,7 +10765,7 @@
   },
   {
     "Package": "ol",
-    "Version": "2.5.1",
+    "Version": "2.5.1-1",
     "Description": "Purely functional dialect of Lisp",
     "Homepage": "https://yuriy-chumak.github.io/ol/"
   },
@@ -11767,7 +11767,7 @@
   },
   {
     "Package": "prover9",
-    "Version": "2009-11A-0",
+    "Version": "2009-11A-1",
     "Description": "An automated theorem prover for first-order and equational logic",
     "Homepage": "https://www.cs.unm.edu/~mccune/prover9/"
   },
@@ -12378,6 +12378,12 @@
     "Homepage": "https://github.com/doy/rbw"
   },
   {
+    "Package": "rc",
+    "Version": "1.7.4",
+    "Description": "An alternative implementation of the plan 9 rc shell",
+    "Homepage": "https://github.com/rakitzis/rc"
+  },
+  {
     "Package": "rclone",
     "Version": "1.67.0",
     "Description": "rsync for cloud storage",
@@ -12889,7 +12895,7 @@
   },
   {
     "Package": "salty-chat",
-    "Version": "0.0.22-3",
+    "Version": "0.0.22-4",
     "Description": "A secure, easy, self-hosted messaging",
     "Homepage": "https://salty.im/"
   },
@@ -13159,7 +13165,7 @@
   },
   {
     "Package": "simh",
-    "Version": "1:3.12.4",
+    "Version": "1:3.12.5",
     "Description": "A collection of simulators for computer hardware and software from the past",
     "Homepage": "http://simh.trailing-edge.com/"
   },
@@ -13201,7 +13207,7 @@
   },
   {
     "Package": "slashtime",
-    "Version": "2023.01.04",
+    "Version": "2023.01.04-1",
     "Description": "A small program which displays the time in various places",
     "Homepage": "https://github.com/istathar/slashtime"
   },
@@ -13573,7 +13579,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.27.2",
+    "Version": "0.27.2-1",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -15415,7 +15421,7 @@
   },
   {
     "Package": "xorriso",
-    "Version": "1:1.5.7-1",
+    "Version": "1:1.5.7-2",
     "Description": "Tool for creating ISO files",
     "Homepage": "https://www.gnu.org/software/xorriso"
   },
