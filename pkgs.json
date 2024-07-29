@@ -5755,7 +5755,7 @@
   },
   {
     "Package": "libfann",
-    "Version": "2.2.0",
+    "Version": "2.2.0-1",
     "Description": "Fast artificial neural network library",
     "Homepage": "http://leenissen.dk/fann/wp"
   },
@@ -6019,7 +6019,7 @@
   },
   {
     "Package": "libgnt",
-    "Version": "2.14.3-1",
+    "Version": "2.14.3-2",
     "Description": "An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way",
     "Homepage": "https://keep.imfreedom.org/libgnt/libgnt"
   },
@@ -9835,7 +9835,7 @@
   },
   {
     "Package": "mg",
-    "Version": "20230406",
+    "Version": "20240709",
     "Description": "microscopic GNU Emacs-style editor",
     "Homepage": "https://github.com/hboetes/mg"
   },
