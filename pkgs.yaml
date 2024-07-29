@@ -4115,13 +4115,13 @@
   Description: Static libraries for libhiredis
   Homepage: https://redis.com/lp/hiredis
 - Package: libhtmlcxx
-  Version: 0.87-3
+  Version: 0.87-4
   Description: A simple non-validating css1 and html parser for C++
-  Homepage: http://htmlcxx.sourceforge.net/
+  Homepage: https://htmlcxx.sourceforge.net/
 - Package: libhtmlcxx-static
-  Version: 0.87-3
+  Version: 0.87-4
   Description: Static libraries for libhtmlcxx
-  Homepage: http://htmlcxx.sourceforge.net/
+  Homepage: https://htmlcxx.sourceforge.net/
 - Package: libhyphen
   Version: 2.8.8
   Description: hyphenation library to use converted TeX hyphenation patterns
@@ -6111,7 +6111,7 @@
   Description: Toolkit for developing, sharing, and running luvit/lua programs and libraries.
   Homepage: https://luvit.io
 - Package: litespeedtest
-  Version: 0.15.0-1
+  Version: 0.15.0-2
   Description: A simple tool for batch test ss/ssr/v2ray/trojan servers
   Homepage: https://github.com/xxf098/LiteSpeedTest
 - Package: littlecms
@@ -6191,7 +6191,7 @@
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lr
-  Version: "1.6"
+  Version: 1.6-1
   Description: list files, recursively, includes the best features of ls, find, stat and du
   Homepage: https://git.vuxu.org/lr/about/
 - Package: lrzip
@@ -6611,13 +6611,13 @@
   Description: A dead simple tool to sign files and verify signatures
   Homepage: https://jedisct1.github.io/minisign/
 - Package: miniupnpc
-  Version: 2.2.8
+  Version: 2.2.8-1
   Description: Small UPnP client library and tool to access Internet Gateway Devices
-  Homepage: http://miniupnp.free.fr/
+  Homepage: https://miniupnp.tuxfamily.org/
 - Package: miniupnpc-static
-  Version: 2.2.8
+  Version: 2.2.8-1
   Description: Static libraries for miniupnpc
-  Homepage: http://miniupnp.free.fr/
+  Homepage: https://miniupnp.tuxfamily.org/
 - Package: minizinc
   Version: 2.8.5
   Description: A medium-level constraint modelling language
@@ -6803,7 +6803,7 @@
   Description: Lightweight PDF and XPS viewer (utilities)
   Homepage: https://mupdf.com/
 - Package: music-file-organizer
-  Version: 1.0.4-2
+  Version: 1.0.4-3
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
@@ -6851,13 +6851,13 @@
   Description: A cross-platform x86 assembler with an Intel-like syntax
   Homepage: https://nasm.us
 - Package: natpmpc
-  Version: "20230423"
+  Version: 20230423-1
   Description: Portable and fully compliant implementation of NAT-PMP
-  Homepage: http://miniupnp.free.fr/libnatpmp.html
+  Homepage: https://miniupnp.tuxfamily.org/libnatpmp.html
 - Package: natpmpc-static
-  Version: "20230423"
+  Version: 20230423-1
   Description: Static libraries for natpmpc
-  Homepage: http://miniupnp.free.fr/libnatpmp.html
+  Homepage: https://miniupnp.tuxfamily.org/libnatpmp.html
 - Package: navi
   Version: 2.23.0
   Description: An interactive cheatsheet tool for the command-line
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.3.0
+  Version: 23.3.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8247,7 +8247,7 @@
   Description: Static libraries for ravencoin
   Homepage: https://ravencoin.org/
 - Package: rbw
-  Version: 1.12.0
+  Version: 1.12.1
   Description: An unofficial command line client for Bitwarden
   Homepage: https://github.com/doy/rbw
 - Package: rclone
@@ -8519,7 +8519,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240722"
+  Version: "20240729"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen

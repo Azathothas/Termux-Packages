@@ -1039,8 +1039,8 @@
 | **libheif-static** | 1.15.2 | Static libraries for libheif | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.2.0 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhiredis-static** | 1.1.0 | Static libraries for libhiredis | https://redis.com/lp/hiredis |
-| **libhtmlcxx** | 0.87-3 | A simple non-validating css1 and html parser for C++ | http://htmlcxx.sourceforge.net/ |
-| **libhtmlcxx-static** | 0.87-3 | Static libraries for libhtmlcxx | http://htmlcxx.sourceforge.net/ |
+| **libhtmlcxx** | 0.87-4 | A simple non-validating css1 and html parser for C++ | https://htmlcxx.sourceforge.net/ |
+| **libhtmlcxx-static** | 0.87-4 | Static libraries for libhtmlcxx | https://htmlcxx.sourceforge.net/ |
 | **libhyphen** | 2.8.8 | hyphenation library to use converted TeX hyphenation patterns | https://github.com/hunspell/hyphen |
 | **libhyphen-static** | 2.8.8 | Static libraries for libhyphen | https://github.com/hunspell/hyphen |
 | **libical** | 3.0.18-1 | Libical is an Open Source implementation of the iCalendar protocols and protocol data units | https://libical.github.io/libical/ |
@@ -1538,7 +1538,7 @@
 | **links** | 2.29-1 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
 | **lipl** | 0.1.3 | A command line tool that is similar to watch but has extended functions for commands outputing a number | https://github.com/yxdunc/lipl |
 | **lit** | 3.8.5-2 | Toolkit for developing, sharing, and running luvit/lua programs and libraries. | https://luvit.io |
-| **litespeedtest** | 0.15.0-1 | A simple tool for batch test ss/ssr/v2ray/trojan servers | https://github.com/xxf098/LiteSpeedTest |
+| **litespeedtest** | 0.15.0-2 | A simple tool for batch test ss/ssr/v2ray/trojan servers | https://github.com/xxf098/LiteSpeedTest |
 | **littlecms** | 2.16 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.16 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.16 | Color management utilities | http://www.littlecms.com/ |
@@ -1558,7 +1558,7 @@
 | **loksh** | 7.5 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
 | **lowdown** | 1.1.0 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
 | **lowdown-static** | 1.1.0 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
-| **lr** | 1.6 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
+| **lr** | 1.6-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.651 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-0 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
 | **lsd** | 1.1.2-1 | Next gen ls command | https://github.com/lsd-rs/lsd |
@@ -1663,8 +1663,8 @@
 | **minio** | 2024.07.26.20.48.21 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.27.1 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
-| **miniupnpc** | 2.2.8 | Small UPnP client library and tool to access Internet Gateway Devices | http://miniupnp.free.fr/ |
-| **miniupnpc-static** | 2.2.8 | Static libraries for miniupnpc | http://miniupnp.free.fr/ |
+| **miniupnpc** | 2.2.8-1 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
+| **miniupnpc-static** | 2.2.8-1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.8.5 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.8.5 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
 | **mkbootimg** | 2022.11.09 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
@@ -1711,7 +1711,7 @@
 | **mupdf** | 1.24.8 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
 | **mupdf-static** | 1.24.8 | Static libraries for mupdf | https://mupdf.com/ |
 | **mupdf-tools** | 1.24.8 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
-| **music-file-organizer** | 1.0.4-2 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
+| **music-file-organizer** | 1.0.4-3 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.13 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
 | **mympd** | 16.1.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
@@ -1723,8 +1723,8 @@
 | **nali** | 0.8.1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
 | **nano** | 8.0 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.03 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
-| **natpmpc** | 20230423 | Portable and fully compliant implementation of NAT-PMP | http://miniupnp.free.fr/libnatpmp.html |
-| **natpmpc-static** | 20230423 | Static libraries for natpmpc | http://miniupnp.free.fr/libnatpmp.html |
+| **natpmpc** | 20230423-1 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
+| **natpmpc-static** | 20230423-1 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **navi** | 2.23.0 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
 | **navidrome** | 0.52.5 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.24 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
@@ -1802,7 +1802,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 23.3.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 23.3.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2072,7 +2072,7 @@
 | **rav1e** | 0.7.1-1 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **ravencoin** | 4.6.1-4 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
 | **ravencoin-static** | 4.6.1-4 | Static libraries for ravencoin | https://ravencoin.org/ |
-| **rbw** | 1.12.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
+| **rbw** | 1.12.1 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rclone** | 1.67.0 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
@@ -2140,7 +2140,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.80.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240722 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240729 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.80.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.80.0 | Rust source code files | https://www.rust-lang.org/ |
