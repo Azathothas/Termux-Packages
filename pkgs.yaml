@@ -7447,7 +7447,7 @@
   Description: A fzf terminal UI for paru or pacman
   Homepage: https://github.com/joehillen/paruz
 - Package: pass
-  Version: 1.7.4-2
+  Version: 1.7.4-3
   Description: Lightweight directory-based password manager
   Homepage: https://www.passwordstore.org
 - Package: pass-otp

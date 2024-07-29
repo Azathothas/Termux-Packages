@@ -11173,7 +11173,7 @@
   },
   {
     "Package": "pass",
-    "Version": "1.7.4-2",
+    "Version": "1.7.4-3",
     "Description": "Lightweight directory-based password manager",
     "Homepage": "https://www.passwordstore.org"
   },

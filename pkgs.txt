@@ -1860,7 +1860,7 @@
  parted  3.6  Versatile partition editor  https://www.gnu.org/software/parted/ 
  parted-static  3.6  Static libraries for parted  https://www.gnu.org/software/parted/ 
  paruz  1.1.2  A fzf terminal UI for paru or pacman  https://github.com/joehillen/paruz 
- pass  1.7.4-2  Lightweight directory-based password manager  https://www.passwordstore.org 
+ pass  1.7.4-3  Lightweight directory-based password manager  https://www.passwordstore.org 
  pass-otp  1.2.0-3  A pass extension for managing one-time-password (OTP) tokens  https://github.com/tadfisher/pass-otp 
  passphrase2pgp  1.3.0-2  Generate EdDSA/cv25519 private key in GnuPG/SSH format reproducibly per hash of user given passphrase  https://github.com/skeeto/passphrase2pgp 
  pastebinit  1.5.1-1  Command-line pastebin client  https://launchpad.net/pastebinit 
