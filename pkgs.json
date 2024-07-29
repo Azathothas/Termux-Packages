@@ -4063,7 +4063,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.129.0",
+    "Version": "0.130.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -13615,7 +13615,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.105.4",
+    "Version": "1.108.3",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -14887,7 +14887,7 @@
   },
   {
     "Package": "vegeta",
-    "Version": "12.11.3",
+    "Version": "12.12.0",
     "Description": "HTTP load testing tool",
     "Homepage": "https://github.com/tsenart/vegeta"
   },
@@ -15373,7 +15373,7 @@
   },
   {
     "Package": "xmake",
-    "Version": "2.9.3",
+    "Version": "2.9.4",
     "Description": "A cross-platform build utility based on Lua",
     "Homepage": "https://xmake.io/"
   },

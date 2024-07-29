@@ -2707,7 +2707,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.129.0
+  Version: 0.130.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -9075,7 +9075,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.105.4
+  Version: 1.108.3
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -9923,7 +9923,7 @@
   Description: Static libraries for vde2
   Homepage: https://github.com/virtualsquare/vde-2
 - Package: vegeta
-  Version: 12.11.3
+  Version: 12.12.0
   Description: HTTP load testing tool
   Homepage: https://github.com/tsenart/vegeta
 - Package: vera
@@ -10247,7 +10247,7 @@
   Description: A command-line tool for converting XLS to CSV
   Homepage: https://github.com/libxls/libxls
 - Package: xmake
-  Version: 2.9.3
+  Version: 2.9.4
   Description: A cross-platform build utility based on Lua
   Homepage: https://xmake.io/
 - Package: xmlsec
