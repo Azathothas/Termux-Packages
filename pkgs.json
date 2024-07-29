@@ -973,9 +973,9 @@
   },
   {
     "Package": "bsd-finger",
-    "Version": "0.17",
+    "Version": "0.17-1",
     "Description": "User information lookup program",
-    "Homepage": "http://ftp.linux.org.uk/pub/linux/Networking/netkit/"
+    "Homepage": "https://packages.debian.org/sid/source/bsd-finger"
   },
   {
     "Package": "bsd-games",
@@ -2293,7 +2293,7 @@
   },
   {
     "Package": "eltclsh",
-    "Version": "1.19",
+    "Version": "1.19-1",
     "Description": "Interactive shell for TCL programming language",
     "Homepage": "https://homepages.laas.fr/mallet/soft/shell/eltclsh"
   },
