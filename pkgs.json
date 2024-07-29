@@ -8689,13 +8689,13 @@
   },
   {
     "Package": "libx11",
-    "Version": "1.8.9",
+    "Version": "1.8.10",
     "Description": "X11 client-side library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libx11-static",
-    "Version": "1.8.9",
+    "Version": "1.8.10",
     "Description": "Static libraries for libx11",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -11983,7 +11983,7 @@
   },
   {
     "Package": "python-pip",
-    "Version": "24.1.2",
+    "Version": "24.2",
     "Description": "The PyPA recommended tool for installing Python packages",
     "Homepage": "https://pip.pypa.io/"
   },
@@ -12373,7 +12373,7 @@
   },
   {
     "Package": "rbw",
-    "Version": "1.11.1",
+    "Version": "1.12.0",
     "Description": "An unofficial command line client for Bitwarden",
     "Homepage": "https://github.com/doy/rbw"
   },
