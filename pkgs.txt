@@ -690,7 +690,7 @@
  hz  0.9.2  A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices  https://www.cloudwego.io 
  i2pd  2.53.0  A full-featured C++ implementation of the I2P router  https://i2pd.website/ 
  i2pd-static  2.53.0  Static libraries for i2pd  https://i2pd.website/ 
- icecast  2.4.4-5  Icecast is a streaming media (audio/video) server  https://icecast.org 
+ icecast  2.4.4-6  Icecast is a streaming media (audio/video) server  https://icecast.org 
  ices  2.0.3  IceS is a source client for the Icecast streaming server.  https://icecast.org/ices/ 
  iconv  1.17  Utility converting between different character encodings  https://www.gnu.org/software/libiconv/ 
  icoutils  0.32.3  Extracts and converts images in MS Windows(R) icon and cursor files.  https://www.nongnu.org/icoutils/ 
@@ -769,7 +769,7 @@
  kcptun  20240716  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
  keybase  6.3.1  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  2.8.5-1  keychain ssh-agent front-end  https://www.funtoo.org/Keychain 
- kibi  0.2.2  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
+ kibi  0.2.2-1  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
  kiwix-tools  3.7.0  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
  knockd  0.8-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
  knot-utils  3.2.4-1  Knot DNS utilities  https://www.knot-dns.cz/ 
@@ -1669,7 +1669,7 @@
  monolith  2.8.1  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
  moon-buggy  1.0.51-5  Simple game where you drive a car across the moon's surface  https://github.com/seehuhn/moon-buggy 
  moreutils  0.69  A growing collection of the unix tools that nobody thought to write thirty years ago  https://joeyh.name/code/moreutils/ 
- moria  5.7.15-4  Rogue-like game with an infinite dungeon  https://umoria.org 
+ moria  5.7.15-5  Rogue-like game with an infinite dungeon  https://umoria.org 
  morse2ascii  0.2-4  A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files  https://packages.debian.org/sid/morse2ascii 
  mosh  1.4.0-10  Mobile shell that supports roaming and intelligent local echo  https://mosh.org 
  mosh-perl  1.4.0-10  The mosh Perl script  https://mosh.org 
@@ -2512,7 +2512,7 @@
  w3m  0.5.3.20230121  Text based Web browser and pager  http://w3m.sourceforge.net/ 
  w3m-img  0.5.3.20230121  Inline image extension support utilities for w3m  http://w3m.sourceforge.net/ 
  wabt  1.0.35  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  1.98.1  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  1.98.3  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.10.0  A terminal file manager  https://github.com/antonmedv/walk 
  wasi-libc  22  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.5  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 

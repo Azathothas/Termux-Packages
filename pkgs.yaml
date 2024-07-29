@@ -2767,7 +2767,7 @@
   Description: Static libraries for i2pd
   Homepage: https://i2pd.website/
 - Package: icecast
-  Version: 2.4.4-5
+  Version: 2.4.4-6
   Description: Icecast is a streaming media (audio/video) server
   Homepage: https://icecast.org
 - Package: ices
@@ -3083,7 +3083,7 @@
   Description: keychain ssh-agent front-end
   Homepage: https://www.funtoo.org/Keychain
 - Package: kibi
-  Version: 0.2.2
+  Version: 0.2.2-1
   Description: A tiny terminal text editor, written in Rust
   Homepage: https://github.com/ilai-deutel/kibi
 - Package: kiwix-tools
@@ -6683,7 +6683,7 @@
   Description: A growing collection of the unix tools that nobody thought to write thirty years ago
   Homepage: https://joeyh.name/code/moreutils/
 - Package: moria
-  Version: 5.7.15-4
+  Version: 5.7.15-5
   Description: Rogue-like game with an infinite dungeon
   Homepage: https://umoria.org
 - Package: morse2ascii
@@ -10055,7 +10055,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.98.1
+  Version: 1.98.3
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk

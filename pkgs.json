@@ -4153,7 +4153,7 @@
   },
   {
     "Package": "icecast",
-    "Version": "2.4.4-5",
+    "Version": "2.4.4-6",
     "Description": "Icecast is a streaming media (audio/video) server",
     "Homepage": "https://icecast.org"
   },
@@ -4627,7 +4627,7 @@
   },
   {
     "Package": "kibi",
-    "Version": "0.2.2",
+    "Version": "0.2.2-1",
     "Description": "A tiny terminal text editor, written in Rust",
     "Homepage": "https://github.com/ilai-deutel/kibi"
   },
@@ -10027,7 +10027,7 @@
   },
   {
     "Package": "moria",
-    "Version": "5.7.15-4",
+    "Version": "5.7.15-5",
     "Description": "Rogue-like game with an infinite dungeon",
     "Homepage": "https://umoria.org"
   },
@@ -15085,7 +15085,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.98.1",
+    "Version": "1.98.3",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
