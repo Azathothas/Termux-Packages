@@ -10175,7 +10175,7 @@
   Description: An intelligent Whois client
   Homepage: https://github.com/rfc1036/whois
 - Package: wireguard-tools
-  Version: 1.0.20210914
+  Version: 1.0.20210914-1
   Description: Tools for the WireGuard secure network tunnel
   Homepage: https://www.wireguard.com
 - Package: wiz
