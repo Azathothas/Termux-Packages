@@ -524,14 +524,14 @@
  giflib-utils  5.2.2  A set of utilities that comes with giflib package  https://giflib.sourceforge.net/ 
  gifsicle  1.95  Tool for creating, editing, and getting information about GIF images and animations  https://www.lcdf.org/gifsicle/ 
  gifski  1.32.0  GIF encoder based on libimagequant  https://gif.ski/ 
- git  2.45.2  Fast, scalable, distributed revision control system  https://git-scm.com/ 
+ git  2.46.0  Fast, scalable, distributed revision control system  https://git-scm.com/ 
  git-crypt  0.7.0-2  Enables transparent encryption and decryption of files for a git repository  https://www.agwa.name/projects/git-crypt/ 
  git-delta  0.17.0-1  A syntax-highlighter for git and diff output  https://dandavison.github.io/delta/ 
- git-gitk  2.45.2  Git repository browser  https://git-scm.com/ 
- git-gui  2.45.2  A graphical interface to Git  https://git-scm.com/ 
+ git-gitk  2.46.0  Git repository browser  https://git-scm.com/ 
+ git-gui  2.46.0  A graphical interface to Git  https://git-scm.com/ 
  git-lfs  3.5.1  Git extension for versioning large files  https://git-lfs.github.com/ 
  git-sizer  1.5.0-4  Compute various size metrics for a Git repository  https://github.com/github/git-sizer 
- git-svn  2.45.2  Convert between Git and Subversion repositories  https://git-scm.com/ 
+ git-svn  2.46.0  Convert between Git and Subversion repositories  https://git-scm.com/ 
  gitea  1.22.1  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
  gitoxide  0.37.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
@@ -619,14 +619,14 @@
  gsf-tools  1.14.52  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
  gsl  2.8  GNU Scientific Library (GSL) providing a wide range of mathematical routines  https://www.gnu.org/software/gsl/ 
  gsl-static  2.8  Static libraries for gsl  https://www.gnu.org/software/gsl/ 
- gst-libav  1.24.5  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
- gst-plugins-bad  1.24.5  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-base  1.24.5  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-gl-headers  1.24.5  OpenGL headers for GStreamer plugins  https://gstreamer.freedesktop.org/ 
- gst-plugins-good  1.24.5  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-ugly  1.24.5  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-libav  1.24.6  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
+ gst-plugins-bad  1.24.6  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-base  1.24.6  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-gl-headers  1.24.6  OpenGL headers for GStreamer plugins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-good  1.24.6  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-ugly  1.24.6  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
  gst-python  1.24.5  Python bindings for GStreamer  https://gstreamer.freedesktop.org/ 
- gstreamer  1.24.5  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
+ gstreamer  1.24.6  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
  gtypist  2.9.5-2  Universal typing tutor  https://www.gnu.org/software/gtypist/ 
  guile  3.0.9-2  Portable, embeddable Scheme implementation written in C  http://www.gnu.org/software/guile/ 
  guile-static  3.0.9-2  Static libraries for guile  http://www.gnu.org/software/guile/ 
@@ -1776,7 +1776,7 @@
  nsnake  3.0.1-6  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
  nss-utils  3.101  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  4.0.1  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
- nushell  0.96.0  A new type of shell operating on structured data  https://www.nushell.sh 
+ nushell  0.96.1  A new type of shell operating on structured data  https://www.nushell.sh 
  nwipe  0.37-1  A program that will securely erase the entire contents of disks  https://github.com/martijnvanbrummelen/nwipe 
  nyancat  1.5.2  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
  nzbget  21.1-6  The most efficient usenet downloader  https://nzbget.net/ 
@@ -2082,7 +2082,7 @@
  recutils  1.9  Set of tools and libraries to access human-editable, plain text databases called recfiles  https://www.gnu.org/software/recutils/ 
  recutils-static  1.9  Static libraries for recutils  https://www.gnu.org/software/recutils/ 
  redir  3.3-1  TCP port redirector for UNIX  https://github.com/troglobit/redir 
- redis  7.2.5  In-memory data structure store used as a database, cache and message broker  https://redis.io/ 
+ redis  1:7.2.5  In-memory data structure store used as a database, cache and message broker  https://redis.io/ 
  remind  1:05.00.02  Sophisticated calendar and alarm program  https://dianne.skoll.ca/projects/remind/ 
  renameutils  0.12.0-2  A set of programs designed to make renaming of files faster and less cumbersome  https://www.nongnu.org/renameutils/ 
  reptyr  0.10.0  Tool for reparenting a running program to a new terminal  https://github.com/nelhage/reptyr 
@@ -2401,7 +2401,7 @@
  tree-sitter-vimdoc  3.0.0-1  Tree-sitter parser for Vim help files  https://github.com/neovim/tree-sitter-vimdoc 
  tree-sitter-vimdoc-static  3.0.0-1  Static libraries for tree-sitter-vimdoc  https://github.com/neovim/tree-sitter-vimdoc 
  trojan-go  0.10.6-3  A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW  https://p4gefau1t.github.io/trojan-go 
- trurl  0.13  trurl is a command line tool that parses and manipulates URLs  https://curl.se/trurl/ 
+ trurl  0.14  trurl is a command line tool that parses and manipulates URLs  https://curl.se/trurl/ 
  trzsz-go  1.1.7  A simple file transfer tools, similar to lrzsz ( rz / sz )  https://trzsz.github.io/ 
  tsduck-java  3.37.3670  Java bindings for TSDuck  https://tsduck.io/ 
  tsduck-plugins  3.37.3670  Plugins for TSDuck  https://tsduck.io/ 
@@ -2610,7 +2610,7 @@
  zopfli  1.0.3-3  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.4-1  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
- zrok  0.4.36  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
+ zrok  0.4.37  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
  zsh  5.9-5  Shell with lots of features  https://www.zsh.org 
  zsh-completions  0.35.0  Additional completion definitions for Zsh  https://github.com/zsh-users/zsh-completions 
  zssh  1.5c-1  A program for interactively transferring files to a remote machine while using the secure shell (ssh)  http://zssh.sourceforge.net/ 

@@ -3157,7 +3157,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.45.2",
+    "Version": "2.46.0",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3175,13 +3175,13 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.45.2",
+    "Version": "2.46.0",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.45.2",
+    "Version": "2.46.0",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.45.2",
+    "Version": "2.46.0",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -3727,37 +3727,37 @@
   },
   {
     "Package": "gst-libav",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code",
     "Homepage": "https://gstreamer.freedesktop.org/modules/gst-libav.html"
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-gl-headers",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "OpenGL headers for GStreamer plugins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -3769,7 +3769,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -10669,7 +10669,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.96.0",
+    "Version": "0.96.1",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -12505,7 +12505,7 @@
   },
   {
     "Package": "redis",
-    "Version": "7.2.5",
+    "Version": "1:7.2.5",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://redis.io/"
   },
@@ -14419,7 +14419,7 @@
   },
   {
     "Package": "trurl",
-    "Version": "0.13",
+    "Version": "0.14",
     "Description": "trurl is a command line tool that parses and manipulates URLs",
     "Homepage": "https://curl.se/trurl/"
   },
@@ -15673,7 +15673,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "0.4.36",
+    "Version": "0.4.37",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
