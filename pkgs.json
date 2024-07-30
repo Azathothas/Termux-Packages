@@ -439,7 +439,7 @@
   },
   {
     "Package": "asm-lsp",
-    "Version": "0.7.3",
+    "Version": "0.7.4",
     "Description": "language server for NASM/GAS/GO assembly",
     "Homepage": "https://github.com/bergercookie/asm-lsp"
   },
@@ -1135,7 +1135,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.2",
+    "Version": "0.10.3",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -9901,7 +9901,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.07.26.20.48.21",
+    "Version": "2024.07.29.22.14.52",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -11707,7 +11707,7 @@
   },
   {
     "Package": "procs",
-    "Version": "0.14.5-1",
+    "Version": "0.14.6",
     "Description": "A modern replacement for ps",
     "Homepage": "https://github.com/dalance/procs"
   },
@@ -14425,9 +14425,15 @@
   },
   {
     "Package": "trzsz-go",
-    "Version": "1.1.7",
+    "Version": "1.1.7-1",
     "Description": "A simple file transfer tools, similar to lrzsz ( rz / sz )",
     "Homepage": "https://trzsz.github.io/"
+  },
+  {
+    "Package": "trzsz-ssh",
+    "Version": "0.1.21",
+    "Description": "An openssh client alternative",
+    "Homepage": "https://trzsz.github.io/ssh"
   },
   {
     "Package": "tsduck-java",
