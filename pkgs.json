@@ -1609,7 +1609,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.0.10",
+    "Version": "1:10.0.11",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -8143,7 +8143,7 @@
   },
   {
     "Package": "libtdb",
-    "Version": "1.4.10",
+    "Version": "1.4.11",
     "Description": "A trivial database system",
     "Homepage": "https://tdb.samba.org/"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.3.1",
+    "Version": "23.3.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13879,7 +13879,7 @@
   },
   {
     "Package": "tdb-tools",
-    "Version": "1.4.10",
+    "Version": "1.4.11",
     "Description": "Tools for TDB",
     "Homepage": "https://tdb.samba.org/"
   },
