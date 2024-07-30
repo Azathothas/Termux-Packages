@@ -4907,7 +4907,7 @@
   Description: A C++ API for Pango
   Homepage: https://www.gtkmm.org/
 - Package: libpangomm-2.48
-  Version: 2.52.0
+  Version: 2.54.0
   Description: A C++ API for Pango
   Homepage: https://www.gtkmm.org/
 - Package: libpano13

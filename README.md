@@ -1237,7 +1237,7 @@
 | **libp8-platform** | 2.1.0.1-3 | Platform support library used by libCEC and binary add-ons for Kodi | https://github.com/Pulse-Eight/platform |
 | **libpagmo** | 2.19.0-2 | Scientific library for massively parallel optimization | https://esa.github.io/pagmo2/index.html |
 | **libpangomm-1.4** | 2.46.4 | A C++ API for Pango | https://www.gtkmm.org/ |
-| **libpangomm-2.48** | 2.52.0 | A C++ API for Pango | https://www.gtkmm.org/ |
+| **libpangomm-2.48** | 2.54.0 | A C++ API for Pango | https://www.gtkmm.org/ |
 | **libpano13** | 2.9.22-1 | Part of the Panorama Tools by Helmut Dersch | https://panotools.sourceforge.net/ |
 | **libpano13-static** | 2.9.22-1 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
 | **libpaper** | 2.2.5 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
