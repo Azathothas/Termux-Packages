@@ -115,7 +115,7 @@
   },
   {
     "Package": "aerc",
-    "Version": "0.18.1",
+    "Version": "0.18.2",
     "Description": "A pretty good email client",
     "Homepage": "https://aerc-mail.org/"
   },
@@ -3763,7 +3763,7 @@
   },
   {
     "Package": "gst-python",
-    "Version": "1.24.5",
+    "Version": "1.24.6",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20240716",
+    "Version": "20240730",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
