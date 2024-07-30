@@ -8251,7 +8251,7 @@
   Description: An unofficial command line client for Bitwarden
   Homepage: https://github.com/doy/rbw
 - Package: rc
-  Version: 1.7.4
+  Version: 1.7.4-1
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone

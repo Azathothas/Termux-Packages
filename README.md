@@ -2073,7 +2073,7 @@
 | **ravencoin** | 4.6.1-4 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
 | **ravencoin-static** | 4.6.1-4 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.12.1 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
-| **rc** | 1.7.4 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
+| **rc** | 1.7.4-1 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
 | **rclone** | 1.67.0 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
