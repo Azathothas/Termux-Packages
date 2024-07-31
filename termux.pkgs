@@ -1303,7 +1303,7 @@
 | **libsigsegv-static** | 2.14 | Static libraries for libsigsegv | https://www.gnu.org/software/libsigsegv/ |
 | **libsixel** | 1.10.3-2 | Encoder/decoder implementation for DEC SIXEL graphics | https://saitoha.github.io/libsixel/ |
 | **libsixel-static** | 1.10.3-2 | Static libraries for libsixel | https://saitoha.github.io/libsixel/ |
-| **libslirp** | 4.8.0 | A general purpose TCP-IP emulator | https://gitlab.freedesktop.org/slirp/libslirp |
+| **libslirp** | 4.8.0-1 | A general purpose TCP-IP emulator | https://gitlab.freedesktop.org/slirp/libslirp |
 | **libsm** | 1.2.4-1 | X11 Session Management library | https://xorg.freedesktop.org/ |
 | **libsm-static** | 1.2.4-1 | Static libraries for libsm | https://xorg.freedesktop.org/ |
 | **libsmartcols** | 2.39.3-4 | Library for smart adaptive formatting of tabular data | https://en.wikipedia.org/wiki/Util-linux |

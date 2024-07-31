@@ -7831,7 +7831,7 @@
   },
   {
     "Package": "libslirp",
-    "Version": "4.8.0",
+    "Version": "4.8.0-1",
     "Description": "A general purpose TCP-IP emulator",
     "Homepage": "https://gitlab.freedesktop.org/slirp/libslirp"
   },
