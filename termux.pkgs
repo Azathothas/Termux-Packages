@@ -436,8 +436,8 @@
 | **figlet** | 2.2.5-2 | Program for making large letters out of ordinary text | http://www.figlet.org/ |
 | **file** | 5.45 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
 | **file-static** | 5.45 | Static libraries for file | https://darwinsys.com/file/ |
-| **finch** | 2.14.13-1 | Text-based multi-protocol instant messaging client | https://pidgin.im/ |
-| **finch-static** | 2.14.13-1 | Static libraries for finch | https://pidgin.im/ |
+| **finch** | 2.14.13-2 | Text-based multi-protocol instant messaging client | https://pidgin.im/ |
+| **finch-static** | 2.14.13-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 9.0.4 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.9.0-2 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
 | **fish** | 3.7.1-1 | The user-friendly command line shell | https://fishshell.com/ |
@@ -1001,7 +1001,7 @@
 | **libgmime-static** | 3.2.15 | Static libraries for libgmime | https://github.com/jstedfast/gmime |
 | **libgmp** | 6.3.0 | Library for arbitrary precision arithmetic | https://gmplib.org/ |
 | **libgmp-static** | 6.3.0 | Static libraries for libgmp | https://gmplib.org/ |
-| **libgnt** | 2.14.3-2 | An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way | https://keep.imfreedom.org/libgnt/libgnt |
+| **libgnt** | 2.14.3-3 | An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way | https://keep.imfreedom.org/libgnt/libgnt |
 | **libgnustep-base** | 1.30.0 | A library of general-purpose, non-graphical Objective C objects | http://www.gnustep.org |
 | **libgnutls** | 3.8.5 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
 | **libgnutls-static** | 3.8.5 | Static libraries for libgnutls | https://www.gnutls.org/ |

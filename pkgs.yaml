@@ -1751,11 +1751,11 @@
   Description: Static libraries for file
   Homepage: https://darwinsys.com/file/
 - Package: finch
-  Version: 2.14.13-1
+  Version: 2.14.13-2
   Description: Text-based multi-protocol instant messaging client
   Homepage: https://pidgin.im/
 - Package: finch-static
-  Version: 2.14.13-1
+  Version: 2.14.13-2
   Description: Static libraries for finch
   Homepage: https://pidgin.im/
 - Package: findomain
@@ -4011,7 +4011,7 @@
   Description: Static libraries for libgmp
   Homepage: https://gmplib.org/
 - Package: libgnt
-  Version: 2.14.3-2
+  Version: 2.14.3-3
   Description: An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way
   Homepage: https://keep.imfreedom.org/libgnt/libgnt
 - Package: libgnustep-base
