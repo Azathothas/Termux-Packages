@@ -20,8 +20,8 @@
 | **a52dec** | 0.8.0-1 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-11 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
 | **aalib-static** | 1.4rc5-11 | Static libraries for aalib | https://sourceforge.net/projects/aa-project/ |
-| **aapt** | 13.0.0.6-12 | Android Asset Packaging Tool | https://elinux.org/Android_aapt |
-| **aapt2** | 13.0.0.6-12 | AAPT2 (Android Asset Packaging Tool) | https://elinux.org/Android_aapt |
+| **aapt** | 13.0.0.6-13 | Android Asset Packaging Tool | https://elinux.org/Android_aapt |
+| **aapt2** | 13.0.0.6-13 | AAPT2 (Android Asset Packaging Tool) | https://elinux.org/Android_aapt |
 | **abduco** | 0.6-3 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
 | **abook** | 0.6.1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
 | **abootimg** | 0.6-2 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
@@ -35,7 +35,7 @@
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
 | **aichat** | 0.19.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
-| **aidl** | 13.0.0.6-12 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
+| **aidl** | 13.0.0.6-13 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.6 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.1 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
@@ -486,7 +486,7 @@
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 35.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.54.2 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.54.3 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.80.1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.3-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -549,7 +549,7 @@
 | **gitoxide** | 0.37.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.44.1 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.45.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.3.2 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.80.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.80.4 | Programs for the GLib library | https://developer.gnome.org/glib/ |
@@ -597,7 +597,7 @@
 | **gomuks** | 0.3.1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
 | **google-glog** | 0.7.1 | Logging library for C++ | https://github.com/google/glog |
-| **googletest** | 1.15.0 | Google C++ testing framework | https://github.com/google/googletest |
+| **googletest** | 1.15.2 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.21.1 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.15.13-1 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
@@ -749,7 +749,7 @@
 | **jbig2enc-static** | 2023.01.08-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.61.2 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.62.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -2520,7 +2520,7 @@
 | **vulkan-loader-android** | 26b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.3.290 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.3.290 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.3.291 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-utility-libraries** | 1.3.292 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.3.290 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.3.270 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
