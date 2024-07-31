@@ -13825,7 +13825,7 @@
   },
   {
     "Package": "taplo",
-    "Version": "0.9.2",
+    "Version": "0.9.3",
     "Description": "A TOML LSP and toolkit",
     "Homepage": "https://taplo.tamasfe.dev/"
   },

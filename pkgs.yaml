@@ -9215,7 +9215,7 @@
   Description: A Library for reading and editing the meta-data of several popular audio formats.
   Homepage: http://taglib.github.io/
 - Package: taplo
-  Version: 0.9.2
+  Version: 0.9.3
   Description: A TOML LSP and toolkit
   Homepage: https://taplo.tamasfe.dev/
 - Package: tar
