@@ -283,7 +283,7 @@
  cups  2.4.10  Common UNIX Printing System  https://www.cups.org/ 
  cups-pdf  3.0.1  CUPS PDF backend  https://www.cups-pdf.de/ 
  cups-static  2.4.10  Static libraries for cups  https://www.cups.org/ 
- curl  8.9.0  Command line tool for transferring data with URL syntax  https://curl.se/ 
+ curl  8.9.1  Command line tool for transferring data with URL syntax  https://curl.se/ 
  curlie  1.7.2  The power of curl, the ease of use of httpie  https://curlie.io/ 
  curseofwar  1.3.0-4  Fast-paced action strategy game focusing on high-level strategic planning  http://a-nikolaev.github.io/curseofwar/ 
  cvs  1:1.12.13-3  Concurrent Versions System  https://www.nongnu.org/cvs/ 
@@ -907,8 +907,8 @@
  libcue  2.3.0  CUE Sheet Parser Library  https://github.com/lipnitsk/libcue/ 
  libcunit  2.1.3  C Unit Testing Framework  https://sourceforge.net/projects/cunit/ 
  libcunit-static  2.1.3  Static libraries for libcunit  https://sourceforge.net/projects/cunit/ 
- libcurl  8.9.0  Easy-to-use client-side URL transfer library  https://curl.se/ 
- libcurl-static  8.9.0  Static libraries for libcurl  https://curl.se/ 
+ libcurl  8.9.1  Easy-to-use client-side URL transfer library  https://curl.se/ 
+ libcurl-static  8.9.1  Static libraries for libcurl  https://curl.se/ 
  libcwidget  0.5.18  high-level terminal interface library for C++  https://salsa.debian.org/cwidget-team/ 
  libcwidget-static  0.5.18  Static libraries for libcwidget  https://salsa.debian.org/cwidget-team/ 
  libczmq  4.2.1-3  High-level C binding for ZeroMQ  https://zeromq.org/ 
@@ -1648,7 +1648,7 @@
  minidlna  1.3.3-1  A server software with the aim of being fully compliant with DLNA/UPnP-AV clients  https://sourceforge.net/projects/minidlna/ 
  miniflux  2.1.4  A minimalist and opinionated feed reader  https://miniflux.app/ 
  minimodem  0.24-1-0  General-purpose software audio FSK modem  http://www.whence.com/minimodem/ 
- minio  2024.07.29.22.14.52  Multi-Cloud Object Storage  https://min.io/ 
+ minio  2024.07.31.05.46.26  Multi-Cloud Object Storage  https://min.io/ 
  miniserve  0.27.1  Tool to serve files and dirs over HTTP  https://github.com/svenstaro/miniserve 
  minisign  0.11-1  A dead simple tool to sign files and verify signatures  https://jedisct1.github.io/minisign/ 
  miniupnpc  2.2.8-1  Small UPnP client library and tool to access Internet Gateway Devices  https://miniupnp.tuxfamily.org/ 

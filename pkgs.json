@@ -1711,7 +1711,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.9.0",
+    "Version": "8.9.1",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -5455,13 +5455,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.9.0",
+    "Version": "8.9.1",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.9.0",
+    "Version": "8.9.1",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -9901,7 +9901,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.07.29.22.14.52",
+    "Version": "2024.07.31.05.46.26",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
