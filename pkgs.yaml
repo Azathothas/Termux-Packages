@@ -3191,9 +3191,9 @@
   Description: Fast embeddable web browser engine written in C with no dependencies
   Homepage: https://lexbor.com
 - Package: lexter
-  Version: 1.0.3-3
+  Version: 1.0.3-4
   Description: A real-time word puzzle for text terminals
-  Homepage: https://www.kyne.com.au/~mark/software/lexter.php
+  Homepage: https://www.kyne.au/~mark/software/lexter.php
 - Package: lf
   Version: "32"
   Description: Terminal file manager

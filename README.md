@@ -808,7 +808,7 @@
 | **lesspipe** | 2.13 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-3 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.3.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
-| **lexter** | 1.0.3-3 | A real-time word puzzle for text terminals | https://www.kyne.com.au/~mark/software/lexter.php |
+| **lexter** | 1.0.3-4 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
 | **lf** | 32 | Terminal file manager | https://github.com/gokcehan/lf |
 | **lftp** | 4.9.2-6 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-6 | Static libraries for lftp | https://lftp.tech/ |
