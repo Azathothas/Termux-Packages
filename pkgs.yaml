@@ -5911,7 +5911,7 @@
   Description: Static libraries for libxls
   Homepage: https://github.com/libxls/libxls
 - Package: libxlsxwriter
-  Version: 1.1.7
+  Version: 1.1.8
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.3.3
+  Version: 23.4.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8615,7 +8615,7 @@
   Description: libsass command line driver
   Homepage: https://github.com/sass/sassc
 - Package: sc-im
-  Version: 0.8.3-2
+  Version: 0.8.3-3
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
