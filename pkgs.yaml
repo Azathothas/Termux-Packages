@@ -9287,7 +9287,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 16.1.0
+  Version: 16.1.1
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -9735,7 +9735,7 @@
   Description: ugit helps you undo your last git command with grace. Your damage control git buddy
   Homepage: https://github.com/Bhupesh-V/ugit
 - Package: ugrep
-  Version: 6.2.0
+  Version: 6.3.0
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
@@ -10059,7 +10059,7 @@
   Description: Inline image extension support utilities for w3m
   Homepage: http://w3m.sourceforge.net/
 - Package: wabt
-  Version: 1.0.35
+  Version: 1.0.36
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
@@ -10075,7 +10075,7 @@
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
-  Version: 0.5.5
+  Version: 0.5.6
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
@@ -10451,7 +10451,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 0.4.37
+  Version: 0.4.38
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh

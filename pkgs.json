@@ -13933,7 +13933,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.1.0",
+    "Version": "16.1.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -14605,7 +14605,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "6.2.0",
+    "Version": "6.3.0",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },
@@ -15091,7 +15091,7 @@
   },
   {
     "Package": "wabt",
-    "Version": "1.0.35",
+    "Version": "1.0.36",
     "Description": "The WebAssembly Binary Toolkit",
     "Homepage": "https://github.com/WebAssembly/wabt"
   },
@@ -15115,7 +15115,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.5",
+    "Version": "0.5.6",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
@@ -15679,7 +15679,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "0.4.37",
+    "Version": "0.4.38",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
