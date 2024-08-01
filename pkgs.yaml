@@ -2955,7 +2955,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.62.0
+  Version: 2.62.1
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -6223,7 +6223,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.9.3-1
+  Version: 3.10.0
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
