@@ -407,7 +407,7 @@
   Description: Assember for the Atmel AVR microcontroller family
   Homepage: https://github.com/Ro5bert/avra
 - Package: await
-  Version: "0.999"
+  Version: 1.0.1
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://await-cli.app/
 - Package: awesomeshot
@@ -1263,7 +1263,7 @@
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
-  Version: 0.59.0
+  Version: 0.60.0
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
@@ -2063,7 +2063,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.53.0-1
+  Version: 2.54.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -4039,7 +4039,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.65.2
+  Version: 1.65.3
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -7955,7 +7955,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.65.2
+  Version: 1.65.3
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc

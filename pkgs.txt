@@ -100,7 +100,7 @@
  autossh  1.4g-3  Automatically restart SSH sessions and tunnels  https://www.harding.motd.ca/autossh/ 
  aview  1.3.0rc1-5  High quality ascii-art image browser and animation player  http://aa-project.sourceforge.net/aview/ 
  avra  1.4.2  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
- await  0.999  Runs list of commands in parallel and waits for their termination  https://await-cli.app/ 
+ await  1.0.1  Runs list of commands in parallel and waits for their termination  https://await-cli.app/ 
  awesomeshot  1.1.0  A command-line screenshot tool written in bash  https://github.com/mayTermux/awesomeshot 
  axel  2.17.14  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.5.3  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
@@ -314,7 +314,7 @@
  dialog-static  1.3-20240307-0  Static libraries for dialog  https://invisible-island.net/dialog/ 
  dictd  1.13.1  Online dictionary client and server  https://sourceforge.net/projects/dict/ 
  diffstat  1.66  Displays a histogram of changes to a file  https://invisible-island.net/diffstat/diffstat.html 
- difftastic  0.59.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
+ difftastic  0.60.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
  diffutils  3.10  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
  dirb  2.22-4  Web Directory Fuzzer  http://dirb.sourceforge.net/ 
  direnv  2.34.0  Environment switcher for shell  https://github.com/direnv/direnv 
@@ -514,7 +514,7 @@
  gflags  2.2.2-9  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.2.2-9  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-1  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
- gh  2.53.0-1  GitHub’s official command line tool  https://cli.github.com/ 
+ gh  2.54.0  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.2.5-1  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghc-libs  9.2.5-1  The Glasgow Haskell Compiler libraries  https://www.haskell.org/ghc/ 
  ghc-libs-static  8.10.7-3  Static libraries for ghc-libs  https://www.haskell.org/ghc/ 
@@ -1008,7 +1008,7 @@
  libgpg-error  1.49  Small library that defines common error values for all GnuPG components  https://www.gnupg.org/related_software/libgpg-error/ 
  libgpg-error-static  1.49  Static libraries for libgpg-error  https://www.gnupg.org/related_software/libgpg-error/ 
  libgraphite  1.3.14-2  Font system for multiple languages  https://github.com/silnrsi/graphite 
- libgrpc  1.65.2  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
+ libgrpc  1.65.3  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  libgsasl  2.2.1  GNU SASL library  https://www.gnu.org/software/gsasl 
  libgsasl-static  2.2.1  Static libraries for libgsasl  https://www.gnu.org/software/gsasl 
  libgsf  1.14.52  The G Structured File Library  https://gitlab.gnome.org/GNOME/libgsf 
@@ -1987,7 +1987,7 @@
  python-cryptography  42.0.8  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.11.9-3  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.0.3  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
- python-grpcio  1.65.2  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
+ python-grpcio  1.65.3  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.7.0  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
  python-libsass  0.22.0  A straightforward binding of libsass for Python  https://github.com/sass/libsass-python 
  python-lxml  5.2.2  A straightforward binding of libsass for Python  https://github.com/lxml/lxml 

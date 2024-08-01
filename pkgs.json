@@ -613,7 +613,7 @@
   },
   {
     "Package": "await",
-    "Version": "0.999",
+    "Version": "1.0.1",
     "Description": "Runs list of commands in parallel and waits for their termination",
     "Homepage": "https://await-cli.app/"
   },
@@ -1897,7 +1897,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.59.0",
+    "Version": "0.60.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -3097,7 +3097,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.53.0-1",
+    "Version": "2.54.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -6061,7 +6061,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.65.2",
+    "Version": "1.65.3",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -11935,7 +11935,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.65.2",
+    "Version": "1.65.3",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
