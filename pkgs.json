@@ -15529,7 +15529,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "0.2.5",
+    "Version": "0.3.0",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
