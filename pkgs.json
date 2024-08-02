@@ -2305,7 +2305,7 @@
   },
   {
     "Package": "emacs",
-    "Version": "29.4",
+    "Version": "29.4-1",
     "Description": "Extensible, customizable text editor-and more",
     "Homepage": "https://www.gnu.org/software/emacs/"
   },
@@ -10435,7 +10435,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.10.1",
+    "Version": "0.10.1-1",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -11857,13 +11857,19 @@
   },
   {
     "Package": "pypy",
-    "Version": "7.3.15",
+    "Version": "7.3.15-1",
     "Description": "A fast, compliant alternative implementation of Python",
     "Homepage": "https://pypy.org"
   },
   {
+    "Package": "pypy-tests",
+    "Version": "7.3.15-1",
+    "Description": "Test files for PyPy",
+    "Homepage": "https://pypy.org"
+  },
+  {
     "Package": "pypy-tkinter",
-    "Version": "7.3.15",
+    "Version": "7.3.15-1",
     "Description": "Tkinter support for PyPy",
     "Homepage": "https://pypy.org"
   },
@@ -14334,6 +14340,12 @@
     "Homepage": "http://mama.indstate.edu/users/ice/tree/"
   },
   {
+    "Package": "tree-sitter",
+    "Version": "0.22.6-1",
+    "Description": "An incremental parsing system for programming tools",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter"
+  },
+  {
     "Package": "tree-sitter-c",
     "Version": "0.21.4",
     "Description": "C grammar for tree-sitter",
@@ -14386,6 +14398,12 @@
     "Version": "0.4.0",
     "Description": "Static libraries for tree-sitter-query",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-query"
+  },
+  {
+    "Package": "tree-sitter-static",
+    "Version": "0.22.6-1",
+    "Description": "Static libraries for tree-sitter",
+    "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
   {
     "Package": "tree-sitter-vim",
