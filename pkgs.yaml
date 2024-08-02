@@ -5171,11 +5171,11 @@
   Description: Static libraries for libseccomp
   Homepage: https://github.com/seccomp/libseccomp
 - Package: libsecp256k1
-  Version: 1:0.5.0
+  Version: 1:0.5.1
   Description: Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1
   Homepage: https://github.com/bitcoin-core/secp256k1
 - Package: libsecp256k1-static
-  Version: 1:0.5.0
+  Version: 1:0.5.1
   Description: Static libraries for libsecp256k1
   Homepage: https://github.com/bitcoin-core/secp256k1
 - Package: libsecret

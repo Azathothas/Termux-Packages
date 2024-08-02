@@ -1291,8 +1291,8 @@
  libseat  0.8.0  Reference implementation of a wayland compositor  https://sr.ht/~kennylevinsen/seatd/ 
  libseccomp  2.5.5-3  Enhanced seccomp library  https://github.com/seccomp/libseccomp 
  libseccomp-static  2.5.5-3  Static libraries for libseccomp  https://github.com/seccomp/libseccomp 
- libsecp256k1  1:0.5.0  Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1  https://github.com/bitcoin-core/secp256k1 
- libsecp256k1-static  1:0.5.0  Static libraries for libsecp256k1  https://github.com/bitcoin-core/secp256k1 
+ libsecp256k1  1:0.5.1  Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1  https://github.com/bitcoin-core/secp256k1 
+ libsecp256k1-static  1:0.5.1  Static libraries for libsecp256k1  https://github.com/bitcoin-core/secp256k1 
  libsecret  0.21.4  A GObject-based library for accessing the Secret Service API  https://gitlab.gnome.org/GNOME/libsecret 
  libshout  2.4.6  Library which can be used to write a source client like ices.  https://icecast.org/ 
  libshout-static  2.4.6  Static libraries for libshout  https://icecast.org/ 
