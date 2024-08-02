@@ -95,7 +95,7 @@
   Description: Converts ANSI escape sequences of a unix terminal to HTML code
   Homepage: https://github.com/theZiz/aha
 - Package: aichat
-  Version: 0.19.0
+  Version: 0.20.0
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
@@ -407,7 +407,7 @@
   Description: Assember for the Atmel AVR microcontroller family
   Homepage: https://github.com/Ro5bert/avra
 - Package: await
-  Version: 1.0.1
+  Version: 1.0.2
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://await-cli.app/
 - Package: awesomeshot
@@ -2707,7 +2707,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.130.0
+  Version: 0.131.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -6223,7 +6223,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.10.0
+  Version: 3.10.1
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -7975,11 +7975,11 @@
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
-  Version: 1.26.4-1
+  Version: 1.26.5
   Description: The fundamental package for scientific computing with Python
   Homepage: https://numpy.org/
 - Package: python-numpy-static
-  Version: 1.26.4-1
+  Version: 1.26.5
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-pillow
@@ -9375,7 +9375,7 @@
   Description: Service daemon for Termux
   Homepage: https://github.com/termux/termux-services/
 - Package: termux-tools
-  Version: 1.43.1
+  Version: 1.43.2
   Description: Basic system tools for Termux
   Homepage: https://termux.dev/
 - Package: teseq

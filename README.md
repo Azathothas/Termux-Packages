@@ -34,7 +34,7 @@
 | **age** | 1:1.1.1-2 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
-| **aichat** | 0.19.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
+| **aichat** | 0.20.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
 | **aidl** | 13.0.0.6-13 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.6 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
@@ -112,7 +112,7 @@
 | **autossh** | 1.4g-3 | Automatically restart SSH sessions and tunnels | https://www.harding.motd.ca/autossh/ |
 | **aview** | 1.3.0rc1-5 | High quality ascii-art image browser and animation player | http://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
-| **await** | 1.0.1 | Runs list of commands in parallel and waits for their termination | https://await-cli.app/ |
+| **await** | 1.0.2 | Runs list of commands in parallel and waits for their termination | https://await-cli.app/ |
 | **awesomeshot** | 1.1.0 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
 | **axel** | 2.17.14 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.5.3 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
@@ -687,7 +687,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.130.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.131.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1566,7 +1566,7 @@
 | **lsof** | 4.99.3 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.3 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.7.9 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
-| **lua-language-server** | 3.10.0 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
+| **lua-language-server** | 3.10.1 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5 | Simple, extensible, embeddable programming language | https://www.lua.org |
@@ -2004,8 +2004,8 @@
 | **python-libsass** | 0.22.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.2.2 | A straightforward binding of libsass for Python | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.0.8-1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
-| **python-numpy** | 1.26.4-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
-| **python-numpy-static** | 1.26.4-1 | Static libraries for python-numpy | https://numpy.org/ |
+| **python-numpy** | 1.26.5 | The fundamental package for scientific computing with Python | https://numpy.org/ |
+| **python-numpy-static** | 1.26.5 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-pillow** | 10.4.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 17.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
@@ -2354,7 +2354,7 @@
 | **termux-keyring** | 3.12-1 | GPG public keys for the official Termux repositories | https://github.com/termux |
 | **termux-licenses** | 2.0-3 | Contains LICENSE files for common licenses | https://termux.dev |
 | **termux-services** | 0.13-1 | Service daemon for Termux | https://github.com/termux/termux-services/ |
-| **termux-tools** | 1.43.1 | Basic system tools for Termux | https://termux.dev/ |
+| **termux-tools** | 1.43.2 | Basic system tools for Termux | https://termux.dev/ |
 | **teseq** | 1.1.1-1 | Tool for analyzing control characters and terminal control sequences | https://www.gnu.org/software/teseq/ |
 | **tesseract** | 5.4.1 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
 | **testssl.sh** | 3.0.9 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
