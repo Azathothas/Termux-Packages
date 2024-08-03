@@ -223,7 +223,7 @@
   Description: Static libraries for apr-util
   Homepage: https://apr.apache.org/
 - Package: apt
-  Version: 2.7.14-1
+  Version: 2.8.1
   Description: Front-end for the dpkg package manager
   Homepage: https://packages.debian.org/apt
 - Package: apt-file
@@ -231,11 +231,11 @@
   Description: search for files within packages
   Homepage: https://wiki.debian.org/apt-file
 - Package: apt-ftparchive
-  Version: 2.7.14-1
+  Version: 2.8.1
   Description: apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
   Homepage: https://packages.debian.org/apt
 - Package: apt-transport-tor
-  Version: 2.7.14-1
+  Version: 2.8.1
   Description: APT transport for anonymous package downloads via Tor
   Homepage: https://packages.debian.org/apt
 - Package: aptitude
@@ -407,7 +407,7 @@
   Description: Assember for the Atmel AVR microcontroller family
   Homepage: https://github.com/Ro5bert/avra
 - Package: await
-  Version: 1.0.3
+  Version: 1.0.4
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://await-cli.app/
 - Package: awesomeshot
@@ -955,11 +955,11 @@
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
-  Version: 0.31.0
+  Version: 0.31.1
   Description: CommonMark parsing and rendering program
   Homepage: https://github.com/commonmark/cmark
 - Package: cmark-static
-  Version: 0.31.0
+  Version: 0.31.1
   Description: Static libraries for cmark
   Homepage: https://github.com/commonmark/cmark
 - Package: cmatrix
@@ -1623,7 +1623,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.18.23
+  Version: 0.18.24
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -2355,7 +2355,7 @@
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
-  Version: 1.15.13-1
+  Version: 1.15.14
   Description: The slightly more awesome standard unix password manager for teams
   Homepage: https://github.com/gopasspw/gopass
 - Package: gopher
@@ -6943,7 +6943,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.7.9
+  Version: 0.8.0
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://github.com/Decodetalkers/neocmakelsp
 - Package: neofetch
@@ -9687,7 +9687,7 @@
   Description: Terminal-based typing test
   Homepage: https://github.com/max-niederman/ttyper
 - Package: ttyplot
-  Version: 1.6.5
+  Version: 1.7.0
   Description: A realtime plotting utility for terminal with data input from stdin
   Homepage: https://github.com/tenox7/ttyplot
 - Package: ttyrec
