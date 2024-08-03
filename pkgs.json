@@ -4681,7 +4681,7 @@
   },
   {
     "Package": "kubelogin",
-    "Version": "1.28.1",
+    "Version": "1.28.2",
     "Description": "A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication",
     "Homepage": "https://github.com/int128/kubelogin"
   },
