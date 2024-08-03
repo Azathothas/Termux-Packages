@@ -9415,7 +9415,7 @@
   },
   {
     "Package": "luvi",
-    "Version": "20240216-2",
+    "Version": "20240723",
     "Description": "A project in-between luv and luvit.",
     "Homepage": "https://luvit.io"
   },
