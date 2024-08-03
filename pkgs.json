@@ -2689,7 +2689,7 @@
   },
   {
     "Package": "fluidsynth",
-    "Version": "2.3.5",
+    "Version": "2.3.6",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
   },
@@ -9901,7 +9901,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.07.31.05.46.26",
+    "Version": "2024.08.03.04.33.23",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
