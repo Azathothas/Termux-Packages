@@ -613,7 +613,7 @@
   },
   {
     "Package": "await",
-    "Version": "1.0.4",
+    "Version": "1.0.5",
     "Description": "Runs list of commands in parallel and waits for their termination",
     "Homepage": "https://await-cli.app/"
   },

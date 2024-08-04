@@ -407,7 +407,7 @@
   Description: Assember for the Atmel AVR microcontroller family
   Homepage: https://github.com/Ro5bert/avra
 - Package: await
-  Version: 1.0.4
+  Version: 1.0.5
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://await-cli.app/
 - Package: awesomeshot
