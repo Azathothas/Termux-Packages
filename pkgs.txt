@@ -157,7 +157,7 @@
  brainfuck-static  1:2.7.3  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
  brogue  1.13  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20240606  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
- broot  1.41.0  A better way to navigate directories  https://github.com/Canop/broot 
+ broot  1.41.1  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.1.0  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  brotli-static  1.0.9-1  Static libraries for brotli  https://github.com/google/brotli 
  bsd-finger  0.17-1  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
@@ -538,7 +538,7 @@
  gitui  0.26.3  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
  gkermit  2.01  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.45.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
- gleam  1.4.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
+ gleam  1.4.1  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.80.4  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-bin  2.80.4  Programs for the GLib library  https://developer.gnome.org/glib/ 
  glib-cross  2.80.4  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -922,8 +922,8 @@
  libde265-static  1.0.15  Static libraries for libde265  https://github.com/strukturag/libde265 
  libdebuginfod  0.191  Library for debuginfod  https://sourceware.org/elfutils/ 
  libdecor  0.2.2  Client-side decorations library for Wayland clients  https://gitlab.freedesktop.org/libdecor/libdecor 
- libdeflate  1.20  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
- libdeflate-static  1.20  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
+ libdeflate  1.21  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
+ libdeflate-static  1.21  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
  libdevil  1.8.0-6  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
  libdispatch  1:5.10  The libdispatch project, for concurrency on multicore hardware  https://github.com/apple/swift-corelibs-libdispatch 
  libdmtx  0.7.7  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 

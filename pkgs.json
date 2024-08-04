@@ -955,7 +955,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.41.0",
+    "Version": "1.41.1",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -3241,7 +3241,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -5545,13 +5545,13 @@
   },
   {
     "Package": "libdeflate",
-    "Version": "1.20",
+    "Version": "1.21",
     "Description": "C library for fast compression and decompression",
     "Homepage": "https://github.com/ebiggers/libdeflate"
   },
   {
     "Package": "libdeflate-static",
-    "Version": "1.20",
+    "Version": "1.21",
     "Description": "Static libraries for libdeflate",
     "Homepage": "https://github.com/ebiggers/libdeflate"
   },
