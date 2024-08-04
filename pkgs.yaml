@@ -9235,7 +9235,7 @@
   Description: Shell command wrapping Taskwarrior commands
   Homepage: https://taskwarrior.org
 - Package: taskwarrior
-  Version: 3.0.2-1
+  Version: 3.1.0
   Description: Utility for managing your TODO list
   Homepage: https://taskwarrior.org
 - Package: tcc
