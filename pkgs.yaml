@@ -627,7 +627,7 @@
   Description: Static libraries for brainfuck
   Homepage: https://github.com/fabianishere/brainfuck
 - Package: brogue
-  Version: "1.13"
+  Version: "1.14"
   Description: Roguelike dungeon crawling game (community edition)
   Homepage: https://sites.google.com/site/broguegame/
 - Package: brook
@@ -2759,11 +2759,11 @@
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
-  Version: 2.53.0
+  Version: 2.53.1
   Description: A full-featured C++ implementation of the I2P router
   Homepage: https://i2pd.website/
 - Package: i2pd-static
-  Version: 2.53.0
+  Version: 2.53.1
   Description: Static libraries for i2pd
   Homepage: https://i2pd.website/
 - Package: icecast
@@ -8527,7 +8527,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240729"
+  Version: "20240805"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
