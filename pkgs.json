@@ -15031,7 +15031,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.98",
+    "Version": "0.9.99",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
