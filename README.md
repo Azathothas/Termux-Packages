@@ -1112,8 +1112,8 @@
 | **liblua52-static** | 5.2.4-8 | Static libraries for liblua52 | https://www.lua.org |
 | **liblua53** | 5.3.6 | Shared library for the Lua interpreter (v5.3.x) | https://www.lua.org/ |
 | **liblua53-static** | 5.3.6 | Static libraries for liblua53 | https://www.lua.org/ |
-| **liblua54** | 5.4.6-1 | Shared library for the Lua interpreter | https://www.lua.org/ |
-| **liblua54-static** | 5.4.6-1 | Static libraries for liblua54 | https://www.lua.org/ |
+| **liblua54** | 5.4.7 | Shared library for the Lua interpreter | https://www.lua.org/ |
+| **liblua54-static** | 5.4.7 | Static libraries for liblua54 | https://www.lua.org/ |
 | **libluajit** | 1:2.1.1720049189 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **libluajit-static** | 1:2.1.1720049189 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.10.0 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
@@ -1503,14 +1503,14 @@
 | **libxrender-static** | 0.9.11 | Static libraries for libxrender | https://xorg.freedesktop.org/ |
 | **libxshmfence** | 1.3.2-1 | A library that exposes a event API on top of Linux futexes | https://xorg.freedesktop.org/ |
 | **libxshmfence-static** | 1.3.2-1 | Static libraries for libxshmfence | https://xorg.freedesktop.org/ |
-| **libxslt** | 1.1.40 | XSLT processing library | http://xmlsoft.org/libxslt/ |
+| **libxslt** | 1.1.42 | XSLT processing library | http://xmlsoft.org/libxslt/ |
 | **libxslt-static** | 1.1.39 | Static libraries for libxslt | http://xmlsoft.org/libxslt/ |
 | **libxss** | 1.2.4 | X11 Screen Saver extension library | https://xorg.freedesktop.org/ |
 | **libxss-static** | 1.2.4 | Static libraries for libxss | https://xorg.freedesktop.org/ |
 | **libxt** | 1.3.0 | X11 toolkit intrinsics library | https://xorg.freedesktop.org/ |
 | **libxt-static** | 1.3.0 | Static libraries for libxt | https://xorg.freedesktop.org/ |
-| **libxtst** | 1.2.4 | X11 Testing -- Resource extension library | https://xorg.freedesktop.org/ |
-| **libxtst-static** | 1.2.4 | Static libraries for libxtst | https://xorg.freedesktop.org/ |
+| **libxtst** | 1.2.5 | Xlib-based library for XTEST & RECORD extensions | https://xorg.freedesktop.org/ |
+| **libxtst-static** | 1.2.5 | Static libraries for libxtst | https://xorg.freedesktop.org/ |
 | **libxv** | 1.0.12 | Library for the X Video (Xv) extension to the X Window System | https://xorg.freedesktop.org/ |
 | **libxv-static** | 1.0.12 | Static libraries for libxv | https://xorg.freedesktop.org/ |
 | **libxxf86vm** | 1.1.5-1 | X11 XFree86 video mode extension library | https://xorg.freedesktop.org/ |
@@ -1534,7 +1534,7 @@
 | **lighttpd** | 1.4.76 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lighttpd-static** | 1.4.70-2 | Static libraries for lighttpd | https://www.lighttpd.net |
 | **lilv** | 0.24.24 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
-| **lilypond** | 2.24.3 | A music engraving program | https://lilypond.org/ |
+| **lilypond** | 2.24.4 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-1 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
 | **lipl** | 0.1.3 | A command line tool that is similar to watch but has extended functions for commands outputing a number | https://github.com/yxdunc/lipl |
 | **lit** | 3.8.5-2 | Toolkit for developing, sharing, and running luvit/lua programs and libraries. | https://luvit.io |
@@ -1575,7 +1575,7 @@
 | **lua52-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.2 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua53** | 5.3.6 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua54** | 5.4.6-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
+| **lua54** | 5.4.7 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **luajit** | 1:2.1.1720049189 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.11.1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.48.0-2-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
@@ -2587,7 +2587,7 @@
 | **xorgproto** | 2024.1 | X.Org X11 Protocol headers | https://xorg.freedesktop.org/ |
 | **xorriso** | 1:1.5.7-2 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
 | **xpup** | 2021.12.26-3 | pup for XML | https://github.com/ericchiang/xpup |
-| **xsltproc** | 1.1.40 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
+| **xsltproc** | 1.1.42 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
 | **xtrans** | 1.5.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |

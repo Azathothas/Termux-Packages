@@ -6613,13 +6613,13 @@
   },
   {
     "Package": "liblua54",
-    "Version": "5.4.6-1",
+    "Version": "5.4.7",
     "Description": "Shared library for the Lua interpreter",
     "Homepage": "https://www.lua.org/"
   },
   {
     "Package": "liblua54-static",
-    "Version": "5.4.6-1",
+    "Version": "5.4.7",
     "Description": "Static libraries for liblua54",
     "Homepage": "https://www.lua.org/"
   },
@@ -8959,7 +8959,7 @@
   },
   {
     "Package": "libxslt",
-    "Version": "1.1.40",
+    "Version": "1.1.42",
     "Description": "XSLT processing library",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
@@ -8995,13 +8995,13 @@
   },
   {
     "Package": "libxtst",
-    "Version": "1.2.4",
-    "Description": "X11 Testing -- Resource extension library",
+    "Version": "1.2.5",
+    "Description": "Xlib-based library for XTEST & RECORD extensions",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxtst-static",
-    "Version": "1.2.4",
+    "Version": "1.2.5",
     "Description": "Static libraries for libxtst",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -9145,7 +9145,7 @@
   },
   {
     "Package": "lilypond",
-    "Version": "2.24.3",
+    "Version": "2.24.4",
     "Description": "A music engraving program",
     "Homepage": "https://lilypond.org/"
   },
@@ -9391,7 +9391,7 @@
   },
   {
     "Package": "lua54",
-    "Version": "5.4.6-1",
+    "Version": "5.4.7",
     "Description": "Simple, extensible, embeddable programming language",
     "Homepage": "https://www.lua.org/"
   },
@@ -15463,7 +15463,7 @@
   },
   {
     "Package": "xsltproc",
-    "Version": "1.1.40",
+    "Version": "1.1.42",
     "Description": "XSLT command line processor",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },

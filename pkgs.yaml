@@ -4407,11 +4407,11 @@
   Description: Static libraries for liblua53
   Homepage: https://www.lua.org/
 - Package: liblua54
-  Version: 5.4.6-1
+  Version: 5.4.7
   Description: Shared library for the Lua interpreter
   Homepage: https://www.lua.org/
 - Package: liblua54-static
-  Version: 5.4.6-1
+  Version: 5.4.7
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
 - Package: libluajit
@@ -5971,7 +5971,7 @@
   Description: Static libraries for libxshmfence
   Homepage: https://xorg.freedesktop.org/
 - Package: libxslt
-  Version: 1.1.40
+  Version: 1.1.42
   Description: XSLT processing library
   Homepage: http://xmlsoft.org/libxslt/
 - Package: libxslt-static
@@ -5995,11 +5995,11 @@
   Description: Static libraries for libxt
   Homepage: https://xorg.freedesktop.org/
 - Package: libxtst
-  Version: 1.2.4
-  Description: X11 Testing -- Resource extension library
+  Version: 1.2.5
+  Description: Xlib-based library for XTEST & RECORD extensions
   Homepage: https://xorg.freedesktop.org/
 - Package: libxtst-static
-  Version: 1.2.4
+  Version: 1.2.5
   Description: Static libraries for libxtst
   Homepage: https://xorg.freedesktop.org/
 - Package: libxv
@@ -6095,7 +6095,7 @@
   Description: A C library to make the use of LV2 plugins as simple as possible for applications
   Homepage: https://drobilla.net/software/lilv.html
 - Package: lilypond
-  Version: 2.24.3
+  Version: 2.24.4
   Description: A music engraving program
   Homepage: https://lilypond.org/
 - Package: links
@@ -6259,7 +6259,7 @@
   Description: Pattern-matching library for Lua 5.3
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua54
-  Version: 5.4.6-1
+  Version: 5.4.7
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
@@ -10307,7 +10307,7 @@
   Description: pup for XML
   Homepage: https://github.com/ericchiang/xpup
 - Package: xsltproc
-  Version: 1.1.40
+  Version: 1.1.42
   Description: XSLT command line processor
   Homepage: http://xmlsoft.org/libxslt/
 - Package: xtrans
