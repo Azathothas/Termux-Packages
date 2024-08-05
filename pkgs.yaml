@@ -10091,7 +10091,7 @@
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
-  Version: 0.14.0
+  Version: 0.14.0-1
   Description: A lightweight, high-performance, and extensible WebAssembly runtime
   Homepage: https://wasmedge.org/
 - Package: wasmedge-static

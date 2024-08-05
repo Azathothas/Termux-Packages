@@ -15139,7 +15139,7 @@
   },
   {
     "Package": "wasmedge",
-    "Version": "0.14.0",
+    "Version": "0.14.0-1",
     "Description": "A lightweight, high-performance, and extensible WebAssembly runtime",
     "Homepage": "https://wasmedge.org/"
   },
