@@ -6271,13 +6271,13 @@
   },
   {
     "Package": "libimagequant",
-    "Version": "4.3.1",
+    "Version": "4.3.2",
     "Description": "Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images",
     "Homepage": "https://pngquant.org/lib/"
   },
   {
     "Package": "libimagequant-static",
-    "Version": "4.3.1",
+    "Version": "4.3.2",
     "Description": "Static libraries for libimagequant",
     "Homepage": "https://pngquant.org/lib/"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.4.0",
+    "Version": "23.4.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11425,7 +11425,7 @@
   },
   {
     "Package": "php-redis",
-    "Version": "6.0.2-2",
+    "Version": "6.1.0RC1",
     "Description": "PHP extension for interfacing with Redis",
     "Homepage": "https://github.com/phpredis/phpredis"
   },
