@@ -7866,6 +7866,10 @@
   Version: "1.42"
   Description: Tunnel TCP connections through ICMP.
   Homepage: https://github.com/lnslbrty/ptunnel-ng
+- Package: pueue
+  Version: 3.4.1
+  Description: A command-line task management tool for sequential and parallel execution of long-running tasks
+  Homepage: https://github.com/Nukesor/pueue
 - Package: pulseaudio
   Version: 17.0-1
   Description: A featureful, general-purpose sound server
@@ -8411,7 +8415,7 @@
   Description: A terminal IRC client in C
   Homepage: https://github.com/rcr/rirc
 - Package: rizin
-  Version: 0.7.3
+  Version: 0.7.3-1
   Description: UNIX-like reverse engineering framework and command-line toolset.
   Homepage: https://rizin.re
 - Package: rlwrap
@@ -10091,7 +10095,7 @@
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
-  Version: 0.14.0-1
+  Version: 0.14.0-2
   Description: A lightweight, high-performance, and extensible WebAssembly runtime
   Homepage: https://wasmedge.org/
 - Package: wasmedge-static
@@ -10363,7 +10367,7 @@
   Description: Static libraries for yasm
   Homepage: https://yasm.tortall.net/
 - Package: yazi
-  Version: 0.3.0
+  Version: 0.3.0-1
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
