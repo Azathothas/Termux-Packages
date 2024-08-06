@@ -4179,11 +4179,11 @@
   Description: Static libraries for libidn2
   Homepage: https://www.gnu.org/software/libidn/#libidn2
 - Package: libimagequant
-  Version: 4.3.2
+  Version: 4.3.3
   Description: Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images
   Homepage: https://pngquant.org/lib/
 - Package: libimagequant-static
-  Version: 4.3.2
+  Version: 4.3.3
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
@@ -8223,7 +8223,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 3.11.2
+  Version: 3.11.4
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -8319,11 +8319,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.39.2
+  Version: 1.39.4
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.39.2
+  Version: 1.39.4
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recoll-static
