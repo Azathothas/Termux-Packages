@@ -2955,7 +2955,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.62.1
+  Version: 2.62.2
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3103,7 +3103,7 @@
   Description: Open-source implementation of the APL-like K programming language
   Homepage: https://github.com/kevinlawler/kona
 - Package: kotlin
-  Version: 2.0.0
+  Version: 2.0.10
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
@@ -9203,7 +9203,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 1.27.9
+  Version: 1.27.10
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
@@ -10371,7 +10371,7 @@
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
-  Version: "0.43"
+  Version: "0.44"
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
