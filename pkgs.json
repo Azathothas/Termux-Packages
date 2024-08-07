@@ -4609,7 +4609,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20240730",
+    "Version": "20240807",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -5329,13 +5329,13 @@
   },
   {
     "Package": "libcoap",
-    "Version": "4.3.5-rc2-0",
+    "Version": "4.3.5-rc3-0",
     "Description": "Implementation of CoAP, a lightweight protocol for resource constrained devices",
     "Homepage": "https://libcoap.net/"
   },
   {
     "Package": "libcoap-static",
-    "Version": "4.3.5-rc2-0",
+    "Version": "4.3.5-rc3-0",
     "Description": "Static libraries for libcoap",
     "Homepage": "https://libcoap.net/"
   },
