@@ -997,7 +997,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.35.1",
+    "Version": "1.36.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -15031,7 +15031,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99",
+    "Version": "0.9.99.01",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
