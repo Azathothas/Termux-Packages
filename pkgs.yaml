@@ -9287,7 +9287,7 @@
   Description: A modernized, complete, self-contained TeX/LaTeX engine
   Homepage: https://tectonic-typesetting.github.io/
 - Package: telegram-bot-api
-  Version: "20240707"
+  Version: "20240730"
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: telegram-cli
