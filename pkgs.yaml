@@ -3287,7 +3287,7 @@
   Description: Static libraries for libandroid-spawn
   Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
 - Package: libandroid-stub
-  Version: 26b
+  Version: "27"
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
@@ -3455,7 +3455,7 @@
   Description: BZ2 format compression library
   Homepage: http://www.bzip.org/
 - Package: libc++
-  Version: 26b
+  Version: "27"
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
@@ -6919,19 +6919,19 @@
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
-  Version: 26b
+  Version: "27"
   Description: Multilib binaries for cross-compilation
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-static
-  Version: 26b
+  Version: "27"
   Description: Install native static libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-stubs
-  Version: 26b
+  Version: "27"
   Description: Install native stubs for shared libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-sysroot
-  Version: 26b-3
+  Version: "27"
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
@@ -7567,27 +7567,27 @@
   Description: An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy
   Homepage: https://git.sr.ht/~ghost08/photon
 - Package: php
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: Server-side, HTML-embedded scripting language
   Homepage: https://php.net
 - Package: php-apache
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: Apache 2.0 Handler module for PHP
   Homepage: https://php.net
 - Package: php-apache-ldap
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: LDAP module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apache-opcache
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: OPcache module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apache-pgsql
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: PostgreSQL modules for PHP/Apache
   Homepage: https://php.net
 - Package: php-apache-sodium
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: Sodium module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apcu
@@ -7595,19 +7595,23 @@
   Description: APCu - APC User Cache
   Homepage: http://php.net/apcu
 - Package: php-fpm
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: FastCGI Process Manager for PHP
+  Homepage: https://php.net
+- Package: php-gd
+  Version: 8.3.8-1
+  Description: gd module for PHP
   Homepage: https://php.net
 - Package: php-imagick
   Version: 3.7.0-4
   Description: The Imagick PHP extension
   Homepage: https://github.com/Imagick/imagick
 - Package: php-ldap
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: LDAP module for PHP
   Homepage: https://php.net
 - Package: php-pgsql
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: PostgreSQL modules for PHP
   Homepage: https://php.net
 - Package: php-psr
@@ -7619,7 +7623,7 @@
   Description: PHP extension for interfacing with Redis
   Homepage: https://github.com/phpredis/phpredis
 - Package: php-sodium
-  Version: 8.3.8
+  Version: 8.3.8-1
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
@@ -10043,7 +10047,7 @@
   Description: A metapackage that provides vulkan loader library
   Homepage: https://github.com/termux/termux-packages
 - Package: vulkan-loader-android
-  Version: 26b
+  Version: "27"
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
