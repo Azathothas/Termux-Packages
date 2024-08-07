@@ -347,7 +347,7 @@
  dotconf  1.4.1  dot.conf configuration file parser  https://github.com/williamh/dotconf 
  dotconf-static  1.4.1  Static libraries for dotconf  https://github.com/williamh/dotconf 
  double-conversion  3.3.0  Binary-decimal and decimal-binary routines for IEEE doubles  https://github.com/google/double-conversion 
- doxygen  1.11.0  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
+ doxygen  1.12.0  A documentation system for C++, C, Java, IDL and PHP  http://www.doxygen.org 
  dpkg  1.22.6  Debian package management system  https://packages.debian.org/dpkg 
  dpkg-perl  1.22.6  Perl modules for dpkg  https://packages.debian.org/dpkg 
  dpkg-scanpackages  1.22.6  Creates Packages index files  https://packages.debian.org/dpkg 
@@ -1355,7 +1355,7 @@
  libtbb  2021.13.0  oneAPI Threading Building Blocks  https://oneapi-src.github.io/oneTBB/ 
  libtd  1.8.0  Library for building Telegram clients  https://core.telegram.org/tdlib/ 
  libtd-static  1.8.0  Static libraries for libtd  https://core.telegram.org/tdlib/ 
- libtdb  1.4.11  A trivial database system  https://tdb.samba.org/ 
+ libtdb  1.4.12  A trivial database system  https://tdb.samba.org/ 
  libtermkey  0.22-3  Library for processing of keyboard entry for terminal-based programs  http://www.leonerd.org.uk/code/libtermkey/ 
  libtheora  1.1.1-1  An open video codec developed by the Xiph.org  https://www.theora.org/ 
  libtheora-static  1.1.1-1  Static libraries for libtheora  https://www.theora.org/ 
@@ -2313,7 +2313,7 @@
  tcl  8.6.14  Powerful but easy to learn dynamic programming language  https://www.tcl.tk/ 
  tcllib  1.21  Tcl Standard Library  https://core.tcl-lang.org/tcllib/ 
  tcsh  6.24.13  TENEX C Shell, an enhanced version of Berkeley csh  https://www.tcsh.org 
- tdb-tools  1.4.11  Tools for TDB  https://tdb.samba.org/ 
+ tdb-tools  1.4.12  Tools for TDB  https://tdb.samba.org/ 
  tdl  0.17.3  Telegram downloader/tools written in Golang  https://docs.iyear.me/tdl/ 
  tea  0.9.2  The official CLI for Gitea  https://gitea.com/gitea/tea 
  tealdeer  1.6.1-1  A very fast implementation of tldr in Rust  https://dbrgn.github.io/tealdeer/ 

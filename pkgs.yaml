@@ -1395,7 +1395,7 @@
   Description: Binary-decimal and decimal-binary routines for IEEE doubles
   Homepage: https://github.com/google/double-conversion
 - Package: doxygen
-  Version: 1.11.0
+  Version: 1.12.0
   Description: A documentation system for C++, C, Java, IDL and PHP
   Homepage: http://www.doxygen.org
 - Package: dpkg
@@ -5427,7 +5427,7 @@
   Description: Static libraries for libtd
   Homepage: https://core.telegram.org/tdlib/
 - Package: libtdb
-  Version: 1.4.11
+  Version: 1.4.12
   Description: A trivial database system
   Homepage: https://tdb.samba.org/
 - Package: libtermkey
@@ -9259,7 +9259,7 @@
   Description: TENEX C Shell, an enhanced version of Berkeley csh
   Homepage: https://www.tcsh.org
 - Package: tdb-tools
-  Version: 1.4.11
+  Version: 1.4.12
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
