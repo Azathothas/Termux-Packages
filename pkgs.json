@@ -10123,13 +10123,13 @@
   },
   {
     "Package": "mpg123",
-    "Version": "1.32.6",
+    "Version": "1.32.7",
     "Description": "Fast console MPEG Audio Player and decoder library",
     "Homepage": "https://mpg123.org/"
   },
   {
     "Package": "mpg123-static",
-    "Version": "1.32.6",
+    "Version": "1.32.7",
     "Description": "Static libraries for mpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -11353,37 +11353,37 @@
   },
   {
     "Package": "php",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "Server-side, HTML-embedded scripting language",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "Apache 2.0 Handler module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-ldap",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "LDAP module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-opcache",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "OPcache module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-pgsql",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "PostgreSQL modules for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-sodium",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "Sodium module for PHP/Apache",
     "Homepage": "https://php.net"
   },
@@ -11395,13 +11395,13 @@
   },
   {
     "Package": "php-fpm",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "FastCGI Process Manager for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-gd",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "gd module for PHP",
     "Homepage": "https://php.net"
   },
@@ -11413,13 +11413,13 @@
   },
   {
     "Package": "php-ldap",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "LDAP module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-pgsql",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "PostgreSQL modules for PHP",
     "Homepage": "https://php.net"
   },
@@ -11437,7 +11437,7 @@
   },
   {
     "Package": "php-sodium",
-    "Version": "8.3.8-1",
+    "Version": "8.3.10",
     "Description": "Sodium module for PHP",
     "Homepage": "https://php.net"
   },
