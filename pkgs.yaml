@@ -6223,7 +6223,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.10.2
+  Version: 3.10.3
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -6447,7 +6447,7 @@
   Description: An EPUB renderer for mdbook
   Homepage: https://github.com/Michael-F-Bryan/mdbook-epub
 - Package: mdbook-graphviz
-  Version: 0.2.0
+  Version: 0.2.1
   Description: mdbook preprocessor to add graphviz support
   Homepage: https://github.com/dylanowen/mdbook-graphviz
 - Package: mdbook-katex
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.6.0
+  Version: 23.6.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -10403,7 +10403,7 @@
   Description: Static libraries for yuma123
   Homepage: https://yuma123.org/
 - Package: z-push
-  Version: 2.7.3
+  Version: 2.7.4
   Description: An open-source application to synchronize ActiveSync compatible devices and Outlook
   Homepage: https://z-push.org/
 - Package: z3
