@@ -214,7 +214,7 @@
  chafa-static  1.14.2  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-2  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-2  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.51.0  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.52.0  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.3.0  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.3.0  Static libraries for chicken  https://www.call-cc.org 
  choose  1.3.4  A human-friendly and fast alternative to cut and (sometimes) awk  https://github.com/theryangeary/choose 
@@ -1022,8 +1022,8 @@
  libhangul-static  0.1.0-p20230415-2  Static libraries for libhangul  https://github.com/libhangul/libhangul 
  libhdf5  1.14.4.3  Hierarchical Data Format 5 (HDF5)  https://portal.hdfgroup.org/display/support 
  libhdf5-static  1.14.4.3  Static libraries for libhdf5  https://portal.hdfgroup.org/display/support 
- libheif  1.18.1  HEIF (HEIC/AVIF) image encoding and decoding library  https://github.com/strukturag/libheif 
- libheif-progs  1.18.1  Programs for manipulating HEIF (HEIC/AVIF) image files  https://github.com/strukturag/libheif 
+ libheif  1.18.2  HEIF (HEIC/AVIF) image encoding and decoding library  https://github.com/strukturag/libheif 
+ libheif-progs  1.18.2  Programs for manipulating HEIF (HEIC/AVIF) image files  https://github.com/strukturag/libheif 
  libheif-static  1.15.2  Static libraries for libheif  https://github.com/strukturag/libheif 
  libhiredis  1.2.0  Hiredis is a minimalistic C client library for the Redis database  https://redis.com/lp/hiredis 
  libhiredis-static  1.1.0  Static libraries for libhiredis  https://redis.com/lp/hiredis 
@@ -2323,7 +2323,7 @@
  tectonic  0.15.0-1  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20240730  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-6  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  16.1.3  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  16.1.4  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.5.1-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-4  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
@@ -2437,7 +2437,7 @@
  udftools  2.3  Linux tools for UDF filesystems and DVD/CD-R(W) drives  https://github.com/pali/udftools 
  uftrace  0.16  Function (graph) tracer for user-space  https://uftrace.github.io/slide 
  ugit  5.8  ugit helps you undo your last git command with grace. Your damage control git buddy  https://github.com/Bhupesh-V/ugit 
- ugrep  6.3.0  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
+ ugrep  6.4.0  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
  unar  1.10.7-8  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
  unbound  1.20.0-1  Unbound command-line tools  https://unbound.net/ 
  unbound-static  1.17.1  Static libraries for unbound  https://unbound.net/ 
@@ -2504,7 +2504,7 @@
  vlc-static  3.0.21  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-2  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.2-2  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  0.9.99.01  Terminal multiplexer with TUI window manager and multi-party session sharing  https://vtm.netxs.online/ 
+ vtm  0.9.99.02  Terminal multiplexer with TUI window manager and multi-party session sharing  https://vtm.netxs.online/ 
  vttest  20240708  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-4  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.3.290  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 

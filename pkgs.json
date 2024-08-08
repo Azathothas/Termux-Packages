@@ -1297,7 +1297,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.51.0",
+    "Version": "2.52.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -6145,13 +6145,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.18.1",
+    "Version": "1.18.2",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.18.1",
+    "Version": "1.18.2",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -13951,7 +13951,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.1.3",
+    "Version": "16.1.4",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -14635,7 +14635,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "6.3.0",
+    "Version": "6.4.0",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.01",
+    "Version": "0.9.99.02",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
