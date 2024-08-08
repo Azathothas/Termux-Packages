@@ -1623,7 +1623,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.18.24
+  Version: 0.19.0
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -4819,7 +4819,7 @@
   Description: Static libraries for libopenblas
   Homepage: https://www.openblas.net
 - Package: libopencc
-  Version: 1.1.8
+  Version: 1.1.9
   Description: An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai)
   Homepage: https://github.com/BYVoid/OpenCC
 - Package: libopencore-amr
@@ -7215,7 +7215,7 @@
   Description: Open Babel is a chemical toolbox designed to speak the many languages of chemical data
   Homepage: http://openbabel.org/wiki/Main_Page
 - Package: opencc-tools
-  Version: 1.1.8
+  Version: 1.1.9
   Description: Command-line tools for OpenCC
   Homepage: https://github.com/BYVoid/OpenCC
 - Package: opencl-clhpp
