@@ -555,7 +555,7 @@
   Description: A simple, fast, clean and dynamic language
   Homepage: https://bladelang.com/
 - Package: blas-openblas
-  Version: 0.3.27
+  Version: 0.3.28
   Description: OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE
   Homepage: https://www.openblas.net
 - Package: blink
@@ -4811,11 +4811,11 @@
   Description: An implementation of the Double Ratchet cryptographic ratchet
   Homepage: https://matrix.org/docs/projects/other/olm/
 - Package: libopenblas
-  Version: 0.3.27
+  Version: 0.3.28
   Description: An optimized BLAS library based on GotoBLAS2 1.13 BSD
   Homepage: https://www.openblas.net
 - Package: libopenblas-static
-  Version: 0.3.27
+  Version: 0.3.28
   Description: Static libraries for libopenblas
   Homepage: https://www.openblas.net
 - Package: libopencc
@@ -10023,7 +10023,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.03
+  Version: 0.9.99.04
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
@@ -10499,7 +10499,7 @@
   Description: A file transfer program to download files from remote web servers
   Homepage: http://zsync.moria.org.uk/
 - Package: zziplib
-  Version: 0.13.77
+  Version: 0.13.78
   Description: Provides read access to zipped files in a zip-archive, using compression based on free algorithms
   Homepage: https://zziplib.sourceforge.net/
 - Package: zzuf

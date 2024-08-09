@@ -149,7 +149,7 @@
 | **bk** | 0.6.0 | A terminal EPUB reader | https://github.com/aeosynth/bk |
 | **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/StackExchange/blackbox |
 | **blade** | 0.0.85 | A simple, fast, clean and dynamic language | https://bladelang.com/ |
-| **blas-openblas** | 0.3.27 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
+| **blas-openblas** | 0.3.28 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
 | **blink** | 1:1.1.0 | Tiny x86-64 Linux emulator | https://justine.lol/blinkenlights/ |
 | **blk-utils** | 2.39.3-4 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
 | **blogc** | 0.20.1 | A blog compiler | https://blogc.rgm.io/ |
@@ -1213,8 +1213,8 @@
 | **liboggz** | 1.1.1-5 | Command and library to inspect, tweak, edit and validate Ogg files | https://www.xiph.org/oggz/ |
 | **liboggz-static** | 1.1.1-5 | Static libraries for liboggz | https://www.xiph.org/oggz/ |
 | **libolm** | 3.2.16 | An implementation of the Double Ratchet cryptographic ratchet | https://matrix.org/docs/projects/other/olm/ |
-| **libopenblas** | 0.3.27 | An optimized BLAS library based on GotoBLAS2 1.13 BSD | https://www.openblas.net |
-| **libopenblas-static** | 0.3.27 | Static libraries for libopenblas | https://www.openblas.net |
+| **libopenblas** | 0.3.28 | An optimized BLAS library based on GotoBLAS2 1.13 BSD | https://www.openblas.net |
+| **libopenblas-static** | 0.3.28 | Static libraries for libopenblas | https://www.openblas.net |
 | **libopencc** | 1.1.9 | An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai) | https://github.com/BYVoid/OpenCC |
 | **libopencore-amr** | 0.1.6 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr |
 | **libopencore-amr-static** | 0.1.6 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr |
@@ -2516,7 +2516,7 @@
 | **vlc-static** | 3.0.21 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.03 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.04 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20240708 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.290 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
@@ -2635,7 +2635,7 @@
 | **zstd** | 1.5.6 | Zstandard compression | https://github.com/facebook/zstd |
 | **zstd-static** | 1.5.6 | Static libraries for zstd | https://github.com/facebook/zstd |
 | **zsync** | 0.6.2-5 | A file transfer program to download files from remote web servers | http://zsync.moria.org.uk/ |
-| **zziplib** | 0.13.77 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
+| **zziplib** | 0.13.78 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
 | **zzuf** | 2022.05.29 | A transparent application input fuzzer | http://caca.zoy.org/wiki/zzuf |
 | **zzuf-static** | 2022.05.29 | Static libraries for zzuf | http://caca.zoy.org/wiki/zzuf |
 
