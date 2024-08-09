@@ -2467,7 +2467,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.21.0",
+    "Version": "2.21.1",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
