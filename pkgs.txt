@@ -971,7 +971,7 @@
  libfixposix-static  0.5.1  Static libraries for libfixposix  https://github.com/sionescu/libfixposix/ 
  libflac  1.4.3  FLAC (Free Lossless Audio Codec) library  https://xiph.org/flac/ 
  libflac-static  1.4.3  Static libraries for libflac  https://xiph.org/flac/ 
- libflann  2022.10.27  A library for performing fast approximate nearest neighbor searches in high dimensional spaces  https://github.com/flann-lib/flann 
+ libflann  2022.10.27-1  A library for performing fast approximate nearest neighbor searches in high dimensional spaces  https://github.com/flann-lib/flann 
  libflann-static  2019.04.06-1  Static libraries for libflann  https://github.com/flann-lib/flann 
  libforestdb  1.2  A key-value storage engine  https://github.com/couchbase/forestdb 
  libfreexl  2.0.0  Library to extract valid data from within an Excel (.xls) spreadsheet  https://www.gaia-gis.it/fossil/freexl 
@@ -1155,14 +1155,14 @@
  libmsgpack  6.0.2  MessagePack implementation for C  https://github.com/msgpack/msgpack-c/ 
  libmsgpack-cxx  6.1.1  msgpack for C++  https://msgpack.org/ 
  libmsgpack-static  6.0.2  Static libraries for libmsgpack  https://github.com/msgpack/msgpack-c/ 
- libmuparser  2.3.4  An extensible high performance math expression parser library written in C++  https://beltoforion.de/en/muparser 
+ libmuparser  2.3.4-1  An extensible high performance math expression parser library written in C++  https://beltoforion.de/en/muparser 
  libmusicbrainz  5.1.0-3  The MusicBrainz Client Library  https://musicbrainz.org/doc/libmusicbrainz 
  libmypaint  1.6.1-1  MyPaint brush engine library  https://github.com/mypaint/libmypaint 
  libmypaint-static  1.6.1-1  Static libraries for libmypaint  https://github.com/mypaint/libmypaint 
  libnats-c  3.8.2  A C client for the NATS messaging system  https://nats-io.github.io/nats.c/ 
  libnats-c-static  3.8.2  Static libraries for libnats-c  https://nats-io.github.io/nats.c/ 
- libncnn  20230627-3  A high-performance neural network inference framework optimized for the mobile platform  https://github.com/Tencent/ncnn 
- libncnn-static  20230627-3  Static libraries for libncnn  https://github.com/Tencent/ncnn 
+ libncnn  20230627-4  A high-performance neural network inference framework optimized for the mobile platform  https://github.com/Tencent/ncnn 
+ libncnn-static  20230627-4  Static libraries for libncnn  https://github.com/Tencent/ncnn 
  libneon  0.33.0  An HTTP/1.1 and WebDAV client library, with a C interface  https://notroj.github.io/neon/ 
  libneon-static  0.33.0  Static libraries for libneon  https://notroj.github.io/neon/ 
  libnet  1.3  A library which provides API for commonly used low-level net functions  https://github.com/libnet/libnet 
@@ -1223,7 +1223,7 @@
  libotr-static  4.1.1-2  Static libraries for libotr  https://otr.cypherpunks.ca 
  libowfat  0.33-1  GPL reimplementation of libdjb  http://www.fefe.de/libowfat/ 
  libp8-platform  2.1.0.1-3  Platform support library used by libCEC and binary add-ons for Kodi  https://github.com/Pulse-Eight/platform 
- libpagmo  2.19.0-2  Scientific library for massively parallel optimization  https://esa.github.io/pagmo2/index.html 
+ libpagmo  2.19.1  Scientific library for massively parallel optimization  https://esa.github.io/pagmo2/index.html 
  libpangomm-1.4  2.46.4  A C++ API for Pango  https://www.gtkmm.org/ 
  libpangomm-2.48  2.54.0  A C++ API for Pango  https://www.gtkmm.org/ 
  libpano13  2.9.22-1  Part of the Panorama Tools by Helmut Dersch  https://panotools.sourceforge.net/ 
@@ -1320,7 +1320,7 @@
  libsoundtouch-static  2.3.2  Static libraries for libsoundtouch  https://www.surina.net/soundtouch/ 
  libsoup  2.74.3-3  HTTP client and server library  https://wiki.gnome.org/action/show/Projects/libsoup 
  libsoup3  3.4.4  HTTP client and server library  https://wiki.gnome.org/Projects/libsoup 
- libsoxr  0.1.3-6  High quality, one-dimensional sample-rate conversion library  https://sourceforge.net/projects/soxr/ 
+ libsoxr  0.1.3-7  High quality, one-dimensional sample-rate conversion library  https://sourceforge.net/projects/soxr/ 
  libspatialindex  2.0.0  C++ implementation of R-tree, an MVR-tree and a TPR-tree with C API  https://libspatialindex.github.io 
  libspatialite  5.1.0  SQLite extension to support spatial data types and operations  https://www.gaia-gis.it/fossil/libspatialite 
  libspatialite-static  5.1.0  Static libraries for libspatialite  https://www.gaia-gis.it/fossil/libspatialite 
@@ -1417,7 +1417,7 @@
  libv4l-static  1.24.1-1  Static libraries for libv4l  https://git.linuxtv.org/v4l-utils.git 
  libvbisam  2.0-2  A replacement for IBM's C-ISAM  https://sourceforge.net/projects/vbisam/ 
  libvbisam-static  2.0-2  Static libraries for libvbisam  https://sourceforge.net/projects/vbisam/ 
- libvidstab  1.1.1  video stabilization library  https://github.com/georgmartius/vid.stab 
+ libvidstab  1.1.1-1  video stabilization library  https://github.com/georgmartius/vid.stab 
  libvigra  1.11.2  Computer vision library  https://ukoethe.github.io/vigra/ 
  libvips  8.15.2a-1  A fast image processing library with low memory needs  https://libvips.github.io/libvips/ 
  libvips-static  8.13.3-3  Static libraries for libvips  https://libvips.github.io/libvips/ 
@@ -1723,11 +1723,11 @@
  ncompress  5.0  The classic unix compression utility which can handle the ancient .Z archive  https://github.com/vapier/ncompress 
  ncpamixer  1.3.7  An ncurses mixer for PulseAudio  https://github.com/fulhax/ncpamixer 
  ncspot  1.1.2  An ncurses Spotify client written in Rust  https://github.com/hrkfdn/ncspot 
- ncurses  6.4.20231001-4  Library for text-based user interfaces in a terminal-independent manner  https://invisible-island.net/ncurses/ 
- ncurses-static  6.4.20231001-4  Static libraries for ncurses  https://invisible-island.net/ncurses/ 
- ncurses-ui-libs  6.4.20231001-4  Libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
- ncurses-ui-libs-static  6.4.20231001-4  Static libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
- ncurses-utils  6.4.20231001-4  Tools for working with terminals  https://invisible-island.net/ncurses/ 
+ ncurses  6.4.20231001-5  Library for text-based user interfaces in a terminal-independent manner  https://invisible-island.net/ncurses/ 
+ ncurses-static  6.4.20231001-5  Static libraries for ncurses  https://invisible-island.net/ncurses/ 
+ ncurses-ui-libs  6.4.20231001-5  Libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
+ ncurses-ui-libs-static  6.4.20231001-5  Static libraries for terminal user interfaces based on ncurses  https://invisible-island.net/ncurses/ 
+ ncurses-utils  6.4.20231001-5  Tools for working with terminals  https://invisible-island.net/ncurses/ 
  ndk-multilib  27  Multilib binaries for cross-compilation  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-static  27  Install native static libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-stubs  27  Install native stubs for shared libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
@@ -1752,7 +1752,7 @@
  newsboat  2.36  RSS/Atom feed reader for the text console  https://newsboat.org/ 
  nginx  1.27.0  Lightweight HTTP server  https://www.nginx.org 
  ngircd  27  Free, portable and lightweight Internet Relay Chat server  https://ngircd.barton.de/ 
- ngspice  43  A mixed-level/mixed-signal circuit simulator  https://ngspice.sourceforge.net/ 
+ ngspice  43-1  A mixed-level/mixed-signal circuit simulator  https://ngspice.sourceforge.net/ 
  nim  2.0.4  Nim programming language compiler  https://nim-lang.org/ 
  ninja  1.12.1  A small build system with a focus on speed  https://ninja-build.org 
  ninvaders  0.1.2-2  Space Invaders clone based on ncurses for ASCII output  http://ninvaders.sourceforge.net 
@@ -1982,13 +1982,13 @@
  pypy3  7.3.13  A fast, compliant alternative implementation of Python 3  https://pypy.org 
  pypy3-tkinter  7.3.13  Tkinter support for PyPy 3  https://pypy.org 
  pystring  1.1.4  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
- python  3.11.9-3  Python 3 programming language intended to enable clear programs  https://python.org/ 
+ python  3.11.9-4  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.46.0.1  Another Python SQLite Wrapper  https://github.com/rogerbinns/apsw/ 
  python-apt  2.9.0  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  4.2.0  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-contourpy  1.2.1  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  42.0.8  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
- python-ensurepip-wheels  3.11.9-3  Wheels for Python ensurepip  https://python.org/ 
+ python-ensurepip-wheels  3.11.9-4  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.0.3  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.65.4  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.7.0  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
@@ -2001,10 +2001,10 @@
  python-pip  24.2  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 
  python-pyarrow  17.0.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pynvim  0.5.0  Python client for Neovim  https://github.com/neovim/pynvim 
- python-sabyenc3  8.2.4  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
+ python-sabyenc3  8.2.5  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-skia-pathops  0.8.0  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
- python-static  3.11.9-3  Static libraries for python  https://python.org/ 
- python-tkinter  3.11.9-3  Tkinter support for Python 3  https://python.org/ 
+ python-static  3.11.9-4  Static libraries for python  https://python.org/ 
+ python-tkinter  3.11.9-4  Tkinter support for Python 3  https://python.org/ 
  python-tldp  0.7.5-4  Tools for publishing from TLDP sources  https://github.com/tLDP/python-tldp 
  python-torch  2.1.2-1  Tensors and Dynamic neural networks in Python  https://pytorch.org/ 
  python-torch-static  2.1.2-1  Static libraries for python-torch  https://pytorch.org/ 
@@ -2223,8 +2223,8 @@
  solidity  0.8.26  An Ethereum smart contract-oriented language  https://solidity.readthedocs.io 
  sops  3.9.0  Simple and flexible tool for managing secrets  https://github.com/getsops/sops 
  sord  0.16.16-1  A lightweight C library for storing RDF data in memory  https://drobilla.net/software/sord.html 
- sox  14.4.2-25  Command line utility for converting between and applying effects to various audio files formats  http://sox.sourceforge.net/ 
- sox-static  14.4.2-25  Static libraries for sox  http://sox.sourceforge.net/ 
+ sox  14.4.2-26  Command line utility for converting between and applying effects to various audio files formats  https://sox.sourceforge.net/ 
+ sox-static  14.4.2-26  Static libraries for sox  https://sox.sourceforge.net/ 
  spark  1.0.1  ▁▂▃▅▂▇ in your shell.  https://github.com/holman/spark 
  spatialite-tools  5.0.1-3  Collection of tools supporting SpatiaLite  https://www.gaia-gis.it/fossil/spatialite-tools 
  speechd  0.11.5  Common interface to speech synthesis  https://github.com/brailcom/speechd 
@@ -2233,7 +2233,7 @@
  speex-utils  1.2.1  Speex command line tools  https://www.speex.org/ 
  speexdsp  1.2.1  Speex audio processing library  https://speex.org/ 
  speexdsp-static  1.2.1  Static libraries for speexdsp  https://speex.org/ 
- spglib  2.5.0  C library for finding and handling crystal symmetries  https://spglib.github.io/spglib/index.html 
+ spglib  2.5.0-1  C library for finding and handling crystal symmetries  https://spglib.github.io/spglib/index.html 
  spglib-static  2.0.2  Static libraries for spglib  https://spglib.github.io/spglib/index.html 
  spiped  1.6.2-1  a utility for creating symmetrically encrypted and authenticated pipes between socket addresses  https://www.tarsnap.com/spiped.html 
  spirv-headers  1.3.290.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
@@ -2347,7 +2347,7 @@
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
  termux-tools  1.43.2  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
- tesseract  5.4.1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
+ tesseract  5.4.1-1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.0.9  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
  tex-gyre  2.501-1  The TeX Gyre (TG) Collection of Fonts  https://www.gust.org.pl/projects/e-foundry/tex-gyre/ 
  texinfo  7.1-2  Documentation system for on-line information and printed output  https://www.gnu.org/software/texinfo/ 
@@ -2437,7 +2437,7 @@
  udftools  2.3  Linux tools for UDF filesystems and DVD/CD-R(W) drives  https://github.com/pali/udftools 
  uftrace  0.16  Function (graph) tracer for user-space  https://uftrace.github.io/slide 
  ugit  5.8  ugit helps you undo your last git command with grace. Your damage control git buddy  https://github.com/Bhupesh-V/ugit 
- ugrep  6.4.0  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
+ ugrep  6.4.1  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
  unar  1.10.7-8  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
  unbound  1.20.0-1  Unbound command-line tools  https://unbound.net/ 
  unbound-static  1.17.1  Static libraries for unbound  https://unbound.net/ 

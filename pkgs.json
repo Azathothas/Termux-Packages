@@ -5839,7 +5839,7 @@
   },
   {
     "Package": "libflann",
-    "Version": "2022.10.27",
+    "Version": "2022.10.27-1",
     "Description": "A library for performing fast approximate nearest neighbor searches in high dimensional spaces",
     "Homepage": "https://github.com/flann-lib/flann"
   },
@@ -6943,7 +6943,7 @@
   },
   {
     "Package": "libmuparser",
-    "Version": "2.3.4",
+    "Version": "2.3.4-1",
     "Description": "An extensible high performance math expression parser library written in C++",
     "Homepage": "https://beltoforion.de/en/muparser"
   },
@@ -6979,13 +6979,13 @@
   },
   {
     "Package": "libncnn",
-    "Version": "20230627-3",
+    "Version": "20230627-4",
     "Description": "A high-performance neural network inference framework optimized for the mobile platform",
     "Homepage": "https://github.com/Tencent/ncnn"
   },
   {
     "Package": "libncnn-static",
-    "Version": "20230627-3",
+    "Version": "20230627-4",
     "Description": "Static libraries for libncnn",
     "Homepage": "https://github.com/Tencent/ncnn"
   },
@@ -7351,7 +7351,7 @@
   },
   {
     "Package": "libpagmo",
-    "Version": "2.19.0-2",
+    "Version": "2.19.1",
     "Description": "Scientific library for massively parallel optimization",
     "Homepage": "https://esa.github.io/pagmo2/index.html"
   },
@@ -7933,7 +7933,7 @@
   },
   {
     "Package": "libsoxr",
-    "Version": "0.1.3-6",
+    "Version": "0.1.3-7",
     "Description": "High quality, one-dimensional sample-rate conversion library",
     "Homepage": "https://sourceforge.net/projects/soxr/"
   },
@@ -8515,7 +8515,7 @@
   },
   {
     "Package": "libvidstab",
-    "Version": "1.1.1",
+    "Version": "1.1.1-1",
     "Description": "video stabilization library",
     "Homepage": "https://github.com/georgmartius/vid.stab"
   },
@@ -10351,31 +10351,31 @@
   },
   {
     "Package": "ncurses",
-    "Version": "6.4.20231001-4",
+    "Version": "6.4.20231001-5",
     "Description": "Library for text-based user interfaces in a terminal-independent manner",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-static",
-    "Version": "6.4.20231001-4",
+    "Version": "6.4.20231001-5",
     "Description": "Static libraries for ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-ui-libs",
-    "Version": "6.4.20231001-4",
+    "Version": "6.4.20231001-5",
     "Description": "Libraries for terminal user interfaces based on ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-ui-libs-static",
-    "Version": "6.4.20231001-4",
+    "Version": "6.4.20231001-5",
     "Description": "Static libraries for terminal user interfaces based on ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-utils",
-    "Version": "6.4.20231001-4",
+    "Version": "6.4.20231001-5",
     "Description": "Tools for working with terminals",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
@@ -10525,7 +10525,7 @@
   },
   {
     "Package": "ngspice",
-    "Version": "43",
+    "Version": "43-1",
     "Description": "A mixed-level/mixed-signal circuit simulator",
     "Homepage": "https://ngspice.sourceforge.net/"
   },
@@ -11905,7 +11905,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.11.9-3",
+    "Version": "3.11.9-4",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -11941,7 +11941,7 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.11.9-3",
+    "Version": "3.11.9-4",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
@@ -12019,7 +12019,7 @@
   },
   {
     "Package": "python-sabyenc3",
-    "Version": "8.2.4",
+    "Version": "8.2.5",
     "Description": "C implementations of functions for use within SABnzbd",
     "Homepage": "https://github.com/sabnzbd/sabctools"
   },
@@ -12031,13 +12031,13 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.11.9-3",
+    "Version": "3.11.9-4",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.11.9-3",
+    "Version": "3.11.9-4",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
@@ -13351,15 +13351,15 @@
   },
   {
     "Package": "sox",
-    "Version": "14.4.2-25",
+    "Version": "14.4.2-26",
     "Description": "Command line utility for converting between and applying effects to various audio files formats",
-    "Homepage": "http://sox.sourceforge.net/"
+    "Homepage": "https://sox.sourceforge.net/"
   },
   {
     "Package": "sox-static",
-    "Version": "14.4.2-25",
+    "Version": "14.4.2-26",
     "Description": "Static libraries for sox",
-    "Homepage": "http://sox.sourceforge.net/"
+    "Homepage": "https://sox.sourceforge.net/"
   },
   {
     "Package": "spark",
@@ -13411,7 +13411,7 @@
   },
   {
     "Package": "spglib",
-    "Version": "2.5.0",
+    "Version": "2.5.0-1",
     "Description": "C library for finding and handling crystal symmetries",
     "Homepage": "https://spglib.github.io/spglib/index.html"
   },
@@ -14095,7 +14095,7 @@
   },
   {
     "Package": "tesseract",
-    "Version": "5.4.1",
+    "Version": "5.4.1-1",
     "Description": "Tesseract is probably the most accurate open source OCR engine available",
     "Homepage": "https://github.com/tesseract-ocr/tesseract"
   },
@@ -14635,7 +14635,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "6.4.0",
+    "Version": "6.4.1",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },

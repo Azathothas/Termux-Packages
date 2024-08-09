@@ -3891,7 +3891,7 @@
   Description: Static libraries for libflac
   Homepage: https://xiph.org/flac/
 - Package: libflann
-  Version: 2022.10.27
+  Version: 2022.10.27-1
   Description: A library for performing fast approximate nearest neighbor searches in high dimensional spaces
   Homepage: https://github.com/flann-lib/flann
 - Package: libflann-static
@@ -4627,7 +4627,7 @@
   Description: Static libraries for libmsgpack
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmuparser
-  Version: 2.3.4
+  Version: 2.3.4-1
   Description: An extensible high performance math expression parser library written in C++
   Homepage: https://beltoforion.de/en/muparser
 - Package: libmusicbrainz
@@ -4651,11 +4651,11 @@
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
-  Version: 20230627-3
+  Version: 20230627-4
   Description: A high-performance neural network inference framework optimized for the mobile platform
   Homepage: https://github.com/Tencent/ncnn
 - Package: libncnn-static
-  Version: 20230627-3
+  Version: 20230627-4
   Description: Static libraries for libncnn
   Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
@@ -4899,7 +4899,7 @@
   Description: Platform support library used by libCEC and binary add-ons for Kodi
   Homepage: https://github.com/Pulse-Eight/platform
 - Package: libpagmo
-  Version: 2.19.0-2
+  Version: 2.19.1
   Description: Scientific library for massively parallel optimization
   Homepage: https://esa.github.io/pagmo2/index.html
 - Package: libpangomm-1.4
@@ -5287,7 +5287,7 @@
   Description: HTTP client and server library
   Homepage: https://wiki.gnome.org/Projects/libsoup
 - Package: libsoxr
-  Version: 0.1.3-6
+  Version: 0.1.3-7
   Description: High quality, one-dimensional sample-rate conversion library
   Homepage: https://sourceforge.net/projects/soxr/
 - Package: libspatialindex
@@ -5675,7 +5675,7 @@
   Description: Static libraries for libvbisam
   Homepage: https://sourceforge.net/projects/vbisam/
 - Package: libvidstab
-  Version: 1.1.1
+  Version: 1.1.1-1
   Description: video stabilization library
   Homepage: https://github.com/georgmartius/vid.stab
 - Package: libvigra
@@ -6899,23 +6899,23 @@
   Description: An ncurses Spotify client written in Rust
   Homepage: https://github.com/hrkfdn/ncspot
 - Package: ncurses
-  Version: 6.4.20231001-4
+  Version: 6.4.20231001-5
   Description: Library for text-based user interfaces in a terminal-independent manner
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-static
-  Version: 6.4.20231001-4
+  Version: 6.4.20231001-5
   Description: Static libraries for ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs
-  Version: 6.4.20231001-4
+  Version: 6.4.20231001-5
   Description: Libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs-static
-  Version: 6.4.20231001-4
+  Version: 6.4.20231001-5
   Description: Static libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-utils
-  Version: 6.4.20231001-4
+  Version: 6.4.20231001-5
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
@@ -7015,7 +7015,7 @@
   Description: Free, portable and lightweight Internet Relay Chat server
   Homepage: https://ngircd.barton.de/
 - Package: ngspice
-  Version: "43"
+  Version: 43-1
   Description: A mixed-level/mixed-signal circuit simulator
   Homepage: https://ngspice.sourceforge.net/
 - Package: nim
@@ -7935,7 +7935,7 @@
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
-  Version: 3.11.9-3
+  Version: 3.11.9-4
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
@@ -7959,7 +7959,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
-  Version: 3.11.9-3
+  Version: 3.11.9-4
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
@@ -8011,7 +8011,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-sabyenc3
-  Version: 8.2.4
+  Version: 8.2.5
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
@@ -8019,11 +8019,11 @@
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
-  Version: 3.11.9-3
+  Version: 3.11.9-4
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tkinter
-  Version: 3.11.9-3
+  Version: 3.11.9-4
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp
@@ -8899,13 +8899,13 @@
   Description: A lightweight C library for storing RDF data in memory
   Homepage: https://drobilla.net/software/sord.html
 - Package: sox
-  Version: 14.4.2-25
+  Version: 14.4.2-26
   Description: Command line utility for converting between and applying effects to various audio files formats
-  Homepage: http://sox.sourceforge.net/
+  Homepage: https://sox.sourceforge.net/
 - Package: sox-static
-  Version: 14.4.2-25
+  Version: 14.4.2-26
   Description: Static libraries for sox
-  Homepage: http://sox.sourceforge.net/
+  Homepage: https://sox.sourceforge.net/
 - Package: spark
   Version: 1.0.1
   Description: ▁▂▃▅▂▇ in your shell.
@@ -8939,7 +8939,7 @@
   Description: Static libraries for speexdsp
   Homepage: https://speex.org/
 - Package: spglib
-  Version: 2.5.0
+  Version: 2.5.0-1
   Description: C library for finding and handling crystal symmetries
   Homepage: https://spglib.github.io/spglib/index.html
 - Package: spglib-static
@@ -9395,7 +9395,7 @@
   Description: Tool for analyzing control characters and terminal control sequences
   Homepage: https://www.gnu.org/software/teseq/
 - Package: tesseract
-  Version: 5.4.1
+  Version: 5.4.1-1
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
@@ -9755,7 +9755,7 @@
   Description: ugit helps you undo your last git command with grace. Your damage control git buddy
   Homepage: https://github.com/Bhupesh-V/ugit
 - Package: ugrep
-  Version: 6.4.0
+  Version: 6.4.1
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
