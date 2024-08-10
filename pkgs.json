@@ -10399,7 +10399,7 @@
   },
   {
     "Package": "ndk-sysroot",
-    "Version": "27",
+    "Version": "27-1",
     "Description": "System header and library files from the Android NDK needed for compiling C programs",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },

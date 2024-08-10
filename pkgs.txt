@@ -1731,7 +1731,7 @@
  ndk-multilib  27  Multilib binaries for cross-compilation  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-static  27  Install native static libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-stubs  27  Install native stubs for shared libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
- ndk-sysroot  27  System header and library files from the Android NDK needed for compiling C programs  https://developer.android.com/tools/sdk/ndk/index.html 
+ ndk-sysroot  27-1  System header and library files from the Android NDK needed for compiling C programs  https://developer.android.com/tools/sdk/ndk/index.html 
  ne  3.3.3  Easy-to-use and powerful text editor  https://ne.di.unimi.it/ 
  nelua  2024.01.13  Minimal, efficient, statically-typed and meta-programmable systems programming language  https://nelua.io 
  neocmakelsp  0.8.0  a cmake lsp based on tower-lsp and treesitter  https://github.com/Decodetalkers/neocmakelsp 
