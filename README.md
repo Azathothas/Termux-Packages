@@ -2005,7 +2005,7 @@
 | **python-grpcio** | 1.65.4 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.22.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
-| **python-lxml** | 5.2.2 | A straightforward binding of libsass for Python | https://github.com/lxml/lxml |
+| **python-lxml** | 5.3.0 | A straightforward binding of libsass for Python | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.0.8-1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 1.26.5 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 1.26.5 | Static libraries for python-numpy | https://numpy.org/ |
