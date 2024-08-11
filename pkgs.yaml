@@ -9391,7 +9391,7 @@
   Description: Service daemon for Termux
   Homepage: https://github.com/termux/termux-services/
 - Package: termux-tools
-  Version: 1.43.2
+  Version: 1.43.3
   Description: Basic system tools for Termux
   Homepage: https://termux.dev/
 - Package: teseq
