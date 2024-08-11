@@ -971,7 +971,7 @@
   Description: cmocka is an unit testing framework for C
   Homepage: https://cmocka.org/
 - Package: cmus
-  Version: 2.11.0
+  Version: 2.11.0-1
   Description: Small, fast and powerful console music player
   Homepage: https://cmus.github.io/
 - Package: cmusfm
@@ -6363,11 +6363,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:11.4.2-1
+  Version: 2:11.4.3
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:11.4.2-1
+  Version: 2:11.4.3
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
