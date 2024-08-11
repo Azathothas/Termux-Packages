@@ -1525,7 +1525,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-36",
+    "Version": "2.4.0-37",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
