@@ -1695,7 +1695,7 @@
  mtools  4.0.43  Tool for manipulating FAT images  https://www.gnu.org/software/mtools/ 
  mu  1.12.6  Maildir indexer/searcher and Emacs client (mu4e)  https://www.djcbsoftware.nl/code/mu/ 
  muchsync  7  Synchronize notmuch mail across machines  http://www.muchsync.org/ 
- multitail  7.1.3  Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge  http://www.vanheusden.com/multitail/ 
+ multitail  7.1.4  Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge  http://www.vanheusden.com/multitail/ 
  mupdf  1.24.8  Lightweight PDF and XPS viewer (library)  https://mupdf.com/ 
  mupdf-static  1.24.8  Static libraries for mupdf  https://mupdf.com/ 
  mupdf-tools  1.24.8  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
