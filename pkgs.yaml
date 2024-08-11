@@ -1043,9 +1043,9 @@
   Description: A tool for tunneling SSH through HTTP proxies
   Homepage: https://wiki.linuxquestions.org/wiki/Corkscrew
 - Package: cowsay
-  Version: 3.7.0
+  Version: 3.8.1
   Description: Program which generates ASCII pictures of a cow with a message
-  Homepage: https://en.wikipedia.org/wiki/Cowsay
+  Homepage: https://cowsay.diamonds/
 - Package: cpio
   Version: "2.15"
   Description: CPIO implementation from the GNU project
