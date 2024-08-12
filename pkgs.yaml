@@ -7871,7 +7871,7 @@
   Description: Tunnel TCP connections through ICMP.
   Homepage: https://github.com/lnslbrty/ptunnel-ng
 - Package: pueue
-  Version: 3.4.1
+  Version: 3.4.1-1
   Description: A command-line task management tool for sequential and parallel execution of long-running tasks
   Homepage: https://github.com/Nukesor/pueue
 - Package: pulseaudio
@@ -9047,7 +9047,7 @@
   Description: Streaming bar graphs. For stats and stuff.
   Homepage: https://github.com/seenaburns/stag
 - Package: starship
-  Version: 1.20.1
+  Version: 1.20.1-1
   Description: A minimal, blazing fast, and extremely customizable prompt for any shell
   Homepage: https://starship.rs
 - Package: stdman

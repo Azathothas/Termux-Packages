@@ -11809,7 +11809,7 @@
   },
   {
     "Package": "pueue",
-    "Version": "3.4.1",
+    "Version": "3.4.1-1",
     "Description": "A command-line task management tool for sequential and parallel execution of long-running tasks",
     "Homepage": "https://github.com/Nukesor/pueue"
   },
@@ -13573,7 +13573,7 @@
   },
   {
     "Package": "starship",
-    "Version": "1.20.1",
+    "Version": "1.20.1-1",
     "Description": "A minimal, blazing fast, and extremely customizable prompt for any shell",
     "Homepage": "https://starship.rs"
   },
