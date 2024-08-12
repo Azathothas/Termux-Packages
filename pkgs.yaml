@@ -747,11 +747,11 @@
   Description: Data interchange format and capability-based RPC system
   Homepage: https://capnproto.org/
 - Package: capstone
-  Version: 5.0.1
+  Version: 5.0.2
   Description: Lightweight multi-platform, multi-architecture disassembly framework
   Homepage: https://www.capstone-engine.org/
 - Package: capstone-static
-  Version: 5.0.1
+  Version: 5.0.2
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: cargo-c
@@ -4831,7 +4831,7 @@
   Description: Static libraries for libopencore-amr
   Homepage: https://sourceforge.net/projects/opencore-amr
 - Package: libopenfec
-  Version: 1.4.2.10
+  Version: 1.4.2.11
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
@@ -5683,7 +5683,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.15.2a-1
+  Version: 8.15.3
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvips-static

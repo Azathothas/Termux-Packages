@@ -197,8 +197,8 @@
 | **calcurse** | 4.8.1 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.1 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
 | **capnproto** | 1.0.2 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
-| **capstone** | 5.0.1 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
-| **capstone-static** | 5.0.1 | Static libraries for capstone | https://www.capstone-engine.org/ |
+| **capstone** | 5.0.2 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
+| **capstone-static** | 5.0.2 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **cargo-c** | 0.10.3 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **catdoc** | 0.95 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
@@ -1218,7 +1218,7 @@
 | **libopencc** | 1.1.9 | An opensource project for conversions between Traditional Chinese, Simplified Chinese and Japanese Kanji (Shinjitai) | https://github.com/BYVoid/OpenCC |
 | **libopencore-amr** | 0.1.6 | Open source implementation of the Adaptive Multi Rate (AMR) speech codec | https://sourceforge.net/projects/opencore-amr |
 | **libopencore-amr-static** | 0.1.6 | Static libraries for libopencore-amr | https://sourceforge.net/projects/opencore-amr |
-| **libopenfec** | 1.4.2.10 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
+| **libopenfec** | 1.4.2.11 | Application-Level Forward Erasure Correction implementation library | http://openfec.org |
 | **libopenmpt** | 0.7.9 | OpenMPT based module player library and libopenmpt based command-line player | https://lib.openmpt.org/libopenmpt/ |
 | **libopenmpt-static** | 0.7.9 | Static libraries for libopenmpt | https://lib.openmpt.org/libopenmpt/ |
 | **libopus** | 1.5.2 | Reference implementation of the Opus codec | https://www.opus-codec.org/ |
@@ -1431,7 +1431,7 @@
 | **libvbisam-static** | 2.0-2 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-1 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.11.2 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.15.2a-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.15.3 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvips-static** | 8.13.3-3 | Static libraries for libvips | https://libvips.github.io/libvips/ |
 | **libvmaf** | 3.0.0 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
 | **libvmaf-static** | 3.0.0 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
