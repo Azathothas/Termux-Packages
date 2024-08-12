@@ -150,8 +150,8 @@
 | **boost-static** | 1.83.0-1 | Static libraries for boost | https://boost.org |
 | **bore** | 0.5.1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
 | **borgbackup** | 1.4.0-1 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
-| **botan3** | 3.4.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
-| **botan3-static** | 3.4.0 | Static libraries for botan3 | https://botan.randombit.net/ |
+| **botan3** | 3.5.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
+| **botan3-static** | 3.5.0 | Static libraries for botan3 | https://botan.randombit.net/ |
 | **boxes** | 2.3.0 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
 | **brainfuck** | 1:2.7.3 | Brainfuck Interpreter written in C | https://github.com/fabianishere/brainfuck |
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
@@ -215,8 +215,8 @@
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
 | **chezmoi** | 2.52.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
-| **chicken** | 5.3.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
-| **chicken-static** | 5.3.0 | Static libraries for chicken | https://www.call-cc.org |
+| **chicken** | 5.4.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
+| **chicken-static** | 5.4.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.4 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
 | **chromaprint** | 1.5.1-p20221217-1 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
 | **chrony** | 4.5-3 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
@@ -318,7 +318,7 @@
 | **diffutils** | 3.10 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-4 | Web Directory Fuzzer | http://dirb.sourceforge.net/ |
 | **direnv** | 2.34.0 | Environment switcher for shell | https://github.com/direnv/direnv |
-| **direvent** | 5.3 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
+| **direvent** | 5.4 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
 | **discordo** | 2022.08.12-3 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayntgl/discordo |
 | **diskus** | 0.7.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
 | **distant** | 1:0.20.0 | Library and tooling that supports remote filesystem and process | https://github.com/chipsenkbeil/distant |
@@ -675,7 +675,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.131.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.132.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |

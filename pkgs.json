@@ -913,13 +913,13 @@
   },
   {
     "Package": "botan3",
-    "Version": "3.4.0",
+    "Version": "3.5.0",
     "Description": "Crypto and TLS for Modern C++",
     "Homepage": "https://botan.randombit.net/"
   },
   {
     "Package": "botan3-static",
-    "Version": "3.4.0",
+    "Version": "3.5.0",
     "Description": "Static libraries for botan3",
     "Homepage": "https://botan.randombit.net/"
   },
@@ -1303,13 +1303,13 @@
   },
   {
     "Package": "chicken",
-    "Version": "5.3.0",
+    "Version": "5.4.0",
     "Description": "A feature rich Scheme compiler and interpreter",
     "Homepage": "https://www.call-cc.org"
   },
   {
     "Package": "chicken-static",
-    "Version": "5.3.0",
+    "Version": "5.4.0",
     "Description": "Static libraries for chicken",
     "Homepage": "https://www.call-cc.org"
   },
@@ -1921,7 +1921,7 @@
   },
   {
     "Package": "direvent",
-    "Version": "5.3",
+    "Version": "5.4",
     "Description": "Monitor of events in file system directories",
     "Homepage": "https://www.gnu.org.ua/software/direvent/"
   },
@@ -4063,7 +4063,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.131.0",
+    "Version": "0.132.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
