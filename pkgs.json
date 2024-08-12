@@ -9643,7 +9643,7 @@
   },
   {
     "Package": "mcfly",
-    "Version": "0.9.1",
+    "Version": "0.9.2",
     "Description": "Replaces your default ctrl-r shell history search with an intelligent search engine",
     "Homepage": "https://github.com/cantino/mcfly"
   },
@@ -12811,7 +12811,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240805",
+    "Version": "20240812",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
@@ -14287,7 +14287,7 @@
   },
   {
     "Package": "toml11",
-    "Version": "4.1.0",
+    "Version": "4.2.0",
     "Description": "toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library",
     "Homepage": "https://github.com/ToruNiina/toml11"
   },

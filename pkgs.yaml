@@ -6427,7 +6427,7 @@
   Description: Midnight Commander - a powerful file manager
   Homepage: https://www.midnight-commander.org/
 - Package: mcfly
-  Version: 0.9.1
+  Version: 0.9.2
   Description: Replaces your default ctrl-r shell history search with an intelligent search engine
   Homepage: https://github.com/cantino/mcfly
 - Package: mdbook
@@ -8539,7 +8539,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240805"
+  Version: "20240812"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -9523,7 +9523,7 @@
   Description: An open world roguelike adventure set in middle earth
   Homepage: https://github.com/tome2/tome2
 - Package: toml11
-  Version: 4.1.0
+  Version: 4.2.0
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
