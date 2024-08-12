@@ -453,7 +453,7 @@
  fontconfig-static  2.15.0  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.15.0  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  forestdb-dump  1.2  ForestDB dump tool  https://github.com/couchbase/forestdb 
- forgejo  8.0.0  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
+ forgejo  8.0.1  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
  fortune  1.2-1  Revealer of fortunes  https://www.fefe.de/fortune/ 
  fossil  2.24  DSCM with built-in wiki, http interface and server, tickets database  https://www.fossil-scm.org 
  freecolor  0.9.3  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
@@ -607,8 +607,8 @@
  graphene  1.10.8-1  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
  graphicsmagick  1.3.43-2  Collection of image processing tools  http://www.graphicsmagick.org/ 
  graphicsmagick-static  1.3.43-2  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
- graphviz  12.0.0  Rich set of graph drawing tools  https://www.graphviz.org/ 
- graphviz-static  12.0.0  Static libraries for graphviz  https://www.graphviz.org/ 
+ graphviz  12.1.0  Rich set of graph drawing tools  https://www.graphviz.org/ 
+ graphviz-static  12.1.0  Static libraries for graphviz  https://www.graphviz.org/ 
  greed  4.3  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
  grep  3.11  Command which searches one or more input files for lines containing a match to a specified pattern  https://www.gnu.org/software/grep/ 
  grex  1.4.5  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 

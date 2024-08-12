@@ -2731,7 +2731,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "8.0.0",
+    "Version": "8.0.1",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -3655,13 +3655,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "12.0.0",
+    "Version": "12.1.0",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "12.0.0",
+    "Version": "12.1.0",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
