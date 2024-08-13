@@ -1935,11 +1935,11 @@
   Description: A high performance http, ftp and smb server
   Homepage: https://www.fefe.de/gatling/
 - Package: gauche
-  Version: 0.9.12-4
+  Version: 0.9.12-5
   Description: An R7RS Scheme implementation developed to be a handy script interpreter
   Homepage: https://practical-scheme.net/gauche/
 - Package: gauche-static
-  Version: 0.9.12-4
+  Version: 0.9.12-5
   Description: Static libraries for gauche
   Homepage: https://practical-scheme.net/gauche/
 - Package: gawk
@@ -1971,11 +1971,11 @@
   Description: The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdbm
-  Version: "1.23"
+  Version: "1.24"
   Description: Library of database functions that use extensible hashing
   Homepage: https://www.gnu.org.ua/software/gdbm/
 - Package: gdbm-static
-  Version: "1.23"
+  Version: "1.24"
   Description: Static libraries for gdbm
   Homepage: https://www.gnu.org.ua/software/gdbm/
 - Package: gdbserver
@@ -2031,11 +2031,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.14.7
+  Version: 1.14.8
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.14.7
+  Version: 1.14.8
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -6807,7 +6807,7 @@
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
-  Version: 2.2.13
+  Version: 2.2.13-1
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: myman
@@ -6951,7 +6951,7 @@
   Description: Simple system information script
   Homepage: https://github.com/dylanaraps/neofetch
 - Package: neomutt
-  Version: "20240425"
+  Version: 20240425-1
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
@@ -7047,7 +7047,7 @@
   Description: Feature-packed networking utility which reads and writes data across networks from the command line
   Homepage: https://nmap.org/
 - Package: nmh
-  Version: "1.8"
+  Version: 1.8-1
   Description: Powerful electronic mail handling system
   Homepage: http://www.nongnu.org/nmh/
 - Package: nmon
@@ -7911,15 +7911,15 @@
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.readthedocs.io/
 - Package: pypy
-  Version: 7.3.15-1
+  Version: 7.3.15-2
   Description: A fast, compliant alternative implementation of Python
   Homepage: https://pypy.org
 - Package: pypy-tests
-  Version: 7.3.15-1
+  Version: 7.3.15-2
   Description: Test files for PyPy
   Homepage: https://pypy.org
 - Package: pypy-tkinter
-  Version: 7.3.15-1
+  Version: 7.3.15-2
   Description: Tkinter support for PyPy
   Homepage: https://pypy.org
 - Package: pypy3
@@ -7939,7 +7939,7 @@
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
-  Version: 3.11.9-4
+  Version: 3.11.9-5
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
@@ -7963,7 +7963,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
-  Version: 3.11.9-4
+  Version: 3.11.9-5
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
@@ -8023,11 +8023,11 @@
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
-  Version: 3.11.9-4
+  Version: 3.11.9-5
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tkinter
-  Version: 3.11.9-4
+  Version: 3.11.9-5
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp
@@ -8059,11 +8059,11 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python2
-  Version: 2.7.18-13
+  Version: 2.7.18-14
   Description: Python 2 programming language intended to enable clear programs
   Homepage: http://python.org/
 - Package: python2-static
-  Version: 2.7.18-13
+  Version: 2.7.18-14
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
