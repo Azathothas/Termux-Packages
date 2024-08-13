@@ -2707,7 +2707,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.132.0
+  Version: 0.132.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3131,7 +3131,7 @@
   Description: High quality MPEG Audio Layer III (MP3) encoder - frontend
   Homepage: https://lame.sourceforge.io/
 - Package: lastpass-cli
-  Version: 1.5.0
+  Version: 1.6.0
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
@@ -6787,7 +6787,7 @@
   Description: Synchronize notmuch mail across machines
   Homepage: http://www.muchsync.org/
 - Package: multitail
-  Version: 7.1.4
+  Version: 7.1.5
   Description: Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
   Homepage: http://www.vanheusden.com/multitail/
 - Package: mupdf
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.6.2
+  Version: 23.6.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7923,15 +7923,15 @@
   Description: Tkinter support for PyPy
   Homepage: https://pypy.org
 - Package: pypy3
-  Version: 7.3.15
+  Version: 7.3.15-2
   Description: A fast, compliant alternative implementation of Python 3
   Homepage: https://pypy.org
 - Package: pypy3-tests
-  Version: 7.3.15
+  Version: 7.3.15-2
   Description: Test files for PyPy 3
   Homepage: https://pypy.org
 - Package: pypy3-tkinter
-  Version: 7.3.15
+  Version: 7.3.15-2
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pystring

@@ -675,7 +675,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.132.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.132.1 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -781,7 +781,7 @@
 | **kubelogin** | 1.28.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-5 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
-| **lastpass-cli** | 1.5.0 | LastPass command line interface tool | https://lastpass.com/ |
+| **lastpass-cli** | 1.6.0 | LastPass command line interface tool | https://lastpass.com/ |
 | **lazygit** | 0.43.1 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lazyread** | 2.0-1 | An auto-scroller, pager, and e-book reader all in one | http://lazyread.sourceforge.net/ |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
@@ -1695,7 +1695,7 @@
 | **mtools** | 4.0.43 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.12.6 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
-| **multitail** | 7.1.4 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
+| **multitail** | 7.1.5 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
 | **mupdf** | 1.24.8 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
 | **mupdf-static** | 1.24.8 | Static libraries for mupdf | https://mupdf.com/ |
 | **mupdf-tools** | 1.24.8 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
@@ -1790,7 +1790,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 23.6.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 23.6.3 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1-1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -1979,9 +1979,9 @@
 | **pypy** | 7.3.15-2 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.15-2 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 7.3.15-2 | Tkinter support for PyPy | https://pypy.org |
-| **pypy3** | 7.3.15 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
-| **pypy3-tests** | 7.3.15 | Test files for PyPy 3 | https://pypy.org |
-| **pypy3-tkinter** | 7.3.15 | Tkinter support for PyPy 3 | https://pypy.org |
+| **pypy3** | 7.3.15-2 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
+| **pypy3-tests** | 7.3.15-2 | Test files for PyPy 3 | https://pypy.org |
+| **pypy3-tkinter** | 7.3.15-2 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.11.9-5 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.46.0.1 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
