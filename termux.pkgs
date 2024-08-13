@@ -289,8 +289,8 @@
 | **cvs** | 1:1.12.13-3 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
 | **d8** | 33.0.1 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
 | **daemonize** | 1.7.8-2 | Run a command as a Unix daemon | http://software.clapper.org/daemonize/ |
-| **dar** | 2.7.15 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
-| **dar-static** | 2.7.15 | Static libraries for dar | http://dar.linux.free.fr/ |
+| **dar** | 2.7.15-1 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
+| **dar-static** | 2.7.15-1 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.16 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.4.4 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 2.8.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
@@ -490,10 +490,10 @@
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
 | **gdal** | 3.9.1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdal-static** | 3.5.3 | Static libraries for gdal | https://gdal.org |
-| **gdb** | 14.2-1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
+| **gdb** | 15.1 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.24 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.24 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
-| **gdbserver** | 14.2-1 | The gdbserver program | https://www.gnu.org/software/gdb/ |
+| **gdbserver** | 15.1 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.42.12 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
 | **gdu** | 5.29.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
@@ -562,9 +562,9 @@
 | **gnucobol-static** | 3.1.2-3 | Static libraries for gnucobol | https://gnucobol.sourceforge.io/ |
 | **gnugo** | 3.8-5 | Program that plays the game of Go | https://www.gnu.org/software/gnugo/ |
 | **gnuit** | 4.9.5 | gnuit - GNU Interactive Tools | https://www.gnu.org/software/gnuit/ |
-| **gnunet** | 0.19.4-1 | A framework for secure peer-to-peer networking | https://gnunet.org |
-| **gnunet-static** | 0.19.4-1 | Static libraries for gnunet | https://gnunet.org |
-| **gnupg** | 2.4.5-1 | Implementation of the OpenPGP standard for encrypting and signing data and communication | https://www.gnupg.org/ |
+| **gnunet** | 0.19.4-2 | A framework for secure peer-to-peer networking | https://gnunet.org |
+| **gnunet-static** | 0.19.4-2 | Static libraries for gnunet | https://gnunet.org |
+| **gnupg** | 2.4.5-2 | Implementation of the OpenPGP standard for encrypting and signing data and communication | https://www.gnupg.org/ |
 | **gnuplot** | 6.0.1 | Command-line driven graphing utility | http://gnuplot.info/ |
 | **gnurl** | 7.72.0 | Fork of libcurl, which is mostly for GNUnet | https://gnunet.org/en/gnurl.html |
 | **gnurl-static** | 7.72.0 | Static libraries for gnurl | https://gnunet.org/en/gnurl.html |
@@ -595,11 +595,11 @@
 | **gpac** | 2.2.1-3 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
 | **gpac-static** | 2.2.1-3 | Static libraries for gpac | https://gpac.wp.imt.fr/ |
 | **gperf** | 3.1-7 | A perfect hash function generator | https://www.gnu.org/software/gperf |
-| **gpgme** | 1.23.2-1 | Library designed to make access to GnuPG easier | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgme-static** | 1.23.2-1 | Static libraries for gpgme | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgmepp** | 1.23.2-1 | Programmatic C++ library interface to GnuPG | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgmepp-static** | 1.23.2-1 | Static libraries for gpgmepp | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgv** | 2.4.5-1 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
+| **gpgme** | 1.23.2-2 | Library designed to make access to GnuPG easier | https://www.gnupg.org/related_software/gpgme/ |
+| **gpgme-static** | 1.23.2-2 | Static libraries for gpgme | https://www.gnupg.org/related_software/gpgme/ |
+| **gpgmepp** | 1.23.2-2 | Programmatic C++ library interface to GnuPG | https://www.gnupg.org/related_software/gpgme/ |
+| **gpgmepp-static** | 1.23.2-2 | Static libraries for gpgmepp | https://www.gnupg.org/related_software/gpgme/ |
+| **gpgv** | 2.4.5-2 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.17.3 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:8.9 | Powerful build system for the JVM | https://gradle.org/ |
@@ -842,8 +842,8 @@
 | **libasm-static** | 0.191 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libass** | 0.17.3 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
 | **libass-static** | 0.17.3 | Static libraries for libass | https://github.com/libass/libass |
-| **libassuan** | 2.5.7 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
-| **libassuan-static** | 2.5.7 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
+| **libassuan** | 2.5.7-1 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
+| **libassuan-static** | 2.5.7-1 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
 | **libatomic-ops** | 7.8.2 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/ivmai/libatomic_ops |
 | **libatomic-ops-static** | 7.8.2 | Static libraries for libatomic-ops | https://github.com/ivmai/libatomic_ops |
 | **libbcprov-java** | 1.78v1 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
@@ -979,8 +979,8 @@
 | **libftxui** | 5.0.0 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
 | **libgc** | 8.2.6 | Library providing the Boehm-Demers-Weiser conservative garbage collector | https://www.hboehm.info/gc/ |
 | **libgc-static** | 8.2.6 | Static libraries for libgc | https://www.hboehm.info/gc/ |
-| **libgcrypt** | 1.10.3-1 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
-| **libgcrypt-static** | 1.10.3-1 | Static libraries for libgcrypt | https://www.gnu.org/software/libgcrypt/ |
+| **libgcrypt** | 1.10.3-2 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
+| **libgcrypt-static** | 1.10.3-2 | Static libraries for libgcrypt | https://www.gnu.org/software/libgcrypt/ |
 | **libgd** | 1:2.3.3-4 | GD is an open source code library for the dynamic creation of images by programmers | https://libgd.github.io/ |
 | **libgd-static** | 1:2.3.3-4 | Static libraries for libgd | https://libgd.github.io/ |
 | **libgedit-gfls** | 0.1.0 | A module dedicated to file loading and saving | https://github.com/gedit-technology/libgedit-gfls |
@@ -1005,8 +1005,8 @@
 | **libgnustep-base** | 1.30.0 | A library of general-purpose, non-graphical Objective C objects | http://www.gnustep.org |
 | **libgnutls** | 3.8.5 | Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them | https://www.gnutls.org/ |
 | **libgnutls-static** | 3.8.5 | Static libraries for libgnutls | https://www.gnutls.org/ |
-| **libgpg-error** | 1.49 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
-| **libgpg-error-static** | 1.49 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
+| **libgpg-error** | 1.50 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
+| **libgpg-error-static** | 1.50 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
 | **libgrpc** | 1.65.4 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.1 | GNU SASL library | https://www.gnu.org/software/gsasl |
@@ -1074,8 +1074,8 @@
 | **libkiwix** | 13.1.0-1 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-1 | Knot DNS libraries | https://www.knot-dns.cz/ |
 | **libknot-static** | 3.2.4-1 | Static libraries for libknot | https://www.knot-dns.cz/ |
-| **libksba** | 1.6.7 | Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible | https://gnupg.org/related_software/libksba/ |
-| **libksba-static** | 1.6.7 | Static libraries for libksba | https://gnupg.org/related_software/libksba/ |
+| **libksba** | 1.6.7-1 | Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible | https://gnupg.org/related_software/libksba/ |
+| **libksba-static** | 1.6.7-1 | Static libraries for libksba | https://gnupg.org/related_software/libksba/ |
 | **liblightning** | 2.2.0 | A library to aid in making portable programs that compile assembly code at run time | https://www.gnu.org/software/lightning/ |
 | **liblightning-static** | 2.2.0 | Static libraries for liblightning | https://www.gnu.org/software/lightning/ |
 | **libliquid-dsp** | 1.6.0 | Software-defined radio digital signal processing library | https://liquidsdr.org/ |
@@ -1491,7 +1491,7 @@
 | **libxrender-static** | 0.9.11 | Static libraries for libxrender | https://xorg.freedesktop.org/ |
 | **libxshmfence** | 1.3.2-1 | A library that exposes a event API on top of Linux futexes | https://xorg.freedesktop.org/ |
 | **libxshmfence-static** | 1.3.2-1 | Static libraries for libxshmfence | https://xorg.freedesktop.org/ |
-| **libxslt** | 1.1.42 | XSLT processing library | http://xmlsoft.org/libxslt/ |
+| **libxslt** | 1.1.42-1 | XSLT processing library | http://xmlsoft.org/libxslt/ |
 | **libxslt-static** | 1.1.39 | Static libraries for libxslt | http://xmlsoft.org/libxslt/ |
 | **libxss** | 1.2.4 | X11 Screen Saver extension library | https://xorg.freedesktop.org/ |
 | **libxss-static** | 1.2.4 | Static libraries for libxss | https://xorg.freedesktop.org/ |
@@ -1881,7 +1881,7 @@
 | **pdf2djvu** | 0.9.19-5 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
 | **pdf2svg** | 0.2.3-11 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
 | **pdfcpu** | 0.8.0 | A PDF processor written in Go | https://pdfcpu.io |
-| **pdfgrep** | 2.2.0-2 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
+| **pdfgrep** | 2.2.0-3 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-1 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-5 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
@@ -1911,7 +1911,7 @@
 | **pick** | 4.0.0-2 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
 | **picocom** | 2018.04.12 | A minimal dumb-terminal emulation program | https://github.com/npat-efault/picocom |
 | **pigz** | 2.8 | Parallel implementation of the gzip file compressor | https://www.zlib.net/pigz |
-| **pinentry** | 1.3.0 | Dialog allowing secure password entry | https://www.gnupg.org/related_software/pinentry/index.html |
+| **pinentry** | 1.3.0-1 | Dialog allowing secure password entry | https://www.gnupg.org/related_software/pinentry/index.html |
 | **pingme** | 0.2.6-3 | A small utility which can be called from anywhere to send a message with particular information | https://github.com/kha7iq/pingme |
 | **pipebuffer** | 0.0.git20211120 | Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline) | https://github.com/tfenne/pipebuffer |
 | **pipes.sh** | 2018.04.22 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
@@ -1952,7 +1952,7 @@
 | **procps-static** | 3.3.17-5 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
 | **procs** | 0.14.6 | A modern replacement for ps | https://github.com/dalance/procs |
 | **procyon-decompiler** | 0.6.0-1 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
-| **profanity** | 0.14.0 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
+| **profanity** | 0.14.0-1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.4.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
@@ -2160,7 +2160,7 @@
 | **scala** | 3.4.2 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.3.5 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.8.1 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
-| **scdaemon** | 2.4.5-1 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
+| **scdaemon** | 2.4.5-2 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.3 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
 | **screen** | 4.9.1 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
 | **screenfetch** | 3.9.1-1 | Bash Screenshot Information Tool | https://github.com/KittyKatt/screenFetch |
@@ -2501,8 +2501,8 @@
 | **vitetris** | 0.59.1-2 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.5.0 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.10.1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
-| **vlc** | 3.0.21 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
-| **vlc-static** | 3.0.21 | Static libraries for vlc | https://www.videolan.org/ |
+| **vlc** | 3.0.21-1 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
+| **vlc-static** | 3.0.21-1 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 0.9.99.04 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
@@ -2577,7 +2577,7 @@
 | **xorgproto** | 2024.1 | X.Org X11 Protocol headers | https://xorg.freedesktop.org/ |
 | **xorriso** | 1:1.5.7-2 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
 | **xpup** | 2021.12.26-3 | pup for XML | https://github.com/ericchiang/xpup |
-| **xsltproc** | 1.1.42 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
+| **xsltproc** | 1.1.42-1 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
 | **xtrans** | 1.5.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |

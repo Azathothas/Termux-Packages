@@ -1747,13 +1747,13 @@
   },
   {
     "Package": "dar",
-    "Version": "2.7.15",
+    "Version": "2.7.15-1",
     "Description": "A full featured command-line backup tool, short for Disk ARchive",
     "Homepage": "http://dar.linux.free.fr/"
   },
   {
     "Package": "dar-static",
-    "Version": "2.7.15",
+    "Version": "2.7.15-1",
     "Description": "Static libraries for dar",
     "Homepage": "http://dar.linux.free.fr/"
   },
@@ -2953,7 +2953,7 @@
   },
   {
     "Package": "gdb",
-    "Version": "14.2-1",
+    "Version": "15.1",
     "Description": "The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "Package": "gdbserver",
-    "Version": "14.2-1",
+    "Version": "15.1",
     "Description": "The gdbserver program",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -3385,19 +3385,19 @@
   },
   {
     "Package": "gnunet",
-    "Version": "0.19.4-1",
+    "Version": "0.19.4-2",
     "Description": "A framework for secure peer-to-peer networking",
     "Homepage": "https://gnunet.org"
   },
   {
     "Package": "gnunet-static",
-    "Version": "0.19.4-1",
+    "Version": "0.19.4-2",
     "Description": "Static libraries for gnunet",
     "Homepage": "https://gnunet.org"
   },
   {
     "Package": "gnupg",
-    "Version": "2.4.5-1",
+    "Version": "2.4.5-2",
     "Description": "Implementation of the OpenPGP standard for encrypting and signing data and communication",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -3583,31 +3583,31 @@
   },
   {
     "Package": "gpgme",
-    "Version": "1.23.2-1",
+    "Version": "1.23.2-2",
     "Description": "Library designed to make access to GnuPG easier",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgme-static",
-    "Version": "1.23.2-1",
+    "Version": "1.23.2-2",
     "Description": "Static libraries for gpgme",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgmepp",
-    "Version": "1.23.2-1",
+    "Version": "1.23.2-2",
     "Description": "Programmatic C++ library interface to GnuPG",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgmepp-static",
-    "Version": "1.23.2-1",
+    "Version": "1.23.2-2",
     "Description": "Static libraries for gpgmepp",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgv",
-    "Version": "2.4.5-1",
+    "Version": "2.4.5-2",
     "Description": "GNU privacy guard - signature verification tool",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -5065,13 +5065,13 @@
   },
   {
     "Package": "libassuan",
-    "Version": "2.5.7",
+    "Version": "2.5.7-1",
     "Description": "Library implementing the Assuan IPC protocol used between most newer GnuPG components",
     "Homepage": "https://www.gnupg.org/related_software/libassuan/"
   },
   {
     "Package": "libassuan-static",
-    "Version": "2.5.7",
+    "Version": "2.5.7-1",
     "Description": "Static libraries for libassuan",
     "Homepage": "https://www.gnupg.org/related_software/libassuan/"
   },
@@ -5887,13 +5887,13 @@
   },
   {
     "Package": "libgcrypt",
-    "Version": "1.10.3-1",
+    "Version": "1.10.3-2",
     "Description": "General purpose cryptographic library based on the code from GnuPG",
     "Homepage": "https://www.gnu.org/software/libgcrypt/"
   },
   {
     "Package": "libgcrypt-static",
-    "Version": "1.10.3-1",
+    "Version": "1.10.3-2",
     "Description": "Static libraries for libgcrypt",
     "Homepage": "https://www.gnu.org/software/libgcrypt/"
   },
@@ -6043,13 +6043,13 @@
   },
   {
     "Package": "libgpg-error",
-    "Version": "1.49",
+    "Version": "1.50",
     "Description": "Small library that defines common error values for all GnuPG components",
     "Homepage": "https://www.gnupg.org/related_software/libgpg-error/"
   },
   {
     "Package": "libgpg-error-static",
-    "Version": "1.49",
+    "Version": "1.50",
     "Description": "Static libraries for libgpg-error",
     "Homepage": "https://www.gnupg.org/related_software/libgpg-error/"
   },
@@ -6457,13 +6457,13 @@
   },
   {
     "Package": "libksba",
-    "Version": "1.6.7",
+    "Version": "1.6.7-1",
     "Description": "Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible",
     "Homepage": "https://gnupg.org/related_software/libksba/"
   },
   {
     "Package": "libksba-static",
-    "Version": "1.6.7",
+    "Version": "1.6.7-1",
     "Description": "Static libraries for libksba",
     "Homepage": "https://gnupg.org/related_software/libksba/"
   },
@@ -8959,7 +8959,7 @@
   },
   {
     "Package": "libxslt",
-    "Version": "1.1.42",
+    "Version": "1.1.42-1",
     "Description": "XSLT processing library",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
@@ -11299,7 +11299,7 @@
   },
   {
     "Package": "pdfgrep",
-    "Version": "2.2.0-2",
+    "Version": "2.2.0-3",
     "Description": "Command line utility to search text in PDF files",
     "Homepage": "https://pdfgrep.org/"
   },
@@ -11479,7 +11479,7 @@
   },
   {
     "Package": "pinentry",
-    "Version": "1.3.0",
+    "Version": "1.3.0-1",
     "Description": "Dialog allowing secure password entry",
     "Homepage": "https://www.gnupg.org/related_software/pinentry/index.html"
   },
@@ -11725,7 +11725,7 @@
   },
   {
     "Package": "profanity",
-    "Version": "0.14.0",
+    "Version": "0.14.0-1",
     "Description": "Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi",
     "Homepage": "https://profanity-im.github.io"
   },
@@ -12973,7 +12973,7 @@
   },
   {
     "Package": "scdaemon",
-    "Version": "2.4.5-1",
+    "Version": "2.4.5-2",
     "Description": "Daemon invoked by gpg to manage smartcards",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -15019,13 +15019,13 @@
   },
   {
     "Package": "vlc",
-    "Version": "3.0.21",
+    "Version": "3.0.21-1",
     "Description": "A popular libre and open source media player and multimedia engine",
     "Homepage": "https://www.videolan.org/"
   },
   {
     "Package": "vlc-static",
-    "Version": "3.0.21",
+    "Version": "3.0.21-1",
     "Description": "Static libraries for vlc",
     "Homepage": "https://www.videolan.org/"
   },
@@ -15475,7 +15475,7 @@
   },
   {
     "Package": "xsltproc",
-    "Version": "1.1.42",
+    "Version": "1.1.42-1",
     "Description": "XSLT command line processor",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
