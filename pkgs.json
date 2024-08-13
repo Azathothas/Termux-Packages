@@ -2767,13 +2767,13 @@
   },
   {
     "Package": "freetype",
-    "Version": "2.13.2",
+    "Version": "2.13.3",
     "Description": "Software font engine capable of producing high-quality output",
     "Homepage": "https://www.freetype.org"
   },
   {
     "Package": "freetype-static",
-    "Version": "2.13.2",
+    "Version": "2.13.3",
     "Description": "Static libraries for freetype",
     "Homepage": "https://www.freetype.org"
   },
@@ -10225,7 +10225,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "17.0.0",
+    "Version": "17.0.1",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -11563,7 +11563,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.22.18",
+    "Version": "0.22.19",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -14545,7 +14545,7 @@
   },
   {
     "Package": "ttyper",
-    "Version": "1.5.0",
+    "Version": "1.6.0",
     "Description": "Terminal-based typing test",
     "Homepage": "https://github.com/max-niederman/ttyper"
   },

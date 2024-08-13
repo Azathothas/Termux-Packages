@@ -459,8 +459,8 @@
  freecolor  0.9.3  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
  freeimage  3.18.0-6  The library project for developers who would like to support popular graphics image formats  https://freeimage.sourceforge.io 
  freeimage-static  3.18.0-6  Static libraries for freeimage  https://freeimage.sourceforge.io 
- freetype  2.13.2  Software font engine capable of producing high-quality output  https://www.freetype.org 
- freetype-static  2.13.2  Static libraries for freetype  https://www.freetype.org 
+ freetype  2.13.3  Software font engine capable of producing high-quality output  https://www.freetype.org 
+ freetype-static  2.13.3  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.3.3  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
  fribidi  1.0.15  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.15  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
@@ -1702,7 +1702,7 @@
  music-file-organizer  1.0.4-3  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
  mutt  2.2.13  Mail client with patches from neomutt  http://www.mutt.org/ 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
- mympd  17.0.0  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
+ mympd  17.0.1  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
  mypaint-brushes  2.0.2  MyPaint brushes  https://github.com/mypaint/mypaint-brushes 
  myrepos  1.20180726-4  Tool to manage all your version control repos  https://myrepos.branchable.com/ 
  n-t-roff-sc  7.16-1.1.2-0  A vi-like spreadsheet calculator  https://github.com/n-t-roff/sc 
@@ -1925,7 +1925,7 @@
  plzip  1.11  A massively parallel lossless data compressor based on the lzlib compression library  http://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-1  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3  PNG image optimising utility  https://pngquant.org 
- pocketbase  0.22.18  An open source Go backend  https://github.com/pocketbase/pocketbase 
+ pocketbase  0.22.19  An open source Go backend  https://github.com/pocketbase/pocketbase 
  poke  4.2  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
  poke-static  4.2  Static libraries for poke  http://www.jemarch.net/poke.html 
  polipo  1.1.1  A small and fast caching web proxy  http://www.pps.jussieu.fr/~jch/software/polipo/ 
@@ -2422,7 +2422,7 @@
  tty-solitaire  1.3.1  Klondike solitaire game  https://github.com/mpereira/tty-solitaire 
  ttyc  0.4-3  ttyd protocol client  https://github.com/Depau/ttyc 
  ttyd  1.7.7  Command-line tool for sharing terminal over the web  https://tsl0922.github.io/ttyd/ 
- ttyper  1.5.0  Terminal-based typing test  https://github.com/max-niederman/ttyper 
+ ttyper  1.6.0  Terminal-based typing test  https://github.com/max-niederman/ttyper 
  ttyplot  1.7.0  A realtime plotting utility for terminal with data input from stdin  https://github.com/tenox7/ttyplot 
  ttyrec  1.0.8-7  Terminal recorder and player  http://0xcc.net/ttyrec/ 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
