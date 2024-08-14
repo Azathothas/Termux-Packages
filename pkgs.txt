@@ -388,8 +388,8 @@
  emscripten-llvm  3.1.64-1  Emscripten-compatible LLVM  https://emscripten.org 
  emscripten-tests-third-party  3.1.64-1  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-4  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
- enchant  2.8.1  Wraps a number of different spelling libraries and programs with a consistent interface  https://abiword.github.io/enchant/ 
- enchant-static  2.8.1  Static libraries for enchant  https://abiword.github.io/enchant/ 
+ enchant  2.8.2  Wraps a number of different spelling libraries and programs with a consistent interface  https://abiword.github.io/enchant/ 
+ enchant-static  2.8.2  Static libraries for enchant  https://abiword.github.io/enchant/ 
  enscript  1.6.6-12  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
  entr  5.6  Event Notify Test Runner - run arbitrary commands when files change  http://eradman.com/entrproject/ 
  erlang  27.0.1  General-purpose concurrent functional programming language  https://www.erlang.org/ 
@@ -2056,7 +2056,7 @@
  rage  0.10.0  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  3.11.4  This is the command line interface for Railway  https://railway.app 
+ railway-cli  3.12.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.3-6  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-4  fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2496,7 +2496,7 @@
  vim  9.1.0500  Vi IMproved - enhanced vi editor  https://www.vim.org 
  vim-python  9.1.0500  Vi IMproved - enhanced vi editor - with python support  https://www.vim.org 
  vim-runtime  9.1.0500  Vi IMproved - Runtime files  https://www.vim.org 
- virustotal-cli  1.0.0  Command line interface for VirusTotal  https://github.com/VirusTotal/vt-cli 
+ virustotal-cli  1.0.1  Command line interface for VirusTotal  https://github.com/VirusTotal/vt-cli 
  vis  0.9-2  Modern, legacy free, simple yet efficient vim-like editor  https://www.brain-dump.org/projects/vis/ 
  vitetris  0.59.1-2  Virtual terminal tris clone  http://victornils.net/tetris/ 
  viu  1.5.0  Terminal image viewer with native support for iTerm and Kitty  https://github.com/atanunq/viu 
