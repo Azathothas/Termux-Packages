@@ -2061,8 +2061,8 @@
 | **quick-lint-js** | 3.2.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20240113 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.68 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
-| **racket** | 8.13 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
-| **racket-static** | 8.13 | Static libraries for racket | https://racket-lang.org |
+| **racket** | 8.14 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
+| **racket-static** | 8.14 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 5.9.4 | Advanced Hexadecimal Editor | https://rada.re |
 | **radare2-static** | 5.7.8 | Static libraries for radare2 | https://rada.re |
 | **rage** | 0.10.0 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
