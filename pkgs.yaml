@@ -1531,7 +1531,7 @@
   Description: Interactive shell for TCL programming language
   Homepage: https://homepages.laas.fr/mallet/soft/shell/eltclsh
 - Package: elvish
-  Version: 0.20.1
+  Version: 0.21.0
   Description: A friendly and expressive Unix shell
   Homepage: https://github.com/elves/elvish
 - Package: emacs
@@ -2415,7 +2415,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: "1:8.9"
+  Version: "1:8.10"
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -2599,7 +2599,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 3.15.3
+  Version: 3.15.4
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -2707,7 +2707,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.132.1
+  Version: 0.132.2
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -2955,7 +2955,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.63.0
+  Version: 2.63.1
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -8231,7 +8231,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 3.12.0
+  Version: 3.12.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

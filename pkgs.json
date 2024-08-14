@@ -2299,7 +2299,7 @@
   },
   {
     "Package": "elvish",
-    "Version": "0.20.1",
+    "Version": "0.21.0",
     "Description": "A friendly and expressive Unix shell",
     "Homepage": "https://github.com/elves/elvish"
   },
@@ -3625,7 +3625,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:8.9",
+    "Version": "1:8.10",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -3901,7 +3901,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.15.3",
+    "Version": "3.15.4",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -4063,7 +4063,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.132.1",
+    "Version": "0.132.2",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4435,7 +4435,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.63.0",
+    "Version": "2.63.1",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -12349,7 +12349,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.12.0",
+    "Version": "3.12.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
