@@ -19,7 +19,7 @@
   Description: Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa
   Homepage: https://github.com/wojtekka/6tunnel
 - Package: 7zip
-  Version: "24.07"
+  Version: "24.08"
   Description: 7-Zip file archiver with a high compression ratio
   Homepage: https://www.7-zip.org
 - Package: 8086tiny
@@ -1671,7 +1671,7 @@
   Description: Efficient Duplicate File Finder
   Homepage: https://github.com/pkolaczk/fclones
 - Package: fcp
-  Version: 0.2.1
+  Version: 0.2.1-1
   Description: A significantly faster alternative to the classic Unix cp(1) command
   Homepage: https://github.com/Svetlitski/fcp
 - Package: fd
@@ -3059,7 +3059,7 @@
   Description: Mustache implementation for modern C++
   Homepage: https://github.com/kainjow/Mustache
 - Package: kak-lsp
-  Version: 17.1.1
+  Version: 17.1.1-1
   Description: Language Server Protocol Client for the Kakoune editor
   Homepage: https://github.com/kak-lsp/kak-lsp
 - Package: kakoune
@@ -6323,7 +6323,7 @@
   Description: Traditional Unix macro processor
   Homepage: https://www.gnu.org/software/m4/m4.html
 - Package: magic-wormhole-rs
-  Version: 0.6.1
+  Version: 0.7.1
   Description: Rust implementation of Magic Wormhole, with new features and enhancements
   Homepage: https://github.com/magic-wormhole/magic-wormhole.rs
 - Package: mailsync
