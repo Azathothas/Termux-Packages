@@ -9985,7 +9985,7 @@
   },
   {
     "Package": "monero",
-    "Version": "0.18.3.3-1",
+    "Version": "0.18.3.4",
     "Description": "A private, secure, untraceable, decentralised digital currency",
     "Homepage": "https://getmonero.org/"
   },
@@ -10513,7 +10513,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.27.0",
+    "Version": "1.27.1",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
@@ -12349,7 +12349,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.12.1",
+    "Version": "3.12.2",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13753,7 +13753,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.8",
+    "Version": "9.3.9",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
@@ -15043,7 +15043,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.04",
+    "Version": "0.9.99.05",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
