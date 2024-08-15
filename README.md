@@ -421,7 +421,7 @@
 | **fakeroot** | 1.35.1 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.35.1 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.21.2 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.21.3 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.74.6 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -1450,7 +1450,7 @@
 | **libwayland-protocols** | 1.36 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.4.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebp-static** | 1.4.0-rc1-0 | Static libraries for libwebp | https://github.com/webmproject/libwebp |
-| **libwebrtc-audio-processing** | 0.3.1-2 | A library containing the AudioProcessing module from the WebRTC project | https://freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
+| **libwebrtc-audio-processing** | 1.3 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebrtc-audio-processing-static** | 0.3.1-2 | Static libraries for libwebrtc-audio-processing | https://freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebsockets** | 4.3.3 | Lightweight C websockets library | https://libwebsockets.org |
 | **libwolfssl** | 5.7.2 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
@@ -1601,8 +1601,8 @@
 | **mangal** | 4.0.6-2 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manpages** | 6.9.1 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.0.1-4 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
-| **mariadb** | 2:11.4.3 | A drop-in replacement for mysql server | https://mariadb.org |
-| **mariadb-static** | 2:11.4.3 | Static libraries for mariadb | https://mariadb.org |
+| **mariadb** | 2:11.5.2 | A drop-in replacement for mysql server | https://mariadb.org |
+| **mariadb-static** | 2:11.5.2 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.2.6-1 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
 | **marisa-static** | 0.2.6-1 | Static libraries for marisa | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.0-2 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
@@ -1927,7 +1927,7 @@
 | **pingme** | 0.2.6-3 | A small utility which can be called from anywhere to send a message with particular information | https://github.com/kha7iq/pingme |
 | **pipebuffer** | 0.0.git20211120 | Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline) | https://github.com/tfenne/pipebuffer |
 | **pipes.sh** | 2018.04.22 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
-| **pipewire** | 1.2.0 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
+| **pipewire** | 1.2.0-1 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 21 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
@@ -2180,8 +2180,8 @@
 | **scrypt** | 1.3.2-3 | scrypt KDF library and file encryption tool | https://www.tarsnap.com/scrypt.html |
 | **sd** | 1.0.0-1 | An intuitive find & replace CLI | https://github.com/chmln/sd |
 | **sdcv** | 0.5.5 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
-| **seafile-client** | 9.0.7 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
-| **seafile-client-static** | 9.0.7 | Static libraries for seafile-client | https://seafile.com |
+| **seafile-client** | 9.0.8 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
+| **seafile-client-static** | 9.0.8 | Static libraries for seafile-client | https://seafile.com |
 | **seccure** | 0.5-7 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-5 | Secure file, disk, swap, memory erasure utilities | http://www.thc.org/ |
 | **sed** | 4.9-1 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
