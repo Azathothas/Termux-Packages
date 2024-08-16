@@ -337,7 +337,7 @@
   },
   {
     "Package": "apt",
-    "Version": "2.8.1",
+    "Version": "2.8.1-1",
     "Description": "Front-end for the dpkg package manager",
     "Homepage": "https://packages.debian.org/apt"
   },
@@ -349,13 +349,13 @@
   },
   {
     "Package": "apt-ftparchive",
-    "Version": "2.8.1",
+    "Version": "2.8.1-1",
     "Description": "apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source",
     "Homepage": "https://packages.debian.org/apt"
   },
   {
     "Package": "apt-transport-tor",
-    "Version": "2.8.1",
+    "Version": "2.8.1-1",
     "Description": "APT transport for anonymous package downloads via Tor",
     "Homepage": "https://packages.debian.org/apt"
   },
