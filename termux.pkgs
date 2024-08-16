@@ -526,7 +526,7 @@
 | **gifski** | 1.32.0 | GIF encoder based on libimagequant | https://gif.ski/ |
 | **git** | 2.46.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
-| **git-delta** | 0.17.0-1 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
+| **git-delta** | 0.18.0 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-gitk** | 2.46.0 | Git repository browser | https://git-scm.com/ |
 | **git-gui** | 2.46.0 | A graphical interface to Git | https://git-scm.com/ |
 | **git-lfs** | 3.5.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
@@ -2128,7 +2128,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.2-1 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.2-1 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.6.0 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.6.1 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2156,7 +2156,7 @@
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
 | **samurai** | 1.2 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2 | libsass command line driver | https://github.com/sass/sassc |
-| **sc-im** | 0.8.3-3 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
+| **sc-im** | 0.8.4 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.4.2 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.3.5 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.8.1 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |

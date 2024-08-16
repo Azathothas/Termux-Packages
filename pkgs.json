@@ -3169,7 +3169,7 @@
   },
   {
     "Package": "git-delta",
-    "Version": "0.17.0-1",
+    "Version": "0.18.0",
     "Description": "A syntax-highlighter for git and diff output",
     "Homepage": "https://dandavison.github.io/delta/"
   },
@@ -12781,7 +12781,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.6.0",
+    "Version": "0.6.1",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -12949,7 +12949,7 @@
   },
   {
     "Package": "sc-im",
-    "Version": "0.8.3-3",
+    "Version": "0.8.4",
     "Description": "An improved version of sc, a spreadsheet calculator",
     "Homepage": "https://github.com/andmarti1424/sc-im"
   },

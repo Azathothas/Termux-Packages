@@ -2111,7 +2111,7 @@
   Description: Enables transparent encryption and decryption of files for a git repository
   Homepage: https://www.agwa.name/projects/git-crypt/
 - Package: git-delta
-  Version: 0.17.0-1
+  Version: 0.18.0
   Description: A syntax-highlighter for git and diff output
   Homepage: https://dandavison.github.io/delta/
 - Package: git-gitk
@@ -8519,7 +8519,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.6.0
+  Version: 0.6.1
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -8631,7 +8631,7 @@
   Description: libsass command line driver
   Homepage: https://github.com/sass/sassc
 - Package: sc-im
-  Version: 0.8.3-3
+  Version: 0.8.4
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
