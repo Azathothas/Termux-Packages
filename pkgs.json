@@ -14299,7 +14299,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.8.11",
+    "Version": "0.4.8.12",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
