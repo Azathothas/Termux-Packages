@@ -2419,7 +2419,7 @@
   },
   {
     "Package": "exiv2",
-    "Version": "2:0.27.7-1",
+    "Version": "2:0.28.3",
     "Description": "Exif, Iptc and XMP metadata manipulation library and tools",
     "Homepage": "https://exiv2.org/"
   },
@@ -3073,7 +3073,7 @@
   },
   {
     "Package": "gexiv2",
-    "Version": "0.14.3",
+    "Version": "0.14.3-1",
     "Description": "A GObject-based Exiv2 wrapper",
     "Homepage": "https://wiki.gnome.org/Projects/gexiv2"
   },
