@@ -1152,9 +1152,9 @@
 | **libmpeg2-static** | 0.5.1 | Static libraries for libmpeg2 | https://libmpeg2.sourceforge.io/ |
 | **libmpfr** | 4.2.1 | C library for multiple-precision floating-point computations with correct rounding | https://www.mpfr.org/ |
 | **libmpfr-static** | 4.2.1 | Static libraries for libmpfr | https://www.mpfr.org/ |
-| **libmsgpack** | 6.0.2 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
+| **libmsgpack** | 6.1.0 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
 | **libmsgpack-cxx** | 6.1.1 | msgpack for C++ | https://msgpack.org/ |
-| **libmsgpack-static** | 6.0.2 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
+| **libmsgpack-static** | 6.1.0 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
 | **libmuparser** | 2.3.4-1 | An extensible high performance math expression parser library written in C++ | https://beltoforion.de/en/muparser |
 | **libmusicbrainz** | 5.1.0-3 | The MusicBrainz Client Library | https://musicbrainz.org/doc/libmusicbrainz |
 | **libmypaint** | 1.6.1-1 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
@@ -2534,11 +2534,11 @@
 | **webp-pixbuf-loader** | 0.2.7 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.13.0 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-3 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **weechat** | 4.3.6 | Fast, light and extensible IRC chat client | https://weechat.org/ |
-| **weechat-lua-plugin** | 4.3.6 | WeeChat Lua Plugin | https://weechat.org/ |
-| **weechat-perl-plugin** | 4.3.6 | WeeChat Perl Plugin | https://weechat.org/ |
-| **weechat-python-plugin** | 4.3.6 | WeeChat Python3 Plugin | https://weechat.org/ |
-| **weechat-ruby-plugin** | 4.3.6 | WeeChat Ruby Plugin | https://weechat.org/ |
+| **weechat** | 4.4.0 | Fast, light and extensible IRC chat client | https://weechat.org/ |
+| **weechat-lua-plugin** | 4.4.0 | WeeChat Lua Plugin | https://weechat.org/ |
+| **weechat-perl-plugin** | 4.4.0 | WeeChat Perl Plugin | https://weechat.org/ |
+| **weechat-python-plugin** | 4.4.0 | WeeChat Python3 Plugin | https://weechat.org/ |
+| **weechat-ruby-plugin** | 4.4.0 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.2-1 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.24.5 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
