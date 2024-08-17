@@ -5107,13 +5107,13 @@
   },
   {
     "Package": "libblosc",
-    "Version": "1.21.5",
+    "Version": "1.21.6",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
   {
     "Package": "libblosc-static",
-    "Version": "1.21.5",
+    "Version": "1.21.6",
     "Description": "Static libraries for libblosc",
     "Homepage": "https://www.blosc.org"
   },
@@ -9901,7 +9901,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.08.03.04.33.23",
+    "Version": "2024.08.17.01.24.54",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -10417,7 +10417,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.0",
+    "Version": "0.8.1",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },

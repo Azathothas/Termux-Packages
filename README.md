@@ -861,8 +861,8 @@
 | **libbcprov-java** | 1.78v1 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.39.3-4 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
 | **libblocksruntime** | 1:5.10 | LLVM Blocks runtime library | https://github.com/apple/swift-corelibs-libdispatch |
-| **libblosc** | 1.21.5 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
-| **libblosc-static** | 1.21.5 | Static libraries for libblosc | https://www.blosc.org |
+| **libblosc** | 1.21.6 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc-static** | 1.21.6 | Static libraries for libblosc | https://www.blosc.org |
 | **libbluray** | 1.3.4-1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.3.4-1 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-utils** | 1.3.4-1 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -1660,7 +1660,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.1.4 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.08.03.04.33.23 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2024.08.17.01.24.54 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.27.1 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.8-1 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -1746,7 +1746,7 @@
 | **ndk-sysroot** | 27-1 | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.3 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
-| **neocmakelsp** | 0.8.0 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
+| **neocmakelsp** | 0.8.1 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20240425-1 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.10.1-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
