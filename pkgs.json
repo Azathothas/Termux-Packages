@@ -7669,7 +7669,7 @@
   },
   {
     "Package": "librsvg",
-    "Version": "2.58.2",
+    "Version": "2.58.3",
     "Description": "Library to render SVG files using cairo",
     "Homepage": "https://wiki.gnome.org/action/show/Projects/LibRsvg"
   },
@@ -12817,7 +12817,7 @@
   },
   {
     "Package": "rust-bindgen",
-    "Version": "0.69.4",
+    "Version": "0.70.0",
     "Description": "Automatically generates Rust FFI bindings to C (and some C++) libraries",
     "Homepage": "https://github.com/rust-lang/rust-bindgen"
   },

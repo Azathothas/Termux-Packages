@@ -5111,7 +5111,7 @@
   Description: Static libraries for librocksdb
   Homepage: https://rocksdb.org/
 - Package: librsvg
-  Version: 2.58.2
+  Version: 2.58.3
   Description: Library to render SVG files using cairo
   Homepage: https://wiki.gnome.org/action/show/Projects/LibRsvg
 - Package: librsync
@@ -8543,7 +8543,7 @@
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
-  Version: 0.69.4
+  Version: 0.70.0
   Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
   Homepage: https://github.com/rust-lang/rust-bindgen
 - Package: rust-docs
