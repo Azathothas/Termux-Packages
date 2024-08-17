@@ -997,7 +997,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.36.0",
+    "Version": "1.37.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1567,7 +1567,7 @@
   },
   {
     "Package": "cowsay",
-    "Version": "3.8.1",
+    "Version": "3.8.2",
     "Description": "Program which generates ASCII pictures of a cow with a message",
     "Homepage": "https://cowsay.diamonds/"
   },
@@ -2371,7 +2371,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.23.0",
+    "Version": "0.23.1",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -5929,7 +5929,7 @@
   },
   {
     "Package": "libgeos",
-    "Version": "3.12.2",
+    "Version": "3.13.0beta1",
     "Description": "Geometry Engine, C++ port of the Java Topology Suite",
     "Homepage": "https://geos.osgeo.org/"
   },
@@ -13147,7 +13147,7 @@
   },
   {
     "Package": "shfmt",
-    "Version": "3.8.0",
+    "Version": "3.9.0",
     "Description": "A shell parser and formatter",
     "Homepage": "https://github.com/mvdan/sh"
   },
@@ -15085,19 +15085,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.3.292",
+    "Version": "1.3.293",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.3.292",
+    "Version": "1.3.293",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.3.292",
+    "Version": "1.3.293",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
