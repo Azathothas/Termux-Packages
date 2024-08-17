@@ -4591,7 +4591,7 @@
   },
   {
     "Package": "kak-lsp",
-    "Version": "17.1.1-1",
+    "Version": "17.1.2",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kak-lsp/kak-lsp"
   },
