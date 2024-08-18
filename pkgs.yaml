@@ -2707,7 +2707,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.132.2
+  Version: 0.133.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -6403,7 +6403,7 @@
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
-  Version: 3.9.8
+  Version: 3.9.9
   Description: A Java software project management and comprehension tool
   Homepage: https://maven.apache.org/
 - Package: maxcso
