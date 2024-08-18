@@ -1102,8 +1102,8 @@
 | **liblua53-static** | 5.3.6 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.7 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.7 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1720049189 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1720049189 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1723675123 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1723675123 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.10.0 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.6.2 | XZ-format compression library | https://xz.tukaani.org/xz-utils/ |
 | **liblzma-static** | 5.6.2 | Static libraries for liblzma | https://xz.tukaani.org/xz-utils/ |
@@ -1564,7 +1564,7 @@
 | **lua53** | 5.3.6 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54** | 5.4.7 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1720049189 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1723675123 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.11.1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.48.0-2-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 20240723 | A project in-between luv and luvit. | https://luvit.io |
@@ -1790,7 +1790,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 23.6.3 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 23.6.4 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1-1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |

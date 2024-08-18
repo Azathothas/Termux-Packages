@@ -4415,11 +4415,11 @@
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
 - Package: libluajit
-  Version: 1:2.1.1720049189
+  Version: 1:2.1.1723675123
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: libluajit-static
-  Version: 1:2.1.1720049189
+  Version: 1:2.1.1723675123
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
@@ -6263,7 +6263,7 @@
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1720049189
+  Version: 1:2.1.1723675123
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.6.3
+  Version: 23.6.4
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
