@@ -3919,7 +3919,7 @@
   },
   {
     "Package": "hexcurse",
-    "Version": "1.60.0-5",
+    "Version": "1.60.0-6",
     "Description": "Console hexeditor",
     "Homepage": "https://github.com/LonnyGomes/hexcurse"
   },
@@ -12523,7 +12523,7 @@
   },
   {
     "Package": "redir",
-    "Version": "3.3-1",
+    "Version": "3.3-2",
     "Description": "TCP port redirector for UNIX",
     "Homepage": "https://github.com/troglobit/redir"
   },
@@ -13939,7 +13939,7 @@
   },
   {
     "Package": "tectonic",
-    "Version": "0.15.0-1",
+    "Version": "0.15.0-2",
     "Description": "A modernized, complete, self-contained TeX/LaTeX engine",
     "Homepage": "https://tectonic-typesetting.github.io/"
   },

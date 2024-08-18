@@ -663,7 +663,7 @@
 | **helm** | 3.15.4 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.0.20 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
-| **hexcurse** | 1.60.0-5 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
+| **hexcurse** | 1.60.0-6 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
 | **hexedit** | 1.6 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
 | **hexer** | 1.0.6 | A multi-buffer editor for binary files for Unix-like systems that displays its buffer(s) as a hex dump | https://devel.ringlet.net/editors/hexer/ |
 | **hexyl** | 0.14.0 | A command-line hex viewer | https://github.com/sharkdp/hexyl |
@@ -2097,7 +2097,7 @@
 | **recoll-static** | 1.37.5 | Static libraries for recoll | https://www.recoll.org/ |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
-| **redir** | 3.3-1 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
+| **redir** | 3.3-2 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
 | **redis** | 1:7.2.5 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
 | **remind** | 1:05.00.02 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-2 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
@@ -2333,7 +2333,7 @@
 | **tealdeer** | 1.6.1-1 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |
 | **teckit** | 2.5.12 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.12 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
-| **tectonic** | 0.15.0-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
+| **tectonic** | 0.15.0-2 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20240730 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
 | **teleport-tsh** | 16.1.4 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
