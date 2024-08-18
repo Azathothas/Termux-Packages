@@ -591,8 +591,8 @@
 | **gobject-introspection** | 1.80.1 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.0-2 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.16 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.22.5 | Go programming language compiler | https://golang.org/ |
-| **golang-doc** | 3:1.22.5 | Go programming language - documentation | https://golang.org/ |
+| **golang** | 3:1.23.0 | Go programming language compiler | https://golang.org/ |
+| **golang-doc** | 3:1.23.0 | Go programming language - documentation | https://golang.org/ |
 | **gomp** | 2023.02.02-2 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 0.3.1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
@@ -1704,7 +1704,7 @@
 | **mruby-static** | 3.3.0 | Static libraries for mruby | https://mruby.org/ |
 | **msmtp** | 1.8.26 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.2.0 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
-| **mtools** | 4.0.43 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
+| **mtools** | 4.0.44 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.12.6 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
 | **multitail** | 7.1.5 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
@@ -1721,13 +1721,13 @@
 | **n2n** | 3.1.1 | A light VPN software | https://github.com/ntop/n2n |
 | **nala** | 0.15.3 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
-| **nano** | 8.0 | Small, free and friendly text editor | https://www.nano-editor.org/ |
+| **nano** | 8.1 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.03 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
 | **natpmpc** | 20230423-1 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-1 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **navi** | 2.23.0 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
 | **navidrome** | 0.52.5 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
-| **ncdc** | 1.24 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
+| **ncdc** | 1.24.1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.20 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.4 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.2.7 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
@@ -1923,7 +1923,7 @@
 | **pick** | 4.0.0-2 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
 | **picocom** | 2018.04.12 | A minimal dumb-terminal emulation program | https://github.com/npat-efault/picocom |
 | **pigz** | 2.8 | Parallel implementation of the gzip file compressor | https://www.zlib.net/pigz |
-| **pinentry** | 1.3.0-1 | Dialog allowing secure password entry | https://www.gnupg.org/related_software/pinentry/index.html |
+| **pinentry** | 1.3.1 | Dialog allowing secure password entry | https://www.gnupg.org/related_software/pinentry/index.html |
 | **pingme** | 0.2.6-3 | A small utility which can be called from anywhere to send a message with particular information | https://github.com/kha7iq/pingme |
 | **pipebuffer** | 0.0.git20211120 | Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline) | https://github.com/tfenne/pipebuffer |
 | **pipes.sh** | 2018.04.22 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
@@ -2463,7 +2463,7 @@
 | **unixodbc** | 2.3.12 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
 | **unixodbc-static** | 2.3.12 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-1 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |
-| **unrar** | 7.0.8 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
+| **unrar** | 7.0.9 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
 | **unshield** | 1.5.1 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
 | **unzip** | 6.0-9 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-3 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |

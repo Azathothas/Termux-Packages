@@ -3487,13 +3487,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.22.5",
+    "Version": "3:1.23.0",
     "Description": "Go programming language compiler",
     "Homepage": "https://golang.org/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.22.5",
+    "Version": "3:1.23.0",
     "Description": "Go programming language - documentation",
     "Homepage": "https://golang.org/"
   },
@@ -10165,7 +10165,7 @@
   },
   {
     "Package": "mtools",
-    "Version": "4.0.43",
+    "Version": "4.0.44",
     "Description": "Tool for manipulating FAT images",
     "Homepage": "https://www.gnu.org/software/mtools/"
   },
@@ -10267,7 +10267,7 @@
   },
   {
     "Package": "nano",
-    "Version": "8.0",
+    "Version": "8.1",
     "Description": "Small, free and friendly text editor",
     "Homepage": "https://www.nano-editor.org/"
   },
@@ -10303,7 +10303,7 @@
   },
   {
     "Package": "ncdc",
-    "Version": "1.24",
+    "Version": "1.24.1",
     "Description": "Modern and lightweight direct connect client with a friendly ncurses interface",
     "Homepage": "https://dev.yorhel.nl/ncdc"
   },
@@ -11479,7 +11479,7 @@
   },
   {
     "Package": "pinentry",
-    "Version": "1.3.0-1",
+    "Version": "1.3.1",
     "Description": "Dialog allowing secure password entry",
     "Homepage": "https://www.gnupg.org/related_software/pinentry/index.html"
   },
@@ -14719,7 +14719,7 @@
   },
   {
     "Package": "unrar",
-    "Version": "7.0.8",
+    "Version": "7.0.9",
     "Description": "Tool for extracting files from .rar archives",
     "Homepage": "https://www.rarlab.com/"
   },
