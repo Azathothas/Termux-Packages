@@ -85,7 +85,7 @@
 | **at** | 3.2.5 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.52.0 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
-| **atomvm** | 1:0.6.3 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
+| **atomvm** | 1:0.6.4 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.2 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.2 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
@@ -157,7 +157,7 @@
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.14 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20240606 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.41.1 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.42.0 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-1 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
@@ -1702,7 +1702,7 @@
 | **music-file-organizer** | 1.0.4-3 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.13-1 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 17.0.1 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 17.0.2 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.2-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -2408,8 +2408,8 @@
 | **tree-sitter-vimdoc-static** | 3.0.0-1 | Static libraries for tree-sitter-vimdoc | https://github.com/neovim/tree-sitter-vimdoc |
 | **trojan-go** | 0.10.6-3 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
 | **trurl** | 0.14 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
-| **trzsz-go** | 1.1.7-1 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
-| **trzsz-ssh** | 0.1.21 | An openssh client alternative | https://trzsz.github.io/ssh |
+| **trzsz-go** | 1.1.8 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
+| **trzsz-ssh** | 0.1.22 | An openssh client alternative | https://trzsz.github.io/ssh |
 | **tsduck-java** | 3.37.3670 | Java bindings for TSDuck | https://tsduck.io/ |
 | **tsduck-plugins** | 3.37.3670 | Plugins for TSDuck | https://tsduck.io/ |
 | **tsduck-python** | 3.37.3670 | Python bindings for TSDuck | https://tsduck.io/ |

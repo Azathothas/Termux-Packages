@@ -347,7 +347,7 @@
   Description: Read, parse and set metadata of MPEG-4 and 3gp files
   Homepage: https://github.com/wez/atomicparsley
 - Package: atomvm
-  Version: 1:0.6.3
+  Version: 1:0.6.4
   Description: The minimal Erlang VM implementation
   Homepage: https://github.com/bettio/AtomVM
 - Package: atool
@@ -635,7 +635,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.41.1
+  Version: 1.42.0
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -6815,7 +6815,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 17.0.1
+  Version: 17.0.2
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -9639,11 +9639,11 @@
   Description: trurl is a command line tool that parses and manipulates URLs
   Homepage: https://curl.se/trurl/
 - Package: trzsz-go
-  Version: 1.1.7-1
+  Version: 1.1.8
   Description: A simple file transfer tools, similar to lrzsz ( rz / sz )
   Homepage: https://trzsz.github.io/
 - Package: trzsz-ssh
-  Version: 0.1.21
+  Version: 0.1.22
   Description: An openssh client alternative
   Homepage: https://trzsz.github.io/ssh
 - Package: tsduck-java
