@@ -9889,7 +9889,7 @@
   },
   {
     "Package": "miniflux",
-    "Version": "2.1.4",
+    "Version": "2.2.0",
     "Description": "A minimalist and opinionated feed reader",
     "Homepage": "https://miniflux.app/"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.6.4",
+    "Version": "23.6.5",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
