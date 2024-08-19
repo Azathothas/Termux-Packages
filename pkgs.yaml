@@ -1059,7 +1059,7 @@
   Description: Indents C preprocessor directives to reflect their nesting, among other regularizations
   Homepage: https://www.gnu.org/software/cppi/
 - Package: cpufetch
-  Version: "1.05"
+  Version: "1.06"
   Description: Simple yet fancy CPU architecture fetching tool
   Homepage: https://github.com/Dr-Noob/cpufetch
 - Package: cpulimit
@@ -1875,7 +1875,7 @@
   Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
   Homepage: https://gitlab.com/DavidGriffith/frotz
 - Package: frp
-  Version: 0.59.0
+  Version: 0.60.0
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
@@ -2427,11 +2427,11 @@
   Description: A thin layer of graphic data types
   Homepage: https://ebassi.github.io/graphene/
 - Package: graphicsmagick
-  Version: 1.3.43-2
+  Version: 1.3.44
   Description: Collection of image processing tools
   Homepage: http://www.graphicsmagick.org/
 - Package: graphicsmagick-static
-  Version: 1.3.43-2
+  Version: 1.3.44
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
@@ -8539,7 +8539,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240812"
+  Version: "20240819"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -8803,7 +8803,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.9.3
+  Version: 1.9.4
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
