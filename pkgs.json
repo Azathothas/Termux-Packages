@@ -5149,13 +5149,13 @@
   },
   {
     "Package": "libbsd",
-    "Version": "0.11.7",
+    "Version": "0.11.7-1",
     "Description": "utility functions from BSD systems",
     "Homepage": "https://libbsd.freedesktop.org"
   },
   {
     "Package": "libbsd-static",
-    "Version": "0.11.7",
+    "Version": "0.11.7-1",
     "Description": "Static libraries for libbsd",
     "Homepage": "https://libbsd.freedesktop.org"
   },

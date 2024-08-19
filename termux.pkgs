@@ -856,8 +856,8 @@
 | **libbluray-utils** | 1.3.4-1 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbs2b** | 3.1.0-1 | Bauer stereophonic-to-binaural DSP | http://bs2b.sourceforge.net/ |
 | **libbs2b-static** | 3.1.0-1 | Static libraries for libbs2b | http://bs2b.sourceforge.net/ |
-| **libbsd** | 0.11.7 | utility functions from BSD systems | https://libbsd.freedesktop.org |
-| **libbsd-static** | 0.11.7 | Static libraries for libbsd | https://libbsd.freedesktop.org |
+| **libbsd** | 0.11.7-1 | utility functions from BSD systems | https://libbsd.freedesktop.org |
+| **libbsd-static** | 0.11.7-1 | Static libraries for libbsd | https://libbsd.freedesktop.org |
 | **libbullet** | 3.25 | SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc | https://github.com/bulletphysics/bullet3 |
 | **libburn** | 1.5.6 | Library for reading, mastering and writing optical discs | https://dev.lovelyhq.com/libburnia |
 | **libburn-static** | 1.5.6 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
