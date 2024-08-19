@@ -9337,7 +9337,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.10.4",
+    "Version": "3.10.5",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.6.5",
+    "Version": "23.6.6",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11845,7 +11845,7 @@
   },
   {
     "Package": "pv",
-    "Version": "1.8.12",
+    "Version": "1.8.13",
     "Description": "Terminal-based tool for monitoring the progress of data through a pipeline",
     "Homepage": "http://www.ivarch.com/programs/pv.shtml"
   },
