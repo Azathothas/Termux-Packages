@@ -1031,7 +1031,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: "9.5"
+  Version: 9.5-1
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -1599,7 +1599,7 @@
   Description: An enhanced, backward-compatible port of Thompson Shell
   Homepage: https://etsh.nl
 - Package: exercism
-  Version: 3.4.1
+  Version: 3.4.2
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
 - Package: exhale
@@ -2603,7 +2603,7 @@
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
-  Version: 0.0.20
+  Version: 0.0.21
   Description: Language server for Helm
   Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
@@ -9511,7 +9511,7 @@
   Description: FIGlet-compatible display of large colourful characters in text mode
   Homepage: http://caca.zoy.org/wiki/toilet
 - Package: tokei
-  Version: 13.0.0-alpha.1-0
+  Version: 13.0.0-alpha.2-0
   Description: A blazingly fast CLOC (Count Lines Of Code) program
   Homepage: https://github.com/XAMPPRocky/tokei
 - Package: tome2

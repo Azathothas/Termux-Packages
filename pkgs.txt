@@ -256,7 +256,7 @@
  composer  2.7.7  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  cookcli  0.8.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
- coreutils  9.5  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
+ coreutils  9.5-1  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
  corgi  0.2.4-4  CLI workflow manager  https://github.com/DrakeW/corgi 
  corkscrew  2.0-3  A tool for tunneling SSH through HTTP proxies  https://wiki.linuxquestions.org/wiki/Corkscrew 
  cowsay  3.8.2  Program which generates ASCII pictures of a cow with a message  https://cowsay.diamonds/ 
@@ -398,7 +398,7 @@
  espeak-static  1.51-2  Static libraries for espeak  https://github.com/espeak-ng/espeak-ng 
  et  6.2.9-1  A remote shell that automatically reconnects without interrupting the session  https://eternalterminal.dev 
  etsh  5.4.0  An enhanced, backward-compatible port of Thompson Shell  https://etsh.nl 
- exercism  3.4.1  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
+ exercism  3.4.2  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
  exhale  1.2.1  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
  exiftool  12.92  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
@@ -649,7 +649,7 @@
  helix-grammars  24.07-1  Helix grammars  https://helix-editor.com/ 
  hello  2.12.1-1  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
  helm  3.15.4  Helm helps you manage Kubernetes applications  https://helm.sh 
- helm-ls  0.0.20  Language server for Helm  https://github.com/mrjosh/helm-ls 
+ helm-ls  0.0.21  Language server for Helm  https://github.com/mrjosh/helm-ls 
  help2man  1.49.3  Conversion tool to create man files  https://www.gnu.org/software/help2man/ 
  hexcurse  1.60.0-6  Console hexeditor  https://github.com/LonnyGomes/hexcurse 
  hexedit  1.6  view and edit files in hexadecimal or in ASCII  http://rigaux.org/hexedit.html 
@@ -2376,7 +2376,7 @@
  tmate  2.4.0-2  Terminal multiplexer with instant terminal sharing  https://tmate.io 
  tmux  3.4  Terminal multiplexer  https://tmux.github.io/ 
  toilet  0.3-2  FIGlet-compatible display of large colourful characters in text mode  http://caca.zoy.org/wiki/toilet 
- tokei  13.0.0-alpha.1-0  A blazingly fast CLOC (Count Lines Of Code) program  https://github.com/XAMPPRocky/tokei 
+ tokei  13.0.0-alpha.2-0  A blazingly fast CLOC (Count Lines Of Code) program  https://github.com/XAMPPRocky/tokei 
  tome2  2022.12.27-3  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.2.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  topgrade  15.0.0  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
