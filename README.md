@@ -197,8 +197,8 @@
 | **calcurse** | 4.8.1 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.1 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
 | **capnproto** | 1.0.2 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
-| **capstone** | 5.0.2 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
-| **capstone-static** | 5.0.2 | Static libraries for capstone | https://www.capstone-engine.org/ |
+| **capstone** | 5.0.3 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
+| **capstone-static** | 5.0.3 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **cargo-c** | 0.10.3 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **catdoc** | 0.95 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
@@ -526,7 +526,7 @@
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.54.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.55.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.2.5-1 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghc-libs** | 9.2.5-1 | The Glasgow Haskell Compiler libraries | https://www.haskell.org/ghc/ |
 | **ghc-libs-static** | 8.10.7-3 | Static libraries for ghc-libs | https://www.haskell.org/ghc/ |
@@ -1561,7 +1561,7 @@
 | **lr** | 1.6-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.651 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-0 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
-| **lsd** | 1.1.3 | Next gen ls command | https://github.com/lsd-rs/lsd |
+| **lsd** | 1.1.5 | Next gen ls command | https://github.com/lsd-rs/lsd |
 | **lsix** | 1.9.1 | Shows thumbnails in terminal using sixel graphics | https://github.com/hackerb9/lsix |
 | **lsof** | 4.99.3 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.3 | Static libraries for lsof | https://github.com/lsof-org/lsof |
@@ -1802,7 +1802,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 23.6.6 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 23.6.7 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1-1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2145,7 +2145,7 @@
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.80.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20240819 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
-| **rust-bindgen** | 0.70.0 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
+| **rust-bindgen** | 0.70.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.80.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.80.0 | Rust source code files | https://www.rust-lang.org/ |
 | **rust-std-aarch64-linux-android** | 1.80.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
@@ -2250,8 +2250,8 @@
 | **spiped** | 1.6.2-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.3.290.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-tools** | 1.3.290.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
-| **sqlcipher** | 4.6.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
-| **sqlcipher-static** | 4.6.0 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
+| **sqlcipher** | 4.6.1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
+| **sqlcipher-static** | 4.6.1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.46.1 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.1 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
