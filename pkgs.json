@@ -9307,7 +9307,7 @@
   },
   {
     "Package": "lsd",
-    "Version": "1.1.2-1",
+    "Version": "1.1.3",
     "Description": "Next gen ls command",
     "Homepage": "https://github.com/lsd-rs/lsd"
   },
@@ -11335,7 +11335,7 @@
   },
   {
     "Package": "pet",
-    "Version": "0.8.4",
+    "Version": "0.9.0",
     "Description": "Simple command-line snippet manager",
     "Homepage": "https://github.com/knqyf263/pet"
   },
