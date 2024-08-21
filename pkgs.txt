@@ -244,10 +244,10 @@
  cmus  2.11.0-1  Small, fast and powerful console music player  https://cmus.github.io/ 
  cmusfm  0.5.0  Last.fm standalone scrobbler for the cmus music player  https://github.com/Arkq/cmusfm 
  codecrypt  1.8-9  The post-quantum cryptography tool  http://e-x-a.org/codecrypt/ 
- coinor-cbc  2.10.11  An open-source mixed integer linear programming solver  https://github.com/coin-or/Cbc 
- coinor-cbc-static  2.10.11  Static libraries for coinor-cbc  https://github.com/coin-or/Cbc 
- coinor-clp  1:1.17.9  An open-source linear programming solver  https://github.com/coin-or/Clp 
- coinor-clp-static  1:1.17.9  Static libraries for coinor-clp  https://github.com/coin-or/Clp 
+ coinor-cbc  2.10.12  An open-source mixed integer linear programming solver  https://github.com/coin-or/Cbc 
+ coinor-cbc-static  2.10.12  Static libraries for coinor-cbc  https://github.com/coin-or/Cbc 
+ coinor-clp  1:1.17.10  An open-source linear programming solver  https://github.com/coin-or/Clp 
+ coinor-clp-static  1:1.17.10  Static libraries for coinor-clp  https://github.com/coin-or/Clp 
  cointop  1.6.10-2  A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies  https://cointop.sh/ 
  colm  0.14.7-1  COmputer Language Machinery  https://www.colm.net/open-source/colm/ 
  colm-static  0.14.7-1  Static libraries for colm  https://www.colm.net/open-source/colm/ 
@@ -400,7 +400,7 @@
  etsh  5.4.0  An enhanced, backward-compatible port of Thompson Shell  https://etsh.nl 
  exercism  3.4.2  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
  exhale  1.2.1  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
- exiftool  12.92  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
+ exiftool  12.93  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  exiv2-static  2:0.27.7-1  Static libraries for exiv2  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
@@ -2616,7 +2616,7 @@
  zopfli  1.0.3-3  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.4-1  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
- zrok  0.4.38  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
+ zrok  0.4.39  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
  zsh  5.9-5  Shell with lots of features  https://www.zsh.org 
  zsh-completions  0.35.0  Additional completion definitions for Zsh  https://github.com/zsh-users/zsh-completions 
  zssh  1.5c-1  A program for interactively transferring files to a remote machine while using the secure shell (ssh)  http://zssh.sourceforge.net/ 

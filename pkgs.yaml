@@ -983,19 +983,19 @@
   Description: The post-quantum cryptography tool
   Homepage: http://e-x-a.org/codecrypt/
 - Package: coinor-cbc
-  Version: 2.10.11
+  Version: 2.10.12
   Description: An open-source mixed integer linear programming solver
   Homepage: https://github.com/coin-or/Cbc
 - Package: coinor-cbc-static
-  Version: 2.10.11
+  Version: 2.10.12
   Description: Static libraries for coinor-cbc
   Homepage: https://github.com/coin-or/Cbc
 - Package: coinor-clp
-  Version: 1:1.17.9
+  Version: 1:1.17.10
   Description: An open-source linear programming solver
   Homepage: https://github.com/coin-or/Clp
 - Package: coinor-clp-static
-  Version: 1:1.17.9
+  Version: 1:1.17.10
   Description: Static libraries for coinor-clp
   Homepage: https://github.com/coin-or/Clp
 - Package: cointop
@@ -1607,7 +1607,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "12.92"
+  Version: "12.93"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -10471,7 +10471,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 0.4.38
+  Version: 0.4.39
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
