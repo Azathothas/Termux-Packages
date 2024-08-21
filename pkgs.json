@@ -1009,7 +1009,7 @@
   },
   {
     "Package": "busybox",
-    "Version": "1.36.1",
+    "Version": "1.36.1-1",
     "Description": "Tiny versions of many common UNIX utilities into a single small executable",
     "Homepage": "https://busybox.net/"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.6.7",
+    "Version": "23.6.8",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14269,7 +14269,7 @@
   },
   {
     "Package": "tokei",
-    "Version": "13.0.0-alpha.2-0",
+    "Version": "13.0.0-alpha.3-0",
     "Description": "A blazingly fast CLOC (Count Lines Of Code) program",
     "Homepage": "https://github.com/XAMPPRocky/tokei"
   },
