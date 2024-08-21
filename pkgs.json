@@ -1567,7 +1567,7 @@
   },
   {
     "Package": "cowsay",
-    "Version": "3.8.2",
+    "Version": "3.8.3",
     "Description": "Program which generates ASCII pictures of a cow with a message",
     "Homepage": "https://cowsay.diamonds/"
   },
@@ -3727,49 +3727,49 @@
   },
   {
     "Package": "gst-libav",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code",
     "Homepage": "https://gstreamer.freedesktop.org/modules/gst-libav.html"
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-gl-headers",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "OpenGL headers for GStreamer plugins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-python",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gstreamer",
-    "Version": "1.24.6",
+    "Version": "1.24.7",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "keybase",
-    "Version": "6.3.1",
+    "Version": "6.4.0",
     "Description": "Key directory that maps social media identities to encryption keys",
     "Homepage": "https://keybase.io"
   },
@@ -6709,19 +6709,19 @@
   },
   {
     "Package": "libmaxminddb",
-    "Version": "1.10.0",
+    "Version": "1.11.0",
     "Description": "MaxMind GeoIP2 database - library and utilities",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-static",
-    "Version": "1.10.0",
+    "Version": "1.11.0",
     "Description": "Static libraries for libmaxminddb",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-tools",
-    "Version": "1.10.0",
+    "Version": "1.11.0",
     "Description": "A geoip lookup utility for MaxMind DB",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
@@ -10693,7 +10693,7 @@
   },
   {
     "Package": "o-editor",
-    "Version": "2.65.12",
+    "Version": "2.66.0",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://github.com/xyproto/o"
   },
@@ -12907,7 +12907,7 @@
   },
   {
     "Package": "sabnzbd",
-    "Version": "4.3.2",
+    "Version": "4.3.3",
     "Description": "Fully automated Usenet Binary Downloader",
     "Homepage": "https://sabnzbd.org/"
   },
