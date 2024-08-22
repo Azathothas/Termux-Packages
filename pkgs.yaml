@@ -723,7 +723,7 @@
   Description: A program to extract Microsoft cabinet (.CAB) files
   Homepage: https://www.cabextract.org.uk/
 - Package: cadaver
-  Version: 0.24-2
+  Version: 0.24-3
   Description: A command-line WebDAV client for Unix
   Homepage: https://notroj.github.io/cadaver/
 - Package: caddy
@@ -883,7 +883,7 @@
   Description: C library for generating audio fingerprints used by AcoustID
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
-  Version: 4.5-3
+  Version: 4.5-4
   Description: chrony is an implementation of the Network Time Protocol (NTP)
   Homepage: https://chrony-project.org/
 - Package: ciso
@@ -4631,7 +4631,7 @@
   Description: An extensible high performance math expression parser library written in C++
   Homepage: https://beltoforion.de/en/muparser
 - Package: libmusicbrainz
-  Version: 5.1.0-3
+  Version: 5.1.0-4
   Description: The MusicBrainz Client Library
   Homepage: https://musicbrainz.org/doc/libmusicbrainz
 - Package: libmypaint
@@ -4659,11 +4659,11 @@
   Description: Static libraries for libncnn
   Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
-  Version: 0.33.0
+  Version: 0.33.0-1
   Description: An HTTP/1.1 and WebDAV client library, with a C interface
   Homepage: https://notroj.github.io/neon/
 - Package: libneon-static
-  Version: 0.33.0
+  Version: 0.33.0-1
   Description: Static libraries for libneon
   Homepage: https://notroj.github.io/neon/
 - Package: libnet

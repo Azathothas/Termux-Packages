@@ -1087,7 +1087,7 @@
   },
   {
     "Package": "cadaver",
-    "Version": "0.24-2",
+    "Version": "0.24-3",
     "Description": "A command-line WebDAV client for Unix",
     "Homepage": "https://notroj.github.io/cadaver/"
   },
@@ -1327,7 +1327,7 @@
   },
   {
     "Package": "chrony",
-    "Version": "4.5-3",
+    "Version": "4.5-4",
     "Description": "chrony is an implementation of the Network Time Protocol (NTP)",
     "Homepage": "https://chrony-project.org/"
   },
@@ -6949,7 +6949,7 @@
   },
   {
     "Package": "libmusicbrainz",
-    "Version": "5.1.0-3",
+    "Version": "5.1.0-4",
     "Description": "The MusicBrainz Client Library",
     "Homepage": "https://musicbrainz.org/doc/libmusicbrainz"
   },
@@ -6991,13 +6991,13 @@
   },
   {
     "Package": "libneon",
-    "Version": "0.33.0",
+    "Version": "0.33.0-1",
     "Description": "An HTTP/1.1 and WebDAV client library, with a C interface",
     "Homepage": "https://notroj.github.io/neon/"
   },
   {
     "Package": "libneon-static",
-    "Version": "0.33.0",
+    "Version": "0.33.0-1",
     "Description": "Static libraries for libneon",
     "Homepage": "https://notroj.github.io/neon/"
   },
