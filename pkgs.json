@@ -997,7 +997,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.37.0",
+    "Version": "1.38.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1405,7 +1405,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2024.8.2",
+    "Version": "2024.8.3",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -1531,7 +1531,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.7.7",
+    "Version": "2.7.8",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -2401,7 +2401,7 @@
   },
   {
     "Package": "exercism",
-    "Version": "3.4.2",
+    "Version": "3.5.0",
     "Description": "A Go based command line tool for exercism.io",
     "Homepage": "https://github.com/exercism/cli/"
   },
@@ -12775,7 +12775,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.6.1",
+    "Version": "0.6.2",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14269,7 +14269,7 @@
   },
   {
     "Package": "tokei",
-    "Version": "13.0.0-alpha.3-0",
+    "Version": "13.0.0-alpha.4-0",
     "Description": "A blazingly fast CLOC (Count Lines Of Code) program",
     "Homepage": "https://github.com/XAMPPRocky/tokei"
   },
