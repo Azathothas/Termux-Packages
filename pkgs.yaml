@@ -2955,7 +2955,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.63.2
+  Version: 2.64.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -9015,7 +9015,7 @@
   Description: Static libraries for ssdeep
   Homepage: https://ssdeep-project.github.io/ssdeep/
 - Package: sse2neon
-  Version: 1.7.0
+  Version: 1.7.0-1
   Description: A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics
   Homepage: https://github.com/DLTcollab/sse2neon
 - Package: sshpass

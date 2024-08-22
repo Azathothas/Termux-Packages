@@ -749,7 +749,7 @@
 | **jbig2enc-static** | 2023.01.08-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.63.2 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.64.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -2264,7 +2264,7 @@
 | **ssdb** | 1.9.9-2 | A Redis compatible NoSQL database stored on disk | https://ssdb.io/ |
 | **ssdeep** | 2.14.1-1 | A program for computing context triggered piecewise hashes (CTPH) | https://ssdeep-project.github.io/ssdeep/ |
 | **ssdeep-static** | 2.14.1-1 | Static libraries for ssdeep | https://ssdeep-project.github.io/ssdeep/ |
-| **sse2neon** | 1.7.0 | A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics | https://github.com/DLTcollab/sse2neon |
+| **sse2neon** | 1.7.0-1 | A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics | https://github.com/DLTcollab/sse2neon |
 | **sshpass** | 1.10 | Noninteractive ssh password provider | https://sourceforge.net/projects/sshpass/ |
 | **sshping** | 0.1.4-2 | measure character-echo latency and bandwidth for an interactive ssh session | https://github.com/spook/sshping |
 | **sslscan** | 2.1.4 | Utility to discover supported cipher suites on SSL/TLS enabled servers | https://github.com/rbsec/sslscan |
