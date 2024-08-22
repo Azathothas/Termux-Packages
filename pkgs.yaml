@@ -3459,7 +3459,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.25.0
+  Version: 5.26.0
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -6651,7 +6651,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: mold
-  Version: 2.32.1
+  Version: 2.33.0
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
@@ -7423,7 +7423,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20240722"
+  Version: "20240822"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
@@ -7675,7 +7675,7 @@
   Description: Helper tool used when compiling applications and libraries
   Homepage: https://www.freedesktop.org/wiki/Software/pkg-config/
 - Package: pkgfile
-  Version: "21"
+  Version: "22"
   Description: An alpm .files metadata explorer
   Homepage: https://github.com/falconindy/pkgfile
 - Package: pkgtop

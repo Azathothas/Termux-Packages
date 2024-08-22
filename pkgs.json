@@ -5191,7 +5191,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.25.0",
+    "Version": "5.26.0",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -9979,7 +9979,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.32.1",
+    "Version": "2.33.0",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },
@@ -11137,7 +11137,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20240722",
+    "Version": "20240822",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -11515,7 +11515,7 @@
   },
   {
     "Package": "pkgfile",
-    "Version": "21",
+    "Version": "22",
     "Description": "An alpm .files metadata explorer",
     "Homepage": "https://github.com/falconindy/pkgfile"
   },
