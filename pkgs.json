@@ -6061,7 +6061,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.65.5",
+    "Version": "1.66.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -11959,7 +11959,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.65.5",
+    "Version": "1.66.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
