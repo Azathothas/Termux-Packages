@@ -3103,7 +3103,7 @@
   Description: Open-source implementation of the APL-like K programming language
   Homepage: https://github.com/kevinlawler/kona
 - Package: kotlin
-  Version: 2.0.10
+  Version: 2.0.20
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.6.8
+  Version: 23.7.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8323,11 +8323,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.39.4
+  Version: 1.40.0
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.39.4
+  Version: 1.40.0
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recoll-static
@@ -8631,7 +8631,7 @@
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
-  Version: 3.4.2
+  Version: 3.5.0
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc

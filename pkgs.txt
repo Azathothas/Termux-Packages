@@ -774,7 +774,7 @@
  knockd  0.8-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
  knot-utils  3.2.4-1  Knot DNS utilities  https://www.knot-dns.cz/ 
  kona  20211225  Open-source implementation of the APL-like K programming language  https://github.com/kevinlawler/kona 
- kotlin  2.0.10  The Kotlin Programming Language  https://kotlinlang.org/ 
+ kotlin  2.0.20  The Kotlin Programming Language  https://kotlinlang.org/ 
  krb5  1.21.3  The Kerberos network authentication system  https://web.mit.edu/kerberos 
  kubecolor  0.3.3  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
  kubectl  1.31.0  Kubernetes.io client binary  https://kubernetes.io/ 
@@ -1790,7 +1790,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  23.6.8  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  23.7.1  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.5.1-1  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-8  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2079,8 +2079,8 @@
  readline-static  8.2.13  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
  recode  3.7.14  Charset converter tool and library  https://github.com/pinard/Recode 
  recode-static  3.7.14  Static libraries for recode  https://github.com/pinard/Recode 
- recoll  1.39.4  Full-text search for your desktop  https://www.recoll.org/ 
- recoll-python  1.39.4  Python interface for Recoll  https://www.recoll.org/ 
+ recoll  1.40.0  Full-text search for your desktop  https://www.recoll.org/ 
+ recoll-python  1.40.0  Python interface for Recoll  https://www.recoll.org/ 
  recoll-static  1.37.5  Static libraries for recoll  https://www.recoll.org/ 
  recutils  1.9  Set of tools and libraries to access human-editable, plain text databases called recfiles  https://www.gnu.org/software/recutils/ 
  recutils-static  1.9  Static libraries for recutils  https://www.gnu.org/software/recutils/ 
@@ -2156,7 +2156,7 @@
  samurai  1.2  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
  sassc  3.6.2  libsass command line driver  https://github.com/sass/sassc 
  sc-im  0.8.4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
- scala  3.4.2  Scala 3 compiler and standard library.  https://www.scala-lang.org 
+ scala  3.5.0  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  3.3.5  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.8.1  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.4.5-2  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
