@@ -2515,7 +2515,7 @@
   },
   {
     "Package": "fd",
-    "Version": "10.1.0",
+    "Version": "10.2.0",
     "Description": "Simple, fast and user-friendly alternative to find",
     "Homepage": "https://github.com/sharkdp/fd"
   },
@@ -14832,6 +14832,12 @@
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
   {
+    "Package": "uv",
+    "Version": "0.3.2",
+    "Description": "An extremely fast Python package installer and resolver, written in Rust.",
+    "Homepage": "https://docs.astral.sh/uv/"
+  },
+  {
     "Package": "uwsgi",
     "Version": "2.0.26-1",
     "Description": "uWSGI application server container",
@@ -15061,7 +15067,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.3.293",
+    "Version": "1.3.294",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
