@@ -115,7 +115,7 @@
 | **bastet** | 0.43.2-10 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
 | **bat** | 0.24.0-2 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.07.1-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
-| **bc-gh** | 6.7.6 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
+| **bc-gh** | 7.0.0 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
 | **bdsup2sub** | 4.0.1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
 | **beanshell** | 2.1.1-1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/beanshell/beanshell |
 | **bed** | 0.2.5 | Binary editor written in GO | https://github.com/itchyny/bed |

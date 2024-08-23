@@ -703,7 +703,7 @@
   },
   {
     "Package": "bc-gh",
-    "Version": "6.7.6",
+    "Version": "7.0.0",
     "Description": "Unix dc and POSIX bc with GNU and BSD extensions",
     "Homepage": "https://git.gavinhoward.com/gavin/bc"
   },
