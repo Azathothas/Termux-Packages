@@ -11833,7 +11833,7 @@
   },
   {
     "Package": "pup",
-    "Version": "0.4.0-5",
+    "Version": "0.4.0-6",
     "Description": "command line tool for processing HTML",
     "Homepage": "https://github.com/ericchiang/pup"
   },
@@ -11869,19 +11869,19 @@
   },
   {
     "Package": "pypy",
-    "Version": "7.3.15-2",
+    "Version": "7.3.16",
     "Description": "A fast, compliant alternative implementation of Python",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tests",
-    "Version": "7.3.15-2",
+    "Version": "7.3.16",
     "Description": "Test files for PyPy",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tkinter",
-    "Version": "7.3.15-2",
+    "Version": "7.3.16",
     "Description": "Tkinter support for PyPy",
     "Homepage": "https://pypy.org"
   },
