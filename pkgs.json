@@ -2287,7 +2287,7 @@
   },
   {
     "Package": "elixir",
-    "Version": "1.17.2",
+    "Version": "1.17.2-1",
     "Description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
     "Homepage": "https://elixir-lang.org/"
   },
