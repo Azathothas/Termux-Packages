@@ -1191,8 +1191,8 @@
 | **libnftnl-static** | 1.2.7 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
 | **libnghttp2** | 1.62.1 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
 | **libnghttp2-static** | 1.62.1 | Static libraries for libnghttp2 | https://nghttp2.org/ |
-| **libnghttp3** | 1.4.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
-| **libnghttp3-static** | 1.4.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
+| **libnghttp3** | 1.5.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
+| **libnghttp3-static** | 1.5.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libnl** | 3.10.0 | Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces | https://github.com/thom311/libnl |
 | **libnl-cli** | 3.10.0 | Command-line interface utilities for libnl | https://github.com/thom311/libnl |
 | **libnl-cli-static** | 3.10.0 | Static libraries for libnl-cli | https://github.com/thom311/libnl |

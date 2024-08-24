@@ -7087,13 +7087,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.4.0",
+    "Version": "1.5.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.4.0",
+    "Version": "1.5.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
