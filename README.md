@@ -360,9 +360,9 @@
 | **dotconf-static** | 1.4.1 | Static libraries for dotconf | https://github.com/williamh/dotconf |
 | **double-conversion** | 3.3.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
 | **doxygen** | 1.12.0 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
-| **dpkg** | 1.22.6 | Debian package management system | https://packages.debian.org/dpkg |
-| **dpkg-perl** | 1.22.6 | Perl modules for dpkg | https://packages.debian.org/dpkg |
-| **dpkg-scanpackages** | 1.22.6 | Creates Packages index files | https://packages.debian.org/dpkg |
+| **dpkg** | 1.22.6-1 | Debian package management system | https://packages.debian.org/dpkg |
+| **dpkg-perl** | 1.22.6-1 | Perl modules for dpkg | https://packages.debian.org/dpkg |
+| **dpkg-scanpackages** | 1.22.6-1 | Creates Packages index files | https://packages.debian.org/dpkg |
 | **dropbear** | 2022.83-1 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | **dtach** | 0.9 | Emulates the detach feature of screen | http://dtach.sourceforge.net/ |
 | **dtc** | 1.7.0-1 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
@@ -665,7 +665,7 @@
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-6 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
 | **hexedit** | 1.6 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
-| **hexer** | 1.0.6 | A multi-buffer editor for binary files for Unix-like systems that displays its buffer(s) as a hex dump | https://devel.ringlet.net/editors/hexer/ |
+| **hexer** | 1.0.6-1 | A multi-buffer editor for binary files for Unix-like systems that displays its buffer(s) as a hex dump | https://devel.ringlet.net/editors/hexer/ |
 | **hexyl** | 0.14.0 | A command-line hex viewer | https://github.com/sharkdp/hexyl |
 | **heyu** | 1:2.10.3-1 | Program for remotely controlling lights and appliances | https://www.heyu.org/ |
 | **hfsutils** | 3.2.6-1 | Tool for manipulating HFS images. | https://www.mars.org/home/rob/proj/hfs/ |
@@ -1822,8 +1822,8 @@
 | **opencolorio-static** | 2.1.2 | Static libraries for opencolorio | https://opencolorio.org |
 | **opencv** | 4.9.0 | Open Source Computer Vision Library | https://opencv.org/ |
 | **opencv-python** | 4.9.0 | Python bindings for OpenCV | https://opencv.org/ |
-| **openethereum** | 3.3.5-1 | Lightweight Ethereum Client | https://openethereum.github.io |
-| **openethereum-utils** | 3.3.5-1 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
+| **openethereum** | 3.3.5-2 | Lightweight Ethereum Client | https://openethereum.github.io |
+| **openethereum-utils** | 3.3.5-2 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
 | **openexr** | 3.2.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2406 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 0.1 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
@@ -1894,7 +1894,7 @@
 | **pdf2svg** | 0.2.3-11 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
 | **pdfcpu** | 0.8.0 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.2.0-3 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
-| **pdftk** | 3.3.3-1 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
+| **pdftk** | 3.3.3-2 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-5 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
 | **perl** | 5.38.2-3 | Capable, feature-rich programming language | https://www.perl.org/ |
@@ -1911,7 +1911,7 @@
 | **php-apcu** | 5.1.23-2 | APCu - APC User Cache | http://php.net/apcu |
 | **php-fpm** | 8.3.10 | FastCGI Process Manager for PHP | https://php.net |
 | **php-gd** | 8.3.10 | gd module for PHP | https://php.net |
-| **php-imagick** | 3.7.0-4 | The Imagick PHP extension | https://github.com/Imagick/imagick |
+| **php-imagick** | 3.7.0-5 | The Imagick PHP extension | https://github.com/Imagick/imagick |
 | **php-ldap** | 8.3.10 | LDAP module for PHP | https://php.net |
 | **php-pgsql** | 8.3.10 | PostgreSQL modules for PHP | https://php.net |
 | **php-psr** | 1.2.0-3 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
@@ -1941,8 +1941,8 @@
 | **poke** | 4.2 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.2 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
-| **polyml** | 5.9.1 | A Standard ML implementation | https://www.polyml.org/ |
-| **polyml-static** | 5.9.1 | Static libraries for polyml | https://www.polyml.org/ |
+| **polyml** | 5.9.1-1 | A Standard ML implementation | https://www.polyml.org/ |
+| **polyml-static** | 5.9.1-1 | Static libraries for polyml | https://www.polyml.org/ |
 | **pomodoro-curses** | 2.5 | A simple pomodoro timer written with the Ncurses library | https://github.com/chunga2020/pomodoro_curses |
 | **poppler** | 24.05.0 | PDF rendering library | https://poppler.freedesktop.org/ |
 | **poppler-data** | 0.4.12 | Consists of encoding files for use with poppler | https://poppler.freedesktop.org/ |

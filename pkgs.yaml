@@ -1399,15 +1399,15 @@
   Description: A documentation system for C++, C, Java, IDL and PHP
   Homepage: http://www.doxygen.org
 - Package: dpkg
-  Version: 1.22.6
+  Version: 1.22.6-1
   Description: Debian package management system
   Homepage: https://packages.debian.org/dpkg
 - Package: dpkg-perl
-  Version: 1.22.6
+  Version: 1.22.6-1
   Description: Perl modules for dpkg
   Homepage: https://packages.debian.org/dpkg
 - Package: dpkg-scanpackages
-  Version: 1.22.6
+  Version: 1.22.6-1
   Description: Creates Packages index files
   Homepage: https://packages.debian.org/dpkg
 - Package: dropbear
@@ -2619,7 +2619,7 @@
   Description: view and edit files in hexadecimal or in ASCII
   Homepage: http://rigaux.org/hexedit.html
 - Package: hexer
-  Version: 1.0.6
+  Version: 1.0.6-1
   Description: A multi-buffer editor for binary files for Unix-like systems that displays its buffer(s) as a hex dump
   Homepage: https://devel.ringlet.net/editors/hexer/
 - Package: hexyl
@@ -7247,11 +7247,11 @@
   Description: Python bindings for OpenCV
   Homepage: https://opencv.org/
 - Package: openethereum
-  Version: 3.3.5-1
+  Version: 3.3.5-2
   Description: Lightweight Ethereum Client
   Homepage: https://openethereum.github.io
 - Package: openethereum-utils
-  Version: 3.3.5-1
+  Version: 3.3.5-2
   Description: Additional utilities for OpenEthereum (like evm, ethstore, ethkey)
   Homepage: https://openethereum.github.io
 - Package: openexr
@@ -7535,7 +7535,7 @@
   Description: Command line utility to search text in PDF files
   Homepage: https://pdfgrep.org/
 - Package: pdftk
-  Version: 3.3.3-1
+  Version: 3.3.3-2
   Description: A simple tool for doing everyday things with PDF documents
   Homepage: https://gitlab.com/pdftk-java/pdftk
 - Package: peaclock
@@ -7603,7 +7603,7 @@
   Description: gd module for PHP
   Homepage: https://php.net
 - Package: php-imagick
-  Version: 3.7.0-4
+  Version: 3.7.0-5
   Description: The Imagick PHP extension
   Homepage: https://github.com/Imagick/imagick
 - Package: php-ldap
@@ -7723,11 +7723,11 @@
   Description: A small and fast caching web proxy
   Homepage: http://www.pps.jussieu.fr/~jch/software/polipo/
 - Package: polyml
-  Version: 5.9.1
+  Version: 5.9.1-1
   Description: A Standard ML implementation
   Homepage: https://www.polyml.org/
 - Package: polyml-static
-  Version: 5.9.1
+  Version: 5.9.1-1
   Description: Static libraries for polyml
   Homepage: https://www.polyml.org/
 - Package: pomodoro-curses
