@@ -529,7 +529,7 @@
 | **git-delta** | 0.18.0 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-gitk** | 2.46.0 | Git repository browser | https://git-scm.com/ |
 | **git-gui** | 2.46.0 | A graphical interface to Git | https://git-scm.com/ |
-| **git-lfs** | 3.5.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
+| **git-lfs** | 3.5.1-1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.46.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **gitea** | 1.22.1 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
@@ -2472,7 +2472,7 @@
 | **uuid-utils** | 2.39.3-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.3.3 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.26-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
-| **v2ray** | 5.16.1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
+| **v2ray** | 5.16.1-1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.17 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.17 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |

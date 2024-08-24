@@ -2123,7 +2123,7 @@
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
-  Version: 3.5.1
+  Version: 3.5.1-1
   Description: Git extension for versioning large files
   Homepage: https://git-lfs.github.com/
 - Package: git-sizer
@@ -9895,7 +9895,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.16.1
+  Version: 5.16.1-1
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac
