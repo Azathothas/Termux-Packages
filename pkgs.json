@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "helm-ls",
-    "Version": "0.0.21",
+    "Version": "0.0.22",
     "Description": "Language server for Helm",
     "Homepage": "https://github.com/mrjosh/helm-ls"
   },
