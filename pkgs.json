@@ -6781,15 +6781,15 @@
   },
   {
     "Package": "libmhash",
-    "Version": "0.9.9.9-2",
+    "Version": "0.9.9.9-3",
     "Description": "A thread-safe hash library which provides a uniform interface to hash algorithms",
-    "Homepage": "http://mhash.sourceforge.net/"
+    "Homepage": "https://mhash.sourceforge.net/"
   },
   {
     "Package": "libmhash-static",
-    "Version": "0.9.9.9-2",
+    "Version": "0.9.9.9-3",
     "Description": "Static libraries for libmhash",
-    "Homepage": "http://mhash.sourceforge.net/"
+    "Homepage": "https://mhash.sourceforge.net/"
   },
   {
     "Package": "libmicrohttpd",
@@ -12379,13 +12379,13 @@
   },
   {
     "Package": "ravencoin",
-    "Version": "4.6.1-4",
+    "Version": "4.6.1-5",
     "Description": "A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another",
     "Homepage": "https://ravencoin.org/"
   },
   {
     "Package": "ravencoin-static",
-    "Version": "4.6.1-4",
+    "Version": "4.6.1-5",
     "Description": "Static libraries for ravencoin",
     "Homepage": "https://ravencoin.org/"
   },
@@ -13585,9 +13585,9 @@
   },
   {
     "Package": "steghide",
-    "Version": "0.5.1-6",
+    "Version": "0.5.1-7",
     "Description": "Embeds a message in a file by replacing some of the least significant bits",
-    "Homepage": "http://steghide.sourceforge.net/"
+    "Homepage": "https://steghide.sourceforge.net/"
   },
   {
     "Package": "stemwords",
@@ -15247,7 +15247,7 @@
   },
   {
     "Package": "weggli",
-    "Version": "0.2.4",
+    "Version": "0.2.4-1",
     "Description": "A fast and robust semantic search tool for C and C++ codebases",
     "Homepage": "https://github.com/googleprojectzero/weggli"
   },

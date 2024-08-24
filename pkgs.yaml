@@ -4519,13 +4519,13 @@
   Description: Static libraries for libmesode
   Homepage: https://github.com/boothj5/libmesode
 - Package: libmhash
-  Version: 0.9.9.9-2
+  Version: 0.9.9.9-3
   Description: A thread-safe hash library which provides a uniform interface to hash algorithms
-  Homepage: http://mhash.sourceforge.net/
+  Homepage: https://mhash.sourceforge.net/
 - Package: libmhash-static
-  Version: 0.9.9.9-2
+  Version: 0.9.9.9-3
   Description: Static libraries for libmhash
-  Homepage: http://mhash.sourceforge.net/
+  Homepage: https://mhash.sourceforge.net/
 - Package: libmicrohttpd
   Version: 1.0.1
   Description: A small C library that is supposed to make it easy to run an HTTP server as part of another application
@@ -8251,11 +8251,11 @@
   Description: An AV1 encoder program focused on speed and safety
   Homepage: https://github.com/xiph/rav1e/
 - Package: ravencoin
-  Version: 4.6.1-4
+  Version: 4.6.1-5
   Description: A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another
   Homepage: https://ravencoin.org/
 - Package: ravencoin-static
-  Version: 4.6.1-4
+  Version: 4.6.1-5
   Description: Static libraries for ravencoin
   Homepage: https://ravencoin.org/
 - Package: rbw
@@ -9055,9 +9055,9 @@
   Description: Patch the isatty() calls for colored output in pipeline
   Homepage: https://github.com/lilydjwg/stdoutisatty
 - Package: steghide
-  Version: 0.5.1-6
+  Version: 0.5.1-7
   Description: Embeds a message in a file by replacing some of the least significant bits
-  Homepage: http://steghide.sourceforge.net/
+  Homepage: https://steghide.sourceforge.net/
 - Package: stemwords
   Version: 2.2.0-1
   Description: A command-line tool which uses libstemmer
@@ -10163,7 +10163,7 @@
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli
-  Version: 0.2.4
+  Version: 0.2.4-1
   Description: A fast and robust semantic search tool for C and C++ codebases
   Homepage: https://github.com/googleprojectzero/weggli
 - Package: wego
