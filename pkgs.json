@@ -3169,7 +3169,7 @@
   },
   {
     "Package": "git-delta",
-    "Version": "0.18.0",
+    "Version": "0.18.1",
     "Description": "A syntax-highlighter for git and diff output",
     "Homepage": "https://dandavison.github.io/delta/"
   },
@@ -13747,7 +13747,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.9",
+    "Version": "9.3.10",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
@@ -13951,7 +13951,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.1.4",
+    "Version": "16.1.8",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
