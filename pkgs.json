@@ -3696,6 +3696,12 @@
     "Homepage": "https://github.com/tomnomnom/gron"
   },
   {
+    "Package": "groonga",
+    "Version": "14.0.6",
+    "Description": "An embeddable fulltext search engine",
+    "Homepage": "https://github.com/groonga/groonga/"
+  },
+  {
     "Package": "groovy",
     "Version": "4.0.16-3",
     "Description": "A powerful multi-faceted programming language for the JVM platform",
@@ -10782,6 +10788,18 @@
     "Homepage": "https://onefetch.dev/"
   },
   {
+    "Package": "onigmo",
+    "Version": "6.2.0",
+    "Description": "A regular expressions library forked from Oniguruma",
+    "Homepage": "https://github.com/k-takata/Onigmo"
+  },
+  {
+    "Package": "onigmo-static",
+    "Version": "6.2.0",
+    "Description": "Static libraries for onigmo",
+    "Homepage": "https://github.com/k-takata/Onigmo"
+  },
+  {
     "Package": "oniguruma",
     "Version": "6.9.9",
     "Description": "Regular expressions library",
@@ -11344,6 +11362,12 @@
     "Version": "1:2.0.1",
     "Description": "Portable Forth in C",
     "Homepage": "http://www.softsynth.com/pforth/"
+  },
+  {
+    "Package": "pgroonga",
+    "Version": "3.2.2",
+    "Description": "A PostgreSQL extension to use Groonga as index",
+    "Homepage": "https://github.com/pgroonga/pgroonga"
   },
   {
     "Package": "photon-rss",
