@@ -446,7 +446,7 @@
  flatbuffers-static  24.3.25  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
  flex  2.6.4-3  Fast lexical analyser generator  https://github.com/westes/flex 
  flex-static  2.6.4-3  Static libraries for flex  https://github.com/westes/flex 
- fluidsynth  2.3.6  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
+ fluidsynth  2.3.6-1  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
  fm  1.1.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:9.1.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.15.0  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
