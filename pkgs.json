@@ -13111,7 +13111,7 @@
   },
   {
     "Package": "sheldon",
-    "Version": "0.7.4",
+    "Version": "0.8.0",
     "Description": "Fast, configurable, shell plugin manager",
     "Homepage": "https://github.com/rossmacarthur/sheldon"
   },
@@ -15253,7 +15253,7 @@
   },
   {
     "Package": "wego",
-    "Version": "2.2-1",
+    "Version": "2.3",
     "Description": "weather app for the terminal",
     "Homepage": "https://github.com/schachmat/wego"
   },

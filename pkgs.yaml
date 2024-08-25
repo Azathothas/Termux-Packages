@@ -8739,7 +8739,7 @@
   Description: Shell script compiler
   Homepage: https://neurobin.org/projects/softwares/unix/shc/
 - Package: sheldon
-  Version: 0.7.4
+  Version: 0.8.0
   Description: Fast, configurable, shell plugin manager
   Homepage: https://github.com/rossmacarthur/sheldon
 - Package: shell2http
@@ -10167,7 +10167,7 @@
   Description: A fast and robust semantic search tool for C and C++ codebases
   Homepage: https://github.com/googleprojectzero/weggli
 - Package: wego
-  Version: 2.2-1
+  Version: "2.3"
   Description: weather app for the terminal
   Homepage: https://github.com/schachmat/wego
 - Package: wget
