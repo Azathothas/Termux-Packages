@@ -14599,7 +14599,7 @@
   },
   {
     "Package": "typst-lsp",
-    "Version": "0.13.0",
+    "Version": "0.13.0-1",
     "Description": "Language server for Typst",
     "Homepage": "https://github.com/nvarner/typst-lsp"
   },

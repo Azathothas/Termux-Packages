@@ -2431,7 +2431,7 @@
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0 | The frontend for libtwolame | https://www.twolame.org/ |
 | **typst** | 0.11.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
-| **typst-lsp** | 0.13.0 | Language server for Typst | https://github.com/nvarner/typst-lsp |
+| **typst-lsp** | 0.13.0-1 | Language server for Typst | https://github.com/nvarner/typst-lsp |
 | **typstfmt** | 0.2.10 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |

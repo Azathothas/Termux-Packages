@@ -9731,7 +9731,7 @@
   Description: A new markup-based typesetting system that is powerful and easy to learn
   Homepage: https://typst.app/
 - Package: typst-lsp
-  Version: 0.13.0
+  Version: 0.13.0-1
   Description: Language server for Typst
   Homepage: https://github.com/nvarner/typst-lsp
 - Package: typstfmt
