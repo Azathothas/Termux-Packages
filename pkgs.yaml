@@ -2883,7 +2883,7 @@
   Description: Utilities for controlling networking
   Homepage: https://wiki.linuxfoundation.org/networking/iproute2
 - Package: ipv6calc
-  Version: 4.2.0
+  Version: 4.2.1
   Description: Does some format changes and calculations of IPv6 addresses
   Homepage: https://www.deepspace6.net/projects/ipv6calc.html
 - Package: ipv6toolkit
@@ -6815,7 +6815,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 17.0.2
+  Version: 17.0.3
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -8847,11 +8847,11 @@
   Description: Eat as much as you want while avoiding walls
   Homepage: https://github.com/gogakoreli/snake
 - Package: snapcast-client
-  Version: 0.28.0
+  Version: 0.29.0
   Description: A multiroom client-server audio player (client)
   Homepage: https://github.com/badaix/snapcast
 - Package: snapcast-server
-  Version: 0.28.0
+  Version: 0.29.0
   Description: A multiroom client-server audio player (server)
   Homepage: https://github.com/badaix/snapcast
 - Package: snmptt
@@ -9915,7 +9915,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.7.0
+  Version: 3.7.1
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind
@@ -10027,7 +10027,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.06
+  Version: 0.9.99.07
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
