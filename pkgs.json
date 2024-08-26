@@ -247,7 +247,7 @@
   },
   {
     "Package": "ani-cli",
-    "Version": "4.8-1",
+    "Version": "4.9",
     "Description": "A cli to browse and watch anime",
     "Homepage": "https://github.com/pystardust/ani-cli"
   },
@@ -3877,7 +3877,7 @@
   },
   {
     "Package": "hcl",
-    "Version": "2.21.0",
+    "Version": "2.22.0",
     "Description": "A toolkit for creating structured configuration languages",
     "Homepage": "https://github.com/hashicorp/hcl"
   },
@@ -4069,7 +4069,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.133.0",
+    "Version": "0.133.1",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -10591,7 +10591,7 @@
   },
   {
     "Package": "nnn",
-    "Version": "4.9",
+    "Version": "5.0",
     "Description": "Free, fast, friendly file browser",
     "Homepage": "https://github.com/jarun/nnn"
   },
@@ -14377,7 +14377,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.22.6-1",
+    "Version": "0.23.0",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14437,7 +14437,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.22.6-1",
+    "Version": "0.23.0",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
