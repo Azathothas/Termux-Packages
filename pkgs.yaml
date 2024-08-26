@@ -943,7 +943,7 @@
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
-  Version: 0.0.20240812.151717
+  Version: 0.0.20240813.131531
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
@@ -9983,7 +9983,7 @@
   Description: A collection of tools for the VGM file format
   Homepage: https://github.com/vgmrips/vgmtools
 - Package: viddy
-  Version: 0.4.0
+  Version: 1.0.0
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm
