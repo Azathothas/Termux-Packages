@@ -9263,7 +9263,7 @@
   Description: Utility for managing your TODO list
   Homepage: https://taskwarrior.org
 - Package: tcc
-  Version: 1:0.9.27-p20230415-1
+  Version: 1:0.9.27-p20230415-2
   Description: Tiny C Compiler
   Homepage: https://bellard.org/tcc/
 - Package: tcl
