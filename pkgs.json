@@ -2467,7 +2467,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.21.3",
+    "Version": "2.22.0",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -4729,7 +4729,7 @@
   },
   {
     "Package": "ldc",
-    "Version": "1.30.0",
+    "Version": "1.30.0-1",
     "Description": "D programming language compiler, built with LLVM",
     "Homepage": "https://github.com/ldc-developers/ldc"
   },
@@ -12829,7 +12829,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240819",
+    "Version": "20240826",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
@@ -14107,7 +14107,7 @@
   },
   {
     "Package": "termux-tools",
-    "Version": "1.43.3",
+    "Version": "1.43.4",
     "Description": "Basic system tools for Termux",
     "Homepage": "https://termux.dev/"
   },
@@ -14977,7 +14977,7 @@
   },
   {
     "Package": "viddy",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Description": "A modern watch command",
     "Homepage": "https://github.com/sachaos/viddy"
   },
