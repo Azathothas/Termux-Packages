@@ -751,25 +751,25 @@
   },
   {
     "Package": "binutils",
-    "Version": "2.42",
+    "Version": "2.43",
     "Description": "GNU Binutils (metapackage)",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
     "Package": "binutils-bin",
-    "Version": "2.42",
+    "Version": "2.43",
     "Description": "Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
     "Package": "binutils-cross",
-    "Version": "2.42",
+    "Version": "2.43",
     "Description": "GNU Binutils for cross build on the host (NOT for Termux)",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
   {
     "Package": "binutils-gold",
-    "Version": "2.42",
+    "Version": "2.43",
     "Description": "gold linker",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
@@ -781,7 +781,7 @@
   },
   {
     "Package": "binutils-libs",
-    "Version": "2.42",
+    "Version": "2.43",
     "Description": "GNU Binutils libraries",
     "Homepage": "https://www.gnu.org/software/binutils/"
   },
@@ -4213,13 +4213,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.1.36",
+    "Version": "7.1.1.37",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.1.36",
+    "Version": "7.1.1.37",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
