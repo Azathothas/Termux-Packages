@@ -4441,7 +4441,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.64.0",
+    "Version": "2.64.1",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -7081,13 +7081,13 @@
   },
   {
     "Package": "libnghttp2",
-    "Version": "1.62.1",
+    "Version": "1.63.0",
     "Description": "nghttp HTTP 2.0 library",
     "Homepage": "https://nghttp2.org/"
   },
   {
     "Package": "libnghttp2-static",
-    "Version": "1.62.1",
+    "Version": "1.63.0",
     "Description": "Static libraries for libnghttp2",
     "Homepage": "https://nghttp2.org/"
   },
@@ -10669,7 +10669,7 @@
   },
   {
     "Package": "nudoku",
-    "Version": "4.0.1",
+    "Version": "5.0.0",
     "Description": "ncurses based sudoku game",
     "Homepage": "http://jubalh.github.io/nudoku/"
   },
@@ -10759,7 +10759,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.7.2",
+    "Version": "23.8.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12829,7 +12829,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240826",
+    "Version": "20240827",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
@@ -13195,7 +13195,7 @@
   },
   {
     "Package": "silicon",
-    "Version": "0.5.2",
+    "Version": "0.5.2-1",
     "Description": "Silicon is an alternative to Carbon implemented in Rust",
     "Homepage": "https://github.com/Aloxaf/silicon"
   },
@@ -15193,7 +15193,7 @@
   },
   {
     "Package": "watchexec",
-    "Version": "1.22.3",
+    "Version": "2.1.2",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },

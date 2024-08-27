@@ -2959,7 +2959,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.64.0
+  Version: 2.64.1
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -4719,11 +4719,11 @@
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
-  Version: 1.62.1
+  Version: 1.63.0
   Description: nghttp HTTP 2.0 library
   Homepage: https://nghttp2.org/
 - Package: libnghttp2-static
-  Version: 1.62.1
+  Version: 1.63.0
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
@@ -7111,7 +7111,7 @@
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
-  Version: 4.0.1
+  Version: 5.0.0
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
@@ -7171,7 +7171,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.7.2
+  Version: 23.8.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8551,7 +8551,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240826"
+  Version: "20240827"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -8795,7 +8795,7 @@
   Description: Lightweight cryptographic signing and verifying tool
   Homepage: https://github.com/aperezdc/signify
 - Package: silicon
-  Version: 0.5.2
+  Version: 0.5.2-1
   Description: Silicon is an alternative to Carbon implemented in Rust
   Homepage: https://github.com/Aloxaf/silicon
 - Package: silversearcher-ag
@@ -10127,7 +10127,7 @@
   Description: Static libraries for wasmedge
   Homepage: https://wasmedge.org/
 - Package: watchexec
-  Version: 1.22.3
+  Version: 2.1.2
   Description: Executes commands in response to file modifications
   Homepage: https://github.com/watchexec/watchexec
 - Package: wavpack
