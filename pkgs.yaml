@@ -3723,7 +3723,7 @@
   Description: Static libraries for libdmtx
   Homepage: https://github.com/dmtx/libdmtx
 - Package: libdrm
-  Version: 2.4.122
+  Version: 2.4.123
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
@@ -8899,7 +8899,7 @@
   Description: Static libraries for softether-vpn
   Homepage: https://www.softether.org/
 - Package: soju
-  Version: 0.8.1
+  Version: 0.8.2
   Description: A user-friendly IRC bouncer
   Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
@@ -9315,7 +9315,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 16.1.8
+  Version: 16.2.0
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -9403,7 +9403,7 @@
   Description: Service daemon for Termux
   Homepage: https://github.com/termux/termux-services/
 - Package: termux-tools
-  Version: 1.43.4
+  Version: 1.43.4-1
   Description: Basic system tools for Termux
   Homepage: https://termux.dev/
 - Package: teseq

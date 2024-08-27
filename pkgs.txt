@@ -929,7 +929,7 @@
  libdispatch  1:5.10  The libdispatch project, for concurrency on multicore hardware  https://github.com/apple/swift-corelibs-libdispatch 
  libdmtx  0.7.7  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
  libdmtx-static  0.7.7  Static libraries for libdmtx  https://github.com/dmtx/libdmtx 
- libdrm  2.4.122  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
+ libdrm  2.4.123  Userspace interface to kernel DRM services  https://dri.freedesktop.org/wiki/ 
  libduckdb  1.0.0  An in-process SQL OLAP database management system  https://duckdb.org/ 
  libduckdb-static  1.0.0  Static libraries for libduckdb  https://duckdb.org/ 
  libduktape  2.7.0  An embeddable Javascript engine with a focus on portability and compact footprint  https://www.duktape.org/ 
@@ -2223,7 +2223,7 @@
  socat  1.8.0.0-2  Relay for bidirectional data transfer between two independent data channels  http://www.dest-unreach.org/socat/ 
  softether-vpn  5.02.5180-4  An open-source cross-platform multi-protocol VPN program  https://www.softether.org/ 
  softether-vpn-static  5.02.5180-4  Static libraries for softether-vpn  https://www.softether.org/ 
- soju  0.8.1  A user-friendly IRC bouncer  https://codeberg.org/emersion/soju 
+ soju  0.8.2  A user-friendly IRC bouncer  https://codeberg.org/emersion/soju 
  solidity  0.8.26  An Ethereum smart contract-oriented language  https://solidity.readthedocs.io 
  sops  3.9.0  Simple and flexible tool for managing secrets  https://github.com/getsops/sops 
  sord  0.16.16-1  A lightweight C library for storing RDF data in memory  https://drobilla.net/software/sord.html 
@@ -2327,7 +2327,7 @@
  tectonic  0.15.0-2  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20240730  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-6  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  16.1.8  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  16.2.0  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.5.1-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-4  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
@@ -2349,7 +2349,7 @@
  termux-keyring  3.12-1  GPG public keys for the official Termux repositories  https://github.com/termux 
  termux-licenses  2.0-3  Contains LICENSE files for common licenses  https://termux.dev 
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
- termux-tools  1.43.4  Basic system tools for Termux  https://termux.dev/ 
+ termux-tools  1.43.4-1  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
  tesseract  5.4.1-1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.0.9  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
