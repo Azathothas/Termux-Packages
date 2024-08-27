@@ -3487,13 +3487,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.23.0",
+    "Version": "3:1.23.0-1",
     "Description": "Go programming language compiler",
     "Homepage": "https://golang.org/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.23.0",
+    "Version": "3:1.23.0-1",
     "Description": "Go programming language - documentation",
     "Homepage": "https://golang.org/"
   },
@@ -9553,13 +9553,13 @@
   },
   {
     "Package": "mariadb",
-    "Version": "2:11.5.2",
+    "Version": "2:11.5.2-1",
     "Description": "A drop-in replacement for mysql server",
     "Homepage": "https://mariadb.org"
   },
   {
     "Package": "mariadb-static",
-    "Version": "2:11.5.2",
+    "Version": "2:11.5.2-1",
     "Description": "Static libraries for mariadb",
     "Homepage": "https://mariadb.org"
   },
@@ -11581,7 +11581,7 @@
   },
   {
     "Package": "pngquant",
-    "Version": "3.0.3",
+    "Version": "3.0.3-1",
     "Description": "PNG image optimising utility",
     "Homepage": "https://pngquant.org"
   },

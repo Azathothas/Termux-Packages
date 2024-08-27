@@ -591,8 +591,8 @@
 | **gobject-introspection** | 1.80.1 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.0-2 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.16 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.23.0 | Go programming language compiler | https://golang.org/ |
-| **golang-doc** | 3:1.23.0 | Go programming language - documentation | https://golang.org/ |
+| **golang** | 3:1.23.0-1 | Go programming language compiler | https://golang.org/ |
+| **golang-doc** | 3:1.23.0-1 | Go programming language - documentation | https://golang.org/ |
 | **gomp** | 2023.02.02-2 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 0.3.1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
@@ -1602,8 +1602,8 @@
 | **mangal** | 4.0.6-2 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manpages** | 6.9.1 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.0.1-4 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
-| **mariadb** | 2:11.5.2 | A drop-in replacement for mysql server | https://mariadb.org |
-| **mariadb-static** | 2:11.5.2 | Static libraries for mariadb | https://mariadb.org |
+| **mariadb** | 2:11.5.2-1 | A drop-in replacement for mysql server | https://mariadb.org |
+| **mariadb-static** | 2:11.5.2-1 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.2.6-2 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
 | **marisa-static** | 0.2.6-2 | Static libraries for marisa | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.0-2 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
@@ -1940,7 +1940,7 @@
 | **plutolang** | 0.9.4 | A superset of Lua 5.4, with unique features, optimizations, and improvements | https://plutolang.github.io/ |
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
-| **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
+| **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
 | **pocketbase** | 0.22.19 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.2 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.2 | Static libraries for poke | http://www.jemarch.net/poke.html |
