@@ -9847,7 +9847,7 @@
   },
   {
     "Package": "micro",
-    "Version": "2.0.14",
+    "Version": "2.0.14-1",
     "Description": "Modern and intuitive terminal-based text editor",
     "Homepage": "https://micro-editor.github.io/"
   },
