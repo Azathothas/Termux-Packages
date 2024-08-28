@@ -997,7 +997,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.38.0",
+    "Version": "1.39.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -3643,13 +3643,13 @@
   },
   {
     "Package": "graphicsmagick",
-    "Version": "1.3.44",
+    "Version": "1.3.45",
     "Description": "Collection of image processing tools",
     "Homepage": "http://www.graphicsmagick.org/"
   },
   {
     "Package": "graphicsmagick-static",
-    "Version": "1.3.44",
+    "Version": "1.3.45",
     "Description": "Static libraries for graphicsmagick",
     "Homepage": "http://www.graphicsmagick.org/"
   },
@@ -9847,7 +9847,7 @@
   },
   {
     "Package": "micro",
-    "Version": "2.0.13",
+    "Version": "2.0.14",
     "Description": "Modern and intuitive terminal-based text editor",
     "Homepage": "https://micro-editor.github.io/"
   },
@@ -11587,7 +11587,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.22.19",
+    "Version": "0.22.20",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -12817,7 +12817,7 @@
   },
   {
     "Package": "rush",
-    "Version": "0.5.4",
+    "Version": "0.5.5",
     "Description": "A cross-platform command-line tool for executing jobs in parallel",
     "Homepage": "https://github.com/shenwei356/rush"
   },
