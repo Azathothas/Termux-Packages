@@ -2422,7 +2422,7 @@
 | **tree-sitter-vimdoc** | 3.0.0-1 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
 | **tree-sitter-vimdoc-static** | 3.0.0-1 | Static libraries for tree-sitter-vimdoc | https://github.com/neovim/tree-sitter-vimdoc |
 | **trojan-go** | 0.10.6-3 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
-| **trurl** | 0.14 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
+| **trurl** | 0.15 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
 | **trzsz-go** | 1.1.8 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
 | **trzsz-ssh** | 0.1.22 | An openssh client alternative | https://trzsz.github.io/ssh |
 | **tsduck-java** | 3.37.3670 | Java bindings for TSDuck | https://tsduck.io/ |

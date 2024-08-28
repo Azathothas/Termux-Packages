@@ -14473,7 +14473,7 @@
   },
   {
     "Package": "trurl",
-    "Version": "0.14",
+    "Version": "0.15",
     "Description": "trurl is a command line tool that parses and manipulates URLs",
     "Homepage": "https://curl.se/trurl/"
   },
