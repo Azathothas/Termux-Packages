@@ -703,7 +703,7 @@
   },
   {
     "Package": "bc-gh",
-    "Version": "7.0.0",
+    "Version": "7.0.1",
     "Description": "Unix dc and POSIX bc with GNU and BSD extensions",
     "Homepage": "https://git.gavinhoward.com/gavin/bc"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.19.0",
+    "Version": "0.19.1",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -3331,13 +3331,13 @@
   },
   {
     "Package": "gmic",
-    "Version": "3.4.0-1",
+    "Version": "3.4.1",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.4.0-1",
+    "Version": "3.4.1",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
@@ -14857,7 +14857,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.3.5",
+    "Version": "0.4.0",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
