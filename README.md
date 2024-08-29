@@ -53,7 +53,7 @@
 | **angle-grinder** | 0.19.4 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.9 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.20 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
-| **ant** | 1.10.14 | Java based build tool like make | https://ant.apache.org/ |
+| **ant** | 1.10.15 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-2 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-3 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
 | **aom-tools** | 3.9.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
@@ -412,7 +412,7 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 12.93 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 12.94 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.3 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -750,7 +750,7 @@
 | **jbig2enc-static** | 2023.01.08-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.64.1 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.65.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1747,7 +1747,7 @@
 | **ndk-sysroot** | 27-1 | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.3 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
-| **neocmakelsp** | 0.8.1 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
+| **neocmakelsp** | 0.8.2 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20240425-1 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.10.1-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
@@ -1803,7 +1803,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 23.9.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 23.9.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1-1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2102,7 +2102,7 @@
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-2 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
 | **redis** | 1:7.2.5 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
-| **remind** | 1:05.00.03 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
+| **remind** | 1:05.00.04 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-2 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
@@ -2143,7 +2143,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.2-1 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.2-1 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.6.2 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.6.3 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.5 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |

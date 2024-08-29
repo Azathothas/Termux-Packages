@@ -259,7 +259,7 @@
   },
   {
     "Package": "ant",
-    "Version": "1.10.14",
+    "Version": "1.10.15",
     "Description": "Java based build tool like make",
     "Homepage": "https://ant.apache.org/"
   },
@@ -2413,7 +2413,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "12.93",
+    "Version": "12.94",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -4441,7 +4441,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.64.1",
+    "Version": "2.65.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -10423,7 +10423,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.1",
+    "Version": "0.8.2",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -10759,7 +10759,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.9.0",
+    "Version": "23.9.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12553,7 +12553,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:05.00.03",
+    "Version": "1:05.00.04",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -12799,7 +12799,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.6.2",
+    "Version": "0.6.3",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
