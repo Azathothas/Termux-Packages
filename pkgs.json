@@ -4567,7 +4567,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.34.0",
+    "Version": "1.35.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -9067,7 +9067,7 @@
   },
   {
     "Package": "libzim",
-    "Version": "9.2.2",
+    "Version": "9.2.3",
     "Description": "The ZIM library is the reference implementation for the ZIM file format.",
     "Homepage": "https://openzim.org"
   },
