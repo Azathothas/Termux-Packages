@@ -2857,7 +2857,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.54.3",
+    "Version": "0.55.0",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -10759,7 +10759,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.8.0",
+    "Version": "23.9.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12553,7 +12553,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:05.00.02",
+    "Version": "1:05.00.03",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
