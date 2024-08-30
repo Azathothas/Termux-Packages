@@ -11893,19 +11893,19 @@
   },
   {
     "Package": "pypy",
-    "Version": "7.3.16",
+    "Version": "7.3.17",
     "Description": "A fast, compliant alternative implementation of Python",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tests",
-    "Version": "7.3.16",
+    "Version": "7.3.17",
     "Description": "Test files for PyPy",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tkinter",
-    "Version": "7.3.16",
+    "Version": "7.3.17",
     "Description": "Tkinter support for PyPy",
     "Homepage": "https://pypy.org"
   },
