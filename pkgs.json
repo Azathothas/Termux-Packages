@@ -9907,7 +9907,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.08.26.15.33.07",
+    "Version": "2024.08.29.01.40.52",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -15175,7 +15175,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.6",
+    "Version": "0.5.7",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
