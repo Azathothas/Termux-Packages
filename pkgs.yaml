@@ -183,7 +183,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.9.1
+  Version: 3.10.0
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: apache-orc
@@ -1607,7 +1607,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "12.94"
+  Version: "12.95"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -3335,11 +3335,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.9.1
+  Version: 3.10.0
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.9.1
+  Version: 3.10.0
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
@@ -4367,11 +4367,11 @@
   Description: A logging framework for C++ patterned after Apache log4j
   Homepage: https://logging.apache.org/log4cxx/latest_stable/index.html
 - Package: liblqr
-  Version: 0.4.2
+  Version: 0.4.3
   Description: Provides a C/C++ API for performing non-uniform resizing of images by the seam-carving technique
   Homepage: https://github.com/carlobaldassi/liblqr
 - Package: liblqr-static
-  Version: 0.4.2
+  Version: 0.4.3
   Description: Static libraries for liblqr
   Homepage: https://github.com/carlobaldassi/liblqr
 - Package: liblrdf
@@ -6419,11 +6419,11 @@
   Description: Mazes in your terminal
   Homepage: https://github.com/Canop/mazter
 - Package: mbedtls
-  Version: 3.6.0
+  Version: 3.6.1
   Description: Light-weight cryptographic and SSL/TLS library
   Homepage: https://tls.mbed.org/
 - Package: mbedtls-static
-  Version: 3.6.0
+  Version: 3.6.1
   Description: Static libraries for mbedtls
   Homepage: https://tls.mbed.org/
 - Package: mc
@@ -9903,7 +9903,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.0
+  Version: 0.4.1
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
