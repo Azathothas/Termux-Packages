@@ -157,7 +157,7 @@
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.14 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20240606 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.42.0 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.43.0 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-1 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
@@ -453,7 +453,7 @@
 | **fontconfig-static** | 2.15.0 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.15.0 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 8.0.1 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 8.0.2 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.24 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
@@ -645,7 +645,7 @@
 | **hash-slinger** | 3.3 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.22.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.46.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.47.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 24.07-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 24.07-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
@@ -2134,7 +2134,7 @@
 | **ruff** | 0.6.3 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
-| **rush** | 0.5.5 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
+| **rush** | 0.5.6 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.80.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20240827 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.70.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
@@ -2513,7 +2513,7 @@
 | **vttest** | 20240708 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.294 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.3.294 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.3.295 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.3.294 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
