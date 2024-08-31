@@ -7431,7 +7431,7 @@
   Description: Archive OpenPGP keys on paper
   Homepage: http://www.jabberwocky.com/software/paperkey/
 - Package: par2
-  Version: 0.8.1-3
+  Version: 0.8.1-4
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
