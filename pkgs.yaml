@@ -147,7 +147,7 @@
   Description: A periodic command scheduler
   Homepage: http://anacron.sourceforge.net/
 - Package: android-tools
-  Version: 35.0.1-2
+  Version: 35.0.2
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
@@ -3023,7 +3023,7 @@
   Description: Static libraries for json-c
   Homepage: https://github.com/json-c/json-c/wiki
 - Package: json-glib
-  Version: 1.9.2
+  Version: 1.10.0
   Description: GLib JSON manipulation library
   Homepage: https://wiki.gnome.org/Projects/JsonGlib
 - Package: jsoncpp

@@ -223,7 +223,7 @@
   },
   {
     "Package": "android-tools",
-    "Version": "35.0.1-2",
+    "Version": "35.0.2",
     "Description": "Android platform tools",
     "Homepage": "https://developer.android.com/"
   },
@@ -4537,7 +4537,7 @@
   },
   {
     "Package": "json-glib",
-    "Version": "1.9.2",
+    "Version": "1.10.0",
     "Description": "GLib JSON manipulation library",
     "Homepage": "https://wiki.gnome.org/Projects/JsonGlib"
   },
