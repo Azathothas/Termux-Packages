@@ -39,11 +39,11 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 13.0.0.6-13
+  Version: 13.0.0.6-14
   Description: Android Asset Packaging Tool
   Homepage: https://elinux.org/Android_aapt
 - Package: aapt2
-  Version: 13.0.0.6-13
+  Version: 13.0.0.6-14
   Description: AAPT2 (Android Asset Packaging Tool)
   Homepage: https://elinux.org/Android_aapt
 - Package: abduco
@@ -99,7 +99,7 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 13.0.0.6-13
+  Version: 13.0.0.6-14
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://elinux.org/Android_aapt
 - Package: alass
@@ -1591,7 +1591,7 @@
   Description: Static libraries for espeak
   Homepage: https://github.com/espeak-ng/espeak-ng
 - Package: et
-  Version: 6.2.9-1
+  Version: 6.2.9-2
   Description: A remote shell that automatically reconnects without interrupting the session
   Homepage: https://eternalterminal.dev
 - Package: etsh
@@ -4043,7 +4043,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.66.1
+  Version: 1.66.1-1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -4655,11 +4655,11 @@
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
-  Version: 20230627-4
+  Version: 20230627-5
   Description: A high-performance neural network inference framework optimized for the mobile platform
   Homepage: https://github.com/Tencent/ncnn
 - Package: libncnn-static
-  Version: 20230627-4
+  Version: 20230627-5
   Description: Static libraries for libncnn
   Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
@@ -5011,15 +5011,15 @@
   Description: Static libraries for libpopt
   Homepage: https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html
 - Package: libprotobuf
-  Version: 2:25.1-2
+  Version: 2:25.1-3
   Description: Protocol buffers C++ library
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: libprotobuf-c
-  Version: 1.5.0-1
+  Version: 1.5.0-2
   Description: Protocol buffers C library
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotobuf-c-static
-  Version: 1.5.0-1
+  Version: 1.5.0-2
   Description: Static libraries for libprotobuf-c
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotozero
@@ -5647,7 +5647,7 @@
   Description: Static libraries for libusbredir
   Homepage: https://www.spice-space.org/
 - Package: libutf8-range
-  Version: 2:25.1-2
+  Version: 2:25.1-3
   Description: Fast UTF-8 validation with Range algorithm
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: libuuid
@@ -5763,7 +5763,7 @@
   Description: Static libraries for libwebp
   Homepage: https://github.com/webmproject/libwebp
 - Package: libwebrtc-audio-processing
-  Version: "1.3"
+  Version: 1.3-1
   Description: A library containing the AudioProcessing module from the WebRTC project
   Homepage: https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/
 - Package: libwebrtc-audio-processing-static
@@ -6695,11 +6695,11 @@
   Description: A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files
   Homepage: https://packages.debian.org/sid/morse2ascii
 - Package: mosh
-  Version: 1.4.0-10
+  Version: 1.4.0-11
   Description: Mobile shell that supports roaming and intelligent local echo
   Homepage: https://mosh.org
 - Package: mosh-perl
-  Version: 1.4.0-10
+  Version: 1.4.0-11
   Description: The mosh Perl script
   Homepage: https://mosh.org
 - Package: mosquitto
@@ -7851,15 +7851,15 @@
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
-  Version: 2:25.1-2
+  Version: 2:25.1-3
   Description: Compiler for protocol buffer definition files
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: protobuf-dev
-  Version: 2:25.1-2
+  Version: 2:25.1-3
   Description: CMake files for protobuf shared libraries
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: protobuf-static
-  Version: 25.1-2
+  Version: 25.1-3
   Description: Protocol buffers C++ library (static)
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: prover9

@@ -20,8 +20,8 @@
 | **a52dec** | 0.8.0-1 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-11 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
 | **aalib-static** | 1.4rc5-11 | Static libraries for aalib | https://sourceforge.net/projects/aa-project/ |
-| **aapt** | 13.0.0.6-13 | Android Asset Packaging Tool | https://elinux.org/Android_aapt |
-| **aapt2** | 13.0.0.6-13 | AAPT2 (Android Asset Packaging Tool) | https://elinux.org/Android_aapt |
+| **aapt** | 13.0.0.6-14 | Android Asset Packaging Tool | https://elinux.org/Android_aapt |
+| **aapt2** | 13.0.0.6-14 | AAPT2 (Android Asset Packaging Tool) | https://elinux.org/Android_aapt |
 | **abduco** | 0.6-3 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
 | **abook** | 0.6.1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
 | **abootimg** | 0.6-2 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
@@ -35,7 +35,7 @@
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
 | **aichat** | 0.20.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
-| **aidl** | 13.0.0.6-13 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
+| **aidl** | 13.0.0.6-14 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.6 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.1 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
@@ -408,7 +408,7 @@
 | **esbuild** | 0.23.1 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.51-2 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.51-2 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
-| **et** | 6.2.9-1 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
+| **et** | 6.2.9-2 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
@@ -1021,7 +1021,7 @@
 | **libgpg-error** | 1.50 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.50 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
-| **libgrpc** | 1.66.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **libgrpc** | 1.66.1-1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.52 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
@@ -1174,8 +1174,8 @@
 | **libmypaint-static** | 1.6.1-1 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
 | **libnats-c** | 3.8.2 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
 | **libnats-c-static** | 3.8.2 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
-| **libncnn** | 20230627-4 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
-| **libncnn-static** | 20230627-4 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
+| **libncnn** | 20230627-5 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
+| **libncnn-static** | 20230627-5 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
 | **libneon** | 0.33.0-1 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
 | **libneon-static** | 0.33.0-1 | Static libraries for libneon | https://notroj.github.io/neon/ |
 | **libnet** | 1.3 | A library which provides API for commonly used low-level net functions | https://github.com/libnet/libnet |
@@ -1263,9 +1263,9 @@
 | **libpolly** | 18.1.8 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
-| **libprotobuf** | 2:25.1-2 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
-| **libprotobuf-c** | 1.5.0-1 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
-| **libprotobuf-c-static** | 1.5.0-1 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
+| **libprotobuf** | 2:25.1-3 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
+| **libprotobuf-c** | 1.5.0-2 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
+| **libprotobuf-c-static** | 1.5.0-2 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
 | **libprotozero** | 1.7.1 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
 | **libpsl** | 0.21.5 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
 | **libpsl-static** | 0.21.5 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
@@ -1422,7 +1422,7 @@
 | **libusbmuxd-static** | 2.0.2-p20230430-0 | Static libraries for libusbmuxd | https://libimobiledevice.org |
 | **libusbredir** | 0.13.0 | network protocol for sending USB device traffic over a network connection | https://www.spice-space.org/ |
 | **libusbredir-static** | 0.7.1 | Static libraries for libusbredir | https://www.spice-space.org/ |
-| **libutf8-range** | 2:25.1-2 | Fast UTF-8 validation with Range algorithm | https://github.com/protocolbuffers/protobuf |
+| **libutf8-range** | 2:25.1-3 | Fast UTF-8 validation with Range algorithm | https://github.com/protocolbuffers/protobuf |
 | **libuuid** | 2.39.3-4 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **libuv** | 1.48.0 | Support library with a focus on asynchronous I/O | https://libuv.org |
 | **libuv-static** | 1.48.0 | Static libraries for libuv | https://libuv.org |
@@ -1451,7 +1451,7 @@
 | **libwayland-protocols** | 1.36 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.4.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebp-static** | 1.4.0-rc1-0 | Static libraries for libwebp | https://github.com/webmproject/libwebp |
-| **libwebrtc-audio-processing** | 1.3 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
+| **libwebrtc-audio-processing** | 1.3-1 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebrtc-audio-processing-static** | 0.3.1-2 | Static libraries for libwebrtc-audio-processing | https://freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebsockets** | 4.3.3 | Lightweight C websockets library | https://libwebsockets.org |
 | **libwolfssl** | 5.7.2 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
@@ -1684,8 +1684,8 @@
 | **moreutils** | 0.69 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-5 | Rogue-like game with an infinite dungeon | https://umoria.org |
 | **morse2ascii** | 0.2-4 | A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files | https://packages.debian.org/sid/morse2ascii |
-| **mosh** | 1.4.0-10 | Mobile shell that supports roaming and intelligent local echo | https://mosh.org |
-| **mosh-perl** | 1.4.0-10 | The mosh Perl script | https://mosh.org |
+| **mosh** | 1.4.0-11 | Mobile shell that supports roaming and intelligent local echo | https://mosh.org |
+| **mosh-perl** | 1.4.0-11 | The mosh Perl script | https://mosh.org |
 | **mosquitto** | 2.0.18 | MQTT version 3.1/3.1.1 compatible message broker and clients | https://mosquitto.org/ |
 | **most** | 5.2.0 | A terminal pager similar to 'more' and 'less' | http://www.jedsoft.org/most/index.html |
 | **mount-utils** | 2.39.3-4 | Utilities for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
@@ -1973,9 +1973,9 @@
 | **proj** | 9.4.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.16.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
-| **protobuf** | 2:25.1-2 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
-| **protobuf-dev** | 2:25.1-2 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
-| **protobuf-static** | 25.1-2 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
+| **protobuf** | 2:25.1-3 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
+| **protobuf-dev** | 2:25.1-3 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
+| **protobuf-static** | 25.1-3 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
 | **prover9** | 2009-11A-1 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **proxychains-ng** | 4.17 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.7 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
