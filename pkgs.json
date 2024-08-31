@@ -481,7 +481,7 @@
   },
   {
     "Package": "assimp",
-    "Version": "5.4.2",
+    "Version": "5.4.3",
     "Description": "Library to import various well-known 3D model formats in an uniform manner",
     "Homepage": "https://assimp.sourceforge.net/index.html"
   },
@@ -10195,19 +10195,19 @@
   },
   {
     "Package": "mupdf",
-    "Version": "1.24.8",
+    "Version": "1.24.9",
     "Description": "Lightweight PDF and XPS viewer (library)",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-static",
-    "Version": "1.24.8",
+    "Version": "1.24.9",
     "Description": "Static libraries for mupdf",
     "Homepage": "https://mupdf.com/"
   },
   {
     "Package": "mupdf-tools",
-    "Version": "1.24.8",
+    "Version": "1.24.9",
     "Description": "Lightweight PDF and XPS viewer (utilities)",
     "Homepage": "https://mupdf.com/"
   },

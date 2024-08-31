@@ -90,7 +90,7 @@
 | **aspell-es** | 2:1.11-2-0 | Spanish dictionary for aspell | http://aspell.net/ |
 | **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
 | **aspell-static** | 0.60.8.1 | Static libraries for aspell | http://aspell.net |
-| **assimp** | 5.4.2 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
+| **assimp** | 5.4.3 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **assimp-static** | 5.3.1 | Static libraries for assimp | https://assimp.sourceforge.net/index.html |
 | **astra-sm** | 2019.06.19 | Software for digital TV broadcasting | https://gitlab.com/berdyansk/astra-sm |
 | **asymptote** | 2.89 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
@@ -1709,9 +1709,9 @@
 | **mu** | 1.12.6 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
 | **multitail** | 7.1.5 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
-| **mupdf** | 1.24.8 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
-| **mupdf-static** | 1.24.8 | Static libraries for mupdf | https://mupdf.com/ |
-| **mupdf-tools** | 1.24.8 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
+| **mupdf** | 1.24.9 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
+| **mupdf-static** | 1.24.9 | Static libraries for mupdf | https://mupdf.com/ |
+| **mupdf-tools** | 1.24.9 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-3 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.13-1 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
