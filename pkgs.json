@@ -91,7 +91,7 @@
   },
   {
     "Package": "abseil-cpp",
-    "Version": "20240116.2",
+    "Version": "20240116.2-1",
     "Description": "Abseil C++ Common Libraries",
     "Homepage": "https://abseil.io/"
   },
@@ -943,7 +943,7 @@
   },
   {
     "Package": "brogue",
-    "Version": "1.14",
+    "Version": "1.14.1",
     "Description": "Roguelike dungeon crawling game (community edition)",
     "Homepage": "https://sites.google.com/site/broguegame/"
   },
@@ -5035,7 +5035,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "17.0.0",
+    "Version": "17.0.0-1",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -7609,7 +7609,7 @@
   },
   {
     "Package": "libre2",
-    "Version": "2024.07.02",
+    "Version": "2024.07.02-1",
     "Description": "A regular expression library",
     "Homepage": "https://github.com/google/re2"
   },
@@ -11311,7 +11311,7 @@
   },
   {
     "Package": "pdfcpu",
-    "Version": "0.8.0",
+    "Version": "0.8.1",
     "Description": "A PDF processor written in Go",
     "Homepage": "https://pdfcpu.io"
   },
@@ -11983,7 +11983,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.66.1",
+    "Version": "1.66.1-1",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12037,7 +12037,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "17.0.0",
+    "Version": "17.0.0-1",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },

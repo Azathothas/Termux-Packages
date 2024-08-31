@@ -25,7 +25,7 @@
 | **abduco** | 0.6-3 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
 | **abook** | 0.6.1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
 | **abootimg** | 0.6-2 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
-| **abseil-cpp** | 20240116.2 | Abseil C++ Common Libraries | https://abseil.io/ |
+| **abseil-cpp** | 20240116.2-1 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.7.0 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.1.4 | A fully compatible autoconf replacement | https://github.com/radare/acr |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
@@ -167,7 +167,7 @@
 | **boxes** | 2.3.0 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
 | **brainfuck** | 1:2.7.3 | Brainfuck Interpreter written in C | https://github.com/fabianishere/brainfuck |
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
-| **brogue** | 1.14 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
+| **brogue** | 1.14.1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20240606 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
 | **broot** | 1.43.0 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
@@ -849,7 +849,7 @@
 | **libapt-pkg-perl** | 0.1.40-10 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.7.4 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.7.4 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 17.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 17.0.0-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.191 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.191 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1278,7 +1278,7 @@
 | **librasqal-static** | 0.9.33-2 | Static libraries for librasqal | https://librdf.org/rasqal/ |
 | **librav1e** | 0.7.1-1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **librav1e-static** | 0.7.1-1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
-| **libre2** | 2024.07.02 | A regular expression library | https://github.com/google/re2 |
+| **libre2** | 2024.07.02-1 | A regular expression library | https://github.com/google/re2 |
 | **libregexp-assemble-perl** | 0.38-6 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-4 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
@@ -1895,7 +1895,7 @@
 | **pcregrep** | 8.45-1 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pdf2djvu** | 0.9.19-5 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
 | **pdf2svg** | 0.2.3-11 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
-| **pdfcpu** | 0.8.0 | A PDF processor written in Go | https://pdfcpu.io |
+| **pdfcpu** | 0.8.1 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.2.0-3 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
 | **pdftk** | 3.3.3-2 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-5 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
@@ -2007,7 +2007,7 @@
 | **python-cryptography** | 42.0.8 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.11.9-5 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.0.3 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
-| **python-grpcio** | 1.66.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **python-grpcio** | 1.66.1-1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.22.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.3.0 | A straightforward binding of libsass for Python | https://github.com/lxml/lxml |
@@ -2016,7 +2016,7 @@
 | **python-numpy-static** | 1.26.5 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-pillow** | 10.4.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
-| **python-pyarrow** | 17.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 17.0.0-1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pynvim** | 0.5.0 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-sabyenc3** | 8.2.5 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
