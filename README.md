@@ -779,7 +779,7 @@
 | **kak-lsp** | 17.1.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kcptun** | 20240828 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20240831 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.4.0 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-1 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -1204,7 +1204,7 @@
 | **libnpth-static** | 1.6-2 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.35 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.35 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
-| **libnss** | 3.103 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **libnss** | 3.104 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
 | **libobjc2** | 2.1-2 | The GNUstep Objective-C runtime | http://www.gnustep.org/ |
@@ -1617,7 +1617,7 @@
 | **mazter** | 2022.08.13 | Mazes in your terminal | https://github.com/Canop/mazter |
 | **mbedtls** | 3.6.1 | Light-weight cryptographic and SSL/TLS library | https://tls.mbed.org/ |
 | **mbedtls-static** | 3.6.1 | Static libraries for mbedtls | https://tls.mbed.org/ |
-| **mc** | 4.8.31-1 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
+| **mc** | 4.8.32 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
 | **mcfly** | 0.9.2 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
 | **mdbook** | 0.4.40 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
@@ -1787,7 +1787,7 @@
 | **nsis** | 3.10 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.10 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
-| **nss-utils** | 3.103 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **nss-utils** | 3.104 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 5.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.97.1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nwipe** | 0.37-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |

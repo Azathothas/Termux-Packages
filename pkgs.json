@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20240828",
+    "Version": "20240831",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -7165,7 +7165,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.103",
+    "Version": "3.104",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -9643,7 +9643,7 @@
   },
   {
     "Package": "mc",
-    "Version": "4.8.31-1",
+    "Version": "4.8.32",
     "Description": "Midnight Commander - a powerful file manager",
     "Homepage": "https://www.midnight-commander.org/"
   },
@@ -10663,7 +10663,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.103",
+    "Version": "3.104",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
