@@ -9903,7 +9903,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.1
+  Version: 0.4.2
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -9983,7 +9983,7 @@
   Description: A collection of tools for the VGM file format
   Homepage: https://github.com/vgmrips/vgmtools
 - Package: viddy
-  Version: 1.0.2
+  Version: 1.1.0
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm
@@ -10011,7 +10011,7 @@
   Description: Command line interface for VirusTotal
   Homepage: https://github.com/VirusTotal/vt-cli
 - Package: vis
-  Version: 0.9-2
+  Version: 0.9-3
   Description: Modern, legacy free, simple yet efficient vim-like editor
   Homepage: https://www.brain-dump.org/projects/vis/
 - Package: vitetris
