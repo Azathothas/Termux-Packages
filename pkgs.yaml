@@ -191,7 +191,7 @@
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
-  Version: 1:2.4.62
+  Version: 1:2.4.62-1
   Description: Apache Web Server
   Homepage: https://httpd.apache.org
 - Package: apkeep
@@ -207,19 +207,19 @@
   Description: Provides a standard for creating app stores across distributions
   Homepage: https://www.freedesktop.org/wiki/Distributions/AppStream/
 - Package: apr
-  Version: 1.7.4
+  Version: 1.7.5
   Description: Apache Portable Runtime Library
   Homepage: https://apr.apache.org/
 - Package: apr-static
-  Version: 1.7.4
+  Version: 1.7.5
   Description: Static libraries for apr
   Homepage: https://apr.apache.org/
 - Package: apr-util
-  Version: 1.6.3-1
+  Version: 1.6.3-2
   Description: Apache Portable Runtime Utility Library
   Homepage: https://apr.apache.org/
 - Package: apr-util-static
-  Version: 1.6.3-1
+  Version: 1.6.3-2
   Description: Static libraries for apr-util
   Homepage: https://apr.apache.org/
 - Package: apt
@@ -1067,7 +1067,7 @@
   Description: CPU usage limiter
   Homepage: https://github.com/opsengine/cpulimit
 - Package: crawl
-  Version: 0.31.0
+  Version: 0.32.0
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
@@ -1503,11 +1503,11 @@
   Description: eja micro web server
   Homepage: https://github.com/eja/eja
 - Package: electric-fence
-  Version: 2.2.6
+  Version: 2.2.7
   Description: Electric Fence (eFence) malloc memory debugger
   Homepage: https://elinux.org/Electric_Fence
 - Package: electric-fence-static
-  Version: 2.2.6
+  Version: 2.2.7
   Description: Static libraries for electric-fence
   Homepage: https://elinux.org/Electric_Fence
 - Package: electrum
@@ -2907,7 +2907,7 @@
   Description: Terminal based IRC client
   Homepage: https://irssi.org/
 - Package: isync
-  Version: 1.4.4
+  Version: 1.5.0
   Description: IMAP and MailDir mailbox synchronizer
   Homepage: http://isync.sourceforge.net
 - Package: iverilog
@@ -4363,7 +4363,7 @@
   Description: Static libraries for liblog4c
   Homepage: https://log4c.sourceforge.net/
 - Package: liblog4cxx
-  Version: 1.0.0
+  Version: 1.0.0-1
   Description: A logging framework for C++ patterned after Apache log4j
   Homepage: https://logging.apache.org/log4cxx/latest_stable/index.html
 - Package: liblqr
@@ -8727,11 +8727,11 @@
   Description: A lightweight C library for RDF syntax
   Homepage: https://drobilla.net/software/serd.html
 - Package: serf
-  Version: 1.3.10
+  Version: 1.3.10-1
   Description: High performance C-based HTTP client library
   Homepage: https://serf.apache.org/
 - Package: serf-static
-  Version: 1.3.10
+  Version: 1.3.10-1
   Description: Static libraries for serf
   Homepage: https://serf.apache.org/
 - Package: sfeed
@@ -9139,19 +9139,19 @@
   Description: DVD subtitle ripper for Linux
   Homepage: http://subtitleripper.sourceforge.net/
 - Package: subversion
-  Version: 1.14.3
+  Version: 1.14.3-1
   Description: Centralized version control system characterized by its simplicity
   Homepage: https://subversion.apache.org
 - Package: subversion-perl
-  Version: 1.14.3
+  Version: 1.14.3-1
   Description: Perl interface to Subversion
   Homepage: https://subversion.apache.org
 - Package: subversion-perl-static
-  Version: 1.14.3
+  Version: 1.14.3-1
   Description: Static libraries for subversion-perl
   Homepage: https://subversion.apache.org
 - Package: subversion-static
-  Version: 1.14.3
+  Version: 1.14.3-1
   Description: Static libraries for subversion
   Homepage: https://subversion.apache.org
 - Package: suil
