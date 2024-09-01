@@ -157,9 +157,9 @@
 | **boinc** | 8.0.4 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
 | **boinctui** | 2.7.1 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
 | **bombadillo** | 2.4.0-2 | A non-web client for the terminal, supporting Gopher, Gemini and much more | https://bombadillo.colorfield.space/ |
-| **boost** | 1.83.0-1 | Free peer-reviewed portable C++ source libraries | https://boost.org |
-| **boost-headers** | 1.83.0-1 | Boost header files | https://boost.org |
-| **boost-static** | 1.83.0-1 | Static libraries for boost | https://boost.org |
+| **boost** | 1.83.0-2 | Free peer-reviewed portable C++ source libraries | https://boost.org |
+| **boost-headers** | 1.83.0-2 | Boost header files | https://boost.org |
+| **boost-static** | 1.83.0-2 | Static libraries for boost | https://boost.org |
 | **bore** | 0.5.1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
 | **borgbackup** | 1.4.0-1 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
 | **botan3** | 3.5.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |

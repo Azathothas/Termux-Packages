@@ -883,19 +883,19 @@
   },
   {
     "Package": "boost",
-    "Version": "1.83.0-1",
+    "Version": "1.83.0-2",
     "Description": "Free peer-reviewed portable C++ source libraries",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-headers",
-    "Version": "1.83.0-1",
+    "Version": "1.83.0-2",
     "Description": "Boost header files",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-static",
-    "Version": "1.83.0-1",
+    "Version": "1.83.0-2",
     "Description": "Static libraries for boost",
     "Homepage": "https://boost.org"
   },
