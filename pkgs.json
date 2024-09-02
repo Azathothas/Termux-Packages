@@ -2413,7 +2413,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "12.95",
+    "Version": "12.96",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
