@@ -8527,7 +8527,7 @@
   },
   {
     "Package": "libvigra",
-    "Version": "1.11.2",
+    "Version": "1.12.1",
     "Description": "Computer vision library",
     "Homepage": "https://ukoethe.github.io/vigra/"
   },

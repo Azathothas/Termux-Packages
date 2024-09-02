@@ -5683,7 +5683,7 @@
   Description: video stabilization library
   Homepage: https://github.com/georgmartius/vid.stab
 - Package: libvigra
-  Version: 1.11.2
+  Version: 1.12.1
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
