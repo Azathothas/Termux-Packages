@@ -2173,7 +2173,7 @@
   },
   {
     "Package": "dufs",
-    "Version": "0.41.0",
+    "Version": "0.42.0",
     "Description": "A file server that supports static serving, uploading, searching, accessing control, webdav...",
     "Homepage": "https://github.com/sigoden/dufs"
   },
@@ -2293,7 +2293,7 @@
   },
   {
     "Package": "eltclsh",
-    "Version": "1.19-1",
+    "Version": "1.19-2",
     "Description": "Interactive shell for TCL programming language",
     "Homepage": "https://homepages.laas.fr/mallet/soft/shell/eltclsh"
   },
@@ -10261,7 +10261,7 @@
   },
   {
     "Package": "nala",
-    "Version": "0.15.3",
+    "Version": "0.15.4",
     "Description": "Commandline frontend for the apt package manager",
     "Homepage": "https://gitlab.com/volian/nala"
   },
@@ -12829,7 +12829,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240827",
+    "Version": "20240902",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
