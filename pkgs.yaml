@@ -2907,7 +2907,7 @@
   Description: Terminal based IRC client
   Homepage: https://irssi.org/
 - Package: isync
-  Version: 1.5.0
+  Version: 1.5.0-1
   Description: IMAP and MailDir mailbox synchronizer
   Homepage: http://isync.sourceforge.net
 - Package: iverilog
