@@ -34,7 +34,7 @@
 | **age** | 1:1.2.0 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
-| **aichat** | 0.20.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
+| **aichat** | 0.21.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
 | **aidl** | 13.0.0.6-14 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.6 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
@@ -688,7 +688,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.133.1 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.134.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -2316,7 +2316,7 @@
 | **swig** | 4.2.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.9.0 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.9.0 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 1.27.10 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 1.27.11 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-5 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |

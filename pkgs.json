@@ -145,7 +145,7 @@
   },
   {
     "Package": "aichat",
-    "Version": "0.20.0",
+    "Version": "0.21.0",
     "Description": "A powerful chatgpt cli",
     "Homepage": "https://github.com/sigoden/aichat"
   },
@@ -4069,7 +4069,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.133.1",
+    "Version": "0.134.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -13837,7 +13837,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "1.27.10",
+    "Version": "1.27.11",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
