@@ -231,7 +231,7 @@
 | **chicken-static** | 5.4.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.4 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
 | **chromaprint** | 1.5.1-p20221217-1 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
-| **chrony** | 4.5-4 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
+| **chrony** | 4.6 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
 | **ciso** | 1.0.2-1 | PSP ISO compression tool | https://github.com/jamie/ciso |
 | **ckermit** | 9.0.302-2 | A combined network and serial communication software package | https://www.kermitproject.org/ckermit.html |
 | **clamav** | 1.4.0 | Anti-virus toolkit for Unix | https://www.clamav.net/ |
@@ -2486,7 +2486,7 @@
 | **util-linux-static** | 2.39.3-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.39.3-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.4.2 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.4.3 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.26-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.16.1-1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2528,9 +2528,9 @@
 | **vulkan-headers** | 1.3.295 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.3.294 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.3.295 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.3.294 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.3.294 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-utility-libraries** | 1.3.295 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.3.290 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.3.270 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |

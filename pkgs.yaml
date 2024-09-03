@@ -883,7 +883,7 @@
   Description: C library for generating audio fingerprints used by AcoustID
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
-  Version: 4.5-4
+  Version: "4.6"
   Description: chrony is an implementation of the Network Time Protocol (NTP)
   Homepage: https://chrony-project.org/
 - Package: ciso
@@ -9903,7 +9903,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.2
+  Version: 0.4.3
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10071,7 +10071,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.3.294
+  Version: 1.3.295
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10079,7 +10079,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.3.294
+  Version: 1.3.295
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
