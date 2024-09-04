@@ -6451,7 +6451,7 @@
   Description: An EPUB renderer for mdbook
   Homepage: https://github.com/Michael-F-Bryan/mdbook-epub
 - Package: mdbook-graphviz
-  Version: 0.2.1
+  Version: 0.2.1-1
   Description: mdbook preprocessor to add graphviz support
   Homepage: https://github.com/dylanowen/mdbook-graphviz
 - Package: mdbook-katex
