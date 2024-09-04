@@ -34,7 +34,7 @@
 | **age** | 1:1.2.0 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
-| **aichat** | 0.21.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
+| **aichat** | 0.21.1 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
 | **aidl** | 13.0.0.6-14 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.6 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
@@ -999,7 +999,7 @@
 | **libgedit-gfls** | 0.1.0 | A module dedicated to file loading and saving | https://github.com/gedit-technology/libgedit-gfls |
 | **libgee** | 0.20.6-1 | A collection library providing GObject-based interfaces and classes for commonly used data structures | https://wiki.gnome.org/Projects/Libgee |
 | **libgee-static** | 0.20.6-1 | Static libraries for libgee | https://wiki.gnome.org/Projects/Libgee |
-| **libgeos** | 3.13.0beta1 | Geometry Engine, C++ port of the Java Topology Suite | https://geos.osgeo.org/ |
+| **libgeos** | 3.13.0beta2 | Geometry Engine, C++ port of the Java Topology Suite | https://geos.osgeo.org/ |
 | **libgeotiff** | 1.7.3 | Library for handling TIFF for georeferenced raster imagery | https://github.com/OSGeo/libgeotiff |
 | **libgf2x** | 1.3.0 | A library for multiplying polynomials over the binary field | https://gitlab.inria.fr/gf2x/gf2x |
 | **libgf2x-static** | 1.3.0 | Static libraries for libgf2x | https://gitlab.inria.fr/gf2x/gf2x |

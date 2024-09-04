@@ -95,7 +95,7 @@
   Description: Converts ANSI escape sequences of a unix terminal to HTML code
   Homepage: https://github.com/theZiz/aha
 - Package: aichat
-  Version: 0.21.0
+  Version: 0.21.1
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
@@ -3955,7 +3955,7 @@
   Description: Static libraries for libgee
   Homepage: https://wiki.gnome.org/Projects/Libgee
 - Package: libgeos
-  Version: 3.13.0beta1
+  Version: 3.13.0beta2
   Description: Geometry Engine, C++ port of the Java Topology Suite
   Homepage: https://geos.osgeo.org/
 - Package: libgeotiff
