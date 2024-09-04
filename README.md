@@ -1842,11 +1842,11 @@
 | **openscad** | 2021.01 | The programmers solid 3D CAD modeller (headless build) | http://openscad.org/ |
 | **openssh** | 9.8p1-4 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
 | **openssh-sftp-server** | 9.8p1-4 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
-| **openssl** | 1:3.3.1 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
+| **openssl** | 1:3.3.2 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1** | 1:1.1.1w | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1-static** | 1:1.1.1w | Static libraries for openssl-1.1 | https://www.openssl.org/ |
-| **openssl-static** | 1:3.3.1 | Static libraries for openssl | https://www.openssl.org/ |
-| **openssl-tool** | 1:3.3.1 | The openssl command line cryptographic tool | https://www.openssl.org/ |
+| **openssl-static** | 1:3.3.2 | Static libraries for openssl | https://www.openssl.org/ |
+| **openssl-tool** | 1:3.3.2 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **openssl1.1-tool** | 1:1.1.1w | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **optipng** | 0.7.8 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-3 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
