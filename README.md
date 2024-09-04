@@ -1679,7 +1679,7 @@
 | **mono** | 6.12.0.199-1 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
 | **mono-libs** | 6.12.0.199-1 | Platform-independent libraries for mono | https://www.mono-project.com/ |
 | **mono-static** | 6.12.0.199-1 | Static libraries for mono | https://www.mono-project.com/ |
-| **monolith** | 2.8.1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
+| **monolith** | 2.8.2 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
 | **moreutils** | 0.69 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-5 | Rogue-like game with an infinite dungeon | https://umoria.org |

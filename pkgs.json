@@ -10015,7 +10015,7 @@
   },
   {
     "Package": "monolith",
-    "Version": "2.8.1",
+    "Version": "2.8.2",
     "Description": "CLI tool for saving complete web pages as a single HTML file",
     "Homepage": "https://github.com/Y2Z/monolith"
   },
