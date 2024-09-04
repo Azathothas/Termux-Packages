@@ -956,8 +956,8 @@
  libevent  2.1.12-2  Library that provides asynchronous event notification  https://libevent.org/ 
  libexif  0.6.24  Library for reading and writing EXIF image metadata  https://libexif.github.io/ 
  libexif-static  0.6.24  Static libraries for libexif  https://libexif.github.io/ 
- libexpat  2.6.2  XML parsing C library  https://libexpat.github.io/ 
- libexpat-static  2.6.2  Static libraries for libexpat  https://libexpat.github.io/ 
+ libexpat  2.6.3  XML parsing C library  https://libexpat.github.io/ 
+ libexpat-static  2.6.3  Static libraries for libexpat  https://libexpat.github.io/ 
  libfann  2.2.0-1  Fast artificial neural network library  http://leenissen.dk/fann/wp 
  libfcft  3.1.6-1  A small font loading and glyph rasterization library  https://codeberg.org/dnkl/fcft 
  libfcl  0.7.0-2  Flexible collision library  https://github.com/flexible-collision-library/fcl 
@@ -2233,7 +2233,7 @@
  spatialite-tools  5.0.1-3  Collection of tools supporting SpatiaLite  https://www.gaia-gis.it/fossil/spatialite-tools 
  speechd  0.11.5  Common interface to speech synthesis  https://github.com/brailcom/speechd 
  speechd-data  0.11.5  Platform-independent data for speechd  https://github.com/brailcom/speechd 
- speedtest-go  1.7.8  Command line interface to test internet speed using speedtest.net  https://github.com/showwin/speedtest-go/ 
+ speedtest-go  1.7.9  Command line interface to test internet speed using speedtest.net  https://github.com/showwin/speedtest-go/ 
  speex-utils  1.2.1  Speex command line tools  https://www.speex.org/ 
  speexdsp  1.2.1  Speex audio processing library  https://speex.org/ 
  speexdsp-static  1.2.1  Static libraries for speexdsp  https://speex.org/ 

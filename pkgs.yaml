@@ -3831,11 +3831,11 @@
   Description: Static libraries for libexif
   Homepage: https://libexif.github.io/
 - Package: libexpat
-  Version: 2.6.2
+  Version: 2.6.3
   Description: XML parsing C library
   Homepage: https://libexpat.github.io/
 - Package: libexpat-static
-  Version: 2.6.2
+  Version: 2.6.3
   Description: Static libraries for libexpat
   Homepage: https://libexpat.github.io/
 - Package: libfann
@@ -8939,7 +8939,7 @@
   Description: Platform-independent data for speechd
   Homepage: https://github.com/brailcom/speechd
 - Package: speedtest-go
-  Version: 1.7.8
+  Version: 1.7.9
   Description: Command line interface to test internet speed using speedtest.net
   Homepage: https://github.com/showwin/speedtest-go/
 - Package: speex-utils
