@@ -1531,7 +1531,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.7.8",
+    "Version": "2.7.9",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -3235,7 +3235,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.45.0",
+    "Version": "1.46.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -4441,7 +4441,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.66.0",
+    "Version": "2.67.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -10699,7 +10699,7 @@
   },
   {
     "Package": "o-editor",
-    "Version": "2.66.0",
+    "Version": "2.67.0",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://github.com/xyproto/o"
   },
@@ -15595,7 +15595,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "0.3.2",
+    "Version": "0.3.3",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
