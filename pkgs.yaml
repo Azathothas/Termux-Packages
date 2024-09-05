@@ -2,10 +2,6 @@
   Version: "1:0.16"
   Description: Bloody 2D action deathmatch-like game in ASCII-ART
   Homepage: https://github.com/hackndev/0verkill
-- Package: 1oom
-  Version: "1.0"
-  Description: A Master of Orion (1993) game engine recreation
-  Homepage: https://gitlab.com/Tapani_/1oom
 - Package: 2048-c
   Version: 2022.10.23
   Description: Console version of the game 2048 for GNU/Linux
@@ -7250,14 +7246,6 @@
   Version: 2.1.2
   Description: Static libraries for opencolorio
   Homepage: https://opencolorio.org
-- Package: opencv
-  Version: 4.9.0
-  Description: Open Source Computer Vision Library
-  Homepage: https://opencv.org/
-- Package: opencv-python
-  Version: 4.9.0
-  Description: Python bindings for OpenCV
-  Homepage: https://opencv.org/
 - Package: openethereum
   Version: 3.3.5-2
   Description: Lightweight Ethereum Client
@@ -8050,10 +8038,6 @@
   Version: 0.7.5-4
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
-- Package: python-torch-static
-  Version: 2.1.2-1
-  Description: Static libraries for python-torch
-  Homepage: https://pytorch.org/
 - Package: python-torchaudio
   Version: 2.0.1-1
   Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
@@ -9591,27 +9575,27 @@
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
-  Version: 0.21.4
+  Version: 0.21.4-1
   Description: C grammar for tree-sitter
   Homepage: https://github.com/tree-sitter
 - Package: tree-sitter-c-static
-  Version: 0.21.4
+  Version: 0.21.4-1
   Description: Static libraries for tree-sitter-c
   Homepage: https://github.com/tree-sitter
 - Package: tree-sitter-lua
-  Version: 0.1.0-1
+  Version: 0.1.0-2
   Description: Lua grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-lua-static
-  Version: 0.1.0-1
+  Version: 0.1.0-2
   Description: Static libraries for tree-sitter-lua
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-markdown
-  Version: 0.2.3-2
+  Version: 0.2.3-3
   Description: Tree-sitter parser for Markdown
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-markdown-static
-  Version: 0.2.3-2
+  Version: 0.2.3-3
   Description: Static libraries for tree-sitter-markdown
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-parsers
@@ -9619,31 +9603,31 @@
   Description: A metapackage that provides commonly used treesitter parsers
   Homepage: https://github.com/termux/termux-packages
 - Package: tree-sitter-query
-  Version: 0.4.0
+  Version: 0.4.0-1
   Description: TS query grammar for tree-sitter
-  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
+  Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-query-static
-  Version: 0.4.0
+  Version: 0.4.0-1
   Description: Static libraries for tree-sitter-query
-  Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
+  Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-static
   Version: 0.23.0
   Description: Static libraries for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-vim
-  Version: 0.4.0
+  Version: 0.4.0-1
   Description: Vimscript grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-vim-static
-  Version: 0.4.0
+  Version: 0.4.0-1
   Description: Static libraries for tree-sitter-vim
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-vimdoc
-  Version: 3.0.0-1
+  Version: 3.0.0-2
   Description: Tree-sitter parser for Vim help files
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: tree-sitter-vimdoc-static
-  Version: 3.0.0-1
+  Version: 3.0.0-2
   Description: Static libraries for tree-sitter-vimdoc
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: trojan-go
