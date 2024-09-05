@@ -1129,7 +1129,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.3",
+    "Version": "0.10.4",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.22.1",
+    "Version": "1.22.2",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -3541,7 +3541,7 @@
   },
   {
     "Package": "gopls",
-    "Version": "0.16.1",
+    "Version": "0.16.2",
     "Description": "The official Go language server",
     "Homepage": "https://github.com/golang/tools"
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "helm-ls",
-    "Version": "0.0.22",
+    "Version": "0.1.0",
     "Description": "Language server for Helm",
     "Homepage": "https://github.com/mrjosh/helm-ls"
   },
@@ -10267,7 +10267,7 @@
   },
   {
     "Package": "nano",
-    "Version": "8.1",
+    "Version": "8.2",
     "Description": "Small, free and friendly text editor",
     "Homepage": "https://www.nano-editor.org/"
   },
@@ -12775,7 +12775,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.6.3",
+    "Version": "0.6.4",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
