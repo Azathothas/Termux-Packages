@@ -4735,13 +4735,13 @@
   },
   {
     "Package": "ldns",
-    "Version": "1.8.3-2",
+    "Version": "1.8.4",
     "Description": "Library for simplifying DNS programming and supporting recent and experimental RFCs",
     "Homepage": "https://www.nlnetlabs.nl/projects/ldns/"
   },
   {
     "Package": "ldns-static",
-    "Version": "1.8.3-2",
+    "Version": "1.8.4",
     "Description": "Static libraries for ldns",
     "Homepage": "https://www.nlnetlabs.nl/projects/ldns/"
   },

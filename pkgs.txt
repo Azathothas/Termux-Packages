@@ -787,8 +787,8 @@
  lcal  2.1.0  A multi-platform program which generates PostScript lunar calendars in a yearly format  https://pcal.sourceforge.net/ 
  ldc  1.30.0-1  D programming language compiler, built with LLVM  https://github.com/ldc-developers/ldc 
  ldd  0.3  Fake ldd command  https://github.com/termux/termux-packages 
- ldns  1.8.3-2  Library for simplifying DNS programming and supporting recent and experimental RFCs  https://www.nlnetlabs.nl/projects/ldns/ 
- ldns-static  1.8.3-2  Static libraries for ldns  https://www.nlnetlabs.nl/projects/ldns/ 
+ ldns  1.8.4  Library for simplifying DNS programming and supporting recent and experimental RFCs  https://www.nlnetlabs.nl/projects/ldns/ 
+ ldns-static  1.8.4  Static libraries for ldns  https://www.nlnetlabs.nl/projects/ldns/ 
  ledger  3.3.2-2  Powerful, double-entry accounting system  https://www.ledger-cli.org 
  leptonica  1.84.1  Library for image processing and image analysis  http://www.leptonica.com/ 
  leptonica-static  1.84.1  Static libraries for leptonica  http://www.leptonica.com/ 
