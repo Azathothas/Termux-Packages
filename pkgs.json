@@ -4063,7 +4063,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.134.0",
+    "Version": "0.134.1",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -14329,7 +14329,7 @@
   },
   {
     "Package": "tracepath",
-    "Version": "20240117",
+    "Version": "20240905",
     "Description": "Tool to trace the network path to a remote host",
     "Homepage": "https://github.com/iputils/iputils"
   },
@@ -14959,7 +14959,7 @@
   },
   {
     "Package": "viddy",
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "Description": "A modern watch command",
     "Homepage": "https://github.com/sachaos/viddy"
   },

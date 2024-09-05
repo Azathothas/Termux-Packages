@@ -2707,7 +2707,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.134.0
+  Version: 0.134.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -9551,7 +9551,7 @@
   Description: A command line client for Tox
   Homepage: https://github.com/JFreegman/toxic
 - Package: tracepath
-  Version: "20240117"
+  Version: "20240905"
   Description: Tool to trace the network path to a remote host
   Homepage: https://github.com/iputils/iputils
 - Package: traceroute
@@ -9971,7 +9971,7 @@
   Description: A collection of tools for the VGM file format
   Homepage: https://github.com/vgmrips/vgmtools
 - Package: viddy
-  Version: 1.1.1
+  Version: 1.1.2
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm

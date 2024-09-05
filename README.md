@@ -687,7 +687,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.134.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.134.1 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -2398,7 +2398,7 @@
 | **torsocks-static** | 2.4.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
 | **totem-pl-parser** | 3.26.6 | Simple GObject-based library to parse and save a host of playlist formats | https://gitlab.gnome.org/GNOME/totem-pl-parser |
 | **toxic** | 0.15.1 | A command line client for Tox | https://github.com/JFreegman/toxic |
-| **tracepath** | 20240117 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
+| **tracepath** | 20240905 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.5 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6-1 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
@@ -2503,7 +2503,7 @@
 | **vera** | 1.3.0-5 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
 | **vgmstream** | 1951 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
 | **vgmtools** | 2023.01.27 | A collection of tools for the VGM file format | https://github.com/vgmrips/vgmtools |
-| **viddy** | 1.1.1 | A modern watch command | https://github.com/sachaos/viddy |
+| **viddy** | 1.1.2 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.13 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
 | **vim** | 9.1.0500 | Vi IMproved - enhanced vi editor | https://www.vim.org |
