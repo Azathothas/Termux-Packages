@@ -403,7 +403,7 @@
 | **exiv2** | 2:0.28.3 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.19.1 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.19.2 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.36 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.36 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -1939,7 +1939,7 @@
 | **portaudio-static** | 19.07.00-1 | Static libraries for portaudio | http://www.portaudio.com/ |
 | **portmidi** | 2.0.4 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
-| **postgis** | 3.4.2 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
+| **postgis** | 3.4.3 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
 | **postgresql** | 16.4 | Object-relational SQL database | https://www.postgresql.org |
 | **postgresql-static** | 16.4 | Static libraries for postgresql | https://www.postgresql.org |
 | **potrace** | 1.16-1 | Tool for transforming a bitmap into a smooth, scalable image | http://potrace.sourceforge.net |
