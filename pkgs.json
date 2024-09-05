@@ -991,7 +991,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.39.0",
+    "Version": "1.40.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1339,13 +1339,13 @@
   },
   {
     "Package": "clamav",
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Description": "Anti-virus toolkit for Unix",
     "Homepage": "https://www.clamav.net/"
   },
   {
     "Package": "clamav-static",
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Description": "Static libraries for clamav",
     "Homepage": "https://www.clamav.net/"
   },
@@ -3325,13 +3325,13 @@
   },
   {
     "Package": "gmic",
-    "Version": "3.4.1",
+    "Version": "3.4.2",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.4.1",
+    "Version": "3.4.2",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
@@ -4669,7 +4669,7 @@
   },
   {
     "Package": "kubecolor",
-    "Version": "0.3.3",
+    "Version": "0.4.0",
     "Description": "Colorize your kubectl output",
     "Homepage": "https://github.com/kubecolor/kubecolor"
   },
@@ -6625,13 +6625,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1724512491",
+    "Version": "1:2.1.1725453128",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1724512491",
+    "Version": "1:2.1.1725453128",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -9397,7 +9397,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1724512491",
+    "Version": "1:2.1.1725453128",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -14365,13 +14365,13 @@
   },
   {
     "Package": "tree-sitter-c",
-    "Version": "0.21.4-1",
+    "Version": "0.23.0",
     "Description": "C grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter"
   },
   {
     "Package": "tree-sitter-c-static",
-    "Version": "0.21.4-1",
+    "Version": "0.23.0",
     "Description": "Static libraries for tree-sitter-c",
     "Homepage": "https://github.com/tree-sitter"
   },
@@ -14839,7 +14839,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.4",
+    "Version": "0.4.5",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },

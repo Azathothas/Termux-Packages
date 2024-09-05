@@ -659,7 +659,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: buf
-  Version: 1.39.0
+  Version: 1.40.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -891,11 +891,11 @@
   Description: A combined network and serial communication software package
   Homepage: https://www.kermitproject.org/ckermit.html
 - Package: clamav
-  Version: 1.4.0
+  Version: 1.4.1
   Description: Anti-virus toolkit for Unix
   Homepage: https://www.clamav.net/
 - Package: clamav-static
-  Version: 1.4.0
+  Version: 1.4.1
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
@@ -2215,11 +2215,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 3.4.1
+  Version: 3.4.2
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 3.4.1
+  Version: 3.4.2
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -3111,7 +3111,7 @@
   Description: The Kerberos network authentication system
   Homepage: https://web.mit.edu/kerberos
 - Package: kubecolor
-  Version: 0.3.3
+  Version: 0.4.0
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
@@ -4415,11 +4415,11 @@
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
 - Package: libluajit
-  Version: 1:2.1.1724512491
+  Version: 1:2.1.1725453128
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: libluajit-static
-  Version: 1:2.1.1724512491
+  Version: 1:2.1.1725453128
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
@@ -6263,7 +6263,7 @@
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1724512491
+  Version: 1:2.1.1725453128
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -9575,11 +9575,11 @@
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
-  Version: 0.21.4-1
+  Version: 0.23.0
   Description: C grammar for tree-sitter
   Homepage: https://github.com/tree-sitter
 - Package: tree-sitter-c-static
-  Version: 0.21.4-1
+  Version: 0.23.0
   Description: Static libraries for tree-sitter-c
   Homepage: https://github.com/tree-sitter
 - Package: tree-sitter-lua
@@ -9891,7 +9891,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.4
+  Version: 0.4.5
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
