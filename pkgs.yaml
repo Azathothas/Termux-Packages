@@ -8507,11 +8507,11 @@
   Description: A rubiks cube that runs in your terminal
   Homepage: https://github.com/been-jamming/rubiks_cube
 - Package: ruby
-  Version: 3.3.2-1
+  Version: 3.3.5
   Description: Dynamic programming language with a focus on simplicity and productivity
   Homepage: https://www.ruby-lang.org/
 - Package: ruby-ri
-  Version: 3.3.2-1
+  Version: 3.3.5
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
@@ -10379,7 +10379,7 @@
   Description: Static libraries for yasm
   Homepage: https://yasm.tortall.net/
 - Package: yazi
-  Version: 0.3.3
+  Version: 0.3.3-1
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
