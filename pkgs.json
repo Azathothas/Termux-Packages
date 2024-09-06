@@ -739,7 +739,7 @@
   },
   {
     "Package": "binaryen",
-    "Version": "118",
+    "Version": "119",
     "Description": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
     "Homepage": "https://github.com/WebAssembly/binaryen"
   },
