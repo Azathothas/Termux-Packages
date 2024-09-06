@@ -4609,7 +4609,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20240831",
+    "Version": "20240906",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -9793,7 +9793,7 @@
   },
   {
     "Package": "memcached",
-    "Version": "1.6.29",
+    "Version": "1.6.30",
     "Description": "Free & open source, high-performance, distributed memory object caching system",
     "Homepage": "https://memcached.org/"
   },
@@ -13819,7 +13819,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "1.27.11",
+    "Version": "1.27.12",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
