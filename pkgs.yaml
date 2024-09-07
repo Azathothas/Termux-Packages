@@ -659,7 +659,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: buf
-  Version: 1.40.0
+  Version: 1.40.1
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -7463,7 +7463,7 @@
   Description: Command-line pastebin client
   Homepage: https://launchpad.net/pastebinit
 - Package: pastel
-  Version: 0.9.0-1
+  Version: 0.10.0
   Description: A command-line tool to generate, analyze, convert and manipulate colors
   Homepage: https://github.com/sharkdp/pastel
 - Package: patch
