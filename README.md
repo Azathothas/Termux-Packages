@@ -794,7 +794,7 @@
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-5 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.0 | LastPass command line interface tool | https://lastpass.com/ |
-| **lazygit** | 0.43.1 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
+| **lazygit** | 0.44.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lazyread** | 2.0-1 | An auto-scroller, pager, and e-book reader all in one | http://lazyread.sourceforge.net/ |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-1 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
@@ -2483,7 +2483,7 @@
 | **util-linux-static** | 2.39.3-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.39.3-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.4.6 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.4.7 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.26-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.16.1-1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

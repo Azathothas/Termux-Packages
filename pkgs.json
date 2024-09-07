@@ -4705,7 +4705,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.43.1",
+    "Version": "0.44.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -14839,7 +14839,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.6",
+    "Version": "0.4.7",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
