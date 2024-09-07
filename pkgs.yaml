@@ -8002,6 +8002,10 @@
   Version: 1.26.5
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
+- Package: python-onnxruntime
+  Version: 1.19.0
+  Description: Cross-platform, high performance ML inferencing and training accelerator
+  Homepage: https://onnxruntime.ai/
 - Package: python-pillow
   Version: 10.4.0
   Description: Python Imaging Library
