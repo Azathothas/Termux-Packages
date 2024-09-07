@@ -2303,7 +2303,7 @@
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 2.2.1 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
-| **swi-prolog** | 9.3.10 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
+| **swi-prolog** | 9.3.11 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 5.10.1-1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 5.10.1-1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
 | **swift-runtime-x86-64** | 5.10.1-1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
