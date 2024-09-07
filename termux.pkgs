@@ -1405,8 +1405,8 @@
 | **libupscaledb-static** | 2.2.1p20210820-9 | Static libraries for libupscaledb | https://upscaledb.com/ |
 | **libusb** | 1.0.27 | A C library that provides generic access to USB devices | https://libusb.info/ |
 | **libusb-static** | 1.0.27 | Static libraries for libusb | https://libusb.info/ |
-| **libusbmuxd** | 2.0.2-p20230430-0 | A client library for applications to handle usbmux protocol connections with iOS devices | https://libimobiledevice.org |
-| **libusbmuxd-static** | 2.0.2-p20230430-0 | Static libraries for libusbmuxd | https://libimobiledevice.org |
+| **libusbmuxd** | 2.0.2-p20230430-1 | A client library for applications to handle usbmux protocol connections with iOS devices | https://libimobiledevice.org |
+| **libusbmuxd-static** | 2.0.2-p20230430-1 | Static libraries for libusbmuxd | https://libimobiledevice.org |
 | **libusbredir** | 0.13.0 | network protocol for sending USB device traffic over a network connection | https://www.spice-space.org/ |
 | **libusbredir-static** | 0.7.1 | Static libraries for libusbredir | https://www.spice-space.org/ |
 | **libutf8-range** | 2:25.1-3 | Fast UTF-8 validation with Range algorithm | https://github.com/protocolbuffers/protobuf |

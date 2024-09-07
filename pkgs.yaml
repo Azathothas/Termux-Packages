@@ -5627,11 +5627,11 @@
   Description: Static libraries for libusb
   Homepage: https://libusb.info/
 - Package: libusbmuxd
-  Version: 2.0.2-p20230430-0
+  Version: 2.0.2-p20230430-1
   Description: A client library for applications to handle usbmux protocol connections with iOS devices
   Homepage: https://libimobiledevice.org
 - Package: libusbmuxd-static
-  Version: 2.0.2-p20230430-0
+  Version: 2.0.2-p20230430-1
   Description: Static libraries for libusbmuxd
   Homepage: https://libimobiledevice.org
 - Package: libusbredir
