@@ -2159,15 +2159,15 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.80.4
+  Version: 2.80.5
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-bin
-  Version: 2.80.4
+  Version: 2.80.5
   Description: Programs for the GLib library
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.80.4
+  Version: 2.80.5
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -2755,7 +2755,7 @@
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
-  Version: 0.9.2
+  Version: 0.9.3
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
@@ -3479,7 +3479,7 @@
   Description: Static libraries for libcaca
   Homepage: http://caca.zoy.org/wiki/libcaca
 - Package: libcairo
-  Version: 1.18.0
+  Version: 1.18.2
   Description: Cairo 2D vector graphics library
   Homepage: https://cairographics.org
 - Package: libcairomm-1.0
@@ -7067,7 +7067,7 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
-  Version: 20.15.1
+  Version: 20.17.0
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
@@ -8535,7 +8535,7 @@
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
@@ -8547,51 +8547,51 @@
   Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
   Homepage: https://github.com/rust-lang/rust-bindgen
 - Package: rust-docs
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust documentation
   Homepage: https://www.rust-lang.org/
 - Package: rust-src
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust source code files
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-aarch64-linux-android
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust std for target aarch64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-armv7-linux-androideabi
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust std for target armv7-linux-androideabi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-i686-linux-android
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust std for target i686-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-unknown-unknown
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust std for target wasm32-unknown-unknown
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasi
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust std for target wasm32-wasi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip1
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust std for target wasm32-wasip1
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip2
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust std for target wasm32-wasip2
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-x86-64-linux-android
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust std for target x86_64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rustc-dev
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust compiler development libs
   Homepage: https://www.rust-lang.org/
 - Package: rustc-src
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Rust compiler source code files
   Homepage: https://www.rust-lang.org/
 - Package: rustscan
