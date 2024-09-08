@@ -169,7 +169,7 @@
   },
   {
     "Package": "alist",
-    "Version": "3.37.0",
+    "Version": "3.37.1",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://alist.nn.ci"
   },

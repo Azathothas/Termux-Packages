@@ -111,7 +111,7 @@
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alist
-  Version: 3.37.0
+  Version: 3.37.1
   Description: A file list program that supports multiple storage
   Homepage: https://alist.nn.ci
 - Package: alpine
