@@ -11533,7 +11533,7 @@
   },
   {
     "Package": "plantuml",
-    "Version": "1.2024.6",
+    "Version": "1.2024.7",
     "Description": "Draws UML diagrams, using a simple and human readable text description",
     "Homepage": "https://plantuml.com/"
   },
