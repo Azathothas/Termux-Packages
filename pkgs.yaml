@@ -111,7 +111,7 @@
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alist
-  Version: 3.36.0
+  Version: 3.37.0
   Description: A file list program that supports multiple storage
   Homepage: https://alist.nn.ci
 - Package: alpine
@@ -1815,7 +1815,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 8.0.2
+  Version: 8.0.3
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -6527,7 +6527,7 @@
   Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
   Homepage: https://megatools.megous.com/
 - Package: memcached
-  Version: 1.6.30
+  Version: 1.6.31
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury
@@ -7899,7 +7899,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.8.13
+  Version: 1.8.14
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: http://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -9903,7 +9903,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.16.1-1
+  Version: 5.17.1
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac
