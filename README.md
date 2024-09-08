@@ -263,7 +263,7 @@
 | **colm** | 0.14.7-1 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 2.4.0-40 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 2.4.0-41 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.7.9 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **cookcli** | 0.8.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
