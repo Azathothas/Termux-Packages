@@ -2173,7 +2173,7 @@
   },
   {
     "Package": "duktape",
-    "Version": "2.7.0",
+    "Version": "2.7.0-1",
     "Description": "Simple REPL for Duktape",
     "Homepage": "https://www.duktape.org/"
   },
@@ -5191,7 +5191,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.26.0",
+    "Version": "5.26.1",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -5599,7 +5599,7 @@
   },
   {
     "Package": "libduktape",
-    "Version": "2.7.0",
+    "Version": "2.7.0-1",
     "Description": "An embeddable Javascript engine with a focus on portability and compact footprint",
     "Homepage": "https://www.duktape.org/"
   },

@@ -1447,7 +1447,7 @@
   Description: A file server that supports static serving, uploading, searching, accessing control, webdav...
   Homepage: https://github.com/sigoden/dufs
 - Package: duktape
-  Version: 2.7.0
+  Version: 2.7.0-1
   Description: Simple REPL for Duktape
   Homepage: https://www.duktape.org/
 - Package: dust
@@ -3459,7 +3459,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.26.0
+  Version: 5.26.1
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -3731,7 +3731,7 @@
   Description: Static libraries for libduckdb
   Homepage: https://duckdb.org/
 - Package: libduktape
-  Version: 2.7.0
+  Version: 2.7.0-1
   Description: An embeddable Javascript engine with a focus on portability and compact footprint
   Homepage: https://www.duktape.org/
 - Package: libdvbcsa
