@@ -1435,7 +1435,7 @@
   Description: High-performance disk usage analyzer
   Homepage: http://duc.zevv.nl/
 - Package: duckdb
-  Version: 1.0.0
+  Version: 1.1.0
   Description: DuckDB Command Line Interface (CLI) shell
   Homepage: https://duckdb.org/
 - Package: duf
@@ -2059,7 +2059,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.55.0
+  Version: 2.56.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -2411,7 +2411,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: "1:8.10"
+  Version: 1:8.10.1
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -3723,11 +3723,11 @@
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
-  Version: 1.0.0
+  Version: 1.1.0
   Description: An in-process SQL OLAP database management system
   Homepage: https://duckdb.org/
 - Package: libduckdb-static
-  Version: 1.0.0
+  Version: 1.1.0
   Description: Static libraries for libduckdb
   Homepage: https://duckdb.org/
 - Package: libduktape
@@ -7167,7 +7167,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.11.1
+  Version: 23.12.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9095,7 +9095,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.110.3
+  Version: 1.111.4
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -9587,11 +9587,11 @@
   Description: Static libraries for tree-sitter-c
   Homepage: https://github.com/tree-sitter
 - Package: tree-sitter-lua
-  Version: 0.1.0-2
+  Version: 0.2.0
   Description: Lua grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-lua-static
-  Version: 0.1.0-2
+  Version: 0.2.0
   Description: Static libraries for tree-sitter-lua
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-markdown
