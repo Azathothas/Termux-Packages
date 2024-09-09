@@ -209,8 +209,8 @@
 | **cgal** | 5.6.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
 | **cgif** | 0.4.1 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
-| **chafa** | 1.14.2 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
-| **chafa-static** | 1.14.2 | Static libraries for chafa | https://hpjansson.org/chafa/ |
+| **chafa** | 1.14.3 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
+| **chafa-static** | 1.14.3 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
 | **chezmoi** | 2.52.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
@@ -1995,7 +1995,7 @@
 | **python-grpcio** | 1.66.1-1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.22.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
-| **python-lxml** | 5.3.0 | A straightforward binding of libsass for Python | https://github.com/lxml/lxml |
+| **python-lxml** | 5.3.0-1 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.0.8-1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 1.26.5 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 1.26.5 | Static libraries for python-numpy | https://numpy.org/ |
@@ -2100,7 +2100,7 @@
 | **rig** | 1.11-1 | A program that generates fake identities | http://rig.sourceforge.net/ |
 | **rinetd** | 1:0.73-1 | A user-mode TCP port redirection server | https://github.com/samhocevar/rinetd |
 | **rip** | 0.13.1-1 | A command-line deletion tool focused on safety, ergonomics, and performance | https://github.com/nivekuil/rip |
-| **ripgrep** | 14.1.0 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
+| **ripgrep** | 14.1.1 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
 | **ripgrep-all** | 1.0.0-alpha.5-2 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.8 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-1 | A terminal IRC client in C | https://github.com/rcr/rirc |
@@ -2133,7 +2133,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.6 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.81.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240902 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240909 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.70.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.81.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.81.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2273,7 +2273,7 @@
 | **stoken-static** | 0.93-1 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-2 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
 | **storj-uplink** | 1.110.3 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
-| **stow** | 2.4.0 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
+| **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.10 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-2 | Records and splits streaming mp3 into tracks | http://streamripper.sourceforge.net/ |
 | **stunnel** | 5.72 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |

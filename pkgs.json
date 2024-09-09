@@ -1267,13 +1267,13 @@
   },
   {
     "Package": "chafa",
-    "Version": "1.14.2",
+    "Version": "1.14.3",
     "Description": "Image-to-text converter supporting a wide range of symbols, etc.",
     "Homepage": "https://hpjansson.org/chafa/"
   },
   {
     "Package": "chafa-static",
-    "Version": "1.14.2",
+    "Version": "1.14.3",
     "Description": "Static libraries for chafa",
     "Homepage": "https://hpjansson.org/chafa/"
   },
@@ -11983,8 +11983,8 @@
   },
   {
     "Package": "python-lxml",
-    "Version": "5.3.0",
-    "Description": "A straightforward binding of libsass for Python",
+    "Version": "5.3.0-1",
+    "Description": "Python binding for the libxml2 and libxslt libraries",
     "Homepage": "https://github.com/lxml/lxml"
   },
   {
@@ -12613,7 +12613,7 @@
   },
   {
     "Package": "ripgrep",
-    "Version": "14.1.0",
+    "Version": "14.1.1",
     "Description": "Search tool like grep and The Silver Searcher",
     "Homepage": "https://github.com/BurntSushi/ripgrep"
   },
@@ -12811,7 +12811,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240902",
+    "Version": "20240909",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
@@ -13651,7 +13651,7 @@
   },
   {
     "Package": "stow",
-    "Version": "2.4.0",
+    "Version": "2.4.1",
     "Description": "Tool for managing the installation of multiple software packages into a single directory",
     "Homepage": "https://www.gnu.org/software/stow/"
   },

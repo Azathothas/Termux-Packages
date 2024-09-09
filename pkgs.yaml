@@ -843,11 +843,11 @@
   Description: A fast and lightweight GIF encoding library
   Homepage: https://github.com/dloebl/cgif
 - Package: chafa
-  Version: 1.14.2
+  Version: 1.14.3
   Description: Image-to-text converter supporting a wide range of symbols, etc.
   Homepage: https://hpjansson.org/chafa/
 - Package: chafa-static
-  Version: 1.14.2
+  Version: 1.14.3
   Description: Static libraries for chafa
   Homepage: https://hpjansson.org/chafa/
 - Package: check
@@ -7987,8 +7987,8 @@
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-lxml
-  Version: 5.3.0
-  Description: A straightforward binding of libsass for Python
+  Version: 5.3.0-1
+  Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
   Version: 1.0.8-1
@@ -8407,7 +8407,7 @@
   Description: A command-line deletion tool focused on safety, ergonomics, and performance
   Homepage: https://github.com/nivekuil/rip
 - Package: ripgrep
-  Version: 14.1.0
+  Version: 14.1.1
   Description: Search tool like grep and The Silver Searcher
   Homepage: https://github.com/BurntSushi/ripgrep
 - Package: ripgrep-all
@@ -8539,7 +8539,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240902"
+  Version: "20240909"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -9099,7 +9099,7 @@
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
-  Version: 2.4.0
+  Version: 2.4.1
   Description: Tool for managing the installation of multiple software packages into a single directory
   Homepage: https://www.gnu.org/software/stow/
 - Package: strace
