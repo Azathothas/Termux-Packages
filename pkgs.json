@@ -10351,31 +10351,31 @@
   },
   {
     "Package": "ncurses",
-    "Version": "6.4.20231001-5",
+    "Version": "6.5.20240831",
     "Description": "Library for text-based user interfaces in a terminal-independent manner",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-static",
-    "Version": "6.4.20231001-5",
+    "Version": "6.5.20240831",
     "Description": "Static libraries for ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-ui-libs",
-    "Version": "6.4.20231001-5",
+    "Version": "6.5.20240831",
     "Description": "Libraries for terminal user interfaces based on ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-ui-libs-static",
-    "Version": "6.4.20231001-5",
+    "Version": "6.5.20240831",
     "Description": "Static libraries for terminal user interfaces based on ncurses",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
   {
     "Package": "ncurses-utils",
-    "Version": "6.4.20231001-5",
+    "Version": "6.5.20240831",
     "Description": "Tools for working with terminals",
     "Homepage": "https://invisible-island.net/ncurses/"
   },
@@ -15157,7 +15157,7 @@
   },
   {
     "Package": "wasi-libc",
-    "Version": "22",
+    "Version": "24",
     "Description": "Libc for WebAssembly programs built on top of WASI system calls",
     "Homepage": "https://wasi.dev/"
   },
