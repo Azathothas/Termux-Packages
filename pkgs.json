@@ -1399,7 +1399,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2024.9.0",
+    "Version": "2024.9.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -4063,7 +4063,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.134.1",
+    "Version": "0.134.2",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -11959,7 +11959,7 @@
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.0.3",
+    "Version": "3.1.0",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -14395,13 +14395,13 @@
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.2.3-3",
+    "Version": "0.3.1",
     "Description": "Tree-sitter parser for Markdown",
     "Homepage": "https://github.com/tree-sitter-grammars"
   },
   {
     "Package": "tree-sitter-markdown-static",
-    "Version": "0.2.3-3",
+    "Version": "0.3.1",
     "Description": "Static libraries for tree-sitter-markdown",
     "Homepage": "https://github.com/tree-sitter-grammars"
   },
@@ -15163,7 +15163,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.7",
+    "Version": "0.5.8",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
