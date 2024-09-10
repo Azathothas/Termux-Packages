@@ -949,7 +949,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.44.0",
+    "Version": "1.44.0-1",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -1603,7 +1603,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.0.11",
+    "Version": "1:10.0.12",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3481,13 +3481,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.23.0-1",
+    "Version": "3:1.23.1",
     "Description": "Go programming language compiler",
     "Homepage": "https://golang.org/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.23.0-1",
+    "Version": "3:1.23.1",
     "Description": "Go programming language - documentation",
     "Homepage": "https://golang.org/"
   },
