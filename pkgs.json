@@ -1399,7 +1399,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2024.8.3",
+    "Version": "2024.9.0",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -9337,7 +9337,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.10.5",
+    "Version": "3.10.6",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -9901,7 +9901,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.08.29.01.40.52",
+    "Version": "2024.09.09.16.59.28",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -15547,13 +15547,13 @@
   },
   {
     "Package": "yara",
-    "Version": "4.5.1",
+    "Version": "4.5.2",
     "Description": "Tool aimed at helping malware researchers to identify and classify malware samples",
     "Homepage": "https://github.com/VirusTotal/yara"
   },
   {
     "Package": "yara-static",
-    "Version": "4.5.1",
+    "Version": "4.5.2",
     "Description": "Static libraries for yara",
     "Homepage": "https://github.com/VirusTotal/yara"
   },
