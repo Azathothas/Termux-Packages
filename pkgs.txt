@@ -213,7 +213,7 @@
  chafa-static  1.14.4  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-2  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-2  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.52.1  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.52.2  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0  Static libraries for chicken  https://www.call-cc.org 
  choose  1.3.4  A human-friendly and fast alternative to cut and (sometimes) awk  https://github.com/theryangeary/choose 
@@ -606,8 +606,8 @@
  graphene  1.10.8-1  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
  graphicsmagick  1.3.45  Collection of image processing tools  http://www.graphicsmagick.org/ 
  graphicsmagick-static  1.3.45  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
- graphviz  12.1.0  Rich set of graph drawing tools  https://www.graphviz.org/ 
- graphviz-static  12.1.0  Static libraries for graphviz  https://www.graphviz.org/ 
+ graphviz  12.1.1  Rich set of graph drawing tools  https://www.graphviz.org/ 
+ graphviz-static  12.1.1  Static libraries for graphviz  https://www.graphviz.org/ 
  greed  4.3  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
  grep  3.11  Command which searches one or more input files for lines containing a match to a specified pattern  https://www.gnu.org/software/grep/ 
  grex  1.4.5  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
@@ -977,8 +977,8 @@
  libfreexl  2.0.0  Library to extract valid data from within an Excel (.xls) spreadsheet  https://www.gaia-gis.it/fossil/freexl 
  libfreexl-static  2.0.0  Static libraries for libfreexl  https://www.gaia-gis.it/fossil/freexl 
  libftxui  5.0.0  A simple C++ library for terminal based user interface  https://github.com/ArthurSonzogni/FTXUI 
- libgc  8.2.6  Library providing the Boehm-Demers-Weiser conservative garbage collector  https://www.hboehm.info/gc/ 
- libgc-static  8.2.6  Static libraries for libgc  https://www.hboehm.info/gc/ 
+ libgc  8.2.8  Library providing the Boehm-Demers-Weiser conservative garbage collector  https://www.hboehm.info/gc/ 
+ libgc-static  8.2.8  Static libraries for libgc  https://www.hboehm.info/gc/ 
  libgcrypt  1.10.3-2  General purpose cryptographic library based on the code from GnuPG  https://www.gnu.org/software/libgcrypt/ 
  libgcrypt-static  1.10.3-2  Static libraries for libgcrypt  https://www.gnu.org/software/libgcrypt/ 
  libgd  1:2.3.3-4  GD is an open source code library for the dynamic creation of images by programmers  https://libgd.github.io/ 

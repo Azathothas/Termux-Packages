@@ -1291,7 +1291,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.52.1",
+    "Version": "2.52.2",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -3649,13 +3649,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "12.1.0",
+    "Version": "12.1.1",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "12.1.0",
+    "Version": "12.1.1",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
@@ -5875,13 +5875,13 @@
   },
   {
     "Package": "libgc",
-    "Version": "8.2.6",
+    "Version": "8.2.8",
     "Description": "Library providing the Boehm-Demers-Weiser conservative garbage collector",
     "Homepage": "https://www.hboehm.info/gc/"
   },
   {
     "Package": "libgc-static",
-    "Version": "8.2.6",
+    "Version": "8.2.8",
     "Description": "Static libraries for libgc",
     "Homepage": "https://www.hboehm.info/gc/"
   },
