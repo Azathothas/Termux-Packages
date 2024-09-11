@@ -340,6 +340,7 @@
 | **docopt-static** | 0.6.3-3 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.4.11-1 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
 | **dog** | 0.1.0-2 | A command-line DNS client. | https://dns.lookup.dog/ |
+| **doge** | 0.2.7 | A command-line DNS client | https://github.com/Dj-Codeman/doge |
 | **dopewars** | 1.6.2 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
 | **dos2unix** | 7.5.2 | Converts between DOS and Unix text files | https://waterlan.home.xs4all.nl/dos2unix.html |
 | **dosfstools** | 4.2 | DOS file system utilities | https://github.com/dosfstools/dosfstools |

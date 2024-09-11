@@ -1366,6 +1366,10 @@
   Version: 0.1.0-2
   Description: A command-line DNS client.
   Homepage: https://dns.lookup.dog/
+- Package: doge
+  Version: 0.2.7
+  Description: A command-line DNS client
+  Homepage: https://github.com/Dj-Codeman/doge
 - Package: dopewars
   Version: 1.6.2
   Description: Drug-dealing game set in streets of New York City
