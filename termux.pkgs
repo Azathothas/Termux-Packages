@@ -230,7 +230,7 @@
 | **clifm** | 1.20 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
 | **clinfo** | 3.0.23.01.25 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
-| **cloneit** | 20221024-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
+| **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2024.9.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20240813.131531 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
@@ -1616,7 +1616,7 @@
 | **mdbook-mermaid** | 0.13.0 | A preprocessor for mdbook to add mermaid support | https://github.com/badboy/mdbook-mermaid |
 | **mdbook-open-on-gh** | 2.4.3 | A preprocessor for mdbook to add a open-on-github link on every page | https://github.com/badboy/mdbook-open-on-gh |
 | **mdbook-pikchr** | 0.1.7 | A mdbook preprocessor to render pikchr code blocks as images in your book | https://github.com/podsvirov/mdbook-pikchr |
-| **mdbook-plantuml** | 0.8.0 | mdBook preprocessor to render PlantUML code blocks as images in your book | https://github.com/sytsereitsma/mdbook-plantuml |
+| **mdbook-plantuml** | 0.8.0-1 | mdBook preprocessor to render PlantUML code blocks as images in your book | https://github.com/sytsereitsma/mdbook-plantuml |
 | **mdbook-presentation-preprocessor** | 0.3.1-1 | A preprocessor for utilizing an MDBook as slides for a presentation | https://github.com/FreeMasen/mdbook-presentation-preprocessor |
 | **mdbook-svgbob** | 0.2.1 | SvgBob mdbook preprocessor which swaps code-blocks with neat SVG | https://github.com/boozook/mdbook-svgbob |
 | **mdbook-svgbob2** | 0.3.0 | Alternative mdbook preprocessor for svgbob | https://github.com/matthiasbeyer/mdbook-svgbob2 |

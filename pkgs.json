@@ -1393,7 +1393,7 @@
   },
   {
     "Package": "cloneit",
-    "Version": "20221024-1",
+    "Version": "20240728",
     "Description": "A cli tool to download specific GitHub directories or files",
     "Homepage": "https://github.com/alok8bb/cloneit"
   },
@@ -9709,7 +9709,7 @@
   },
   {
     "Package": "mdbook-plantuml",
-    "Version": "0.8.0",
+    "Version": "0.8.0-1",
     "Description": "mdBook preprocessor to render PlantUML code blocks as images in your book",
     "Homepage": "https://github.com/sytsereitsma/mdbook-plantuml"
   },
