@@ -115,7 +115,7 @@
   },
   {
     "Package": "agate",
-    "Version": "3.3.8",
+    "Version": "3.3.9",
     "Description": "Very simple server for the Gemini hypertext protocol",
     "Homepage": "https://github.com/mbrubeck/agate"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.46.0",
+    "Version": "1.46.1",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -13963,7 +13963,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.2.1",
+    "Version": "16.2.2",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -14845,7 +14845,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.8",
+    "Version": "0.4.9",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
