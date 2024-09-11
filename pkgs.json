@@ -9697,7 +9697,7 @@
   },
   {
     "Package": "mdbook-mermaid",
-    "Version": "0.13.0",
+    "Version": "0.14.0",
     "Description": "A preprocessor for mdbook to add mermaid support",
     "Homepage": "https://github.com/badboy/mdbook-mermaid"
   },
@@ -14401,13 +14401,13 @@
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.3.1",
+    "Version": "0.3.2",
     "Description": "Tree-sitter parser for Markdown",
     "Homepage": "https://github.com/tree-sitter-grammars"
   },
   {
     "Package": "tree-sitter-markdown-static",
-    "Version": "0.3.1",
+    "Version": "0.3.2",
     "Description": "Static libraries for tree-sitter-markdown",
     "Homepage": "https://github.com/tree-sitter-grammars"
   },

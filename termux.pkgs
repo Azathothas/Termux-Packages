@@ -1614,7 +1614,7 @@
 | **mdbook-graphviz** | 0.2.1-1 | mdbook preprocessor to add graphviz support | https://github.com/dylanowen/mdbook-graphviz |
 | **mdbook-katex** | 0.9.0 | A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time | https://github.com/lzanini/mdbook-katex |
 | **mdbook-linkcheck** | 0.7.7 | A backend for mdbook which will check your links for you | https://michael-f-bryan.github.io/mdbook-linkcheck/ |
-| **mdbook-mermaid** | 0.13.0 | A preprocessor for mdbook to add mermaid support | https://github.com/badboy/mdbook-mermaid |
+| **mdbook-mermaid** | 0.14.0 | A preprocessor for mdbook to add mermaid support | https://github.com/badboy/mdbook-mermaid |
 | **mdbook-open-on-gh** | 2.4.3 | A preprocessor for mdbook to add a open-on-github link on every page | https://github.com/badboy/mdbook-open-on-gh |
 | **mdbook-pikchr** | 0.1.7 | A mdbook preprocessor to render pikchr code blocks as images in your book | https://github.com/podsvirov/mdbook-pikchr |
 | **mdbook-plantuml** | 0.8.0-1 | mdBook preprocessor to render PlantUML code blocks as images in your book | https://github.com/sytsereitsma/mdbook-plantuml |
@@ -2398,8 +2398,8 @@
 | **tree-sitter-c-static** | 0.23.0 | Static libraries for tree-sitter-c | https://github.com/tree-sitter |
 | **tree-sitter-lua** | 0.2.0 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars |
 | **tree-sitter-lua-static** | 0.2.0 | Static libraries for tree-sitter-lua | https://github.com/tree-sitter-grammars |
-| **tree-sitter-markdown** | 0.3.1 | Tree-sitter parser for Markdown | https://github.com/tree-sitter-grammars |
-| **tree-sitter-markdown-static** | 0.3.1 | Static libraries for tree-sitter-markdown | https://github.com/tree-sitter-grammars |
+| **tree-sitter-markdown** | 0.3.2 | Tree-sitter parser for Markdown | https://github.com/tree-sitter-grammars |
+| **tree-sitter-markdown-static** | 0.3.2 | Static libraries for tree-sitter-markdown | https://github.com/tree-sitter-grammars |
 | **tree-sitter-parsers** | 0.0.1 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
 | **tree-sitter-query** | 0.4.0-1 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars |
 | **tree-sitter-query-static** | 0.4.0-1 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars |
