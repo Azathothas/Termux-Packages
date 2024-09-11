@@ -907,7 +907,7 @@
 | **libcoinor-osi-static** | 1:0.108.8 | Static libraries for libcoinor-osi | https://github.com/coin-or/Osi |
 | **libcoinor-utils** | 1:2.11.11 | An open-source collection of classes and helper functions for COIN-OR projects | https://github.com/coin-or/CoinUtils |
 | **libcoinor-utils-static** | 1:2.11.11 | Static libraries for libcoinor-utils | https://github.com/coin-or/CoinUtils |
-| **libcommons-lang3-java** | 3.16.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
+| **libcommons-lang3-java** | 3.17.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
 | **libcompiler-rt** | 18.1.8 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
 | **libconfig** | 1.7.3-3 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
 | **libconfig-static** | 1.7.3-3 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |

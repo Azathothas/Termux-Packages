@@ -5383,7 +5383,7 @@
   },
   {
     "Package": "libcommons-lang3-java",
-    "Version": "3.16.0",
+    "Version": "3.17.0",
     "Description": "A host of helper utilities for the java.lang API",
     "Homepage": "https://commons.apache.org/proper/commons-lang/"
   },
