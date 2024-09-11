@@ -1705,7 +1705,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.9.1",
+    "Version": "8.10.0",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -2461,7 +2461,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.23.0",
+    "Version": "2.24.0",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -5455,13 +5455,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.9.1",
+    "Version": "8.10.0",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.9.1",
+    "Version": "8.10.0",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
