@@ -4315,7 +4315,7 @@
   },
   {
     "Package": "ipfs",
-    "Version": "0.29.0",
+    "Version": "0.30.0",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -13036,6 +13036,12 @@
     "Version": "9.0.8",
     "Description": "Static libraries for seafile-client",
     "Homepage": "https://seafile.com"
+  },
+  {
+    "Package": "seanime",
+    "Version": "2.1.1-1",
+    "Description": "Self-hosted anime and manga server for sea rovers.",
+    "Homepage": "https://github.com/5rahim/seanime"
   },
   {
     "Package": "seccure",
