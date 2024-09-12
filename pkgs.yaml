@@ -943,11 +943,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 3.30.3
+  Version: 3.30.3-1
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 3.30.3
+  Version: 3.30.3-1
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -3027,11 +3027,11 @@
   Description: GLib JSON manipulation library
   Homepage: https://wiki.gnome.org/Projects/JsonGlib
 - Package: jsoncpp
-  Version: 1.9.5-2
+  Version: 1.9.6
   Description: C++ library for interacting with JSON
   Homepage: https://github.com/open-source-parsers/jsoncpp
 - Package: jsoncpp-static
-  Version: 1.9.5-2
+  Version: 1.9.6
   Description: Static libraries for jsoncpp
   Homepage: https://github.com/open-source-parsers/jsoncpp
 - Package: jump
@@ -3211,7 +3211,7 @@
   Description: Static libraries for lftp
   Homepage: https://lftp.tech/
 - Package: lgogdownloader
-  Version: "3.15"
+  Version: 3.15-1
   Description: Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader
   Homepage: https://sites.google.com/site/gogdownloader/
 - Package: lhasa
