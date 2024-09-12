@@ -991,7 +991,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.40.1",
+    "Version": "1.41.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.15.4",
+    "Version": "3.16.0",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -13105,7 +13105,7 @@
   },
   {
     "Package": "shaderc",
-    "Version": "2024.1",
+    "Version": "2024.2",
     "Description": "Collection of tools, libraries, and tests for Vulkan shader compilation",
     "Homepage": "https://github.com/google/shaderc"
   },
@@ -15067,7 +15067,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.07",
+    "Version": "0.9.99.08",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
