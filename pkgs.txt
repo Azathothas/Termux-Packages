@@ -404,7 +404,7 @@
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  exiv2-static  2:0.27.7-1  Static libraries for exiv2  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
- eza  0.19.2  A modern replacement for ls  https://github.com/eza-community/eza 
+ eza  0.19.3  A modern replacement for ls  https://github.com/eza-community/eza 
  fact++  1.6.5-1  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
  fakeroot  1.36  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.36  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
@@ -1650,7 +1650,7 @@
  miniflux  2.2.0  A minimalist and opinionated feed reader  https://miniflux.app/ 
  minimodem  0.24-1-0  General-purpose software audio FSK modem  http://www.whence.com/minimodem/ 
  minio  2024.09.09.16.59.28  Multi-Cloud Object Storage  https://min.io/ 
- miniserve  0.27.1-1  Tool to serve files and dirs over HTTP  https://github.com/svenstaro/miniserve 
+ miniserve  0.28.0  Tool to serve files and dirs over HTTP  https://github.com/svenstaro/miniserve 
  minisign  0.11-1  A dead simple tool to sign files and verify signatures  https://jedisct1.github.io/minisign/ 
  miniupnpc  2.2.8-1  Small UPnP client library and tool to access Internet Gateway Devices  https://miniupnp.tuxfamily.org/ 
  miniupnpc-static  2.2.8-1  Static libraries for miniupnpc  https://miniupnp.tuxfamily.org/ 
@@ -1791,7 +1791,7 @@
  octomap  1.10.0  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-4  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  23.12.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  23.13.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.5.1-1  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-8  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
@@ -2327,7 +2327,7 @@
  tectonic  0.15.0-2  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20240730  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-6  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  16.2.2  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  16.3.0  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.5.1-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-4  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
@@ -2445,7 +2445,7 @@
  unar  1.10.7-8  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
  unbound  1.21.0  Unbound command-line tools  https://unbound.net/ 
  unbound-static  1.17.1  Static libraries for unbound  https://unbound.net/ 
- unicode-data  15.1.0  The Unicode Character Database (UCD)  https://unicode.org/ucd/ 
+ unicode-data  15.1.0-1  The Unicode Character Database (UCD)  https://unicode.org/ucd/ 
  unicorn  2.0.1.post1  Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework  https://www.unicorn-engine.org/ 
  unicorn-static  2.0.1.post1  Static libraries for unicorn  https://www.unicorn-engine.org/ 
  unifdef  2.12  Remove #ifdef'ed lines  http://dotat.at/prog/unifdef/ 

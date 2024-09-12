@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.19.2",
+    "Version": "0.19.3",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -9913,7 +9913,7 @@
   },
   {
     "Package": "miniserve",
-    "Version": "0.27.1-1",
+    "Version": "0.28.0",
     "Description": "Tool to serve files and dirs over HTTP",
     "Homepage": "https://github.com/svenstaro/miniserve"
   },
@@ -10759,7 +10759,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.12.0",
+    "Version": "23.13.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13975,7 +13975,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.2.2",
+    "Version": "16.3.0",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -14683,7 +14683,7 @@
   },
   {
     "Package": "unicode-data",
-    "Version": "15.1.0",
+    "Version": "15.1.0-1",
     "Description": "The Unicode Character Database (UCD)",
     "Homepage": "https://unicode.org/ucd/"
   },
