@@ -2457,7 +2457,7 @@
 | **unar** | 1.10.7-8 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.21.0 | Unbound command-line tools | https://unbound.net/ |
 | **unbound-static** | 1.17.1 | Static libraries for unbound | https://unbound.net/ |
-| **unicode-data** | 15.1.0-1 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
+| **unicode-data** | 16.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicorn** | 2.0.1.post1 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
 | **unicorn-static** | 2.0.1.post1 | Static libraries for unicorn | https://www.unicorn-engine.org/ |
 | **unifdef** | 2.12 | Remove #ifdef'ed lines | http://dotat.at/prog/unifdef/ |

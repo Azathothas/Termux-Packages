@@ -9787,7 +9787,7 @@
   Description: Static libraries for unbound
   Homepage: https://unbound.net/
 - Package: unicode-data
-  Version: 15.1.0-1
+  Version: 16.0.0
   Description: The Unicode Character Database (UCD)
   Homepage: https://unicode.org/ucd/
 - Package: unicorn
