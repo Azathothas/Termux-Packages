@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.16.0",
+    "Version": "3.16.1",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -10699,7 +10699,7 @@
   },
   {
     "Package": "o-editor",
-    "Version": "2.67.0",
+    "Version": "2.67.1",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://github.com/xyproto/o"
   },
@@ -11875,7 +11875,7 @@
   },
   {
     "Package": "pygobject",
-    "Version": "3.48.2",
+    "Version": "3.50.0",
     "Description": "Python package which provides bindings for GObject based libraries",
     "Homepage": "https://pygobject.readthedocs.io/"
   },
@@ -12355,7 +12355,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.13.0",
+    "Version": "3.14.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },

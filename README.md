@@ -661,7 +661,7 @@
 | **helix** | 24.07-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 24.07-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 3.16.0 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 3.16.1 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.1.0 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-6 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
@@ -1793,7 +1793,7 @@
 | **nwipe** | 0.37-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
-| **o-editor** | 2.67.0 | Small, fast and limited text editor | https://github.com/xyproto/o |
+| **o-editor** | 2.67.1 | Small, fast and limited text editor | https://github.com/xyproto/o |
 | **oathtool** | 2.6.11 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.11 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
 | **obfs4proxy** | 0.0.14-3 | A pluggable transport plugin for Tor | https://github.com/Yawning/obfs4 |
@@ -1989,7 +1989,7 @@
 | **pv** | 1.8.14 | Terminal-based tool for monitoring the progress of data through a pipeline | http://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-1 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pycairo** | 1.27.0 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
-| **pygobject** | 3.48.2 | Python package which provides bindings for GObject based libraries | https://pygobject.readthedocs.io/ |
+| **pygobject** | 3.50.0 | Python package which provides bindings for GObject based libraries | https://pygobject.readthedocs.io/ |
 | **pypy** | 7.3.17 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.17 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 7.3.17 | Tkinter support for PyPy | https://pypy.org |
@@ -2069,7 +2069,7 @@
 | **rage** | 0.10.0 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 3.13.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 3.14.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.3-6 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-4 | fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
