@@ -681,8 +681,8 @@
 | **html-xml-utils** | 8.6 | A number of simple utilities for manipulating HTML and XML files | https://www.w3.org/Tools/HTML-XML-utils/ |
 | **html2text** | 1:2.2.3 | Utility that converts HTML documents into plain text | http://www.mbayer.de/html2text/ |
 | **htop** | 3.3.0 | Interactive process viewer for Linux | https://htop.dev/ |
-| **htslib** | 1.20 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
-| **htslib-static** | 1.20 | Static libraries for htslib | https://github.com/samtools/htslib |
+| **htslib** | 1.21 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
+| **htslib-static** | 1.21 | Static libraries for htslib | https://github.com/samtools/htslib |
 | **httping** | 3.6 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
 | **httrack** | 3.49.5 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
