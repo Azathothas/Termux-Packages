@@ -3121,7 +3121,7 @@
   },
   {
     "Package": "ghostscript",
-    "Version": "10.03.1",
+    "Version": "10.03.1-1",
     "Description": "Interpreter for the PostScript language and for PDF",
     "Homepage": "https://www.ghostscript.com/"
   },
@@ -7399,13 +7399,13 @@
   },
   {
     "Package": "libpcap",
-    "Version": "1.10.4",
+    "Version": "1.10.5",
     "Description": "Library for network traffic capture",
     "Homepage": "https://www.tcpdump.org"
   },
   {
     "Package": "libpcap-static",
-    "Version": "1.10.4",
+    "Version": "1.10.5",
     "Description": "Static libraries for libpcap",
     "Homepage": "https://www.tcpdump.org"
   },

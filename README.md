@@ -530,7 +530,7 @@
 | **ghc** | 9.2.5-1 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghc-libs** | 9.2.5-1 | The Glasgow Haskell Compiler libraries | https://www.haskell.org/ghc/ |
 | **ghc-libs-static** | 8.10.7-3 | Static libraries for ghc-libs | https://www.haskell.org/ghc/ |
-| **ghostscript** | 10.03.1 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
+| **ghostscript** | 10.03.1-1 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
 | **giflib-static** | 5.2.2 | Static libraries for giflib | https://giflib.sourceforge.net/ |
 | **giflib-utils** | 5.2.2 | A set of utilities that comes with giflib package | https://giflib.sourceforge.net/ |
@@ -1243,8 +1243,8 @@
 | **libpano13-static** | 2.9.22-1 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
 | **libpaper** | 2.2.5 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
 | **libpaper-static** | 2.2.5 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
-| **libpcap** | 1.10.4 | Library for network traffic capture | https://www.tcpdump.org |
-| **libpcap-static** | 1.10.4 | Static libraries for libpcap | https://www.tcpdump.org |
+| **libpcap** | 1.10.5 | Library for network traffic capture | https://www.tcpdump.org |
+| **libpcap-static** | 1.10.5 | Static libraries for libpcap | https://www.tcpdump.org |
 | **libpcreposix** | 8.45-1 | Posix-compatible runtime libraries for libpcre | https://www.pcre.org |
 | **libphysfs** | 3.2.0-1 | A portable, flexible file i/o abstraction | https://icculus.org/physfs/ |
 | **libpipeline** | 1.5.7 | C library for manipulating pipelines of subprocesses in a flexible and convenient way | http://libpipeline.nongnu.org/ |
