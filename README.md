@@ -790,7 +790,7 @@
 | **kotlin** | 2.0.20 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.21.3 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.4.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.31.0 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.31.1 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.29.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-5 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |

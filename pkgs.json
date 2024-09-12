@@ -4681,7 +4681,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.31.0",
+    "Version": "1.31.1",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
