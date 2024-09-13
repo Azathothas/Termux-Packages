@@ -6947,7 +6947,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.2
+  Version: 0.8.3
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://github.com/Decodetalkers/neocmakelsp
 - Package: neofetch
@@ -10483,7 +10483,7 @@
   Description: New zlib compatible compressor tools
   Homepage: https://github.com/google/zopfli
 - Package: zoxide
-  Version: 0.9.4-1
+  Version: 0.9.5
   Description: A faster way to navigate your filesystem
   Homepage: https://github.com/ajeetdsouza/zoxide
 - Package: zpaq

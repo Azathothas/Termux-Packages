@@ -10423,7 +10423,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.2",
+    "Version": "0.8.3",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -15727,7 +15727,7 @@
   },
   {
     "Package": "zoxide",
-    "Version": "0.9.4-1",
+    "Version": "0.9.5",
     "Description": "A faster way to navigate your filesystem",
     "Homepage": "https://github.com/ajeetdsouza/zoxide"
   },
