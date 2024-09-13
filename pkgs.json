@@ -12943,7 +12943,7 @@
   },
   {
     "Package": "samurai",
-    "Version": "1.2",
+    "Version": "1.2-1",
     "Description": "ninja-compatible build tool written in C",
     "Homepage": "https://github.com/michaelforney/samurai"
   },
@@ -15331,7 +15331,7 @@
   },
   {
     "Package": "wireguard-tools",
-    "Version": "1.0.20210914-1",
+    "Version": "1.0.20210914-2",
     "Description": "Tools for the WireGuard secure network tunnel",
     "Homepage": "https://www.wireguard.com"
   },
