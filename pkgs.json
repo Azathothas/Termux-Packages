@@ -2941,7 +2941,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.9.1",
+    "Version": "3.9.2",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
