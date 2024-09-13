@@ -1747,7 +1747,7 @@
 | **ndk-sysroot** | 27b | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.3 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
-| **neocmakelsp** | 0.8.3 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
+| **neocmakelsp** | 0.8.4 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20240425-1 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.10.1-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
@@ -2141,7 +2141,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.5 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.5 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.6.4 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.6.5 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.6 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2280,7 +2280,7 @@
 | **stdoutisatty** | 1.0 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-7 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
 | **stemwords** | 2.2.0-1 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
-| **step-cli** | 0.27.2-1 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
+| **step-cli** | 0.27.4 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-6 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-6 | Static libraries for stfl | http://www.clifford.at/stfl |
 | **stoken** | 0.93-1 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
@@ -2486,7 +2486,7 @@
 | **util-linux-static** | 2.39.3-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.39.3-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.4.9 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.4.10 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.26-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.17.1 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

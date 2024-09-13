@@ -6947,7 +6947,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.3
+  Version: 0.8.4
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://github.com/Decodetalkers/neocmakelsp
 - Package: neofetch
@@ -8523,7 +8523,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.6.4
+  Version: 0.6.5
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9079,7 +9079,7 @@
   Description: A command-line tool which uses libstemmer
   Homepage: https://snowballstem.org/
 - Package: step-cli
-  Version: 0.27.2-1
+  Version: 0.27.4
   Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
   Homepage: https://smallstep.com/cli
 - Package: stfl
@@ -9903,7 +9903,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.9
+  Version: 0.4.10
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
