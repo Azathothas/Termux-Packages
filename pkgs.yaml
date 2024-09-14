@@ -9079,7 +9079,7 @@
   Description: A command-line tool which uses libstemmer
   Homepage: https://snowballstem.org/
 - Package: step-cli
-  Version: 0.27.4
+  Version: 0.27.4-1
   Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
   Homepage: https://smallstep.com/cli
 - Package: stfl
@@ -10103,7 +10103,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.98.3
+  Version: 1.98.5
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
