@@ -2111,7 +2111,7 @@
   Description: Enables transparent encryption and decryption of files for a git repository
   Homepage: https://www.agwa.name/projects/git-crypt/
 - Package: git-delta
-  Version: 0.18.1
+  Version: 0.18.2
   Description: A syntax-highlighter for git and diff output
   Homepage: https://dandavison.github.io/delta/
 - Package: git-gitk
@@ -8075,7 +8075,7 @@
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
-  Version: 1.5.6
+  Version: 1.5.6-2
   Description: A Pigz-like tool for Zstandard
   Homepage: https://github.com/facebook/zstd
 - Package: q-dns-client
@@ -9423,7 +9423,7 @@
   Description: The TeX Gyre (TG) Collection of Fonts
   Homepage: https://www.gust.org.pl/projects/e-foundry/tex-gyre/
 - Package: texinfo
-  Version: 7.1-2
+  Version: 7.1.1
   Description: Documentation system for on-line information and printed output
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: texlab
@@ -9839,7 +9839,7 @@
   Description: Helps interactively and incrementally explore textual data in Linux
   Homepage: https://github.com/akavel/up
 - Package: update-info-dir
-  Version: 7.1-2
+  Version: 7.1.1
   Description: Update or create index file from all installed info files in directory
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: upscaledb-tools
@@ -10291,7 +10291,7 @@
   Description: A command-line tool for converting XLS to CSV
   Homepage: https://github.com/libxls/libxls
 - Package: xmake
-  Version: 2.9.4
+  Version: 2.9.5
   Description: A cross-platform build utility based on Lua
   Homepage: https://xmake.io/
 - Package: xmlsec
@@ -10507,11 +10507,11 @@
   Description: A program for interactively transferring files to a remote machine while using the secure shell (ssh)
   Homepage: http://zssh.sourceforge.net/
 - Package: zstd
-  Version: 1.5.6
+  Version: 1.5.6-2
   Description: Zstandard compression
   Homepage: https://github.com/facebook/zstd
 - Package: zstd-static
-  Version: 1.5.6
+  Version: 1.5.6-1
   Description: Static libraries for zstd
   Homepage: https://github.com/facebook/zstd
 - Package: zsync

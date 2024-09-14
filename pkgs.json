@@ -3169,7 +3169,7 @@
   },
   {
     "Package": "git-delta",
-    "Version": "0.18.1",
+    "Version": "0.18.2",
     "Description": "A syntax-highlighter for git and diff output",
     "Homepage": "https://dandavison.github.io/delta/"
   },
@@ -12115,7 +12115,7 @@
   },
   {
     "Package": "pzstd",
-    "Version": "1.5.6",
+    "Version": "1.5.6-2",
     "Description": "A Pigz-like tool for Zstandard",
     "Homepage": "https://github.com/facebook/zstd"
   },
@@ -14137,7 +14137,7 @@
   },
   {
     "Package": "texinfo",
-    "Version": "7.1-2",
+    "Version": "7.1.1",
     "Description": "Documentation system for on-line information and printed output",
     "Homepage": "https://www.gnu.org/software/texinfo/"
   },
@@ -14761,7 +14761,7 @@
   },
   {
     "Package": "update-info-dir",
-    "Version": "7.1-2",
+    "Version": "7.1.1",
     "Description": "Update or create index file from all installed info files in directory",
     "Homepage": "https://www.gnu.org/software/texinfo/"
   },
@@ -15439,7 +15439,7 @@
   },
   {
     "Package": "xmake",
-    "Version": "2.9.4",
+    "Version": "2.9.5",
     "Description": "A cross-platform build utility based on Lua",
     "Homepage": "https://xmake.io/"
   },
@@ -15763,13 +15763,13 @@
   },
   {
     "Package": "zstd",
-    "Version": "1.5.6",
+    "Version": "1.5.6-2",
     "Description": "Zstandard compression",
     "Homepage": "https://github.com/facebook/zstd"
   },
   {
     "Package": "zstd-static",
-    "Version": "1.5.6",
+    "Version": "1.5.6-1",
     "Description": "Static libraries for zstd",
     "Homepage": "https://github.com/facebook/zstd"
   },

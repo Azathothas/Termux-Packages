@@ -538,7 +538,7 @@
 | **gifski** | 1.32.0 | GIF encoder based on libimagequant | https://gif.ski/ |
 | **git** | 2.46.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
-| **git-delta** | 0.18.1 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
+| **git-delta** | 0.18.2 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-gitk** | 2.46.0 | Git repository browser | https://git-scm.com/ |
 | **git-gui** | 2.46.0 | A graphical interface to Git | https://git-scm.com/ |
 | **git-lfs** | 3.5.1-1 | Git extension for versioning large files | https://git-lfs.github.com/ |
@@ -2029,7 +2029,7 @@
 | **python2** | 2.7.18-14 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-14 | Static libraries for python2 | http://python.org/ |
 | **pyunbound** | 1.21.0 | Python bindings for Unbound | https://unbound.net/ |
-| **pzstd** | 1.5.6 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
+| **pzstd** | 1.5.6-2 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.2.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
 | **qalc-static** | 5.2.0 | Static libraries for qalc | https://qalculate.github.io/ |
@@ -2366,7 +2366,7 @@
 | **tesseract** | 5.4.1-1 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
 | **testssl.sh** | 3.0.9 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
 | **tex-gyre** | 2.501-1 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
-| **texinfo** | 7.1-2 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
+| **texinfo** | 7.1.1 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
 | **texlab** | 5.19.0 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
 | **texlive-bin** | 20240310-1 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 20240310-1 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
@@ -2470,7 +2470,7 @@
 | **unshield** | 1.5.1 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
 | **unzip** | 6.0-9 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-3 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
-| **update-info-dir** | 7.1-2 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
+| **update-info-dir** | 7.1.1 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
 | **upscaledb-tools** | 2.2.1p20210820-9 | Tools for upscaledb | https://upscaledb.com/ |
 | **upx** | 4.2.4 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 3.1.0 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
@@ -2583,7 +2583,7 @@
 | **xdelta3** | 3.1.0-1 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
 | **xh** | 0.22.2 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xls2csv** | 1.6.2 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
-| **xmake** | 2.9.4 | A cross-platform build utility based on Lua | https://xmake.io/ |
+| **xmake** | 2.9.5 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.5 | XML Security Library | https://www.aleksey.com/xmlsec/ |
 | **xmlsec-static** | 1.3.5 | Static libraries for xmlsec | https://www.aleksey.com/xmlsec/ |
 | **xmlstarlet** | 1.6.1-6 | Command line XML toolkit | https://xmlstar.sourceforge.net/ |
@@ -2637,8 +2637,8 @@
 | **zsh** | 5.9-5 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
-| **zstd** | 1.5.6 | Zstandard compression | https://github.com/facebook/zstd |
-| **zstd-static** | 1.5.6 | Static libraries for zstd | https://github.com/facebook/zstd |
+| **zstd** | 1.5.6-2 | Zstandard compression | https://github.com/facebook/zstd |
+| **zstd-static** | 1.5.6-1 | Static libraries for zstd | https://github.com/facebook/zstd |
 | **zsync** | 0.6.2-5 | A file transfer program to download files from remote web servers | http://zsync.moria.org.uk/ |
 | **zziplib** | 0.13.78 | Provides read access to zipped files in a zip-archive, using compression based on free algorithms | https://zziplib.sourceforge.net/ |
 | **zzuf** | 2022.05.29 | A transparent application input fuzzer | http://caca.zoy.org/wiki/zzuf |
