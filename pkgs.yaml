@@ -9567,7 +9567,7 @@
   Description: Tool to trace the network path to a remote host
   Homepage: https://github.com/iputils/iputils
 - Package: traceroute
-  Version: 2.1.5
+  Version: 2.1.6
   Description: A new modern implementation of traceroute(8) utility for Linux systems
   Homepage: https://traceroute.sourceforge.net/
 - Package: translate-shell
