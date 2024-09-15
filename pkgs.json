@@ -3157,7 +3157,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.46.0",
+    "Version": "2.46.1",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3175,13 +3175,13 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.46.0",
+    "Version": "2.46.1",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.46.0",
+    "Version": "2.46.1",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.46.0",
+    "Version": "2.46.1",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -6415,19 +6415,19 @@
   },
   {
     "Package": "libjpeg-turbo",
-    "Version": "3.0.3",
+    "Version": "3.0.4",
     "Description": "Library for reading and writing JPEG image files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-progs",
-    "Version": "3.0.3",
+    "Version": "3.0.4",
     "Description": "Programs for manipulating JPEG files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-static",
-    "Version": "3.0.3",
+    "Version": "3.0.4",
     "Description": "Static libraries for libjpeg-turbo",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
