@@ -11749,7 +11749,7 @@
   },
   {
     "Package": "proj",
-    "Version": "9.4.1",
+    "Version": "9.5.0",
     "Description": "Generic coordinate transformation software",
     "Homepage": "https://proj.org"
   },
@@ -13669,7 +13669,7 @@
   },
   {
     "Package": "strace",
-    "Version": "6.10",
+    "Version": "6.11",
     "Description": "Debugging utility to monitor system calls and signals received",
     "Homepage": "https://strace.io/"
   },
@@ -13987,7 +13987,7 @@
   },
   {
     "Package": "tere",
-    "Version": "1.5.1-1",
+    "Version": "1.5.2",
     "Description": "Terminal file explorer written in rust",
     "Homepage": "https://github.com/mgunyho/tere"
   },
@@ -14869,7 +14869,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.17.1",
+    "Version": "5.18.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },

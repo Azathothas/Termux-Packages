@@ -7831,7 +7831,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.4.1
+  Version: 9.5.0
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
@@ -9111,7 +9111,7 @@
   Description: Tool for managing the installation of multiple software packages into a single directory
   Homepage: https://www.gnu.org/software/stow/
 - Package: strace
-  Version: "6.10"
+  Version: "6.11"
   Description: Debugging utility to monitor system calls and signals received
   Homepage: https://strace.io/
 - Package: streamripper
@@ -9323,7 +9323,7 @@
   Description: A simple PHP application for logging current weather conditions, notes, and waypoints
   Homepage: https://github.com/dmpop/tenki
 - Package: tere
-  Version: 1.5.1-1
+  Version: 1.5.2
   Description: Terminal file explorer written in rust
   Homepage: https://github.com/mgunyho/tere
 - Package: tergent
@@ -9911,7 +9911,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.17.1
+  Version: 5.18.0
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac
