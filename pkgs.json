@@ -11095,7 +11095,7 @@
   },
   {
     "Package": "pacman",
-    "Version": "6.1.0-1",
+    "Version": "7.0.0",
     "Description": "A library-based package manager with dependency support",
     "Homepage": "https://archlinux.org/pacman/"
   },
