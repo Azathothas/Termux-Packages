@@ -505,7 +505,7 @@
   },
   {
     "Package": "at-spi2-core",
-    "Version": "2.52.0",
+    "Version": "2.54.0",
     "Description": "Assistive Technology Service Provider Interface (AT-SPI)",
     "Homepage": "https://wiki.gnome.org/Accessibility"
   },
@@ -2557,7 +2557,7 @@
   },
   {
     "Package": "feroxbuster",
-    "Version": "2.10.4",
+    "Version": "2.11.0",
     "Description": "A fast, simple, recursive content discovery tool written in Rust",
     "Homepage": "https://github.com/epi052/feroxbuster"
   },

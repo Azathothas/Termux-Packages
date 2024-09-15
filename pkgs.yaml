@@ -335,7 +335,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.52.0
+  Version: 2.54.0
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -1703,7 +1703,7 @@
   Description: A Lisp that compiles to Lua
   Homepage: https://fennel-lang.org
 - Package: feroxbuster
-  Version: 2.10.4
+  Version: 2.11.0
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
