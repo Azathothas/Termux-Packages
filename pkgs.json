@@ -4525,13 +4525,13 @@
   },
   {
     "Package": "json-c",
-    "Version": "0.17",
+    "Version": "0.18",
     "Description": "A JSON implementation in C",
     "Homepage": "https://github.com/json-c/json-c/wiki"
   },
   {
     "Package": "json-c-static",
-    "Version": "0.17",
+    "Version": "0.18",
     "Description": "Static libraries for json-c",
     "Homepage": "https://github.com/json-c/json-c/wiki"
   },
@@ -14107,7 +14107,7 @@
   },
   {
     "Package": "termux-tools",
-    "Version": "1.43.4-1",
+    "Version": "1.43.5",
     "Description": "Basic system tools for Termux",
     "Homepage": "https://termux.dev/"
   },
