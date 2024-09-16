@@ -9491,11 +9491,11 @@
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: http://tinyfugue.sourceforge.net/
 - Package: tinygo
-  Version: 0.32.0
+  Version: 0.33.0
   Description: Go compiler for microcontrollers, WASM, CLI tools
   Homepage: https://tinygo.org
 - Package: tinygo-common
-  Version: 0.32.0
+  Version: 0.33.0
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinyproxy
