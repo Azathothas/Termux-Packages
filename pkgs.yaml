@@ -2063,7 +2063,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.56.0
+  Version: 2.57.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
