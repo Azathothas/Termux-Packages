@@ -1479,7 +1479,7 @@
   Description: EXT 2/3/4 filesystem utilities
   Homepage: https://e2fsprogs.sourceforge.net
 - Package: e2tools
-  Version: 0.1.0
+  Version: 0.1.2
   Description: mtools analogue for ext2/3 filesystems
   Homepage: https://github.com/e2tools/e2tools
 - Package: ecj
@@ -2883,7 +2883,7 @@
   Description: Command-line interface to IPMI-enabled devices
   Homepage: https://github.com/ipmitool/ipmitool
 - Package: iproute2
-  Version: 6.10.0
+  Version: 6.11.0
   Description: Utilities for controlling networking
   Homepage: https://wiki.linuxfoundation.org/networking/iproute2
 - Package: ipv6calc
@@ -8999,7 +8999,7 @@
   Description: A small headless Logitech Squeezebox emulator
   Homepage: https://ralph-irving.github.io/squeezelite.html
 - Package: squid
-  Version: "6.10"
+  Version: "6.11"
   Description: Full-featured Web proxy cache server
   Homepage: http://www.squid-cache.org
 - Package: sratom
@@ -9323,7 +9323,7 @@
   Description: A simple PHP application for logging current weather conditions, notes, and waypoints
   Homepage: https://github.com/dmpop/tenki
 - Package: tere
-  Version: 1.5.2
+  Version: 1.6.0
   Description: Terminal file explorer written in rust
   Homepage: https://github.com/mgunyho/tere
 - Package: tergent

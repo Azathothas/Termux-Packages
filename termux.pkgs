@@ -368,7 +368,7 @@
 | **dwarves** | 1.27 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
 | **dx** | 1:1.16-7 | Command which takes in Java class files and converts them to format executable by Dalvik VM | http://developer.android.com/tools/help/index.html |
 | **e2fsprogs** | 1.47.1 | EXT 2/3/4 filesystem utilities | https://e2fsprogs.sourceforge.net |
-| **e2tools** | 0.1.0 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
+| **e2tools** | 0.1.2 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
 | **ed** | 1.20.2 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
 | **edbrowse** | 3.8.10 | Line based editor, browser, and mail client | https://edbrowse.org/ |
@@ -719,7 +719,7 @@
 | **iperf3-static** | 3.17.1 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipfs** | 0.30.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 6.10.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iproute2** | 6.11.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.2.1 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
@@ -2248,7 +2248,7 @@
 | **squashfs-tools-ng** | 1.3.1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.1 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 1.9.9.1430 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
-| **squid** | 6.10 | Full-featured Web proxy cache server | http://www.squid-cache.org |
+| **squid** | 6.11 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.16 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-7 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay |
 | **srt-tools** | 1.5.3 | Command-line tools for libsrt | https://github.com/Haivision/srt |
@@ -2329,7 +2329,7 @@
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
 | **teleport-tsh** | 16.3.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
-| **tere** | 1.5.2 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
+| **tere** | 1.6.0 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
 | **termimage** | 1.2.1 | Terminal image viewer | https://github.com/nabijaczleweli/termimage |
 | **termplay** | 2.0.6 | Plays an image/video in your terminal | https://gitlab.com/jD91mZM2/termplay |

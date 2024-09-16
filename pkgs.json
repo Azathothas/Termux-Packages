@@ -2221,7 +2221,7 @@
   },
   {
     "Package": "e2tools",
-    "Version": "0.1.0",
+    "Version": "0.1.2",
     "Description": "mtools analogue for ext2/3 filesystems",
     "Homepage": "https://github.com/e2tools/e2tools"
   },
@@ -4327,7 +4327,7 @@
   },
   {
     "Package": "iproute2",
-    "Version": "6.10.0",
+    "Version": "6.11.0",
     "Description": "Utilities for controlling networking",
     "Homepage": "https://wiki.linuxfoundation.org/networking/iproute2"
   },
@@ -13501,7 +13501,7 @@
   },
   {
     "Package": "squid",
-    "Version": "6.10",
+    "Version": "6.11",
     "Description": "Full-featured Web proxy cache server",
     "Homepage": "http://www.squid-cache.org"
   },
@@ -13987,7 +13987,7 @@
   },
   {
     "Package": "tere",
-    "Version": "1.5.2",
+    "Version": "1.6.0",
     "Description": "Terminal file explorer written in rust",
     "Homepage": "https://github.com/mgunyho/tere"
   },
