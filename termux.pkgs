@@ -1398,7 +1398,7 @@
 | **libudfread-static** | 1.1.2 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
 | **libunbound** | 1.21.0 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
 | **libunbound-static** | 1.21.0 | Static libraries for libunbound | https://unbound.net/ |
-| **libunibilium** | 2.1.1 | Terminfo parsing library | https://github.com/neovim/unibilium |
+| **libunibilium** | 2.1.2 | Terminfo parsing library | https://github.com/neovim/unibilium |
 | **libunistring** | 1.1 | Library providing functions for manipulating Unicode strings | https://www.gnu.org/software/libunistring/ |
 | **libunistring-static** | 1.1 | Static libraries for libunistring | https://www.gnu.org/software/libunistring/ |
 | **libunqlite** | 1.1.9 | Transactional embedded database engine | https://unqlite.org/ |

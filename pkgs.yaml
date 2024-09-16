@@ -5599,7 +5599,7 @@
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
-  Version: 2.1.1
+  Version: 2.1.2
   Description: Terminfo parsing library
   Homepage: https://github.com/neovim/unibilium
 - Package: libunistring
