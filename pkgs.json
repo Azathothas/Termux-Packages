@@ -10423,7 +10423,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.4",
+    "Version": "0.8.5",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -12817,7 +12817,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240909",
+    "Version": "20240916",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },

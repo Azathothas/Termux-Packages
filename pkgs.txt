@@ -1735,7 +1735,7 @@
  ndk-sysroot  27b  System header and library files from the Android NDK needed for compiling C programs  https://developer.android.com/tools/sdk/ndk/index.html 
  ne  3.3.3  Easy-to-use and powerful text editor  https://ne.di.unimi.it/ 
  nelua  2024.01.13  Minimal, efficient, statically-typed and meta-programmable systems programming language  https://nelua.io 
- neocmakelsp  0.8.4  a cmake lsp based on tower-lsp and treesitter  https://github.com/Decodetalkers/neocmakelsp 
+ neocmakelsp  0.8.5  a cmake lsp based on tower-lsp and treesitter  https://github.com/Decodetalkers/neocmakelsp 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20240425-1  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.10.1-1  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
@@ -2134,7 +2134,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.5.6  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.81.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20240909  A Rust compiler front-end for IDEs  https://github.com/rust-lang/rust-analyzer 
+ rust-analyzer  20240916  A Rust compiler front-end for IDEs  https://github.com/rust-lang/rust-analyzer 
  rust-bindgen  0.70.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.81.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.81.0  Rust source code files  https://www.rust-lang.org/ 
