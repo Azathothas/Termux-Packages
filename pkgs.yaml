@@ -4975,8 +4975,12 @@
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
-  Version: 0.9.4
-  Description: Shared library for the Pluto interpreter.
+  Version: 0.9.4-2
+  Description: Shared library for the Pluto interpreter
+  Homepage: https://plutolang.github.io/
+- Package: libpluto-static
+  Version: 0.9.4-2
+  Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
   Version: 1.6.44
@@ -7699,8 +7703,8 @@
   Description: Simple command line audio player for Android
   Homepage: https://github.com/termux/play-audio
 - Package: plutolang
-  Version: 0.9.4
-  Description: A superset of Lua 5.4, with unique features, optimizations, and improvements
+  Version: 0.9.4-2
+  Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plzip
   Version: "1.11"
