@@ -3529,7 +3529,7 @@
   },
   {
     "Package": "goose",
-    "Version": "3.22.0",
+    "Version": "3.22.1",
     "Description": "A database migration tool. Supports SQL migrations and Go functions.",
     "Homepage": "https://pressly.github.io/goose"
   },
@@ -15163,7 +15163,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.99.1",
+    "Version": "1.102.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
