@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "17.0.3",
+    "Version": "17.0.4",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -12541,7 +12541,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:05.00.05",
+    "Version": "1:05.00.06",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -15739,7 +15739,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "0.4.39",
+    "Version": "0.4.40",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
