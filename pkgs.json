@@ -10309,7 +10309,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.52.5",
+    "Version": "0.53.0",
     "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
