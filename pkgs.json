@@ -15163,7 +15163,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.98.5",
+    "Version": "1.99.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
