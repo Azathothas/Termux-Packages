@@ -697,7 +697,7 @@
   },
   {
     "Package": "bc-gh",
-    "Version": "7.0.1",
+    "Version": "7.0.2",
     "Description": "Unix dc and POSIX bc with GNU and BSD extensions",
     "Homepage": "https://git.gavinhoward.com/gavin/bc"
   },
@@ -1705,7 +1705,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.10.0",
+    "Version": "8.10.1",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -5461,13 +5461,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.10.0",
+    "Version": "8.10.1",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.10.0",
+    "Version": "8.10.1",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -11581,7 +11581,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.22.20",
+    "Version": "0.22.21",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -13231,7 +13231,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.9.4",
+    "Version": "1.9.5",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
