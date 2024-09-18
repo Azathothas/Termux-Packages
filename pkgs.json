@@ -139,7 +139,7 @@
   },
   {
     "Package": "aichat",
-    "Version": "0.21.1",
+    "Version": "0.22.0",
     "Description": "A powerful chatgpt cli",
     "Homepage": "https://github.com/sigoden/aichat"
   },
@@ -10309,7 +10309,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.53.0",
+    "Version": "0.53.1",
     "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -14863,7 +14863,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.10",
+    "Version": "0.4.11",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
