@@ -2365,7 +2365,7 @@
   },
   {
     "Package": "erlang",
-    "Version": "27.0.1",
+    "Version": "27.1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
@@ -4711,7 +4711,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.44.0",
+    "Version": "0.44.1",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
