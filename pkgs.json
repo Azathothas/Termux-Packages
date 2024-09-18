@@ -403,7 +403,7 @@
   },
   {
     "Package": "artalk",
-    "Version": "2.9.0",
+    "Version": "2.9.1",
     "Description": "A self-hosted comment system",
     "Homepage": "https://artalk.js.org/"
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "Package": "elixir",
-    "Version": "1.17.2-1",
+    "Version": "1.17.3",
     "Description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
     "Homepage": "https://elixir-lang.org/"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.19.3",
+    "Version": "0.19.4",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -3049,13 +3049,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.14.8",
+    "Version": "1.14.9",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.14.8",
+    "Version": "1.14.9",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -14863,7 +14863,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.11",
+    "Version": "0.4.12",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },

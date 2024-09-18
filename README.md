@@ -77,7 +77,7 @@
 | **argp-static** | 1.5.0 | Static libraries for argp | https://github.com/argp-standalone/argp-standalone |
 | **aria2** | 1.37.0 | Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink | https://aria2.github.io |
 | **arj** | 3.10.22-5 | Open-source version of arj archiver | http://arj.sourceforge.net/ |
-| **artalk** | 2.9.0 | A self-hosted comment system | https://artalk.js.org/ |
+| **artalk** | 2.9.1 | A self-hosted comment system | https://artalk.js.org/ |
 | **arturo** | 0.9.83 | Simple, expressive & portable programming language for efficient scripting | https://arturo-lang.io |
 | **asciidoc** | 10.2.1 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.23 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
@@ -391,7 +391,7 @@
 | **electrum** | 4.5.5 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.191 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.17.0-1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
-| **elixir** | 1.17.2-1 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
+| **elixir** | 1.17.3 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.4-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
@@ -416,7 +416,7 @@
 | **exiv2** | 2:0.28.3 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.19.3 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.19.4 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.36 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.36 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -518,8 +518,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.14.8 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.14.8 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.14.9 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.14.9 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.22.5 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.22.5 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.3-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -2487,7 +2487,7 @@
 | **util-linux-static** | 2.40.2 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.4.11 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.4.12 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.26-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.18.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
