@@ -3241,7 +3241,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.4.1",
+    "Version": "1.5.0",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -3733,49 +3733,49 @@
   },
   {
     "Package": "gst-libav",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code",
     "Homepage": "https://gstreamer.freedesktop.org/modules/gst-libav.html"
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-gl-headers",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "OpenGL headers for GStreamer plugins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-python",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gstreamer",
-    "Version": "1.24.7",
+    "Version": "1.24.8",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.0.4",
+    "Version": "3.0.5",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -10765,7 +10765,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.13.3",
+    "Version": "23.13.4",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15073,7 +15073,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.09",
+    "Version": "0.9.99.10",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
