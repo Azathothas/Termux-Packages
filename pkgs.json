@@ -2647,7 +2647,7 @@
   },
   {
     "Package": "findutils",
-    "Version": "4.9.0-2",
+    "Version": "4.10.0",
     "Description": "Utilities to find files meeting specified criteria and perform various actions on the files which are found",
     "Homepage": "https://www.gnu.org/software/findutils/"
   },
