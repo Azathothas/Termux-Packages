@@ -767,7 +767,7 @@
 | **kak-lsp** | 17.1.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kcptun** | 20240906 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20240919 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.4.0 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-1 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -1513,7 +1513,7 @@
 | **libzim** | 9.2.3 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
 | **libzimg** | 3.0.5 | Scaling, colorspace conversion, and dithering library | https://github.com/sekrit-twc/zimg |
 | **libzimg-static** | 3.0.5 | Static libraries for libzimg | https://github.com/sekrit-twc/zimg |
-| **libzip** | 1.10.1-1 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
+| **libzip** | 1.11.1 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
 | **libzita-convolver** | 4.0.3-1 | A real-time C++ convolution library | https://kokkinizita.linuxaudio.org/linuxaudio/ |
 | **libzix** | 0.4.2 | lightweight C99 portability and data structure library | https://drobilla.net/category/zix |
 | **libzmq** | 4.3.5 | Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ. | https://zeromq.org/ |
@@ -1792,7 +1792,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 23.13.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 23.13.3 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1-1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2411,7 +2411,7 @@
 | **tree-sitter-vimdoc** | 3.0.0-2 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
 | **tree-sitter-vimdoc-static** | 3.0.0-2 | Static libraries for tree-sitter-vimdoc | https://github.com/neovim/tree-sitter-vimdoc |
 | **trojan-go** | 0.10.6-3 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
-| **trurl** | 0.15 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
+| **trurl** | 0.16 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
 | **trzsz-go** | 1.1.8 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
 | **trzsz-ssh** | 0.1.22 | An openssh client alternative | https://trzsz.github.io/ssh |
 | **tsduck-java** | 3.38.3822 | Java bindings for TSDuck | https://tsduck.io/ |
@@ -2620,7 +2620,7 @@
 | **zls** | 0.13.0 | Zig language server | https://github.com/zigtools/zls |
 | **znc** | 1.9.1 | An advanced IRC bouncer | https://znc.in/ |
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
-| **zoxide** | 0.9.5 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
+| **zoxide** | 0.9.6 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
 | **zrok** | 0.4.40 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-5 | Shell with lots of features | https://www.zsh.org |

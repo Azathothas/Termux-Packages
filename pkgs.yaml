@@ -3075,7 +3075,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
-  Version: "20240906"
+  Version: "20240919"
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
@@ -6059,7 +6059,7 @@
   Description: Static libraries for libzimg
   Homepage: https://github.com/sekrit-twc/zimg
 - Package: libzip
-  Version: 1.10.1-1
+  Version: 1.11.1
   Description: Library for reading, creating, and modifying zip archives
   Homepage: https://libzip.org/
 - Package: libzita-convolver
@@ -7175,7 +7175,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.13.1
+  Version: 23.13.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9651,7 +9651,7 @@
   Description: A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW
   Homepage: https://p4gefau1t.github.io/trojan-go
 - Package: trurl
-  Version: "0.15"
+  Version: "0.16"
   Description: trurl is a command line tool that parses and manipulates URLs
   Homepage: https://curl.se/trurl/
 - Package: trzsz-go
@@ -10487,7 +10487,7 @@
   Description: New zlib compatible compressor tools
   Homepage: https://github.com/google/zopfli
 - Package: zoxide
-  Version: 0.9.5
+  Version: 0.9.6
   Description: A faster way to navigate your filesystem
   Homepage: https://github.com/ajeetdsouza/zoxide
 - Package: zpaq

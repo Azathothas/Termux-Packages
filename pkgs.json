@@ -4615,7 +4615,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20240906",
+    "Version": "20240919",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -9091,7 +9091,7 @@
   },
   {
     "Package": "libzip",
-    "Version": "1.10.1-1",
+    "Version": "1.11.1",
     "Description": "Library for reading, creating, and modifying zip archives",
     "Homepage": "https://libzip.org/"
   },
@@ -10765,7 +10765,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.13.1",
+    "Version": "23.13.3",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14479,7 +14479,7 @@
   },
   {
     "Package": "trurl",
-    "Version": "0.15",
+    "Version": "0.16",
     "Description": "trurl is a command line tool that parses and manipulates URLs",
     "Homepage": "https://curl.se/trurl/"
   },
@@ -15733,7 +15733,7 @@
   },
   {
     "Package": "zoxide",
-    "Version": "0.9.5",
+    "Version": "0.9.6",
     "Description": "A faster way to navigate your filesystem",
     "Homepage": "https://github.com/ajeetdsouza/zoxide"
   },
