@@ -659,7 +659,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: buf
-  Version: 1.41.0
+  Version: 1.42.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -4863,7 +4863,7 @@
   Description: Static libraries for libopusenc
   Homepage: https://github.com/xiph/libopusenc
 - Package: liborc
-  Version: 0.4.39
+  Version: 0.4.40
   Description: Library of Optimized Inner Loops Runtime Compiler
   Homepage: https://gstreamer.freedesktop.org/projects/orc.html
 - Package: libosl
@@ -5455,15 +5455,15 @@
   Description: Thread debugging library
   Homepage: https://android.googlesource.com/platform/ndk/
 - Package: libtiff
-  Version: 4.6.0
+  Version: 4.7.0
   Description: Support for the Tag Image File Format (TIFF) for storing image data
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtiff-static
-  Version: 4.6.0
+  Version: 4.7.0
   Description: Static libraries for libtiff
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtiff-utils
-  Version: 4.6.0
+  Version: 4.7.0
   Description: Tools for working with tiff files
   Homepage: http://www.simplesystems.org/libtiff/
 - Package: libtins
@@ -5923,23 +5923,23 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.13.3
+  Version: 2.13.4
   Description: Library for parsing XML documents
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python
-  Version: 2.13.3
+  Version: 2.13.4
   Description: Python bindings for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-python-static
-  Version: 2.13.3
+  Version: 2.13.4
   Description: Static libraries for libxml2-python
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-static
-  Version: 2.13.3
+  Version: 2.13.4
   Description: Static libraries for libxml2
   Homepage: http://www.xmlsoft.org
 - Package: libxml2-utils
-  Version: 2.13.3
+  Version: 2.13.4
   Description: XML utilities
   Homepage: http://www.xmlsoft.org
 - Package: libxmlb

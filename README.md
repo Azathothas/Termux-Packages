@@ -175,7 +175,7 @@
 | **bsd-games** | 1:3.3 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
 | **bsdtar** | 3.7.5 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 3.0.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
-| **buf** | 1.41.0 | A new way of working with Protocol Buffers | https://buf.build |
+| **buf** | 1.42.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **busybox** | 1.36.1-1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.4.2 | Binary file editor based on vi | http://bvi.sourceforge.net/ |
@@ -1226,7 +1226,7 @@
 | **libopus-static** | 1.5.2 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
 | **libopusenc-static** | 0.2.1-3 | Static libraries for libopusenc | https://github.com/xiph/libopusenc |
-| **liborc** | 0.4.39 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
+| **liborc** | 0.4.40 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
 | **libosl** | 0.9.7 | A Specification and a Library for Data Exchange in Polyhedral Compilation Tools | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosl-static** | 0.9.7 | Static libraries for libosl | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosmium** | 2.20.0 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
@@ -1374,9 +1374,9 @@
 | **libtheora** | 1.1.1-1 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
 | **libtheora-static** | 1.1.1-1 | Static libraries for libtheora | https://www.theora.org/ |
 | **libthread-db** | 22-1 | Thread debugging library | https://android.googlesource.com/platform/ndk/ |
-| **libtiff** | 4.6.0 | Support for the Tag Image File Format (TIFF) for storing image data | http://www.simplesystems.org/libtiff/ |
-| **libtiff-static** | 4.6.0 | Static libraries for libtiff | http://www.simplesystems.org/libtiff/ |
-| **libtiff-utils** | 4.6.0 | Tools for working with tiff files | http://www.simplesystems.org/libtiff/ |
+| **libtiff** | 4.7.0 | Support for the Tag Image File Format (TIFF) for storing image data | http://www.simplesystems.org/libtiff/ |
+| **libtiff-static** | 4.7.0 | Static libraries for libtiff | http://www.simplesystems.org/libtiff/ |
+| **libtiff-utils** | 4.7.0 | Tools for working with tiff files | http://www.simplesystems.org/libtiff/ |
 | **libtins** | 4.5 | High-level, multiplatform C++ network packet sniffing and crafting library. | https://libtins.github.io |
 | **libtinyxml** | 2.6.2-1 | A simple, small, C++ XML parser | https://sourceforge.net/projects/tinyxml |
 | **libtinyxml2** | 10.0.0 | A simple, small, efficient, C++ XML parser | http://www.grinninglizard.com/tinyxml2/ |
@@ -1491,11 +1491,11 @@
 | **libxls** | 1.6.2 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.2 | Static libraries for libxls | https://github.com/libxls/libxls |
 | **libxlsxwriter** | 1.1.8 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
-| **libxml2** | 2.13.3 | Library for parsing XML documents | http://www.xmlsoft.org |
-| **libxml2-python** | 2.13.3 | Python bindings for libxml2 | http://www.xmlsoft.org |
-| **libxml2-python-static** | 2.13.3 | Static libraries for libxml2-python | http://www.xmlsoft.org |
-| **libxml2-static** | 2.13.3 | Static libraries for libxml2 | http://www.xmlsoft.org |
-| **libxml2-utils** | 2.13.3 | XML utilities | http://www.xmlsoft.org |
+| **libxml2** | 2.13.4 | Library for parsing XML documents | http://www.xmlsoft.org |
+| **libxml2-python** | 2.13.4 | Python bindings for libxml2 | http://www.xmlsoft.org |
+| **libxml2-python-static** | 2.13.4 | Static libraries for libxml2-python | http://www.xmlsoft.org |
+| **libxml2-static** | 2.13.4 | Static libraries for libxml2 | http://www.xmlsoft.org |
+| **libxml2-utils** | 2.13.4 | XML utilities | http://www.xmlsoft.org |
 | **libxmlb** | 0.3.19 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.59.03 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.59.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
