@@ -7315,11 +7315,11 @@
   Description: The programmers solid 3D CAD modeller (headless build)
   Homepage: http://openscad.org/
 - Package: openssh
-  Version: 9.9p1-1
+  Version: 9.9p1-2
   Description: Secure shell for logging into a remote machine
   Homepage: https://www.openssh.com/
 - Package: openssh-sftp-server
-  Version: 9.9p1-1
+  Version: 9.9p1-2
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
@@ -7979,7 +7979,7 @@
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
-  Version: 3.1.0
+  Version: 3.1.1
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
@@ -10047,7 +10047,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.11
+  Version: 0.9.99.12
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
