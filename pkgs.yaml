@@ -1575,7 +1575,7 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: http://eradman.com/entrproject/
 - Package: erlang
-  Version: "27.1"
+  Version: 27.1-1
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -3927,11 +3927,11 @@
   Description: Static libraries for libgc
   Homepage: https://www.hboehm.info/gc/
 - Package: libgcrypt
-  Version: 1.10.3-2
+  Version: 1.11.0
   Description: General purpose cryptographic library based on the code from GnuPG
   Homepage: https://www.gnu.org/software/libgcrypt/
 - Package: libgcrypt-static
-  Version: 1.10.3-2
+  Version: 1.11.0
   Description: Static libraries for libgcrypt
   Homepage: https://www.gnu.org/software/libgcrypt/
 - Package: libgd

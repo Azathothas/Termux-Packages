@@ -404,7 +404,7 @@
 | **enchant-static** | 2.8.2 | Static libraries for enchant | https://abiword.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.6 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
-| **erlang** | 27.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang** | 27.1-1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.23.1 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.51-2 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.51-2 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -992,8 +992,8 @@
 | **libftxui** | 5.0.0 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
 | **libgc** | 8.2.8 | Library providing the Boehm-Demers-Weiser conservative garbage collector | https://www.hboehm.info/gc/ |
 | **libgc-static** | 8.2.8 | Static libraries for libgc | https://www.hboehm.info/gc/ |
-| **libgcrypt** | 1.10.3-2 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
-| **libgcrypt-static** | 1.10.3-2 | Static libraries for libgcrypt | https://www.gnu.org/software/libgcrypt/ |
+| **libgcrypt** | 1.11.0 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
+| **libgcrypt-static** | 1.11.0 | Static libraries for libgcrypt | https://www.gnu.org/software/libgcrypt/ |
 | **libgd** | 1:2.3.3-4 | GD is an open source code library for the dynamic creation of images by programmers | https://libgd.github.io/ |
 | **libgd-static** | 1:2.3.3-4 | Static libraries for libgd | https://libgd.github.io/ |
 | **libgedit-gfls** | 0.2.0 | A module dedicated to file loading and saving | https://gitlab.gnome.org/World/gedit/libgedit-gfls |
