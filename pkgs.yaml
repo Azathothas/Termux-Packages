@@ -7315,11 +7315,11 @@
   Description: The programmers solid 3D CAD modeller (headless build)
   Homepage: http://openscad.org/
 - Package: openssh
-  Version: 9.8p1-4
+  Version: 9.9p1
   Description: Secure shell for logging into a remote machine
   Homepage: https://www.openssh.com/
 - Package: openssh-sftp-server
-  Version: 9.8p1-4
+  Version: 9.9p1
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
@@ -8527,7 +8527,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.6.5
+  Version: 0.6.6
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
