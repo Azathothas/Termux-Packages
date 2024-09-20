@@ -2485,19 +2485,19 @@
   },
   {
     "Package": "faust",
-    "Version": "2.74.6",
+    "Version": "2.75.7",
     "Description": "A functional programming language for signal processing and sound synthesis",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faust-static",
-    "Version": "2.74.6",
+    "Version": "2.75.7",
     "Description": "Static libraries for faust",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faustlibraries",
-    "Version": "2.74.6",
+    "Version": "2.75.7",
     "Description": "Faust DSP libraries",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
@@ -10765,7 +10765,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.13.4",
+    "Version": "23.14.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12967,7 +12967,7 @@
   },
   {
     "Package": "scala",
-    "Version": "3.5.0",
+    "Version": "3.5.1",
     "Description": "Scala 3 compiler and standard library.",
     "Homepage": "https://www.scala-lang.org"
   },
@@ -15073,7 +15073,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.10",
+    "Version": "0.9.99.11",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
