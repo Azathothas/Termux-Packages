@@ -4947,11 +4947,11 @@
   Description: A portable, flexible file i/o abstraction
   Homepage: https://icculus.org/physfs/
 - Package: libpipeline
-  Version: 1.5.7
+  Version: 1.5.8
   Description: C library for manipulating pipelines of subprocesses in a flexible and convenient way
   Homepage: http://libpipeline.nongnu.org/
 - Package: libpipeline-static
-  Version: 1.5.7
+  Version: 1.5.8
   Description: Static libraries for libpipeline
   Homepage: http://libpipeline.nongnu.org/
 - Package: libpixman
