@@ -9795,11 +9795,11 @@
   Description: The Unicode Character Database (UCD)
   Homepage: https://unicode.org/ucd/
 - Package: unicorn
-  Version: 2.0.1.post1
+  Version: 2.1.0
   Description: Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework
   Homepage: https://www.unicorn-engine.org/
 - Package: unicorn-static
-  Version: 2.0.1.post1
+  Version: 2.1.0
   Description: Static libraries for unicorn
   Homepage: https://www.unicorn-engine.org/
 - Package: unifdef
