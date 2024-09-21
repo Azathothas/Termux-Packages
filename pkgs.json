@@ -12793,7 +12793,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.6.6",
+    "Version": "0.6.7",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14173,7 +14173,7 @@
   },
   {
     "Package": "thrift",
-    "Version": "0.20.0",
+    "Version": "0.21.0",
     "Description": "Scalable cross-language services framework for IPC/RPC",
     "Homepage": "https://thrift.apache.org"
   },
@@ -14863,7 +14863,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.14",
+    "Version": "0.4.15",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
