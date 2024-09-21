@@ -14863,7 +14863,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.13",
+    "Version": "0.4.14",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
