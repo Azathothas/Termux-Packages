@@ -4687,7 +4687,7 @@
   },
   {
     "Package": "kubelogin",
-    "Version": "1.29.0",
+    "Version": "1.30.0",
     "Description": "A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication",
     "Homepage": "https://github.com/int128/kubelogin"
   },
@@ -13231,7 +13231,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.9.5",
+    "Version": "1.9.6",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -15073,7 +15073,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.12",
+    "Version": "0.9.99.13",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
