@@ -10975,13 +10975,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "9.9p1-2",
+    "Version": "9.9p1-3",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "9.9p1-2",
+    "Version": "9.9p1-3",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
