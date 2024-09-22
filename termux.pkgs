@@ -1986,13 +1986,13 @@
 | **pypy3-tests** | 7.3.15-2 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.15-2 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
-| **python** | 3.11.9-5 | Python 3 programming language intended to enable clear programs | https://python.org/ |
+| **python** | 3.11.10 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.46.1.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 2.9.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.2.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-contourpy** | 1.2.1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 42.0.8 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
-| **python-ensurepip-wheels** | 3.11.9-5 | Wheels for Python ensurepip | https://python.org/ |
+| **python-ensurepip-wheels** | 3.11.10 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.1.1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.66.1-1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
@@ -2008,8 +2008,8 @@
 | **python-pynvim** | 0.5.0 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-sabyenc3** | 8.2.5 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
-| **python-static** | 3.11.9-5 | Static libraries for python | https://python.org/ |
-| **python-tkinter** | 3.11.9-5 | Tkinter support for Python 3 | https://python.org/ |
+| **python-static** | 3.11.10 | Static libraries for python | https://python.org/ |
+| **python-tkinter** | 3.11.10 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-4 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
 | **python-torchaudio** | 2.0.1-1 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchvision** | 0.15.1-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
