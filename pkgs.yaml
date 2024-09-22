@@ -1579,7 +1579,7 @@
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.23.1
+  Version: 0.24.0
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
