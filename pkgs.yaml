@@ -559,7 +559,7 @@
   Description: Tiny x86-64 Linux emulator
   Homepage: https://justine.lol/blinkenlights/
 - Package: blk-utils
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Utilities for handling block device attributes
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: blogc
@@ -1679,7 +1679,7 @@
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Utilities to manipulate disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: fdkaac
@@ -3399,7 +3399,7 @@
   Description: A lightweight cryptography API for Java
   Homepage: https://www.bouncycastle.org/java.html
 - Package: libblkid
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Block device identification library
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libblocksruntime
@@ -3851,7 +3851,7 @@
   Description: Flexible collision library
   Homepage: https://github.com/flexible-collision-library/fcl
 - Package: libfdisk
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Library for manipulating disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libfdk-aac
@@ -4571,7 +4571,7 @@
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Library for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libmp3lame
@@ -5239,7 +5239,7 @@
   Description: Static libraries for libsm
   Homepage: https://xorg.freedesktop.org/
 - Package: libsmartcols
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Library for smart adaptive formatting of tabular data
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libsnappy
@@ -5655,7 +5655,7 @@
   Description: Fast UTF-8 validation with Range algorithm
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: libuuid
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
@@ -6715,7 +6715,7 @@
   Description: A terminal pager similar to more and less
   Homepage: http://www.jedsoft.org/most/index.html
 - Package: mount-utils
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Utilities for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: mp3cat
@@ -9891,11 +9891,11 @@
   Description: C preprocessor implementations of a hash table and a linked list
   Homepage: https://troydhanson.github.io/uthash/
 - Package: util-linux
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Miscellaneous system utilities
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: util-linux-static
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Static libraries for util-linux
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uucp
@@ -9903,7 +9903,7 @@
   Description: The standard UUCP package of the Free Software Foundation
   Homepage: https://www.airs.com/ian/uucp.html
 - Package: uuid-utils
-  Version: 2.40.2
+  Version: 2.40.2-1
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
