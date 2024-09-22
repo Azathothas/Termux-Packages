@@ -7585,7 +7585,7 @@
   },
   {
     "Package": "libraqm",
-    "Version": "0.10.1",
+    "Version": "0.10.2",
     "Description": "Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API",
     "Homepage": "https://github.com/HOST-Oman/libraqm"
   },

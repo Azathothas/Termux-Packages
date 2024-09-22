@@ -1262,7 +1262,7 @@
  libqrencode  4.1.1  Fast and compact library for encoding data in a QR Code symbol  https://fukuchi.org/works/qrencode/ 
  libraptor2  2.0.16-5  RDF Syntax Library  https://librdf.org/raptor/ 
  libraptor2-static  2.0.16-5  Static libraries for libraptor2  https://librdf.org/raptor/ 
- libraqm  0.10.1  Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API  https://github.com/HOST-Oman/libraqm 
+ libraqm  0.10.2  Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API  https://github.com/HOST-Oman/libraqm 
  librasqal  0.9.33-2  RDF Query Library  https://librdf.org/rasqal/ 
  librasqal-static  0.9.33-2  Static libraries for librasqal  https://librdf.org/rasqal/ 
  librav1e  0.7.1-1  An AV1 encoder library focused on speed and safety  https://github.com/xiph/rav1e/ 
