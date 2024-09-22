@@ -10309,7 +10309,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.53.1",
+    "Version": "0.53.2",
     "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -11407,7 +11407,7 @@
   },
   {
     "Package": "php-apcu",
-    "Version": "5.1.23-2",
+    "Version": "5.1.24",
     "Description": "APCu - APC User Cache",
     "Homepage": "http://php.net/apcu"
   },
@@ -13573,7 +13573,7 @@
   },
   {
     "Package": "sslscan",
-    "Version": "2.1.4",
+    "Version": "2.1.5",
     "Description": "Utility to discover supported cipher suites on SSL/TLS enabled servers",
     "Homepage": "https://github.com/rbsec/sslscan"
   },

@@ -1716,7 +1716,7 @@
  natpmpc  20230423-1  Portable and fully compliant implementation of NAT-PMP  https://miniupnp.tuxfamily.org/libnatpmp.html 
  natpmpc-static  20230423-1  Static libraries for natpmpc  https://miniupnp.tuxfamily.org/libnatpmp.html 
  navi  2.23.0  An interactive cheatsheet tool for the command-line  https://github.com/denisidoro/navi 
- navidrome  0.53.1  🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic  https://www.navidrome.org/ 
+ navidrome  0.53.2  🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic  https://www.navidrome.org/ 
  ncdc  1.24.1  Modern and lightweight direct connect client with a friendly ncurses interface  https://dev.yorhel.nl/ncdc 
  ncdu  1.20  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
  ncdu2  2.4  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
@@ -1899,7 +1899,7 @@
  php-apache-opcache  8.3.10-1  OPcache module for PHP/Apache  https://php.net 
  php-apache-pgsql  8.3.10-1  PostgreSQL modules for PHP/Apache  https://php.net 
  php-apache-sodium  8.3.10-1  Sodium module for PHP/Apache  https://php.net 
- php-apcu  5.1.23-2  APCu - APC User Cache  http://php.net/apcu 
+ php-apcu  5.1.24  APCu - APC User Cache  http://php.net/apcu 
  php-fpm  8.3.10-1  FastCGI Process Manager for PHP  https://php.net 
  php-gd  8.3.10-1  gd module for PHP  https://php.net 
  php-imagick  3.7.0-5  The Imagick PHP extension  https://github.com/Imagick/imagick 
@@ -2260,7 +2260,7 @@
  sse2neon  1.7.0-1  A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics  https://github.com/DLTcollab/sse2neon 
  sshpass  1.10  Noninteractive ssh password provider  https://sourceforge.net/projects/sshpass/ 
  sshping  0.1.4-2  measure character-echo latency and bandwidth for an interactive ssh session  https://github.com/spook/sshping 
- sslscan  2.1.4  Utility to discover supported cipher suites on SSL/TLS enabled servers  https://github.com/rbsec/sslscan 
+ sslscan  2.1.5  Utility to discover supported cipher suites on SSL/TLS enabled servers  https://github.com/rbsec/sslscan 
  sssnake  0.3.2-1  cli snake game that plays itself  https://github.com/AngelJumbo/sssnake 
  ssss  0.5.7  Simple command-line implementation of Shamir's Secret Sharing Scheme  https://github.com/MrJoy/ssss 
  stag  1.0.0-1  Streaming bar graphs. For stats and stuff.  https://github.com/seenaburns/stag 

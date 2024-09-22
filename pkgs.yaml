@@ -6871,7 +6871,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.53.1
+  Version: 0.53.2
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -7603,7 +7603,7 @@
   Description: Sodium module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apcu
-  Version: 5.1.23-2
+  Version: 5.1.24
   Description: APCu - APC User Cache
   Homepage: http://php.net/apcu
 - Package: php-fpm
@@ -9047,7 +9047,7 @@
   Description: measure character-echo latency and bandwidth for an interactive ssh session
   Homepage: https://github.com/spook/sshping
 - Package: sslscan
-  Version: 2.1.4
+  Version: 2.1.5
   Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
   Homepage: https://github.com/rbsec/sslscan
 - Package: sssnake
