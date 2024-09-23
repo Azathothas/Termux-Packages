@@ -4839,11 +4839,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.7.9
+  Version: 0.7.10
   Description: OpenMPT based module player library and libopenmpt based command-line player
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.7.9
+  Version: 0.7.10
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
