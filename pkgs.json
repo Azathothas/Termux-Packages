@@ -979,7 +979,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.7.5",
+    "Version": "3.7.6",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -4519,7 +4519,7 @@
   },
   {
     "Package": "jql",
-    "Version": "7.1.13",
+    "Version": "7.2.0",
     "Description": "A JSON Query Language CLI tool",
     "Homepage": "https://github.com/yamafaktory/jql"
   },
@@ -5023,13 +5023,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.7.5",
+    "Version": "3.7.6",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.7.5",
+    "Version": "3.7.6",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -12823,7 +12823,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240916",
+    "Version": "20240923",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },

@@ -651,7 +651,7 @@
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
-  Version: 3.7.5
+  Version: 3.7.6
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
@@ -3011,7 +3011,7 @@
   Description: Static libraries for jq
   Homepage: https://stedolan.github.io/jq/
 - Package: jql
-  Version: 7.1.13
+  Version: 7.2.0
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -3347,11 +3347,11 @@
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
-  Version: 3.7.5
+  Version: 3.7.6
   Description: Multi-format archive and compression library
   Homepage: https://www.libarchive.org/
 - Package: libarchive-static
-  Version: 3.7.5
+  Version: 3.7.6
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
@@ -8547,7 +8547,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240916"
+  Version: "20240923"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen

@@ -161,7 +161,7 @@
  brotli-static  1.0.9-1  Static libraries for brotli  https://github.com/google/brotli 
  bsd-finger  0.17-1  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
  bsd-games  1:3.3  Classic text mode games from UNIX folklore  https://www.polyomino.org.uk/computer/software/bsd-games/ 
- bsdtar  3.7.5  The tar(1) and cpio(1) programs from FreeBSD, using libarchive  https://www.libarchive.org/ 
+ bsdtar  3.7.6  The tar(1) and cpio(1) programs from FreeBSD, using libarchive  https://www.libarchive.org/ 
  btfs2  3.0.0  Decentralized file system integrating with TRON network and Bittorrent network  https://www.bittorrent.com/btfs/ 
  buf  1.42.0  A new way of working with Protocol Buffers  https://buf.build 
  build-essential  4.1  A metapackage that installs essential development tools  https://github.com/termux/termux-packages 
@@ -751,7 +751,7 @@
  jq  1.7.1  Command-line JSON processor  https://stedolan.github.io/jq/ 
  jq-lsp  0.1.4  jq language server  https://github.com/wader/jq-lsp 
  jq-static  1.7.1  Static libraries for jq  https://stedolan.github.io/jq/ 
- jql  7.1.13  A JSON Query Language CLI tool  https://github.com/yamafaktory/jql 
+ jql  7.2.0  A JSON Query Language CLI tool  https://github.com/yamafaktory/jql 
  json-c  0.18  A JSON implementation in C  https://github.com/json-c/json-c/wiki 
  json-c-static  0.18  Static libraries for json-c  https://github.com/json-c/json-c/wiki 
  json-glib  1.10.0  GLib JSON manipulation library  https://wiki.gnome.org/Projects/JsonGlib 
@@ -835,8 +835,8 @@
  libaom  3.10.0  AV1 Video Codec Library  https://aomedia.org/ 
  libaom-static  3.10.0  Static libraries for libaom  https://aomedia.org/ 
  libapt-pkg-perl  0.1.40-10  Perl interface to APT's libapt-pkg  https://packages.debian.org/libapt-pkg-perl 
- libarchive  3.7.5  Multi-format archive and compression library  https://www.libarchive.org/ 
- libarchive-static  3.7.5  Static libraries for libarchive  https://www.libarchive.org/ 
+ libarchive  3.7.6  Multi-format archive and compression library  https://www.libarchive.org/ 
+ libarchive-static  3.7.6  Static libraries for libarchive  https://www.libarchive.org/ 
  libarrow-cpp  17.0.0-1  C++ libraries for Apache Arrow  https://github.com/apache/arrow 
  libasio  1.24.0  Cross-platform C++ library for network and low-level I/O programming  https://think-async.com/Asio 
  libasm  0.191  Library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
@@ -2135,7 +2135,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.5.6  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.81.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20240916  A Rust compiler front-end for IDEs  https://github.com/rust-lang/rust-analyzer 
+ rust-analyzer  20240923  A Rust compiler front-end for IDEs  https://github.com/rust-lang/rust-analyzer 
  rust-bindgen  0.70.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.81.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.81.0  Rust source code files  https://www.rust-lang.org/ 
