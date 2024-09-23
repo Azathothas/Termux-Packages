@@ -4489,9 +4489,9 @@
   },
   {
     "Package": "jp2a",
-    "Version": "1.2.0",
+    "Version": "1.3.0",
     "Description": "A simple JPEG to ASCII converter",
-    "Homepage": "https://csl.name/jp2a/"
+    "Homepage": "https://github.com/Talinx/jp2a/"
   },
   {
     "Package": "jpegoptim",

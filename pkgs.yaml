@@ -2991,9 +2991,9 @@
   Description: Jove is a compact, powerful, Emacs-style text-editor.
   Homepage: https://directory.fsf.org/wiki/Jove
 - Package: jp2a
-  Version: 1.2.0
+  Version: 1.3.0
   Description: A simple JPEG to ASCII converter
-  Homepage: https://csl.name/jp2a/
+  Homepage: https://github.com/Talinx/jp2a/
 - Package: jpegoptim
   Version: 1.5.5-1
   Description: JPEG optimizer that recompresses image files to a smaller size, without losing any information
