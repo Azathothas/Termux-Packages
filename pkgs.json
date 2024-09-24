@@ -12709,7 +12709,7 @@
   },
   {
     "Package": "rsgain",
-    "Version": "3.5.2",
+    "Version": "3.5.2-1",
     "Description": "A simple audio normalizazion utility",
     "Homepage": "https://github.com/complexlogic/rsgain"
   },
