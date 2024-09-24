@@ -35,11 +35,11 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 13.0.0.6-14
+  Version: 13.0.0.6-15
   Description: Android Asset Packaging Tool
   Homepage: https://elinux.org/Android_aapt
 - Package: aapt2
-  Version: 13.0.0.6-14
+  Version: 13.0.0.6-15
   Description: AAPT2 (Android Asset Packaging Tool)
   Homepage: https://elinux.org/Android_aapt
 - Package: abduco
@@ -95,7 +95,7 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 13.0.0.6-14
+  Version: 13.0.0.6-15
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://elinux.org/Android_aapt
 - Package: alass
@@ -463,7 +463,7 @@
   Description: Arbitrary precision numeric processing language
   Homepage: https://www.gnu.org/software/bc/
 - Package: bc-gh
-  Version: 7.0.2
+  Version: 7.0.3
   Description: Unix dc and POSIX bc with GNU and BSD extensions
   Homepage: https://git.gavinhoward.com/gavin/bc
 - Package: bdsup2sub
@@ -2103,7 +2103,7 @@
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
 - Package: git
-  Version: 2.46.1
+  Version: 2.46.2
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-crypt
@@ -2115,11 +2115,11 @@
   Description: A syntax-highlighter for git and diff output
   Homepage: https://dandavison.github.io/delta/
 - Package: git-gitk
-  Version: 2.46.1
+  Version: 2.46.2
   Description: Git repository browser
   Homepage: https://git-scm.com/
 - Package: git-gui
-  Version: 2.46.1
+  Version: 2.46.2
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
@@ -2131,7 +2131,7 @@
   Description: Compute various size metrics for a Git repository
   Homepage: https://github.com/github/git-sizer
 - Package: git-svn
-  Version: 2.46.1
+  Version: 2.46.2
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: gitea
@@ -2415,7 +2415,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:8.10.1
+  Version: 1:8.10.2
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -8739,7 +8739,7 @@
   Description: Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)
   Homepage: https://codemadness.org/sfeed-simple-feed-parser.html
 - Package: shaderc
-  Version: "2024.2"
+  Version: "2024.3"
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
   Homepage: https://github.com/google/shaderc
 - Package: shairport-sync
