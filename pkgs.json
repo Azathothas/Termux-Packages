@@ -2161,7 +2161,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -4687,7 +4687,7 @@
   },
   {
     "Package": "kubelogin",
-    "Version": "1.30.0",
+    "Version": "1.30.1",
     "Description": "A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication",
     "Homepage": "https://github.com/int128/kubelogin"
   },
@@ -5593,13 +5593,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
