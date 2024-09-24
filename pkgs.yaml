@@ -2559,15 +2559,15 @@
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
-  Version: 9.0.0
+  Version: 10.0.0
   Description: OpenType text shaping engine
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-icu
-  Version: 9.0.0
+  Version: 10.0.0
   Description: OpenType text shaping engine ICU backend
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-utils
-  Version: 9.0.0
+  Version: 10.0.0
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: has
@@ -6607,7 +6607,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.09.13.20.26.02
+  Version: 2024.09.22.00.33.43
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -6763,7 +6763,7 @@
   Description: Static libraries for mpg123
   Homepage: https://mpg123.org/
 - Package: mpv
-  Version: 0.38.0-1
+  Version: 0.39.0
   Description: Command-line media player
   Homepage: https://mpv.io/
 - Package: mruby
@@ -7219,7 +7219,7 @@
   Description: Static libraries for oorexx
   Homepage: https://www.oorexx.org/
 - Package: open-adventure
-  Version: "1.19"
+  Version: "1.20"
   Description: Forward-port of the original Colossal Cave Adventure from 1976-77
   Homepage: http://www.catb.org/~esr/open-adventure/
 - Package: openal-soft
@@ -7631,7 +7631,7 @@
   Description: PHP extension providing the accepted PSR interfaces
   Homepage: https://github.com/jbboehr/php-psr
 - Package: php-redis
-  Version: 6.1.0RC1
+  Version: 6.1.0RC2
   Description: PHP extension for interfacing with Redis
   Homepage: https://github.com/phpredis/phpredis
 - Package: php-sodium
@@ -10047,7 +10047,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.13
+  Version: 0.9.99.14
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
