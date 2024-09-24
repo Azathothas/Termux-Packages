@@ -3841,19 +3841,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "10.0.0",
+    "Version": "10.0.1",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "10.0.0",
+    "Version": "10.0.1",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "10.0.0",
+    "Version": "10.0.1",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4441,7 +4441,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.68.0",
+    "Version": "2.69.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -12421,7 +12421,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.68.0",
+    "Version": "1.68.1",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
@@ -15073,7 +15073,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.14",
+    "Version": "0.9.99.15",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
