@@ -14869,7 +14869,7 @@
   },
   {
     "Package": "uwsgi",
-    "Version": "2.0.26-1",
+    "Version": "2.0.27",
     "Description": "uWSGI application server container",
     "Homepage": "https://projects.unbit.it/uwsgi"
   },
