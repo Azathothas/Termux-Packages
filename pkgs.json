@@ -55,13 +55,13 @@
   },
   {
     "Package": "aapt",
-    "Version": "13.0.0.6-15",
+    "Version": "13.0.0.6-16",
     "Description": "Android Asset Packaging Tool",
     "Homepage": "https://elinux.org/Android_aapt"
   },
   {
     "Package": "aapt2",
-    "Version": "13.0.0.6-15",
+    "Version": "13.0.0.6-16",
     "Description": "AAPT2 (Android Asset Packaging Tool)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -145,7 +145,7 @@
   },
   {
     "Package": "aidl",
-    "Version": "13.0.0.6-15",
+    "Version": "13.0.0.6-16",
     "Description": "Android Interface Definition Language (AIDL)",
     "Homepage": "https://elinux.org/Android_aapt"
   },
@@ -1189,7 +1189,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.10.2",
+    "Version": "4.10.2-1",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -2413,7 +2413,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "12.96",
+    "Version": "12.97",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -2701,7 +2701,7 @@
   },
   {
     "Package": "fmt",
-    "Version": "1:9.1.0",
+    "Version": "1:11.0.2",
     "Description": "Open-source formatting library for C++",
     "Homepage": "https://fmt.dev/latest/index.html"
   },
@@ -7969,7 +7969,7 @@
   },
   {
     "Package": "libspdlog",
-    "Version": "1.14.1",
+    "Version": "1.14.1-1",
     "Description": "Very fast, header-only/compiled, C++ logging library",
     "Homepage": "https://github.com/gabime/spdlog"
   },
@@ -8491,13 +8491,13 @@
   },
   {
     "Package": "libuv",
-    "Version": "1.48.0",
+    "Version": "1.49.0",
     "Description": "Support library with a focus on asynchronous I/O",
     "Homepage": "https://libuv.org"
   },
   {
     "Package": "libuv-static",
-    "Version": "1.48.0",
+    "Version": "1.49.0",
     "Description": "Static libraries for libuv",
     "Homepage": "https://libuv.org"
   },
@@ -10117,7 +10117,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.23.15-2",
+    "Version": "0.23.15-3",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },
@@ -10171,7 +10171,7 @@
   },
   {
     "Package": "mtd-utils",
-    "Version": "2.2.0",
+    "Version": "2.2.1",
     "Description": "Utilities for dealing with MTD devices",
     "Homepage": "http://www.linux-mtd.infradead.org/"
   },
@@ -13849,7 +13849,7 @@
   },
   {
     "Package": "sysprop",
-    "Version": "13.0.0.15-5",
+    "Version": "13.0.0.15-6",
     "Description": "Generates cpp / java sysprop",
     "Homepage": "https://android.googlesource.com/platform/system/tools/sysprop"
   },
@@ -15073,7 +15073,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.15",
+    "Version": "0.9.99.16",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },

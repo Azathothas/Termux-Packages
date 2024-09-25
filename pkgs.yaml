@@ -35,11 +35,11 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 13.0.0.6-15
+  Version: 13.0.0.6-16
   Description: Android Asset Packaging Tool
   Homepage: https://elinux.org/Android_aapt
 - Package: aapt2
-  Version: 13.0.0.6-15
+  Version: 13.0.0.6-16
   Description: AAPT2 (Android Asset Packaging Tool)
   Homepage: https://elinux.org/Android_aapt
 - Package: abduco
@@ -95,7 +95,7 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 13.0.0.6-15
+  Version: 13.0.0.6-16
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://elinux.org/Android_aapt
 - Package: alass
@@ -791,7 +791,7 @@
   Description: A free compiler for 6502 based system.
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: 4.10.2
+  Version: 4.10.2-1
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -1607,7 +1607,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "12.96"
+  Version: "12.97"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -1799,7 +1799,7 @@
   Description: A terminal based file manager
   Homepage: https://github.com/knipferrc/fm
 - Package: fmt
-  Version: 1:9.1.0
+  Version: 1:11.0.2
   Description: Open-source formatting library for C++
   Homepage: https://fmt.dev/latest/index.html
 - Package: fontconfig
@@ -5311,7 +5311,7 @@
   Description: Static libraries for libspatialite
   Homepage: https://www.gaia-gis.it/fossil/libspatialite
 - Package: libspdlog
-  Version: 1.14.1
+  Version: 1.14.1-1
   Description: Very fast, header-only/compiled, C++ logging library
   Homepage: https://github.com/gabime/spdlog
 - Package: libspectre
@@ -5659,11 +5659,11 @@
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
-  Version: 1.48.0
+  Version: 1.49.0
   Description: Support library with a focus on asynchronous I/O
   Homepage: https://libuv.org
 - Package: libuv-static
-  Version: 1.48.0
+  Version: 1.49.0
   Description: Static libraries for libuv
   Homepage: https://libuv.org
 - Package: libv4l
@@ -6743,7 +6743,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.23.15-2
+  Version: 0.23.15-3
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpd-static
@@ -6779,7 +6779,7 @@
   Description: Lightweight SMTP client
   Homepage: https://marlam.de/msmtp/
 - Package: mtd-utils
-  Version: 2.2.0
+  Version: 2.2.1
   Description: Utilities for dealing with MTD devices
   Homepage: http://www.linux-mtd.infradead.org/
 - Package: mtools
@@ -9231,7 +9231,7 @@
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
-  Version: 13.0.0.15-5
+  Version: 13.0.0.15-6
   Description: Generates cpp / java sysprop
   Homepage: https://android.googlesource.com/platform/system/tools/sysprop
 - Package: ta-lib
@@ -10047,7 +10047,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.15
+  Version: 0.9.99.16
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
