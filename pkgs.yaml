@@ -7175,7 +7175,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.14.1
+  Version: 23.14.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7571,7 +7571,7 @@
   Description: Portable Forth in C
   Homepage: http://www.softsynth.com/pforth/
 - Package: pgroonga
-  Version: 3.2.2
+  Version: 3.2.3
   Description: A PostgreSQL extension to use Groonga as index
   Homepage: https://github.com/pgroonga/pgroonga
 - Package: photon-rss

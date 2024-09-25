@@ -10765,7 +10765,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.14.1",
+    "Version": "23.14.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11359,7 +11359,7 @@
   },
   {
     "Package": "pgroonga",
-    "Version": "3.2.2",
+    "Version": "3.2.3",
     "Description": "A PostgreSQL extension to use Groonga as index",
     "Homepage": "https://github.com/pgroonga/pgroonga"
   },
