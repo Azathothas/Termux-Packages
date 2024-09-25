@@ -1411,7 +1411,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20240813.131531",
+    "Version": "0.0.20240903.194718",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
@@ -3697,7 +3697,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "14.0.7-1",
+    "Version": "14.0.8",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -9289,13 +9289,13 @@
   },
   {
     "Package": "lowdown",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
   {
     "Package": "lowdown-static",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "Static libraries for lowdown",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
@@ -13981,7 +13981,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.4.0",
+    "Version": "16.4.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
