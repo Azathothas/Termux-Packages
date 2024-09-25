@@ -6659,7 +6659,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: mold
-  Version: 2.33.0
+  Version: 2.34.0
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
