@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.19.4",
+    "Version": "0.20.0",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -15097,7 +15097,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.3.295",
+    "Version": "1.3.296",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
