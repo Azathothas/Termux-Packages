@@ -10975,13 +10975,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "9.9p1-3",
+    "Version": "9.9p1-4",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "9.9p1-3",
+    "Version": "9.9p1-4",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
@@ -14047,7 +14047,7 @@
   },
   {
     "Package": "termux-auth",
-    "Version": "1.4.1",
+    "Version": "1.5.0",
     "Description": "Password authentication library and utility for Termux",
     "Homepage": "https://github.com/termux/termux-auth"
   },
