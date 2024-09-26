@@ -1597,7 +1597,7 @@
   },
   {
     "Package": "crawl",
-    "Version": "0.32.0",
+    "Version": "0.32.1",
     "Description": "Roguelike adventure through dungeons filled with dangerous monsters",
     "Homepage": "https://crawl.develz.org/"
   },
@@ -2131,13 +2131,13 @@
   },
   {
     "Package": "dtc",
-    "Version": "1.7.0-1",
+    "Version": "1.7.1",
     "Description": "Device Tree Compiler",
     "Homepage": "https://git.kernel.org/pub/scm/utils/dtc/dtc"
   },
   {
     "Package": "dtc-static",
-    "Version": "1.7.0-1",
+    "Version": "1.7.1",
     "Description": "Static libraries for dtc",
     "Homepage": "https://git.kernel.org/pub/scm/utils/dtc/dtc"
   },
@@ -9943,13 +9943,13 @@
   },
   {
     "Package": "minizinc",
-    "Version": "2.8.5",
+    "Version": "2.8.6",
     "Description": "A medium-level constraint modelling language",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
   {
     "Package": "minizinc-static",
-    "Version": "2.8.5",
+    "Version": "2.8.6",
     "Description": "Static libraries for minizinc",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
@@ -13195,7 +13195,7 @@
   },
   {
     "Package": "silicon",
-    "Version": "0.5.2-1",
+    "Version": "0.5.3",
     "Description": "Silicon is an alternative to Carbon implemented in Rust",
     "Homepage": "https://github.com/Aloxaf/silicon"
   },
@@ -13981,7 +13981,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.4.1",
+    "Version": "16.4.2",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
