@@ -2159,7 +2159,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.5.0
+  Version: 1.5.1
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -7175,7 +7175,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.14.2
+  Version: 23.15.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7771,7 +7771,7 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.4.3
+  Version: 3.5.0
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
@@ -8527,7 +8527,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.6.7
+  Version: 0.6.8
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -8991,11 +8991,11 @@
   Description: Command line shell for SQLite
   Homepage: https://www.sqlite.org
 - Package: squashfs-tools-ng
-  Version: 1.3.1
+  Version: 1.3.2
   Description: New set of tools for working with SquashFS images
   Homepage: https://github.com/AgentD/squashfs-tools-ng
 - Package: squashfs-tools-ng-static
-  Version: 1.3.1
+  Version: 1.3.2
   Description: Static libraries for squashfs-tools-ng
   Homepage: https://github.com/AgentD/squashfs-tools-ng
 - Package: squeezelite
@@ -9183,7 +9183,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.11
+  Version: 9.3.12
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
@@ -9795,11 +9795,11 @@
   Description: The Unicode Character Database (UCD)
   Homepage: https://unicode.org/ucd/
 - Package: unicorn
-  Version: 2.1.0
+  Version: 2.1.1
   Description: Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework
   Homepage: https://www.unicorn-engine.org/
 - Package: unicorn-static
-  Version: 2.1.0
+  Version: 2.1.1
   Description: Static libraries for unicorn
   Homepage: https://www.unicorn-engine.org/
 - Package: unifdef
@@ -9987,7 +9987,7 @@
   Description: A collection of tools for the VGM file format
   Homepage: https://github.com/vgmrips/vgmtools
 - Package: viddy
-  Version: 1.1.2
+  Version: 1.1.3
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm
@@ -10047,7 +10047,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.16
+  Version: 0.9.99.17
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
@@ -10059,7 +10059,7 @@
   Description: Utilities for testing and working with virtual terminals
   Homepage: https://github.com/fornwall/vtutils
 - Package: vulkan-extension-layer
-  Version: 1.3.295
+  Version: 1.3.296
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
@@ -10075,15 +10075,15 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.3.295
+  Version: 1.3.296
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.3.295
+  Version: 1.3.296
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.3.295
+  Version: 1.3.296
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
@@ -10107,7 +10107,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.102.0
+  Version: 1.102.1
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
