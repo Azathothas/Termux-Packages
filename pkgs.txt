@@ -462,8 +462,8 @@
  freetype  2.13.3  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.13.3  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  2.3.3  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fribidi  1.0.15  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
- fribidi-static  1.0.15  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
+ fribidi  1.0.16  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
+ fribidi-static  1.0.16  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-3  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
  frogcomposband  7.1.salmiak-1  Open world Angband variant with many additions  https://github.com/sulkasormi/frogcomposband/ 
  frotz  2.54-1  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
@@ -2529,7 +2529,6 @@
  walk  1.10.0  A terminal file manager  https://github.com/antonmedv/walk 
  wasi-libc  24  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.8  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
- wasmedge  0.14.0-2  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmedge-static  0.14.0  Static libraries for wasmedge  https://wasmedge.org/ 
  watchexec  2.1.2  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.7.0  WavPack command-line programs  https://www.wavpack.com/ 

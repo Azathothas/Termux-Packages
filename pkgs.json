@@ -2785,13 +2785,13 @@
   },
   {
     "Package": "fribidi",
-    "Version": "1.0.15",
+    "Version": "1.0.16",
     "Description": "Implementation of the Unicode Bidirectional Algorithm",
     "Homepage": "https://github.com/fribidi/fribidi/"
   },
   {
     "Package": "fribidi-static",
-    "Version": "1.0.15",
+    "Version": "1.0.16",
     "Description": "Static libraries for fribidi",
     "Homepage": "https://github.com/fribidi/fribidi/"
   },
@@ -15184,12 +15184,6 @@
     "Version": "0.5.8",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
-  },
-  {
-    "Package": "wasmedge",
-    "Version": "0.14.0-2",
-    "Description": "A lightweight, high-performance, and extensible WebAssembly runtime",
-    "Homepage": "https://wasmedge.org/"
   },
   {
     "Package": "wasmedge-static",
