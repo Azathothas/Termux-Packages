@@ -12361,7 +12361,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.14.1",
+    "Version": "3.15.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
