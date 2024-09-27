@@ -15649,7 +15649,7 @@
   },
   {
     "Package": "z3",
-    "Version": "4.13.0-1",
+    "Version": "4.13.2",
     "Description": "Z3 is a theorem prover from Microsoft Research",
     "Homepage": "https://github.com/Z3Prover/z3"
   },
