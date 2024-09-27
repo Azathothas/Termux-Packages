@@ -7165,7 +7165,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.104",
+    "Version": "3.105",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10669,7 +10669,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.104",
+    "Version": "3.105",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
