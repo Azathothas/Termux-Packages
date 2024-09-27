@@ -206,7 +206,7 @@
  cfengine  1:3.24.0  CFEngine is a configuration management technology  https://cfengine.com/ 
  cfengine-static  1:3.24.0  Static libraries for cfengine  https://cfengine.com/ 
  cfm  1.2.0-3  A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast.  https://github.com/0l1v3rr/cli-file-manager 
- cgal  5.6.1  Computational Geometry Algorithms Library  https://www.cgal.org/ 
+ cgal  6.0  Computational Geometry Algorithms Library  https://www.cgal.org/ 
  cgdb  0.8.0  A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)  https://cgdb.github.io/ 
  cgif  0.4.1  A fast and lightweight GIF encoding library  https://github.com/dloebl/cgif 
  chafa  1.14.4-1  Image-to-text converter supporting a wide range of symbols, etc.  https://hpjansson.org/chafa/ 
@@ -676,7 +676,7 @@
  httrack-data  3.49.5  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.5  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-5  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.134.3  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.135.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-3  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
@@ -738,7 +738,7 @@
  jbig2enc-static  2023.01.08-1  Static libraries for jbig2enc  https://github.com/agl/jbig2enc 
  jcal  0.4.1  UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar  http://nongnu.org/jcal 
  jcal-static  0.4.1  Static libraries for jcal  http://nongnu.org/jcal 
- jfrog-cli  2.69.0  A CLI for JFrog products  https://jfrog.com/getcli 
+ jfrog-cli  2.70.0  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.2  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
  jigdo  0.8.2  Distribute large images by sending and receiving the files that make them up  http://atterer.org/jigdo/ 
@@ -2476,7 +2476,7 @@
  util-linux-static  2.40.2-1  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-1  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.4.16  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.4.17  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.27  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.18.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.17  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 

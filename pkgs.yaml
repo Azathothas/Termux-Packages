@@ -831,7 +831,7 @@
   Description: A basic file manager that runs inside a terminal, designed for Linux. Its fully responsive and incredibly fast.
   Homepage: https://github.com/0l1v3rr/cli-file-manager
 - Package: cgal
-  Version: 5.6.1
+  Version: "6.0"
   Description: Computational Geometry Algorithms Library
   Homepage: https://www.cgal.org/
 - Package: cgdb
@@ -2711,7 +2711,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.134.3
+  Version: 0.135.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -2959,7 +2959,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.69.0
+  Version: 2.70.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -9911,7 +9911,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.16
+  Version: 0.4.17
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

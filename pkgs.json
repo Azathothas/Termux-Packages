@@ -1249,7 +1249,7 @@
   },
   {
     "Package": "cgal",
-    "Version": "5.6.1",
+    "Version": "6.0",
     "Description": "Computational Geometry Algorithms Library",
     "Homepage": "https://www.cgal.org/"
   },
@@ -4069,7 +4069,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.134.3",
+    "Version": "0.135.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4441,7 +4441,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.69.0",
+    "Version": "2.70.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -14869,7 +14869,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.16",
+    "Version": "0.4.17",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
