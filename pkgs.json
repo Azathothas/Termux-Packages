@@ -9907,7 +9907,7 @@
   },
   {
     "Package": "miniflux",
-    "Version": "2.2.0",
+    "Version": "2.2.1",
     "Description": "A minimalist and opinionated feed reader",
     "Homepage": "https://miniflux.app/"
   },
@@ -10435,7 +10435,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.5",
+    "Version": "0.8.6",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -13210,6 +13210,12 @@
     "Version": "2.2.0-5",
     "Description": "Fast grep-like program, alternative to ack-grep",
     "Homepage": "https://geoff.greer.fm/ag/"
+  },
+  {
+    "Package": "simde",
+    "Version": "0.8.2",
+    "Description": "Implementations of SIMD instructions for all systems",
+    "Homepage": "https://simd-everywhere.github.io/"
   },
   {
     "Package": "simdjson",
