@@ -6787,7 +6787,7 @@
   Description: Utilities for dealing with MTD devices
   Homepage: http://www.linux-mtd.infradead.org/
 - Package: mtools
-  Version: 4.0.44
+  Version: 4.0.45
   Description: Tool for manipulating FAT images
   Homepage: https://www.gnu.org/software/mtools/
 - Package: mu

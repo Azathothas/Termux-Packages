@@ -1707,7 +1707,7 @@
 | **mruby-static** | 3.3.0 | Static libraries for mruby | https://mruby.org/ |
 | **msmtp** | 1.8.26 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.2.1 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
-| **mtools** | 4.0.44 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
+| **mtools** | 4.0.45 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.12.6 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
 | **multitail** | 7.1.5 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
