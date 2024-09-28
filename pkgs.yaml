@@ -2435,11 +2435,11 @@
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
-  Version: 12.1.1
+  Version: 12.1.2
   Description: Rich set of graph drawing tools
   Homepage: https://www.graphviz.org/
 - Package: graphviz-static
-  Version: 12.1.1
+  Version: 12.1.2
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
@@ -4047,7 +4047,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.66.1-1
+  Version: 1.66.2
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -7987,7 +7987,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.66.1-1
+  Version: 1.66.2
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc
@@ -8655,7 +8655,7 @@
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache
-  Version: 0.8.1
+  Version: 0.8.2
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
@@ -9531,7 +9531,7 @@
   Description: Terminal multiplexer with instant terminal sharing
   Homepage: https://tmate.io
 - Package: tmux
-  Version: "3.4"
+  Version: "3.5"
   Description: Terminal multiplexer
   Homepage: https://tmux.github.io/
 - Package: toilet
