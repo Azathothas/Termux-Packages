@@ -246,8 +246,8 @@
 | **cloudflared** | 2024.9.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20240903.194718 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 3.30.3-1 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 3.30.3-1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 3.30.4 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 3.30.4 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -1729,7 +1729,7 @@
 | **natpmpc** | 20230423-1 | Portable and fully compliant implementation of NAT-PMP | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **natpmpc-static** | 20230423-1 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **navi** | 2.23.0 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
-| **navidrome** | 0.53.2 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
+| **navidrome** | 0.53.3 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.24.1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.20 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.4 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
@@ -2490,7 +2490,7 @@
 | **uuid-utils** | 2.40.2-1 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uv** | 0.4.17 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.27 | uWSGI application server container | https://projects.unbit.it/uwsgi |
-| **v2ray** | 5.18.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
+| **v2ray** | 5.19.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.17 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.17 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |

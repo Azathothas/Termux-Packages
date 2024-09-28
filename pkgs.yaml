@@ -943,11 +943,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 3.30.3-1
+  Version: 3.30.4
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 3.30.3-1
+  Version: 3.30.4
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -6875,7 +6875,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.53.2
+  Version: 0.53.3
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -9919,7 +9919,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.18.0
+  Version: 5.19.0
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac

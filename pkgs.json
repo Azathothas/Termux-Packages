@@ -1417,13 +1417,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "3.30.3-1",
+    "Version": "3.30.4",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "3.30.3-1",
+    "Version": "3.30.4",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -10315,7 +10315,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.53.2",
+    "Version": "0.53.3",
     "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -14881,7 +14881,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.18.0",
+    "Version": "5.19.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
