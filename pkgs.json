@@ -10243,7 +10243,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "17.0.4",
+    "Version": "18.0.0",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
