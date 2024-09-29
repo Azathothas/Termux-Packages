@@ -12745,7 +12745,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.9.8-3",
+    "Version": "0.10.0",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
