@@ -2467,7 +2467,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.26.0",
+    "Version": "2.26.1",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -10771,7 +10771,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.15.0",
+    "Version": "23.15.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14995,7 +14995,7 @@
   },
   {
     "Package": "viddy",
-    "Version": "1.1.3",
+    "Version": "1.1.4",
     "Description": "A modern watch command",
     "Homepage": "https://github.com/sachaos/viddy"
   },
