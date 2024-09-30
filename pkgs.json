@@ -11773,7 +11773,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.17.0-1",
+    "Version": "4.17.1",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
