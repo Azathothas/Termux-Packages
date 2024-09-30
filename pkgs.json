@@ -1291,7 +1291,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.52.2",
+    "Version": "2.52.3",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -9355,7 +9355,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.10.6",
+    "Version": "3.11.0",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
