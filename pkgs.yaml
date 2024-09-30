@@ -2419,7 +2419,7 @@
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
-  Version: 1:11.2.0
+  Version: 1:11.2.1
   Description: The open-source platform for monitoring and observability
   Homepage: https://grafana.com/
 - Package: graphene
@@ -4423,11 +4423,11 @@
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
 - Package: libluajit
-  Version: 1:2.1.1725453128
+  Version: 1:2.1.1727621189
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: libluajit-static
-  Version: 1:2.1.1725453128
+  Version: 1:2.1.1727621189
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
@@ -6275,7 +6275,7 @@
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1725453128
+  Version: 1:2.1.1727621189
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -7847,7 +7847,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 4.16.0
+  Version: 4.17.0
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8651,7 +8651,7 @@
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc
-  Version: 3.3.5
+  Version: 3.4.0
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache

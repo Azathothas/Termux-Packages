@@ -3631,7 +3631,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "1:11.2.0",
+    "Version": "1:11.2.1",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },
@@ -6637,13 +6637,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1725453128",
+    "Version": "1:2.1.1727621189",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1725453128",
+    "Version": "1:2.1.1727621189",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -9415,7 +9415,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1725453128",
+    "Version": "1:2.1.1727621189",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -11773,7 +11773,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.16.0",
+    "Version": "4.17.0",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -12979,7 +12979,7 @@
   },
   {
     "Package": "scc",
-    "Version": "3.3.5",
+    "Version": "3.4.0",
     "Description": "Counts physical the lines of code, blank lines, comment lines, and physical lines of source code",
     "Homepage": "https://github.com/boyter/scc"
   },
