@@ -1972,7 +1972,7 @@
 | **progress** | 0.17 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.5.0 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 4.17.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot-distro** | 4.17.0-1 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:25.1-3 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **protobuf-dev** | 2:25.1-3 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
 | **protobuf-static** | 25.1-3 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
@@ -2148,7 +2148,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.6 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.81.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240923 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240930 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.70.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.81.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.81.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2509,7 +2509,7 @@
 | **vera** | 1.3.0-5 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
 | **vgmstream** | 1951 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
 | **vgmtools** | 2023.01.27 | A collection of tools for the VGM file format | https://github.com/vgmrips/vgmtools |
-| **viddy** | 1.1.4 | A modern watch command | https://github.com/sachaos/viddy |
+| **viddy** | 1.1.5 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.13 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
 | **vim** | 9.1.0700 | Vi IMproved - enhanced vi editor | https://www.vim.org |

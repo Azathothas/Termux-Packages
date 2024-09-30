@@ -7847,7 +7847,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 4.17.0
+  Version: 4.17.0-1
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8551,7 +8551,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20240923"
+  Version: "20240930"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -9995,7 +9995,7 @@
   Description: A collection of tools for the VGM file format
   Homepage: https://github.com/vgmrips/vgmtools
 - Package: viddy
-  Version: 1.1.4
+  Version: 1.1.5
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm
