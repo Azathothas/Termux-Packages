@@ -1027,7 +1027,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: 9.5-2
+  Version: 9.5-3
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -1575,7 +1575,7 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: http://eradman.com/entrproject/
 - Package: erlang
-  Version: 27.1-1
+  Version: 27.1.1
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -7179,7 +7179,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.15.1
+  Version: 23.15.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
