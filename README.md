@@ -615,7 +615,7 @@
 | **gping** | 1.17.3 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:8.10.2 | Powerful build system for the JVM | https://gradle.org/ |
-| **grafana** | 1:11.1.3 | The open-source platform for monitoring and observability | https://grafana.com/ |
+| **grafana** | 1:11.2.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-1 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.45-1 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |

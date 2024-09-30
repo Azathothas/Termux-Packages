@@ -3631,7 +3631,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "1:11.1.3",
+    "Version": "1:11.2.0",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },
