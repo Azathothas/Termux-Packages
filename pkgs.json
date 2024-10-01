@@ -10771,7 +10771,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.15.2",
+    "Version": "23.15.3",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
