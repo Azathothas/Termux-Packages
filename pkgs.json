@@ -10879,7 +10879,7 @@
   },
   {
     "Package": "opencolorio",
-    "Version": "2.3.2",
+    "Version": "2.4.0",
     "Description": "A color management framework for visual effects and animation",
     "Homepage": "https://opencolorio.org"
   },
@@ -11161,13 +11161,13 @@
   },
   {
     "Package": "pari",
-    "Version": "2.15.5",
+    "Version": "2.17.0",
     "Description": "A computer algebra system designed for fast computations in number theory",
     "Homepage": "https://pari.math.u-bordeaux.fr/"
   },
   {
     "Package": "pari-static",
-    "Version": "2.15.5",
+    "Version": "2.17.0",
     "Description": "Static libraries for pari",
     "Homepage": "https://pari.math.u-bordeaux.fr/"
   },
