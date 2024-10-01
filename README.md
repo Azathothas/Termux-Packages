@@ -1955,8 +1955,8 @@
 | **portmidi** | 2.0.4 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
 | **postgis** | 3.5.0 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
-| **postgresql** | 16.4 | Object-relational SQL database | https://www.postgresql.org |
-| **postgresql-static** | 16.4 | Static libraries for postgresql | https://www.postgresql.org |
+| **postgresql** | 17.0 | Object-relational SQL database | https://www.postgresql.org |
+| **postgresql-static** | 17.0 | Static libraries for postgresql | https://www.postgresql.org |
 | **potrace** | 1.16-1 | Tool for transforming a bitmap into a smooth, scalable image | http://potrace.sourceforge.net |
 | **potrace-static** | 1.16-1 | Static libraries for potrace | http://potrace.sourceforge.net |
 | **pounce** | 3.1 | A multi-client, TLS-only IRC bouncer | https://git.causal.agency/pounce |

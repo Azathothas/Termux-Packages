@@ -11671,13 +11671,13 @@
   },
   {
     "Package": "postgresql",
-    "Version": "16.4",
+    "Version": "17.0",
     "Description": "Object-relational SQL database",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "postgresql-static",
-    "Version": "16.4",
+    "Version": "17.0",
     "Description": "Static libraries for postgresql",
     "Homepage": "https://www.postgresql.org"
   },
