@@ -277,7 +277,7 @@
 | **cpufetch** | 1.06 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.32.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:10.0.12 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:10.0.13 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1-3 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
@@ -518,8 +518,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.14.10 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.14.10 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.14.11 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.14.11 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.22.5 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.22.5 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.3-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -629,7 +629,7 @@
 | **groonga** | 14.0.9 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.16-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
-| **gsf-tools** | 1.14.52 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **gsf-tools** | 1.14.53 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
 | **gst-libav** | 1.24.8 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
@@ -1025,8 +1025,8 @@
 | **libgrpc** | 1.66.2 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
-| **libgsf** | 1.14.52 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
-| **libgsf-static** | 1.14.52 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf** | 1.14.53 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf-static** | 1.14.53 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgtop** | 2.41.3 | Library for collecting system monitoring data | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgtop-static** | 2.41.3 | Static libraries for libgtop | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgts** | 0.7.6-1 | Provides useful functions to deal with 3D surfaces meshed with interconnected triangles | https://gts.sourceforge.net/ |
@@ -1119,8 +1119,8 @@
 | **libluajit** | 1:2.1.1727621189 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **libluajit-static** | 1:2.1.1727621189 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.10.0 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
-| **liblzma** | 5.6.2 | XZ-format compression library | https://xz.tukaani.org/xz-utils/ |
-| **liblzma-static** | 5.6.2 | Static libraries for liblzma | https://xz.tukaani.org/xz-utils/ |
+| **liblzma** | 5.6.3 | XZ-format compression library | https://tukaani.org/xz/ |
+| **liblzma-static** | 5.6.3 | Static libraries for liblzma | https://tukaani.org/xz/ |
 | **liblzo** | 2.10-3 | Portable lossless data compression library | http://www.oberhumer.com/opensource/lzo |
 | **liblzo-static** | 2.10-3 | Static libraries for liblzo | http://www.oberhumer.com/opensource/lzo |
 | **libmaa** | 1.4.7 | Provides many low-level data structures which are helpful for writing compilers | https://sourceforge.net/projects/dict/ |
@@ -1173,8 +1173,8 @@
 | **libmusicbrainz** | 5.1.0-4 | The MusicBrainz Client Library | https://musicbrainz.org/doc/libmusicbrainz |
 | **libmypaint** | 1.6.1-1 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
 | **libmypaint-static** | 1.6.1-1 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
-| **libnats-c** | 3.8.2 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
-| **libnats-c-static** | 3.8.2 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
+| **libnats-c** | 3.8.3 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
+| **libnats-c-static** | 3.8.3 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
 | **libncnn** | 20230627-5 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
 | **libncnn-static** | 20230627-5 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
 | **libneon** | 0.33.0-1 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
@@ -2409,7 +2409,7 @@
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6-1 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.1.3 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.23.1 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter** | 0.23.2 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-c** | 0.23.1 | C grammar for tree-sitter | https://github.com/tree-sitter |
 | **tree-sitter-c-static** | 0.23.1 | Static libraries for tree-sitter-c | https://github.com/tree-sitter |
 | **tree-sitter-lua** | 0.2.0 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars |
@@ -2419,7 +2419,7 @@
 | **tree-sitter-parsers** | 0.0.1 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
 | **tree-sitter-query** | 0.4.0-1 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars |
 | **tree-sitter-query-static** | 0.4.0-1 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars |
-| **tree-sitter-static** | 0.23.1 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter-static** | 0.23.2 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-vim** | 0.4.0-1 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars |
 | **tree-sitter-vim-static** | 0.4.0-1 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars |
 | **tree-sitter-vimdoc** | 3.0.0-2 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
@@ -2524,7 +2524,7 @@
 | **vlc-static** | 3.0.21-1 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.17 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.19 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20240708 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.296 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
@@ -2601,7 +2601,7 @@
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |
 | **xxhash** | 0.8.2 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.2 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
-| **xz-utils** | 5.6.2 | XZ-format compression tools | https://xz.tukaani.org/xz-utils/ |
+| **xz-utils** | 5.6.3 | XZ-format compression tools | https://tukaani.org/xz/ |
 | **yadm** | 3.2.2 | Yet Another Dotfiles Manager | https://github.com/TheLocehiliosan/yadm |
 | **yajl** | 2.1.0-7 | Yet Another JSON Library | https://lloyd.github.io/yajl/ |
 | **yajl-static** | 2.1.0-7 | Static libraries for yajl | https://lloyd.github.io/yajl/ |

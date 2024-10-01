@@ -1067,7 +1067,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:10.0.12
+  Version: 1:10.0.13
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -2031,11 +2031,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.14.10
+  Version: 1.14.11
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.14.10
+  Version: 1.14.11
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -2475,7 +2475,7 @@
   Description: GNU SASL library command line interface
   Homepage: https://www.gnu.org/software/gsasl
 - Package: gsf-tools
-  Version: 1.14.52
+  Version: 1.14.53
   Description: Command-line tools for libgsf
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: gsl
@@ -4059,11 +4059,11 @@
   Description: Static libraries for libgsasl
   Homepage: https://www.gnu.org/software/gsasl
 - Package: libgsf
-  Version: 1.14.52
+  Version: 1.14.53
   Description: The G Structured File Library
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: libgsf-static
-  Version: 1.14.52
+  Version: 1.14.53
   Description: Static libraries for libgsf
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: libgtop
@@ -4435,13 +4435,13 @@
   Description: Fast LZ compression algorithm library
   Homepage: https://lz4.github.io/lz4/
 - Package: liblzma
-  Version: 5.6.2
+  Version: 5.6.3
   Description: XZ-format compression library
-  Homepage: https://xz.tukaani.org/xz-utils/
+  Homepage: https://tukaani.org/xz/
 - Package: liblzma-static
-  Version: 5.6.2
+  Version: 5.6.3
   Description: Static libraries for liblzma
-  Homepage: https://xz.tukaani.org/xz-utils/
+  Homepage: https://tukaani.org/xz/
 - Package: liblzo
   Version: 2.10-3
   Description: Portable lossless data compression library
@@ -4651,11 +4651,11 @@
   Description: Static libraries for libmypaint
   Homepage: https://github.com/mypaint/libmypaint
 - Package: libnats-c
-  Version: 3.8.2
+  Version: 3.8.3
   Description: A C client for the NATS messaging system
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libnats-c-static
-  Version: 3.8.2
+  Version: 3.8.3
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
@@ -9595,7 +9595,7 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.23.1
+  Version: 0.23.2
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
@@ -9635,7 +9635,7 @@
   Description: Static libraries for tree-sitter-query
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-static
-  Version: 0.23.1
+  Version: 0.23.2
   Description: Static libraries for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-vim
@@ -10055,7 +10055,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.17
+  Version: 0.9.99.19
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
@@ -10363,9 +10363,9 @@
   Description: Static libraries for xxhash
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xz-utils
-  Version: 5.6.2
+  Version: 5.6.3
   Description: XZ-format compression tools
-  Homepage: https://xz.tukaani.org/xz-utils/
+  Homepage: https://tukaani.org/xz/
 - Package: yadm
   Version: 3.2.2
   Description: Yet Another Dotfiles Manager

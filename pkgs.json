@@ -1603,7 +1603,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.0.12",
+    "Version": "1:10.0.13",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3049,13 +3049,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.14.10",
+    "Version": "1.14.11",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.14.10",
+    "Version": "1.14.11",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -3715,7 +3715,7 @@
   },
   {
     "Package": "gsf-tools",
-    "Version": "1.14.52",
+    "Version": "1.14.53",
     "Description": "Command-line tools for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -6091,13 +6091,13 @@
   },
   {
     "Package": "libgsf",
-    "Version": "1.14.52",
+    "Version": "1.14.53",
     "Description": "The G Structured File Library",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
   {
     "Package": "libgsf-static",
-    "Version": "1.14.52",
+    "Version": "1.14.53",
     "Description": "Static libraries for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -6655,15 +6655,15 @@
   },
   {
     "Package": "liblzma",
-    "Version": "5.6.2",
+    "Version": "5.6.3",
     "Description": "XZ-format compression library",
-    "Homepage": "https://xz.tukaani.org/xz-utils/"
+    "Homepage": "https://tukaani.org/xz/"
   },
   {
     "Package": "liblzma-static",
-    "Version": "5.6.2",
+    "Version": "5.6.3",
     "Description": "Static libraries for liblzma",
-    "Homepage": "https://xz.tukaani.org/xz-utils/"
+    "Homepage": "https://tukaani.org/xz/"
   },
   {
     "Package": "liblzo",
@@ -6979,13 +6979,13 @@
   },
   {
     "Package": "libnats-c",
-    "Version": "3.8.2",
+    "Version": "3.8.3",
     "Description": "A C client for the NATS messaging system",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
   {
     "Package": "libnats-c-static",
-    "Version": "3.8.2",
+    "Version": "3.8.3",
     "Description": "Static libraries for libnats-c",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
@@ -14395,7 +14395,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.23.1",
+    "Version": "0.23.2",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14455,7 +14455,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.23.1",
+    "Version": "0.23.2",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -15085,7 +15085,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.17",
+    "Version": "0.9.99.19",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
@@ -15547,9 +15547,9 @@
   },
   {
     "Package": "xz-utils",
-    "Version": "5.6.2",
+    "Version": "5.6.3",
     "Description": "XZ-format compression tools",
-    "Homepage": "https://xz.tukaani.org/xz-utils/"
+    "Homepage": "https://tukaani.org/xz/"
   },
   {
     "Package": "yadm",
