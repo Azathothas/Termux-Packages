@@ -667,7 +667,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: busybox
-  Version: 1.36.1-1
+  Version: 1.36.1-2
   Description: Tiny versions of many common UNIX utilities into a single small executable
   Homepage: https://busybox.net/
 - Package: bvi
