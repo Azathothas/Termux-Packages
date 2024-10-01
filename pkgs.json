@@ -1057,13 +1057,13 @@
   },
   {
     "Package": "ca-certificates",
-    "Version": "1:2024.07.02",
+    "Version": "1:2024.09.24",
     "Description": "Common CA certificates",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
   {
     "Package": "ca-certificates-java",
-    "Version": "1:2024.07.02",
+    "Version": "1:2024.09.24",
     "Description": "Common CA certificates (java keystore format)",
     "Homepage": "https://curl.se/docs/caextract.html"
   },
