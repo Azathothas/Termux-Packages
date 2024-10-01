@@ -991,7 +991,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.42.0",
+    "Version": "1.43.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1375,7 +1375,7 @@
   },
   {
     "Package": "clifm",
-    "Version": "1.20",
+    "Version": "1.21",
     "Description": "The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell",
     "Homepage": "https://github.com/leo-arch/clifm"
   },
@@ -4567,7 +4567,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.35.0",
+    "Version": "1.36.0",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -14395,7 +14395,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.23.0",
+    "Version": "0.23.1",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14455,7 +14455,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.23.0",
+    "Version": "0.23.1",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -15193,7 +15193,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.8",
+    "Version": "0.5.9",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
