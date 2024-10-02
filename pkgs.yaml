@@ -2323,11 +2323,11 @@
   Description: Pure Go implementation of jq
   Homepage: https://github.com/itchyny/gojq
 - Package: golang
-  Version: 3:1.23.1
+  Version: 3:1.23.2
   Description: Go programming language compiler
   Homepage: https://golang.org/
 - Package: golang-doc
-  Version: 3:1.23.1
+  Version: 3:1.23.2
   Description: Go programming language - documentation
   Homepage: https://golang.org/
 - Package: gomp
@@ -6631,11 +6631,11 @@
   Description: Static libraries for miniupnpc
   Homepage: https://miniupnp.tuxfamily.org/
 - Package: minizinc
-  Version: 2.8.6
+  Version: 2.8.7
   Description: A medium-level constraint modelling language
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: minizinc-static
-  Version: 2.8.6
+  Version: 2.8.7
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mkbootimg
@@ -6963,7 +6963,7 @@
   Description: Simple system information script
   Homepage: https://github.com/dylanaraps/neofetch
 - Package: neomutt
-  Version: 20240425-1
+  Version: "20241002"
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
@@ -7083,15 +7083,15 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
-  Version: 3.0.9-1
+  Version: 3.0.10
   Description: blingful TUIs and character graphics
   Homepage: https://notcurses.com/
 - Package: notcurses-data
-  Version: 3.0.9-1
+  Version: 3.0.10
   Description: Platform-independent data for notcurses
   Homepage: https://notcurses.com/
 - Package: notcurses-tools
-  Version: 3.0.9-1
+  Version: 3.0.10
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch

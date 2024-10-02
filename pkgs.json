@@ -3487,13 +3487,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.23.1",
+    "Version": "3:1.23.2",
     "Description": "Go programming language compiler",
     "Homepage": "https://golang.org/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.23.1",
+    "Version": "3:1.23.2",
     "Description": "Go programming language - documentation",
     "Homepage": "https://golang.org/"
   },
@@ -9949,13 +9949,13 @@
   },
   {
     "Package": "minizinc",
-    "Version": "2.8.6",
+    "Version": "2.8.7",
     "Description": "A medium-level constraint modelling language",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
   {
     "Package": "minizinc-static",
-    "Version": "2.8.6",
+    "Version": "2.8.7",
     "Description": "Static libraries for minizinc",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
@@ -10447,7 +10447,7 @@
   },
   {
     "Package": "neomutt",
-    "Version": "20240425-1",
+    "Version": "20241002",
     "Description": "A version of mutt with added features",
     "Homepage": "https://neomutt.org/"
   },
@@ -10627,19 +10627,19 @@
   },
   {
     "Package": "notcurses",
-    "Version": "3.0.9-1",
+    "Version": "3.0.10",
     "Description": "blingful TUIs and character graphics",
     "Homepage": "https://notcurses.com/"
   },
   {
     "Package": "notcurses-data",
-    "Version": "3.0.9-1",
+    "Version": "3.0.10",
     "Description": "Platform-independent data for notcurses",
     "Homepage": "https://notcurses.com/"
   },
   {
     "Package": "notcurses-tools",
-    "Version": "3.0.9-1",
+    "Version": "3.0.10",
     "Description": "Tools and demos for notcurses",
     "Homepage": "https://notcurses.com/"
   },
