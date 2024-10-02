@@ -514,7 +514,7 @@
  gflags  2.2.2-9  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.2.2-9  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-1  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
- gh  2.57.0  GitHub’s official command line tool  https://cli.github.com/ 
+ gh  2.58.0  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.2.5-1  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghc-libs  9.2.5-1  The Glasgow Haskell Compiler libraries  https://www.haskell.org/ghc/ 
  ghc-libs-static  8.10.7-3  Static libraries for ghc-libs  https://www.haskell.org/ghc/ 
@@ -1161,8 +1161,8 @@
  libmusicbrainz  5.1.0-4  The MusicBrainz Client Library  https://musicbrainz.org/doc/libmusicbrainz 
  libmypaint  1.6.1-1  MyPaint brush engine library  https://github.com/mypaint/libmypaint 
  libmypaint-static  1.6.1-1  Static libraries for libmypaint  https://github.com/mypaint/libmypaint 
- libnats-c  3.8.3  A C client for the NATS messaging system  https://nats-io.github.io/nats.c/ 
- libnats-c-static  3.8.3  Static libraries for libnats-c  https://nats-io.github.io/nats.c/ 
+ libnats-c  3.9.0  A C client for the NATS messaging system  https://nats-io.github.io/nats.c/ 
+ libnats-c-static  3.9.0  Static libraries for libnats-c  https://nats-io.github.io/nats.c/ 
  libncnn  20230627-5  A high-performance neural network inference framework optimized for the mobile platform  https://github.com/Tencent/ncnn 
  libncnn-static  20230627-5  Static libraries for libncnn  https://github.com/Tencent/ncnn 
  libneon  0.33.0-1  An HTTP/1.1 and WebDAV client library, with a C interface  https://notroj.github.io/neon/ 
@@ -2477,7 +2477,7 @@
  util-linux-static  2.40.2-1  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-1  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.4.17  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.4.18  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.27  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.19.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.17  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
