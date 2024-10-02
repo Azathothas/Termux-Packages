@@ -7279,15 +7279,15 @@
   Description: A metapackage for OpenGL implementation
   Homepage: https://github.com/termux/termux-packages
 - Package: openjdk-17
-  Version: 17.0-35
+  Version: 17.0-36
   Description: Java development kit and runtime
   Homepage: https://github.com/openjdk/mobile
 - Package: openjdk-17-source
-  Version: 17.0-35
+  Version: 17.0-36
   Description: Source files for openjdk-17
   Homepage: https://github.com/openjdk/mobile
 - Package: openjdk-17-x
-  Version: 17.0-35
+  Version: 17.0-36
   Description: Portion of openjdk-17 requiring X11 functionality
   Homepage: https://github.com/openjdk/mobile
 - Package: openjpeg
