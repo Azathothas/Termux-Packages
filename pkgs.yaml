@@ -495,19 +495,19 @@
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
-  Version: "2.43"
+  Version: 2.43.1
   Description: GNU Binutils (metapackage)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-bin
-  Version: "2.43"
+  Version: 2.43.1
   Description: Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-cross
-  Version: "2.43"
+  Version: 2.43.1
   Description: GNU Binutils for cross build on the host (NOT for Termux)
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-gold
-  Version: "2.43"
+  Version: 2.43.1
   Description: gold linker
   Homepage: https://www.gnu.org/software/binutils/
 - Package: binutils-is-llvm
@@ -515,7 +515,7 @@
   Description: Use llvm as binutils
   Homepage: https://github.com/trentbuck/binutils-is-llvm
 - Package: binutils-libs
-  Version: "2.43"
+  Version: 2.43.1
   Description: GNU Binutils libraries
   Homepage: https://www.gnu.org/software/binutils/
 - Package: bionic-host
@@ -2419,7 +2419,7 @@
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
-  Version: 1:11.2.1
+  Version: 1:11.2.1-1
   Description: The open-source platform for monitoring and observability
   Homepage: https://grafana.com/
 - Package: graphene
