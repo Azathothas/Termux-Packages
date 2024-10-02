@@ -4019,7 +4019,7 @@
   Description: Static libraries for libgmp
   Homepage: https://gmplib.org/
 - Package: libgnt
-  Version: 2.14.3-3
+  Version: 2.14.3-4
   Description: An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way
   Homepage: https://keep.imfreedom.org/libgnt/libgnt
 - Package: libgnustep-base
@@ -6911,23 +6911,23 @@
   Description: An ncurses Spotify client written in Rust
   Homepage: https://github.com/hrkfdn/ncspot
 - Package: ncurses
-  Version: 6.5.20240831
+  Version: 6.5.20240831-1
   Description: Library for text-based user interfaces in a terminal-independent manner
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-static
-  Version: 6.5.20240831
+  Version: 6.5.20240831-1
   Description: Static libraries for ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs
-  Version: 6.5.20240831
+  Version: 6.5.20240831-1
   Description: Libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs-static
-  Version: 6.5.20240831
+  Version: 6.5.20240831-1
   Description: Static libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-utils
-  Version: 6.5.20240831
+  Version: 6.5.20240831-1
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
