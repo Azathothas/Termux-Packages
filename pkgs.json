@@ -1525,7 +1525,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.7.9",
+    "Version": "2.8.0",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -6637,13 +6637,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1727621189",
+    "Version": "1:2.1.1727870382",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1727621189",
+    "Version": "1:2.1.1727870382",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -9415,7 +9415,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1727621189",
+    "Version": "1:2.1.1727870382",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -12367,7 +12367,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.15.1",
+    "Version": "3.15.3",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15085,7 +15085,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.19",
+    "Version": "0.9.99.20",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
