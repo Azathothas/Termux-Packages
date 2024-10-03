@@ -919,7 +919,7 @@
   },
   {
     "Package": "boxes",
-    "Version": "2.3.0",
+    "Version": "2.3.1",
     "Description": "A command line filter program which draws ASCII art boxes around your input text",
     "Homepage": "https://boxes.thomasjensen.com/"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.0",
+    "Version": "0.20.1",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -10453,7 +10453,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.10.1-1",
+    "Version": "0.10.2",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -11365,7 +11365,7 @@
   },
   {
     "Package": "pgroonga",
-    "Version": "3.2.3",
+    "Version": "3.2.4",
     "Description": "A PostgreSQL extension to use Groonga as index",
     "Homepage": "https://github.com/pgroonga/pgroonga"
   },
