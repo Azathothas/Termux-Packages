@@ -659,7 +659,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: buf
-  Version: 1.43.0
+  Version: 1.44.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -3183,7 +3183,7 @@
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
-  Version: "2.14"
+  Version: "2.15"
   Description: An input filter for the pager less
   Homepage: http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html
 - Package: leveldb
@@ -4571,7 +4571,7 @@
   Description: Static libraries for libmodplug
   Homepage: http://modplug-xmms.sourceforge.net/
 - Package: libmosquitto
-  Version: 2.0.18
+  Version: 2.0.19
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
@@ -5599,11 +5599,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.21.0
+  Version: 1.21.1
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.21.0
+  Version: 1.21.1
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -6711,7 +6711,7 @@
   Description: The mosh Perl script
   Homepage: https://mosh.org
 - Package: mosquitto
-  Version: 2.0.18
+  Version: 2.0.19
   Description: MQTT version 3.1/3.1.1 compatible message broker and clients
   Homepage: https://mosquitto.org/
 - Package: most
@@ -6803,15 +6803,15 @@
   Description: Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
   Homepage: http://www.vanheusden.com/multitail/
 - Package: mupdf
-  Version: 1.24.9
+  Version: 1.24.10
   Description: Lightweight PDF and XPS viewer (library)
   Homepage: https://mupdf.com/
 - Package: mupdf-static
-  Version: 1.24.9
+  Version: 1.24.10
   Description: Static libraries for mupdf
   Homepage: https://mupdf.com/
 - Package: mupdf-tools
-  Version: 1.24.9
+  Version: 1.24.10
   Description: Lightweight PDF and XPS viewer (utilities)
   Homepage: https://mupdf.com/
 - Package: music-file-organizer
@@ -8079,7 +8079,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.21.0
+  Version: 1.21.1
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -9791,7 +9791,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.21.0
+  Version: 1.21.1
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unbound-static
@@ -10055,7 +10055,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.20
+  Version: 0.9.99.21
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
@@ -10499,7 +10499,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 0.4.40
+  Version: 0.4.41
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
