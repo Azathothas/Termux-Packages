@@ -4715,11 +4715,11 @@
   Description: Static libraries for libnfs
   Homepage: https://github.com/sahlberg/libnfs
 - Package: libnftnl
-  Version: 1.2.7
+  Version: 1.2.8
   Description: Netfilter library providing interface to the nf_tables subsystem
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnftnl-static
-  Version: 1.2.7
+  Version: 1.2.8
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
@@ -9295,7 +9295,7 @@
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
-  Version: 0.17.4
+  Version: 0.17.5
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
@@ -9415,7 +9415,7 @@
   Description: Service daemon for Termux
   Homepage: https://github.com/termux/termux-services/
 - Package: termux-tools
-  Version: 1.43.5
+  Version: 1.43.6
   Description: Basic system tools for Termux
   Homepage: https://termux.dev/
 - Package: teseq

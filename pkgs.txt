@@ -1177,8 +1177,8 @@
  libnfc-static  1.8.0  Static libraries for libnfc  https://github.com/nfc-tools/libnfc 
  libnfs  5.0.3  NFS client library  https://github.com/sahlberg/libnfs 
  libnfs-static  5.0.3  Static libraries for libnfs  https://github.com/sahlberg/libnfs 
- libnftnl  1.2.7  Netfilter library providing interface to the nf_tables subsystem  https://www.netfilter.org/projects/libnftnl/ 
- libnftnl-static  1.2.7  Static libraries for libnftnl  https://www.netfilter.org/projects/libnftnl/ 
+ libnftnl  1.2.8  Netfilter library providing interface to the nf_tables subsystem  https://www.netfilter.org/projects/libnftnl/ 
+ libnftnl-static  1.2.8  Static libraries for libnftnl  https://www.netfilter.org/projects/libnftnl/ 
  libnghttp2  1.63.0  nghttp HTTP 2.0 library  https://nghttp2.org/ 
  libnghttp2-static  1.63.0  Static libraries for libnghttp2  https://nghttp2.org/ 
  libnghttp3  1.5.0  HTTP/3 library written in C  https://nghttp2.org/nghttp3/ 
@@ -2322,7 +2322,7 @@
  tcllib  1.21  Tcl Standard Library  https://core.tcl-lang.org/tcllib/ 
  tcsh  6.24.13  TENEX C Shell, an enhanced version of Berkeley csh  https://www.tcsh.org 
  tdb-tools  1.4.12  Tools for TDB  https://tdb.samba.org/ 
- tdl  0.17.4  Telegram downloader/tools written in Golang  https://docs.iyear.me/tdl/ 
+ tdl  0.17.5  Telegram downloader/tools written in Golang  https://docs.iyear.me/tdl/ 
  tea  0.9.2  The official CLI for Gitea  https://gitea.com/gitea/tea 
  tealdeer  1.6.1-1  A very fast implementation of tldr in Rust  https://dbrgn.github.io/tealdeer/ 
  teckit  2.5.12  TECkit is a library for encoding conversion  https://scripts.sil.org/teckitdownloads 
@@ -2352,7 +2352,7 @@
  termux-keyring  3.12-1  GPG public keys for the official Termux repositories  https://github.com/termux 
  termux-licenses  2.0-3  Contains LICENSE files for common licenses  https://termux.dev 
  termux-services  0.13-1  Service daemon for Termux  https://github.com/termux/termux-services/ 
- termux-tools  1.43.5  Basic system tools for Termux  https://termux.dev/ 
+ termux-tools  1.43.6  Basic system tools for Termux  https://termux.dev/ 
  teseq  1.1.1-1  Tool for analyzing control characters and terminal control sequences  https://www.gnu.org/software/teseq/ 
  tesseract  5.4.1-1  Tesseract is probably the most accurate open source OCR engine available  https://github.com/tesseract-ocr/tesseract 
  testssl.sh  3.0.9  Testing TLS/SSL encryption anywhere on any port.  https://testssl.sh/ 
