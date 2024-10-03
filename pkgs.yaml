@@ -2155,7 +2155,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.46.1
+  Version: 1.47.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -4651,11 +4651,11 @@
   Description: Static libraries for libmypaint
   Homepage: https://github.com/mypaint/libmypaint
 - Package: libnats-c
-  Version: 3.9.0
+  Version: 3.9.1
   Description: A C client for the NATS messaging system
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libnats-c-static
-  Version: 3.9.0
+  Version: 3.9.1
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
@@ -6195,11 +6195,11 @@
   Description: A Linux port of OpenBSDs ksh
   Homepage: https://github.com/dimkr/loksh
 - Package: lowdown
-  Version: 1.1.1
+  Version: 1.1.2
   Description: Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lowdown-static
-  Version: 1.1.1
+  Version: 1.1.2
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lr
@@ -6611,7 +6611,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.09.22.00.33.43
+  Version: 2024.10.02.17.50.41
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -7019,7 +7019,7 @@
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: nginx
-  Version: 1.27.1
+  Version: 1.27.2
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -7083,15 +7083,15 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
-  Version: 3.0.10
+  Version: 3.0.11
   Description: blingful TUIs and character graphics
   Homepage: https://notcurses.com/
 - Package: notcurses-data
-  Version: 3.0.10
+  Version: 3.0.11
   Description: Platform-independent data for notcurses
   Homepage: https://notcurses.com/
 - Package: notcurses-tools
-  Version: 3.0.10
+  Version: 3.0.11
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch

@@ -537,7 +537,7 @@
 | **gitoxide** | 0.37.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.46.1 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.47.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.5.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.80.5 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.80.5 | Programs for the GLib library | https://developer.gnome.org/glib/ |
@@ -1161,8 +1161,8 @@
 | **libmusicbrainz** | 5.1.0-4 | The MusicBrainz Client Library | https://musicbrainz.org/doc/libmusicbrainz |
 | **libmypaint** | 1.6.1-1 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
 | **libmypaint-static** | 1.6.1-1 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
-| **libnats-c** | 3.9.0 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
-| **libnats-c-static** | 3.9.0 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
+| **libnats-c** | 3.9.1 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
+| **libnats-c-static** | 3.9.1 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
 | **libncnn** | 20230627-5 | A high-performance neural network inference framework optimized for the mobile platform | https://github.com/Tencent/ncnn |
 | **libncnn-static** | 20230627-5 | Static libraries for libncnn | https://github.com/Tencent/ncnn |
 | **libneon** | 0.33.0-1 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
@@ -1547,8 +1547,8 @@
 | **logo-ls** | 2024.07.17 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
 | **logrotate** | 3.22.0 | Simplify the administration of log files on a system which generates a lot of log files | https://github.com/logrotate/logrotate |
 | **loksh** | 7.5 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
-| **lowdown** | 1.1.1 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
-| **lowdown-static** | 1.1.1 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
+| **lowdown** | 1.1.2 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
+| **lowdown-static** | 1.1.2 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
 | **lr** | 1.6-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.651 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
 | **lrzsz** | 0.12.21-rc1-0 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
@@ -1651,7 +1651,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.2.1 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.09.22.00.33.43 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2024.10.02.17.50.41 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.28.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.8-1 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -1753,7 +1753,7 @@
 | **netsed** | 1.3-5 | Alter the contents of packets forwarded through network in real time | http://silicone.homelinux.org/projects/netsed/ |
 | **nettle** | 3.9.1 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.37 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
-| **nginx** | 1.27.1 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.27.2 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 43-1 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.0.4 | Nim programming language compiler | https://nim-lang.org/ |
@@ -1769,9 +1769,9 @@
 | **no-more-secrets** | 1.0.1-1 | This project provides a command line tool called nms that recreates the famous data decryption effect. | https://github.com/bartobri/no-more-secrets |
 | **nodejs** | 22.8.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **nodejs-lts** | 20.17.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **notcurses** | 3.0.10 | blingful TUIs and character graphics | https://notcurses.com/ |
-| **notcurses-data** | 3.0.10 | Platform-independent data for notcurses | https://notcurses.com/ |
-| **notcurses-tools** | 3.0.10 | Tools and demos for notcurses | https://notcurses.com/ |
+| **notcurses** | 3.0.11 | blingful TUIs and character graphics | https://notcurses.com/ |
+| **notcurses-data** | 3.0.11 | Platform-independent data for notcurses | https://notcurses.com/ |
+| **notcurses-tools** | 3.0.11 | Tools and demos for notcurses | https://notcurses.com/ |
 | **notmuch** | 0.38.3 | Thread-based email index, search and tagging system | https://notmuchmail.org |
 | **npush** | 0.7-1 | Curses-based logic game similar to Sokoban and Boulder Dash | http://npush.sourceforge.net/ |
 | **nsis** | 3.10 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
