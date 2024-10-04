@@ -1525,7 +1525,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.8.0",
+    "Version": "2.8.1",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -9997,7 +9997,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.34.0",
+    "Version": "2.34.1",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },

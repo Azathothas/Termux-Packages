@@ -252,7 +252,7 @@
  colm-static  0.14.7-1  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.21  Tool to colorize 'diff' output  https://www.colordiff.org/ 
  command-not-found  2.4.0-44  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
- composer  2.8.0  Dependency Manager for PHP  https://getcomposer.org/ 
+ composer  2.8.1  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  cookcli  0.8.0  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
  coreutils  9.5-3  Basic file, shell and text manipulation utilities from the GNU project  https://www.gnu.org/software/coreutils/ 
@@ -1664,7 +1664,7 @@
  mktorrent  1.1-p20210130-0  command line utility to create BitTorrent metainfo files  https://github.com/Rudde/mktorrent 
  mlir  19.1.1  A Multi-Level Intermediate Representation for compilers from LLVM  https://clang.llvm.org/ 
  mlocate  0.26-5  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
- mold  2.34.0  mold: A Modern Linker  https://github.com/rui314/mold 
+ mold  2.34.1  mold: A Modern Linker  https://github.com/rui314/mold 
  monero  0.18.3.4  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
  mono  6.12.0.199-1  Cross platform, open source .NET framework  https://www.mono-project.com/ 
  mono-libs  6.12.0.199-1  Platform-independent libraries for mono  https://www.mono-project.com/ 
