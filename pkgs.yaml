@@ -6967,7 +6967,7 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.10.2
+  Version: 0.10.2-1
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9595,7 +9595,7 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.24.1
+  Version: 0.24.1-1
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
@@ -9635,7 +9635,7 @@
   Description: Static libraries for tree-sitter-query
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-static
-  Version: 0.24.1
+  Version: 0.24.1-1
   Description: Static libraries for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-vim

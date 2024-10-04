@@ -10453,7 +10453,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.10.2",
+    "Version": "0.10.2-1",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -14395,7 +14395,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.24.1",
+    "Version": "0.24.1-1",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14455,7 +14455,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.24.1",
+    "Version": "0.24.1-1",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
