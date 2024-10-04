@@ -1636,9 +1636,9 @@
 | **memcached** | 1.6.31 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 24.0.8 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 24.0.8 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 24.0.8 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 24.0.8-1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 24.0.8-1 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 24.0.8-1 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20240709 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.14-1 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -1841,7 +1841,7 @@
 | **opusfile** | 0.12-3 | A high-level API for decoding and seeking within .opus files | https://www.opus-codec.org/ |
 | **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
-| **osmesa** | 24.0.8 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
+| **osmesa** | 24.0.8-1 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
 | **osmium-tool** | 1.16.0-1 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
 | **osslsigncode** | 2.9 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
@@ -2228,7 +2228,7 @@
 | **softether-vpn-static** | 5.02.5180-4 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.8.2 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.27 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
-| **sops** | 3.9.0 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
+| **sops** | 3.9.1 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.16-1 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sox** | 14.4.2-26 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-26 | Static libraries for sox | https://sox.sourceforge.net/ |
@@ -2397,7 +2397,7 @@
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6-1 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.1.3 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.23.2 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter** | 0.24.1 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-c** | 0.23.1 | C grammar for tree-sitter | https://github.com/tree-sitter |
 | **tree-sitter-c-static** | 0.23.1 | Static libraries for tree-sitter-c | https://github.com/tree-sitter |
 | **tree-sitter-lua** | 0.2.0 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars |
@@ -2407,7 +2407,7 @@
 | **tree-sitter-parsers** | 0.0.1 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
 | **tree-sitter-query** | 0.4.0-1 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars |
 | **tree-sitter-query-static** | 0.4.0-1 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars |
-| **tree-sitter-static** | 0.23.2 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter-static** | 0.24.1 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-vim** | 0.4.0-1 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars |
 | **tree-sitter-vim-static** | 0.4.0-1 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars |
 | **tree-sitter-vimdoc** | 3.0.0-2 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |

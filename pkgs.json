@@ -9829,19 +9829,19 @@
   },
   {
     "Package": "mesa",
-    "Version": "24.0.8",
+    "Version": "24.0.8-1",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "24.0.8",
+    "Version": "24.0.8-1",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "24.0.8",
+    "Version": "24.0.8-1",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -11059,7 +11059,7 @@
   },
   {
     "Package": "osmesa",
-    "Version": "24.0.8",
+    "Version": "24.0.8-1",
     "Description": "Mesa Off-screen Rendering Library",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -13381,7 +13381,7 @@
   },
   {
     "Package": "sops",
-    "Version": "3.9.0",
+    "Version": "3.9.1",
     "Description": "Simple and flexible tool for managing secrets",
     "Homepage": "https://github.com/getsops/sops"
   },
@@ -14395,7 +14395,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.23.2",
+    "Version": "0.24.1",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14455,7 +14455,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.23.2",
+    "Version": "0.24.1",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
