@@ -394,7 +394,7 @@
 | **elixir** | 1.17.3 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
-| **emacs** | 29.4-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
+| **emacs** | 29.4-2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emscripten** | 3.1.68 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 3.1.68 | Emscripten-compatible Binaryen | https://emscripten.org |
 | **emscripten-llvm** | 3.1.68 | Emscripten-compatible LLVM | https://emscripten.org |
@@ -1548,10 +1548,10 @@
 | **llbuild** | 5.10 | A low-level build system, used by the Swift Package Manager | https://github.com/apple/swift-llbuild |
 | **lld** | 19.1.1 | LLVM-based linker | https://clang.llvm.org/ |
 | **llvm** | 19.1.1 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
-| **llvm-mingw-w64** | 20240417 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
-| **llvm-mingw-w64-libcompiler-rt** | 20240417 | Compiler runtime libraries for LLVM-MinGW | https://www.llvm.org/ |
-| **llvm-mingw-w64-tools** | 11.0.0 | MinGW-w64 tools for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
-| **llvm-mingw-w64-ucrt** | 20240417 | MinGW-w64 runtime for LLVM-MinGW | https://www.mingw-w64.org/ |
+| **llvm-mingw-w64** | 20241001 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
+| **llvm-mingw-w64-libcompiler-rt** | 20241001 | Compiler runtime libraries for LLVM-MinGW | https://www.llvm.org/ |
+| **llvm-mingw-w64-tools** | 12.0.0 | MinGW-w64 tools for LLVM-MinGW | https://github.com/mstorsjo/llvm-mingw |
+| **llvm-mingw-w64-ucrt** | 20241001 | MinGW-w64 runtime for LLVM-MinGW | https://www.mingw-w64.org/ |
 | **llvm-tools** | 19.1.1 | LLVM Development Tools | https://clang.llvm.org/ |
 | **llvmgold** | 19.1.1 | LLVM gold plugin | https://clang.llvm.org/ |
 | **lnav** | 0.11.2-1 | An advanced log file viewer for the small-scale | https://lnav.org/ |
@@ -1930,7 +1930,7 @@
 | **pinentry** | 1.3.1 | Dialog allowing secure password entry | https://www.gnupg.org/related_software/pinentry/index.html |
 | **pingme** | 0.2.6-3 | A small utility which can be called from anywhere to send a message with particular information | https://github.com/kha7iq/pingme |
 | **pipebuffer** | 0.0.git20211120 | Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline) | https://github.com/tfenne/pipebuffer |
-| **pipes.sh** | 2018.04.22 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
+| **pipes.sh** | 2018.04.22-1 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
 | **pipewire** | 1.2.0-1 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 22 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
@@ -2119,7 +2119,7 @@
 | **ripgrep-all** | 1.0.0-alpha.5-2 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.8 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-1 | A terminal IRC client in C | https://github.com/rcr/rirc |
-| **rizin** | 0.7.3-1 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
+| **rizin** | 0.7.3-2 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.46.1 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
 | **rnr** | 0.4.2 | Batch rename files and directories using regular expression (rust) | https://github.com/ismaelgv/rnr |
 | **robin-map** | 1.3.0 | C++ implementation of a fast hash map and hash set using robin hood hashing | https://github.com/Tessil/robin-map/ |
@@ -2143,7 +2143,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.5 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.5 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.6.8 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.6.9 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.6 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2509,7 +2509,7 @@
 | **vera** | 1.3.0-5 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
 | **vgmstream** | 1951 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
 | **vgmtools** | 2023.01.27 | A collection of tools for the VGM file format | https://github.com/vgmrips/vgmtools |
-| **viddy** | 1.1.5 | A modern watch command | https://github.com/sachaos/viddy |
+| **viddy** | 1.1.6 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.13 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
 | **vim** | 9.1.0700 | Vi IMproved - enhanced vi editor | https://www.vim.org |
@@ -2528,7 +2528,7 @@
 | **vttest** | 20240708 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.296 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.3.296-1 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.3.297 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.3.296 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
