@@ -10687,7 +10687,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.98.0",
+    "Version": "0.98.0-1",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
