@@ -390,7 +390,7 @@
 | **electric-fence-static** | 2.2.7 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
 | **electrum** | 4.5.5 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.191 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
-| **elinks** | 0.17.0-1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
+| **elinks** | 0.17.1.1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.17.3 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
@@ -1193,8 +1193,8 @@
 | **libnftnl-static** | 1.2.8 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
 | **libnghttp2** | 1.63.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
 | **libnghttp2-static** | 1.63.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
-| **libnghttp3** | 1.5.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
-| **libnghttp3-static** | 1.5.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
+| **libnghttp3** | 1.6.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
+| **libnghttp3-static** | 1.6.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libnl** | 3.10.0 | Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces | https://github.com/thom311/libnl |
 | **libnl-cli** | 3.10.0 | Command-line interface utilities for libnl | https://github.com/thom311/libnl |
 | **libnl-cli-static** | 3.10.0 | Static libraries for libnl-cli | https://github.com/thom311/libnl |
@@ -2391,7 +2391,7 @@
 | **tizonia** | 0.22.0-14 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
 | **tk** | 8.6.14 | A windowing toolkit for use with tcl | https://tcl.sourceforge.net/ |
 | **tmate** | 2.4.0-2 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
-| **tmux** | 3.5 | Terminal multiplexer | https://tmux.github.io/ |
+| **tmux** | 3.5a | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-2 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
 | **tokei** | 13.0.0-alpha.5-0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-3 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |

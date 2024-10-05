@@ -2281,7 +2281,7 @@
   },
   {
     "Package": "elinks",
-    "Version": "0.17.0-1",
+    "Version": "0.17.1.1",
     "Description": "Full-Featured Text WWW Browser",
     "Homepage": "https://github.com/rkd77/elinks"
   },
@@ -7099,13 +7099,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.5.0",
+    "Version": "1.6.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.5.0",
+    "Version": "1.6.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
@@ -14287,7 +14287,7 @@
   },
   {
     "Package": "tmux",
-    "Version": "3.5",
+    "Version": "3.5a",
     "Description": "Terminal multiplexer",
     "Homepage": "https://tmux.github.io/"
   },
