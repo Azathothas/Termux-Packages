@@ -9871,7 +9871,7 @@
   },
   {
     "Package": "miller",
-    "Version": "6.12.0",
+    "Version": "6.13.0",
     "Description": "Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",
     "Homepage": "https://miller.readthedocs.io/"
   },
