@@ -111,7 +111,7 @@
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alist
-  Version: 3.37.1
+  Version: 3.37.4
   Description: A file list program that supports multiple storage
   Homepage: https://alist.nn.ci
 - Package: alpine
@@ -803,7 +803,7 @@
   Description: A tool used to produce subtitles for TV recordings
   Homepage: https://ccextractor.org/
 - Package: ccls
-  Version: "0.20240202"
+  Version: "0.20240505"
   Description: C/C++/ObjC language server
   Homepage: https://github.com/MaskRay/ccls
 - Package: ccrypt
@@ -8054,14 +8054,6 @@
   Version: 0.7.5-4
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
-- Package: python-torchaudio
-  Version: 2.0.1-1
-  Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
-  Homepage: https://github.com/pytorch/audio
-- Package: python-torchvision
-  Version: 0.15.1-1
-  Description: Datasets, Transforms and Models specific to Computer Vision
-  Homepage: https://github.com/pytorch/vision
 - Package: python-xcbgen
   Version: 1.17.0
   Description: The xcbgen Python module

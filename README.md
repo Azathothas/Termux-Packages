@@ -38,7 +38,7 @@
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.6 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.1 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
-| **alist** | 3.37.1 | A file list program that supports multiple storage | https://alist.nn.ci |
+| **alist** | 3.37.4 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **alsa-lib** | 1.2.12 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
 | **alsa-utils** | 1.2.12 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
@@ -211,7 +211,7 @@
 | **ccache** | 4.10.2-1 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
 | **cccc** | 3.2.0 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
 | **ccextractor** | 0.94-4 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
-| **ccls** | 0.20240202 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
+| **ccls** | 0.20240505 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
 | **ccrypt** | 1.11 | Secure encryption and decryption of files and streams utility | http://ccrypt.sourceforge.net/ |
 | **cec-client** | 6.0.2-1 | Client applications for libCEC | http://libcec.pulse-eight.com/ |
 | **ceu-lang** | 2019.07.17-2 | The Structured Synchronous Reactive Programming Language Céu | https://github.com/ceu-lang/ceu |
@@ -2024,8 +2024,6 @@
 | **python-static** | 3.11.10 | Static libraries for python | https://python.org/ |
 | **python-tkinter** | 3.11.10 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-4 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
-| **python-torchaudio** | 2.0.1-1 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
-| **python-torchvision** | 0.15.1-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.17.0 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33 | The Python X Library | https://github.com/python-xlib/python-xlib |
 | **python2** | 2.7.18-14 | Python 2 programming language intended to enable clear programs | http://python.org/ |
