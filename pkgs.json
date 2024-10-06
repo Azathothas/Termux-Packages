@@ -427,7 +427,7 @@
   },
   {
     "Package": "asciinema",
-    "Version": "2.4.0",
+    "Version": "2.4.0-1",
     "Description": "Record and share your terminal sessions, the right way",
     "Homepage": "https://asciinema.org/"
   },
@@ -877,19 +877,19 @@
   },
   {
     "Package": "boost",
-    "Version": "1.83.0-2",
+    "Version": "1.83.0-3",
     "Description": "Free peer-reviewed portable C++ source libraries",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-headers",
-    "Version": "1.83.0-2",
+    "Version": "1.83.0-3",
     "Description": "Boost header files",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-static",
-    "Version": "1.83.0-2",
+    "Version": "1.83.0-3",
     "Description": "Static libraries for boost",
     "Homepage": "https://boost.org"
   },
@@ -901,7 +901,7 @@
   },
   {
     "Package": "borgbackup",
-    "Version": "1.4.0-1",
+    "Version": "1.4.0-2",
     "Description": "Deduplicating and compressing backup program",
     "Homepage": "https://www.borgbackup.org/"
   },
@@ -2869,7 +2869,7 @@
   },
   {
     "Package": "g-ir-scanner",
-    "Version": "1.80.1",
+    "Version": "1.80.1-1",
     "Description": "A tool which generates GIR XML files",
     "Homepage": "https://gi.readthedocs.io/"
   },
@@ -2953,7 +2953,7 @@
   },
   {
     "Package": "gdb",
-    "Version": "15.1",
+    "Version": "15.1-1",
     "Description": "The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "Package": "gdbserver",
-    "Version": "15.1",
+    "Version": "15.1-1",
     "Description": "The gdbserver program",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -3247,19 +3247,19 @@
   },
   {
     "Package": "glib",
-    "Version": "2.80.5",
+    "Version": "2.80.5-1",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-bin",
-    "Version": "2.80.5",
+    "Version": "2.80.5-1",
     "Description": "Programs for the GLib library",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.80.5",
+    "Version": "2.80.5-1",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -3469,7 +3469,7 @@
   },
   {
     "Package": "gobject-introspection",
-    "Version": "1.80.1",
+    "Version": "1.80.1-1",
     "Description": "Uniform machine readable API",
     "Homepage": "https://gi.readthedocs.io/"
   },
@@ -8281,7 +8281,7 @@
   },
   {
     "Package": "libtorrent-rasterbar",
-    "Version": "2.0.10",
+    "Version": "2.0.10-1",
     "Description": "A feature complete C++ bittorrent implementation focusing on efficiency and scalability",
     "Homepage": "https://libtorrent.org/"
   },
@@ -8893,31 +8893,31 @@
   },
   {
     "Package": "libxml2",
-    "Version": "2.13.4",
+    "Version": "2.13.4-1",
     "Description": "Library for parsing XML documents",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-python",
-    "Version": "2.13.4",
+    "Version": "2.13.4-1",
     "Description": "Python bindings for libxml2",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-python-static",
-    "Version": "2.13.4",
+    "Version": "2.13.4-1",
     "Description": "Static libraries for libxml2-python",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-static",
-    "Version": "2.13.4",
+    "Version": "2.13.4-1",
     "Description": "Static libraries for libxml2",
     "Homepage": "http://www.xmlsoft.org"
   },
   {
     "Package": "libxml2-utils",
-    "Version": "2.13.4",
+    "Version": "2.13.4-1",
     "Description": "XML utilities",
     "Homepage": "http://www.xmlsoft.org"
   },
@@ -11233,7 +11233,7 @@
   },
   {
     "Package": "pathpicker",
-    "Version": "0.9.5-1",
+    "Version": "0.9.5-2",
     "Description": "Facebook PathPicker - a terminal-based file picker",
     "Homepage": "https://facebook.github.io/PathPicker/"
   },
@@ -11881,13 +11881,13 @@
   },
   {
     "Package": "pycairo",
-    "Version": "1.27.0",
+    "Version": "1.27.0-1",
     "Description": "Python bindings for the cairo graphics library",
     "Homepage": "https://www.cairographics.org/pycairo/"
   },
   {
     "Package": "pygobject",
-    "Version": "3.50.0",
+    "Version": "3.50.0-1",
     "Description": "Python package which provides bindings for GObject based libraries",
     "Homepage": "https://pygobject.readthedocs.io/"
   },
@@ -11935,7 +11935,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.11.10",
+    "Version": "3.12.7",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -11953,7 +11953,7 @@
   },
   {
     "Package": "python-bcrypt",
-    "Version": "4.2.0",
+    "Version": "4.2.0-1",
     "Description": "Acceptable password hashing for your software and your servers",
     "Homepage": "https://github.com/pyca/bcrypt"
   },
@@ -11971,13 +11971,13 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.11.10",
+    "Version": "3.12.7",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.1.1",
+    "Version": "3.1.1-1",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -12001,25 +12001,25 @@
   },
   {
     "Package": "python-lxml",
-    "Version": "5.3.0-1",
+    "Version": "5.3.0-2",
     "Description": "Python binding for the libxml2 and libxslt libraries",
     "Homepage": "https://github.com/lxml/lxml"
   },
   {
     "Package": "python-msgpack",
-    "Version": "1.1.0",
+    "Version": "1.1.0-1",
     "Description": "MessagePack serializer implementation for Python",
     "Homepage": "https://github.com/msgpack/msgpack-python"
   },
   {
     "Package": "python-numpy",
-    "Version": "2.1.2",
+    "Version": "2.1.2-1",
     "Description": "The fundamental package for scientific computing with Python",
     "Homepage": "https://numpy.org/"
   },
   {
     "Package": "python-numpy-static",
-    "Version": "2.1.2",
+    "Version": "2.1.2-1",
     "Description": "Static libraries for python-numpy",
     "Homepage": "https://numpy.org/"
   },
@@ -12037,13 +12037,13 @@
   },
   {
     "Package": "python-pip",
-    "Version": "24.2",
+    "Version": "24.2-1",
     "Description": "The PyPA recommended tool for installing Python packages",
     "Homepage": "https://pip.pypa.io/"
   },
   {
     "Package": "python-pyarrow",
-    "Version": "17.0.0-2",
+    "Version": "17.0.0-3",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -12067,13 +12067,13 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.11.10",
+    "Version": "3.12.7",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.11.10",
+    "Version": "3.12.7",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
@@ -12091,7 +12091,7 @@
   },
   {
     "Package": "python-xlib",
-    "Version": "0.33",
+    "Version": "0.33-1",
     "Description": "The Python X Library",
     "Homepage": "https://github.com/python-xlib/python-xlib"
   },
@@ -12367,7 +12367,7 @@
   },
   {
     "Package": "ranger",
-    "Version": "1.9.3-6",
+    "Version": "1.9.3-7",
     "Description": "File manager with VI key bindings",
     "Homepage": "https://ranger.github.io/"
   },
@@ -14041,7 +14041,7 @@
   },
   {
     "Package": "termux-apt-repo",
-    "Version": "0.5",
+    "Version": "0.5-1",
     "Description": "Script to create Termux apt repositories",
     "Homepage": "https://github.com/termux/termux-apt-repo"
   },
@@ -14053,7 +14053,7 @@
   },
   {
     "Package": "termux-create-package",
-    "Version": "0.12.0-1",
+    "Version": "0.12.0-2",
     "Description": "Utility to create Termux packages",
     "Homepage": "https://github.com/termux/termux-create-package"
   },
@@ -14083,13 +14083,13 @@
   },
   {
     "Package": "termux-gui-package",
-    "Version": "0.1.6-1",
+    "Version": "0.1.6-2",
     "Description": "A Termux package containing utilities for Termux:GUI",
     "Homepage": "https://github.com/tareksander/termux-gui-package"
   },
   {
     "Package": "termux-gui-pm",
-    "Version": "1.0.0-1",
+    "Version": "1.0.0-2",
     "Description": "A graphical package manager for various package formats for Termux and proot-distro distros",
     "Homepage": "https://github.com/tareksander/termux-gui-pm"
   },
@@ -14869,7 +14869,7 @@
   },
   {
     "Package": "uwsgi",
-    "Version": "2.0.27",
+    "Version": "2.0.27-1",
     "Description": "uWSGI application server container",
     "Homepage": "https://projects.unbit.it/uwsgi"
   },
@@ -15007,7 +15007,7 @@
   },
   {
     "Package": "vim-python",
-    "Version": "9.1.0700",
+    "Version": "9.1.0700-1",
     "Description": "Vi IMproved - enhanced vi editor - with python support",
     "Homepage": "https://www.vim.org"
   },
@@ -15619,7 +15619,7 @@
   },
   {
     "Package": "ytui-music",
-    "Version": "2.0.0-beta-0",
+    "Version": "2.0.0-beta-1",
     "Description": "Youtube client in terminal for music",
     "Homepage": "https://github.com/sudipghimire533/ytui-music"
   },
