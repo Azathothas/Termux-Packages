@@ -7,7 +7,7 @@
   Description: Console version of the game 2048 for GNU/Linux
   Homepage: https://github.com/mevdschee/2048.c
 - Package: 2ping
-  Version: 4.5.1-3
+  Version: 4.5.1-4
   Description: A bi-directional ping utility
   Homepage: https://www.finnie.org/software/2ping/
 - Package: 6tunnel
@@ -1539,19 +1539,19 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emscripten
-  Version: 3.1.68
+  Version: 3.1.68-1
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 3.1.68
+  Version: 3.1.68-1
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 3.1.68
+  Version: 3.1.68-1
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 3.1.68
+  Version: 3.1.68-1
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -2943,11 +2943,11 @@
   Description: Static libraries for jbig2dec
   Homepage: https://jbig2dec.com/
 - Package: jbig2enc
-  Version: 2023.01.08-1
+  Version: 2023.01.08-2
   Description: An encoder for JBIG2
   Homepage: https://github.com/agl/jbig2enc
 - Package: jbig2enc-static
-  Version: 2023.01.08-1
+  Version: 2023.01.08-2
   Description: Static libraries for jbig2enc
   Homepage: https://github.com/agl/jbig2enc
 - Package: jcal
@@ -6399,7 +6399,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.9.2
+  Version: 3.9.2-1
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -6847,7 +6847,7 @@
   Description: A light VPN software
   Homepage: https://github.com/ntop/n2n
 - Package: nala
-  Version: 0.15.4
+  Version: 0.15.4-1
   Description: Commandline frontend for the apt package manager
   Homepage: https://gitlab.com/volian/nala
 - Package: nali
@@ -7939,15 +7939,15 @@
   Description: Tkinter support for PyPy
   Homepage: https://pypy.org
 - Package: pypy3
-  Version: 7.3.15-2
+  Version: 7.3.15-3
   Description: A fast, compliant alternative implementation of Python 3
   Homepage: https://pypy.org
 - Package: pypy3-tests
-  Version: 7.3.15-2
+  Version: 7.3.15-3
   Description: Test files for PyPy 3
   Homepage: https://pypy.org
 - Package: pypy3-tkinter
-  Version: 7.3.15-2
+  Version: 7.3.15-3
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pystring
@@ -7971,7 +7971,7 @@
   Description: Acceptable password hashing for your software and your servers
   Homepage: https://github.com/pyca/bcrypt
 - Package: python-contourpy
-  Version: 1.3.0
+  Version: 1.3.0-1
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
@@ -8015,7 +8015,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.19.2
+  Version: 1.19.2-1
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -8055,7 +8055,7 @@
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-xcbgen
-  Version: 1.17.0
+  Version: 1.17.0-1
   Description: The xcbgen Python module
   Homepage: https://xcb.freedesktop.org/
 - Package: python-xlib
@@ -8299,7 +8299,7 @@
   Description: Remote incremental backup
   Homepage: https://github.com/librsync/librsync
 - Package: rdiff-backup
-  Version: 2.2.6-1
+  Version: 2.2.6-2
   Description: A utility for local/remote mirroring and incremental backups
   Homepage: https://rdiff-backup.net
 - Package: rdircd
@@ -8611,7 +8611,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 4.3.3
+  Version: 4.3.3-1
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: salty-chat
@@ -8935,11 +8935,11 @@
   Description: Collection of tools supporting SpatiaLite
   Homepage: https://www.gaia-gis.it/fossil/spatialite-tools
 - Package: speechd
-  Version: 0.11.5
+  Version: 0.11.5-1
   Description: Common interface to speech synthesis
   Homepage: https://github.com/brailcom/speechd
 - Package: speechd-data
-  Version: 0.11.5
+  Version: 0.11.5-1
   Description: Platform-independent data for speechd
   Homepage: https://github.com/brailcom/speechd
 - Package: speedtest-go
@@ -9767,7 +9767,7 @@
   Description: Linux tools for UDF filesystems and DVD/CD-R(W) drives
   Homepage: https://github.com/pali/udftools
 - Package: uftrace
-  Version: "0.16"
+  Version: 0.16-1
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugit
@@ -10275,7 +10275,7 @@
   Description: Basic tools for the Xapian search engine
   Homepage: https://xapian.org
 - Package: xcb-proto
-  Version: 1.17.0
+  Version: 1.17.0-1
   Description: XML-XCB protocol descriptions
   Homepage: https://xcb.freedesktop.org/
 - Package: xdelta3
@@ -10439,7 +10439,7 @@
   Description: Static libraries for zbar
   Homepage: https://github.com/mchehab/zbar
 - Package: zeronet
-  Version: 0.7.1-8
+  Version: 0.7.1-9
   Description: Decentralized websites using Bitcoin crypto and BitTorrent network
   Homepage: https://zeronet.io/
 - Package: zig

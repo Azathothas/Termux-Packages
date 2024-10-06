@@ -12,7 +12,7 @@
 |--------|---------|-------------|----------|
 | **0verkill** | 1:0.16 | Bloody 2D action deathmatch-like game in ASCII-ART | https://github.com/hackndev/0verkill |
 | **2048-c** | 2022.10.23 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
-| **2ping** | 4.5.1-3 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
+| **2ping** | 4.5.1-4 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
 | **6tunnel** | 0.13 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
 | **7zip** | 24.08 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
 | **8086tiny** | 1.25-4 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
@@ -395,10 +395,10 @@
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.4-2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emscripten** | 3.1.68 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 3.1.68 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 3.1.68 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 3.1.68 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 3.1.68-1 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 3.1.68-1 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 3.1.68-1 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 3.1.68-1 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-4 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.2 | Wraps a number of different spelling libraries and programs with a consistent interface | https://abiword.github.io/enchant/ |
 | **enchant-static** | 2.8.2 | Static libraries for enchant | https://abiword.github.io/enchant/ |
@@ -746,8 +746,8 @@
 | **jack2** | 1.9.22 | The JACK low-latency audio server | https://jackaudio.org/ |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |
-| **jbig2enc** | 2023.01.08-1 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
-| **jbig2enc-static** | 2023.01.08-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
+| **jbig2enc** | 2023.01.08-2 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
+| **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jfrog-cli** | 2.70.0 | A CLI for JFrog products | https://jfrog.com/getcli |
@@ -1610,7 +1610,7 @@
 | **marisa-static** | 0.2.6-2 | Static libraries for marisa | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.0-2 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
 | **mathomatic** | 16.0.5-6 | Simple CAS and symbolic calculator | https://en.wikipedia.org/wiki/Mathomatic |
-| **matplotlib** | 3.9.2 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
+| **matplotlib** | 3.9.2-1 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-3 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **mautrix-whatsapp** | 0.10.9 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
@@ -1722,7 +1722,7 @@
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.2-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
 | **n2n** | 3.1.1 | A light VPN software | https://github.com/ntop/n2n |
-| **nala** | 0.15.4 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
+| **nala** | 0.15.4-1 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
 | **nano** | 8.2 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.03 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
@@ -1995,15 +1995,15 @@
 | **pypy** | 7.3.17 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.17 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 7.3.17 | Tkinter support for PyPy | https://pypy.org |
-| **pypy3** | 7.3.15-2 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
-| **pypy3-tests** | 7.3.15-2 | Test files for PyPy 3 | https://pypy.org |
-| **pypy3-tkinter** | 7.3.15-2 | Tkinter support for PyPy 3 | https://pypy.org |
+| **pypy3** | 7.3.15-3 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
+| **pypy3-tests** | 7.3.15-3 | Test files for PyPy 3 | https://pypy.org |
+| **pypy3-tkinter** | 7.3.15-3 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.7 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.46.1.0-1 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 2.9.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.2.0-1 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
-| **python-contourpy** | 1.3.0 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
+| **python-contourpy** | 1.3.0-1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 42.0.8-1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.7 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.1.1-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
@@ -2014,7 +2014,7 @@
 | **python-msgpack** | 1.1.0-1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 2.1.2-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.1.2-1 | Static libraries for python-numpy | https://numpy.org/ |
-| **python-onnxruntime** | 1.19.2 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
+| **python-onnxruntime** | 1.19.2-1 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 10.4.0-1 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.2-1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 17.0.0-3 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
@@ -2024,7 +2024,7 @@
 | **python-static** | 3.12.7 | Static libraries for python | https://python.org/ |
 | **python-tkinter** | 3.12.7 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-5 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
-| **python-xcbgen** | 1.17.0 | The xcbgen Python module | https://xcb.freedesktop.org/ |
+| **python-xcbgen** | 1.17.0-1 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-1 | The Python X Library | https://github.com/python-xlib/python-xlib |
 | **python2** | 2.7.18-14 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-14 | Static libraries for python2 | http://python.org/ |
@@ -2085,7 +2085,7 @@
 | **rcshell** | 1.7.4-4 | An alternative implementation of the plan 9 rc shell | http://tobold.org/article/rc |
 | **rdfind** | 1.6.0 | A tool for finding duplicate files | https://github.com/pauldreik/rdfind |
 | **rdiff** | 2.3.4 | Remote incremental backup | https://github.com/librsync/librsync |
-| **rdiff-backup** | 2.2.6-1 | A utility for local/remote mirroring and incremental backups | https://rdiff-backup.net |
+| **rdiff-backup** | 2.2.6-2 | A utility for local/remote mirroring and incremental backups | https://rdiff-backup.net |
 | **rdircd** | 2023.02.07-1 | A daemon that allows using a personal Discord account through an IRC client | https://github.com/mk-fg/reliable-discord-client-irc-daemon |
 | **rdrview** | 1:0.1.2 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
 | **re2c** | 3.1-1 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
@@ -2163,7 +2163,7 @@
 | **rustscan** | 2.3.0 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 4.3.3 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 4.3.3-1 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **salty-chat** | 0.0.22-4 | A secure, easy, self-hosted messaging | https://salty.im/ |
 | **samba** | 4.16.11-1 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
@@ -2244,8 +2244,8 @@
 | **sox-static** | 14.4.2-26 | Static libraries for sox | https://sox.sourceforge.net/ |
 | **spark** | 1.0.1 | ▁▂▃▅▂▇ in your shell. | https://github.com/holman/spark |
 | **spatialite-tools** | 5.0.1-3 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
-| **speechd** | 0.11.5 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
-| **speechd-data** | 0.11.5 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
+| **speechd** | 0.11.5-1 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
+| **speechd-data** | 0.11.5-1 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
 | **speedtest-go** | 1.7.9 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
 | **speex-utils** | 1.2.1 | Speex command line tools | https://www.speex.org/ |
 | **speexdsp** | 1.2.1 | Speex audio processing library | https://speex.org/ |
@@ -2452,7 +2452,7 @@
 | **typstfmt** | 0.2.10 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
-| **uftrace** | 0.16 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
+| **uftrace** | 0.16-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.8 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 6.5.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.7-8 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
@@ -2579,7 +2579,7 @@
 | **x264** | 1:0.164.3101 | Commandline video encoder for the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **x265** | 3.5-p20230222-0 | H.265/HEVC video stream encoder tool | http://x265.org/ |
 | **xapian-tools** | 1.4.26 | Basic tools for the Xapian search engine | https://xapian.org |
-| **xcb-proto** | 1.17.0 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
+| **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-1 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
 | **xh** | 0.22.2 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xls2csv** | 1.6.2 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
@@ -2620,7 +2620,7 @@
 | **z3** | 4.13.2 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
 | **zbar** | 0.23.93 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93 | Static libraries for zbar | https://github.com/mchehab/zbar |
-| **zeronet** | 0.7.1-8 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
+| **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
 | **zig** | 0.13.0 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
 | **zip** | 3.0-5 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
