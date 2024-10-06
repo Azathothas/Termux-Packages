@@ -936,8 +936,8 @@
 | **libde265-static** | 1.0.15 | Static libraries for libde265 | https://github.com/strukturag/libde265 |
 | **libdebuginfod** | 0.191 | Library for debuginfod | https://sourceware.org/elfutils/ |
 | **libdecor** | 0.2.2 | Client-side decorations library for Wayland clients | https://gitlab.freedesktop.org/libdecor/libdecor |
-| **libdeflate** | 1.21 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
-| **libdeflate-static** | 1.21 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
+| **libdeflate** | 1.22 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
+| **libdeflate-static** | 1.22 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
 | **libdevil** | 1.8.0-6 | A cross-platform image library utilizing a simple syntax | https://openil.sourceforge.net/ |
 | **libdispatch** | 1:5.10 | The libdispatch project, for concurrency on multicore hardware | https://github.com/apple/swift-corelibs-libdispatch |
 | **libdmtx** | 0.7.7 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
@@ -1805,7 +1805,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 23.15.3 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 23.16.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.5.1-1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-8 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2012,8 +2012,8 @@
 | **python-libsass** | 0.22.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.3.0-1 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.1.0 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
-| **python-numpy** | 2.1.1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
-| **python-numpy-static** | 2.1.1 | Static libraries for python-numpy | https://numpy.org/ |
+| **python-numpy** | 2.1.2 | The fundamental package for scientific computing with Python | https://numpy.org/ |
+| **python-numpy-static** | 2.1.2 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.19.2 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 10.4.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
@@ -2204,7 +2204,7 @@
 | **shellharden** | 4.3.1 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
 | **shfmt** | 3.9.0 | A shell parser and formatter | https://github.com/mvdan/sh |
-| **shiori** | 1.7.0 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
+| **shiori** | 1.7.1 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
 | **signify** | 32 | Lightweight cryptographic signing and verifying tool | https://github.com/aperezdc/signify |

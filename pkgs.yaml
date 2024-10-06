@@ -3703,11 +3703,11 @@
   Description: Client-side decorations library for Wayland clients
   Homepage: https://gitlab.freedesktop.org/libdecor/libdecor
 - Package: libdeflate
-  Version: "1.21"
+  Version: "1.22"
   Description: C library for fast compression and decompression
   Homepage: https://github.com/ebiggers/libdeflate
 - Package: libdeflate-static
-  Version: "1.21"
+  Version: "1.22"
   Description: Static libraries for libdeflate
   Homepage: https://github.com/ebiggers/libdeflate
 - Package: libdevil
@@ -7179,7 +7179,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.15.3
+  Version: 23.16.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8007,11 +8007,11 @@
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
-  Version: 2.1.1
+  Version: 2.1.2
   Description: The fundamental package for scientific computing with Python
   Homepage: https://numpy.org/
 - Package: python-numpy-static
-  Version: 2.1.1
+  Version: 2.1.2
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
@@ -8775,7 +8775,7 @@
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
-  Version: 1.7.0
+  Version: 1.7.1
   Description: Simple bookmark manager built with Go
   Homepage: https://github.com/go-shiori/shiori
 - Package: shntool
