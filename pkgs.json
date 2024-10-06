@@ -2467,7 +2467,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.26.1",
+    "Version": "2.27.1",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -14383,7 +14383,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.24.1-1",
+    "Version": "0.24.2",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14443,7 +14443,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.24.1-1",
+    "Version": "0.24.2",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
