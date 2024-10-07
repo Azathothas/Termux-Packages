@@ -1705,7 +1705,7 @@
 | **mpv** | 0.39.0 | Command-line media player | https://mpv.io/ |
 | **mruby** | 3.3.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
 | **mruby-static** | 3.3.0 | Static libraries for mruby | https://mruby.org/ |
-| **msmtp** | 1.8.26 | Lightweight SMTP client | https://marlam.de/msmtp/ |
+| **msmtp** | 1.8.27 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.2.1 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
 | **mtools** | 4.0.45 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.12.6 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
@@ -2031,8 +2031,8 @@
 | **pyunbound** | 1.21.1-1 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.6-2 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
-| **qalc** | 5.2.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
-| **qalc-static** | 5.2.0 | Static libraries for qalc | https://qalculate.github.io/ |
+| **qalc** | 5.3.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
+| **qalc-static** | 5.3.0 | Static libraries for qalc | https://qalculate.github.io/ |
 | **qemu-common** | 1:8.2.6 | A set common files used by the QEMU emulators | https://www.qemu.org |
 | **qemu-system-aarch64-headless** | 1:8.2.6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
 | **qemu-system-arm-headless** | 1:8.2.6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |

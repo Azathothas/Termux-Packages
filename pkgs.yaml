@@ -6779,7 +6779,7 @@
   Description: Static libraries for mruby
   Homepage: https://mruby.org/
 - Package: msmtp
-  Version: 1.8.26
+  Version: 1.8.27
   Description: Lightweight SMTP client
   Homepage: https://marlam.de/msmtp/
 - Package: mtd-utils
@@ -8083,11 +8083,11 @@
   Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
   Homepage: https://github.com/natesales/q
 - Package: qalc
-  Version: 5.2.0
+  Version: 5.3.0
   Description: Powerful and easy to use command line calculator
   Homepage: https://qalculate.github.io/
 - Package: qalc-static
-  Version: 5.2.0
+  Version: 5.3.0
   Description: Static libraries for qalc
   Homepage: https://qalculate.github.io/
 - Package: qemu-common
