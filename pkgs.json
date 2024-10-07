@@ -1705,7 +1705,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.10.1",
+    "Version": "8.10.1-1",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -5467,13 +5467,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.10.1",
+    "Version": "8.10.1-1",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.10.1",
+    "Version": "8.10.1-1",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -9457,7 +9457,7 @@
   },
   {
     "Package": "lychee",
-    "Version": "0.15.1",
+    "Version": "0.16.1",
     "Description": "A fast, async, resource-friendly link checker written in Rust",
     "Homepage": "https://github.com/lycheeverse/lychee"
   },
@@ -12817,7 +12817,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20240930",
+    "Version": "20241007",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },

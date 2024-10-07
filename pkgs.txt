@@ -282,7 +282,7 @@
  cups  2.4.10  Common UNIX Printing System  https://www.cups.org/ 
  cups-pdf  3.0.1  CUPS PDF backend  https://www.cups-pdf.de/ 
  cups-static  2.4.10  Static libraries for cups  https://www.cups.org/ 
- curl  8.10.1  Command line tool for transferring data with URL syntax  https://curl.se/ 
+ curl  8.10.1-1  Command line tool for transferring data with URL syntax  https://curl.se/ 
  curlie  1.7.2  The power of curl, the ease of use of httpie  https://curlie.io/ 
  curseofwar  1.3.0-4  Fast-paced action strategy game focusing on high-level strategic planning  http://a-nikolaev.github.io/curseofwar/ 
  cvs  1:1.12.13-3  Concurrent Versions System  https://www.nongnu.org/cvs/ 
@@ -909,8 +909,8 @@
  libcue  2.3.0  CUE Sheet Parser Library  https://github.com/lipnitsk/libcue/ 
  libcunit  2.1.3  C Unit Testing Framework  https://sourceforge.net/projects/cunit/ 
  libcunit-static  2.1.3  Static libraries for libcunit  https://sourceforge.net/projects/cunit/ 
- libcurl  8.10.1  Easy-to-use client-side URL transfer library  https://curl.se/ 
- libcurl-static  8.10.1  Static libraries for libcurl  https://curl.se/ 
+ libcurl  8.10.1-1  Easy-to-use client-side URL transfer library  https://curl.se/ 
+ libcurl-static  8.10.1-1  Static libraries for libcurl  https://curl.se/ 
  libcwidget  0.5.18  high-level terminal interface library for C++  https://salsa.debian.org/cwidget-team/ 
  libcwidget-static  0.5.18  Static libraries for libcwidget  https://salsa.debian.org/cwidget-team/ 
  libczmq  4.2.1-3  High-level C binding for ZeroMQ  https://zeromq.org/ 
@@ -1574,7 +1574,7 @@
  luvit  2.18.1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-1  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
  lv2  1.18.10-4  A plugin standard for audio systems  https://lv2plug.in/ 
- lychee  0.15.1  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
+ lychee  0.16.1  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.8.9rel.1-8  The text web browser  http://lynx.browser.org/ 
  lz4  1.10.0  Fast LZ compression algorithm tool  https://lz4.github.io/lz4/ 
  lzip  1.24.1  Lossless data compressor similar to gzip and bzip2  https://www.nongnu.org/lzip/ 
@@ -2134,7 +2134,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.5.6  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.81.0-1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20240930  A Rust compiler front-end for IDEs  https://github.com/rust-lang/rust-analyzer 
+ rust-analyzer  20241007  A Rust compiler front-end for IDEs  https://github.com/rust-lang/rust-analyzer 
  rust-bindgen  0.70.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.81.0-1  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.81.0-1  Rust source code files  https://www.rust-lang.org/ 
