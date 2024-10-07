@@ -531,7 +531,7 @@
   Description: Static libraries for bison
   Homepage: https://www.gnu.org/software/bison/
 - Package: bitcoin
-  Version: "27.1"
+  Version: "28.0"
   Description: Bitcoin Core
   Homepage: https://bitcoincore.org/
 - Package: bitlbee
@@ -8039,7 +8039,7 @@
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
-  Version: 0.8.0
+  Version: 0.8.0-1
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static

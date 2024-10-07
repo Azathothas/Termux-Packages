@@ -131,7 +131,7 @@
  bionic-host  8.0.0-r51-2  bionic libc, libm, libdl and dynamic linker for ubuntu host  https://android.googlesource.com/platform/bionic/ 
  bison  3.8.2-3  General-purpose parser generator  https://www.gnu.org/software/bison/ 
  bison-static  3.8.2-3  Static libraries for bison  https://www.gnu.org/software/bison/ 
- bitcoin  27.1  Bitcoin Core  https://bitcoincore.org/ 
+ bitcoin  28.0  Bitcoin Core  https://bitcoincore.org/ 
  bitlbee  3.6-1-0  An IRC to other chat networks gateway  https://www.bitlbee.org/ 
  bk  0.6.0  A terminal EPUB reader  https://github.com/aeosynth/bk 
  blackbox  1:1.20220610  Safely store secrets in Git/Mercurial/Subversion  https://github.com/StackExchange/blackbox 
@@ -2008,7 +2008,7 @@
  python-pyarrow  17.0.0-3  Python bindings for Apache Arrow  https://github.com/apache/arrow 
  python-pynvim  0.5.0-1  Python client for Neovim  https://github.com/neovim/pynvim 
  python-sabyenc3  8.2.5-1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
- python-skia-pathops  0.8.0  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
+ python-skia-pathops  0.8.0-1  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
  python-static  3.12.7  Static libraries for python  https://python.org/ 
  python-tkinter  3.12.7  Tkinter support for Python 3  https://python.org/ 
  python-tldp  0.7.5-5  Tools for publishing from TLDP sources  https://github.com/tLDP/python-tldp 
