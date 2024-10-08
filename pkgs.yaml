@@ -475,7 +475,7 @@
   Description: Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java
   Homepage: https://github.com/beanshell/beanshell
 - Package: bed
-  Version: 0.2.5
+  Version: 0.2.6
   Description: Binary editor written in GO
   Homepage: https://github.com/itchyny/bed
 - Package: bftpd
@@ -1271,7 +1271,7 @@
   Description: Web Directory Fuzzer
   Homepage: http://dirb.sourceforge.net/
 - Package: direnv
-  Version: 2.34.0
+  Version: 2.35.0
   Description: Environment switcher for shell
   Homepage: https://github.com/direnv/direnv
 - Package: direvent
@@ -2103,7 +2103,7 @@
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
 - Package: git
-  Version: 2.46.2
+  Version: 2.47.0
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-crypt
@@ -2115,11 +2115,11 @@
   Description: A syntax-highlighter for git and diff output
   Homepage: https://dandavison.github.io/delta/
 - Package: git-gitk
-  Version: 2.46.2
+  Version: 2.47.0
   Description: Git repository browser
   Homepage: https://git-scm.com/
 - Package: git-gui
-  Version: 2.46.2
+  Version: 2.47.0
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
@@ -2131,7 +2131,7 @@
   Description: Compute various size metrics for a Git repository
   Homepage: https://github.com/github/git-sizer
 - Package: git-svn
-  Version: 2.46.2
+  Version: 2.47.0
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: gitea
@@ -9107,7 +9107,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.112.2
+  Version: 1.113.2
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -9907,7 +9907,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.18
+  Version: 0.4.19
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10079,7 +10079,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.3.296
+  Version: 1.3.297
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
