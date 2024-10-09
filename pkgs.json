@@ -2401,7 +2401,7 @@
   },
   {
     "Package": "exercism",
-    "Version": "3.5.1",
+    "Version": "3.5.2",
     "Description": "A Go based command line tool for exercism.io",
     "Homepage": "https://github.com/exercism/cli/"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.1",
+    "Version": "0.20.2",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -4627,7 +4627,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "2.8.5-1",
+    "Version": "2.8.5-2",
     "Description": "keychain ssh-agent front-end",
     "Homepage": "https://www.funtoo.org/Keychain"
   },
@@ -9355,7 +9355,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.11.0",
+    "Version": "3.11.1",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -13363,7 +13363,7 @@
   },
   {
     "Package": "solidity",
-    "Version": "0.8.27",
+    "Version": "0.8.28",
     "Description": "An Ethereum smart contract-oriented language",
     "Homepage": "https://solidity.readthedocs.io"
   },

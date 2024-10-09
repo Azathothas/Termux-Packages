@@ -398,13 +398,13 @@
 | **espeak-static** | 1.51-2 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.9-2 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
-| **exercism** | 3.5.1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
+| **exercism** | 3.5.2 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 12.97 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.3 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.20.1 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.20.2 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.36 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.36 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -769,7 +769,7 @@
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20240919 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.4.0 | Key directory that maps social media identities to encryption keys | https://keybase.io |
-| **keychain** | 2.8.5-1 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
+| **keychain** | 2.8.5-2 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
 | **kiwix-tools** | 3.7.0 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
 | **knockd** | 0.8-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
@@ -1557,7 +1557,7 @@
 | **lsof** | 4.99.3 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.3 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.7.9 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
-| **lua-language-server** | 3.11.0 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
+| **lua-language-server** | 3.11.1 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5 | Simple, extensible, embeddable programming language | https://www.lua.org |
@@ -2225,7 +2225,7 @@
 | **softether-vpn** | 5.02.5180-4 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.02.5180-4 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.8.2 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
-| **solidity** | 0.8.27 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
+| **solidity** | 0.8.28 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
 | **sops** | 3.9.1 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.16-1 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sox** | 14.4.2-26 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
