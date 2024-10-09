@@ -544,7 +544,7 @@
 | **git-lfs** | 3.5.1-1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.47.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.22.2 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.22.3 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.37.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
