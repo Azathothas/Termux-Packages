@@ -1321,7 +1321,7 @@
   },
   {
     "Package": "chrony",
-    "Version": "4.6",
+    "Version": "4.6.1",
     "Description": "chrony is an implementation of the Network Time Protocol (NTP)",
     "Homepage": "https://chrony-project.org/"
   },
@@ -1417,13 +1417,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "3.30.4",
+    "Version": "3.30.5",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "3.30.4",
+    "Version": "3.30.5",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -2413,7 +2413,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "12.97",
+    "Version": "12.98",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -10243,7 +10243,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "18.0.0",
+    "Version": "18.1.0",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -10531,7 +10531,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.27.2",
+    "Version": "1.27.2-1",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
@@ -12733,7 +12733,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.10.0",
+    "Version": "0.10.0-1",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
