@@ -225,7 +225,7 @@
 | **chafa-static** | 1.14.4-1 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.52.3 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.52.4 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.4 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -243,7 +243,7 @@
 | **clinfo** | 3.0.23.01.25 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2024.9.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2024.10.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20241009.180347 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 3.30.5 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -787,7 +787,7 @@
 | **knockd** | 0.8-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-1 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
-| **kotlin** | 2.0.20 | The Kotlin Programming Language | https://kotlinlang.org/ |
+| **kotlin** | 2.0.21 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.21.3 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.4.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.31.1 | Kubernetes.io client binary | https://kubernetes.io/ |
@@ -1749,7 +1749,7 @@
 | **ndk-sysroot** | 27b | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.3 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
-| **neocmakelsp** | 0.8.6 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
+| **neocmakelsp** | 0.8.8 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20241002 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.10.2-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
