@@ -10435,7 +10435,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.8",
+    "Version": "0.8.10",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
