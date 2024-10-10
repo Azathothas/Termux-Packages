@@ -2953,7 +2953,7 @@
   },
   {
     "Package": "gdb",
-    "Version": "15.1-1",
+    "Version": "15.2",
     "Description": "The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "Package": "gdbserver",
-    "Version": "15.1-1",
+    "Version": "15.2",
     "Description": "The gdbserver program",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -8275,7 +8275,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.13.8-4",
+    "Version": "0.14.0-1",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8287,7 +8287,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.13.8-4",
+    "Version": "0.14.0-1",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -12733,7 +12733,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.10.0-1",
+    "Version": "0.10.0-2",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
