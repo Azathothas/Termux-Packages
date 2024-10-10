@@ -3631,7 +3631,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "1:11.2.1-1",
+    "Version": "1:11.2.2",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.16.1",
+    "Version": "3.16.2",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -10243,7 +10243,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "18.1.0",
+    "Version": "18.1.1",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -14383,7 +14383,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.24.2",
+    "Version": "0.24.3",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14443,7 +14443,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.24.2",
+    "Version": "0.24.3",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
