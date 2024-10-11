@@ -111,7 +111,7 @@
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alist
-  Version: 3.37.4
+  Version: 3.38.0
   Description: A file list program that supports multiple storage
   Homepage: https://alist.nn.ci
 - Package: alpine
@@ -1699,7 +1699,7 @@
   Description: Duplicates file detector
   Homepage: https://github.com/adrianlopezroche/fdupes
 - Package: fennel
-  Version: 1.4.2
+  Version: 1.5.1
   Description: A Lisp that compiles to Lua
   Homepage: https://fennel-lang.org
 - Package: feroxbuster
@@ -2959,7 +2959,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.70.0
+  Version: 2.71.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -5663,11 +5663,11 @@
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
-  Version: 1.49.0
+  Version: 1.49.1
   Description: Support library with a focus on asynchronous I/O
   Homepage: https://libuv.org
 - Package: libuv-static
-  Version: 1.49.0
+  Version: 1.49.1
   Description: Static libraries for libuv
   Homepage: https://libuv.org
 - Package: libv4l
@@ -10075,7 +10075,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.3.297
+  Version: 1.3.298
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10083,7 +10083,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.3.297
+  Version: 1.3.298
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers

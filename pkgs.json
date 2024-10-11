@@ -169,7 +169,7 @@
   },
   {
     "Package": "alist",
-    "Version": "3.37.4",
+    "Version": "3.38.0",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://alist.nn.ci"
   },
@@ -2551,7 +2551,7 @@
   },
   {
     "Package": "fennel",
-    "Version": "1.4.2",
+    "Version": "1.5.1",
     "Description": "A Lisp that compiles to Lua",
     "Homepage": "https://fennel-lang.org"
   },
@@ -4441,7 +4441,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.70.0",
+    "Version": "2.71.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -8497,13 +8497,13 @@
   },
   {
     "Package": "libuv",
-    "Version": "1.49.0",
+    "Version": "1.49.1",
     "Description": "Support library with a focus on asynchronous I/O",
     "Homepage": "https://libuv.org"
   },
   {
     "Package": "libuv-static",
-    "Version": "1.49.0",
+    "Version": "1.49.1",
     "Description": "Static libraries for libuv",
     "Homepage": "https://libuv.org"
   },
@@ -15115,7 +15115,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.3.297",
+    "Version": "1.3.298",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -15127,7 +15127,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.3.297",
+    "Version": "1.3.298",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },

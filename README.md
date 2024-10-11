@@ -38,7 +38,7 @@
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.6 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.1 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
-| **alist** | 3.37.4 | A file list program that supports multiple storage | https://alist.nn.ci |
+| **alist** | 3.38.0 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **alsa-lib** | 1.2.12 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
 | **alsa-utils** | 1.2.12 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
@@ -435,7 +435,7 @@
 | **fdm** | 2.2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
 | **fdroidcl** | 0.7.0-2 | F-Droid client | https://github.com/mvdan/fdroidcl |
 | **fdupes** | 2.3.2 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
-| **fennel** | 1.4.2 | A Lisp that compiles to Lua | https://fennel-lang.org |
+| **fennel** | 1.5.1 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.11.0 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
 | **fetchmail** | 6.4.39-1 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.4.39-1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
@@ -750,7 +750,7 @@
 | **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.70.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.71.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1426,8 +1426,8 @@
 | **libusbredir-static** | 0.7.1 | Static libraries for libusbredir | https://www.spice-space.org/ |
 | **libutf8-range** | 2:25.1-3 | Fast UTF-8 validation with Range algorithm | https://github.com/protocolbuffers/protobuf |
 | **libuuid** | 2.40.2-1 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **libuv** | 1.49.0 | Support library with a focus on asynchronous I/O | https://libuv.org |
-| **libuv-static** | 1.49.0 | Static libraries for libuv | https://libuv.org |
+| **libuv** | 1.49.1 | Support library with a focus on asynchronous I/O | https://libuv.org |
+| **libuv-static** | 1.49.1 | Static libraries for libuv | https://libuv.org |
 | **libv4l** | 1.24.1-1 | Linux libraries to handle media devices | https://git.linuxtv.org/v4l-utils.git |
 | **libv4l-static** | 1.24.1-1 | Static libraries for libv4l | https://git.linuxtv.org/v4l-utils.git |
 | **libvbisam** | 2.0-2 | A replacement for IBM's C-ISAM | https://sourceforge.net/projects/vbisam/ |
@@ -2529,9 +2529,9 @@
 | **vulkan-headers** | 1.3.298 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.3.297 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.3.298 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.3.297 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.3.297 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-utility-libraries** | 1.3.298 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.3.297 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.3.295 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
