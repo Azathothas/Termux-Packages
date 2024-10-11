@@ -6955,7 +6955,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.10
+  Version: 0.8.11
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://github.com/Decodetalkers/neocmakelsp
 - Package: neofetch
@@ -9531,7 +9531,7 @@
   Description: FIGlet-compatible display of large colourful characters in text mode
   Homepage: http://caca.zoy.org/wiki/toilet
 - Package: tokei
-  Version: 13.0.0-alpha.5-0
+  Version: 13.0.0-alpha.6-0
   Description: A blazingly fast CLOC (Count Lines Of Code) program
   Homepage: https://github.com/XAMPPRocky/tokei
 - Package: tome2
@@ -10063,7 +10063,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.3.297
+  Version: 1.3.298
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-loader
