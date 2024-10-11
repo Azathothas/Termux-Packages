@@ -2163,15 +2163,15 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.80.5-1
+  Version: 2.80.5-2
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-bin
-  Version: 2.80.5-1
+  Version: 2.80.5-2
   Description: Programs for the GLib library
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.80.5-1
+  Version: 2.80.5-2
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking

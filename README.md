@@ -551,9 +551,9 @@
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.47.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.5.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
-| **glib** | 2.80.5-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
-| **glib-bin** | 2.80.5-1 | Programs for the GLib library | https://developer.gnome.org/glib/ |
-| **glib-cross** | 2.80.5-1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
+| **glib** | 2.80.5-2 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
+| **glib-bin** | 2.80.5-2 | Programs for the GLib library | https://developer.gnome.org/glib/ |
+| **glib-cross** | 2.80.5-2 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.0 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 0.9.9.8 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
