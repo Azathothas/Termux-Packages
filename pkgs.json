@@ -14317,7 +14317,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "16.0.0",
+    "Version": "16.0.1",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -15643,7 +15643,7 @@
   },
   {
     "Package": "z3",
-    "Version": "4.13.2",
+    "Version": "4.13.3",
     "Description": "Z3 is a theorem prover from Microsoft Research",
     "Homepage": "https://github.com/Z3Prover/z3"
   },
