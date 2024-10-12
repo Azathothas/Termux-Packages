@@ -3331,13 +3331,13 @@
   },
   {
     "Package": "gmic",
-    "Version": "3.4.2",
+    "Version": "3.4.3",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.4.2",
+    "Version": "3.4.3",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
@@ -15121,7 +15121,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.3.297",
+    "Version": "1.3.298",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },

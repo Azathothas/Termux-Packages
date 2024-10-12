@@ -565,8 +565,8 @@
 | **glslang** | 14.3.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-1 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.5.4-5 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
-| **gmic** | 3.4.2 | Full-featured framework for image processing | https://gmic.eu |
-| **gmic-gm** | 3.4.2 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
+| **gmic** | 3.4.3 | Full-featured framework for image processing | https://gmic.eu |
+| **gmic-gm** | 3.4.3 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
 | **gn** | 20220502-1 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-3 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.2.9-3 | Chess-playing program | https://www.gnu.org/software/chess/ |
@@ -2530,7 +2530,7 @@
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.3.298 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.3.297 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-tools** | 1.3.298 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.3.298 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.3.297 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.3.295 | Meta loader for Vulkan API | https://github.com/zeux/volk |
