@@ -8054,6 +8054,22 @@
   Version: 0.7.5-5
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
+- Package: python-torch
+  Version: 2.4.1-4
+  Description: Tensors and Dynamic neural networks in Python
+  Homepage: https://pytorch.org/
+- Package: python-torch-static
+  Version: 2.4.1-4
+  Description: Static libraries for python-torch
+  Homepage: https://pytorch.org/
+- Package: python-torchaudio
+  Version: 2.4.1-2
+  Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
+  Homepage: https://github.com/pytorch/audio
+- Package: python-torchvision
+  Version: 0.19.1-2
+  Description: Datasets, Transforms and Models specific to Computer Vision
+  Homepage: https://github.com/pytorch/vision
 - Package: python-xcbgen
   Version: 1.17.0-1
   Description: The xcbgen Python module
