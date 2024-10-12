@@ -191,7 +191,7 @@
   Description: Apache Web Server
   Homepage: https://httpd.apache.org
 - Package: apkeep
-  Version: 0.16.0
+  Version: 0.17.0
   Description: A command-line tool for downloading APK files from various sources
   Homepage: https://github.com/EFForg/apkeep
 - Package: apksigner
@@ -7179,7 +7179,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.17.0
+  Version: 23.19.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9915,7 +9915,7 @@
   Description: uWSGI application server container
   Homepage: https://projects.unbit.it/uwsgi
 - Package: v2ray
-  Version: 5.19.0
+  Version: 5.20.0
   Description: A platform for building proxies to bypass network restrictions
   Homepage: https://www.v2fly.org/
 - Package: valac

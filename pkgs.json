@@ -289,7 +289,7 @@
   },
   {
     "Package": "apkeep",
-    "Version": "0.16.0",
+    "Version": "0.17.0",
     "Description": "A command-line tool for downloading APK files from various sources",
     "Homepage": "https://github.com/EFForg/apkeep"
   },
@@ -10771,7 +10771,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.17.0",
+    "Version": "23.19.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14875,7 +14875,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.19.0",
+    "Version": "5.20.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
