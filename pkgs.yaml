@@ -2207,7 +2207,7 @@
   Description: Static libraries for glpk
   Homepage: https://www.gnu.org/software/glpk/
 - Package: glslang
-  Version: 14.3.0
+  Version: 15.0.0
   Description: OpenGL and OpenGL ES shader front end and validator
   Homepage: https://github.com/KhronosGroup/glslang
 - Package: gluelang
@@ -9003,7 +9003,7 @@
   Description: A small headless Logitech Squeezebox emulator
   Homepage: https://ralph-irving.github.io/squeezelite.html
 - Package: squid
-  Version: "6.11"
+  Version: "6.12"
   Description: Full-featured Web proxy cache server
   Homepage: http://www.squid-cache.org
 - Package: sratom
@@ -9183,7 +9183,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.12
+  Version: 9.3.13
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
