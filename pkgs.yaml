@@ -10299,7 +10299,7 @@
   Description: xdelta3 - VCDIFF (RFC 3284) binary diff tool
   Homepage: https://github.com/jmacd/xdelta
 - Package: xh
-  Version: 0.22.2
+  Version: 0.23.0
   Description: A friendly and fast tool for sending HTTP requests
   Homepage: https://github.com/ducaale/xh
 - Package: xls2csv
