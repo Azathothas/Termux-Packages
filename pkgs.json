@@ -15744,6 +15744,12 @@
     "Homepage": "https://znc.in/"
   },
   {
+    "Package": "zola",
+    "Version": "0.19.2",
+    "Description": "A fast static site generator in a single binary with everything built-in.",
+    "Homepage": "https://github.com/getzola/zola"
+  },
+  {
     "Package": "zopfli",
     "Version": "1.0.3-3",
     "Description": "New zlib compatible compressor tools",
