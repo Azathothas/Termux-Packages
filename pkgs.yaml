@@ -10003,7 +10003,7 @@
   Description: A collection of tools for the VGM file format
   Homepage: https://github.com/vgmrips/vgmtools
 - Package: viddy
-  Version: 1.1.6
+  Version: 1.2.0
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm
