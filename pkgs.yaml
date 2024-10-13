@@ -651,7 +651,7 @@
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
-  Version: 3.7.6
+  Version: 3.7.7
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
@@ -3351,11 +3351,11 @@
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
-  Version: 3.7.6
+  Version: 3.7.7
   Description: Multi-format archive and compression library
   Homepage: https://www.libarchive.org/
 - Package: libarchive-static
-  Version: 3.7.6
+  Version: 3.7.7
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
@@ -6827,7 +6827,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 18.1.1
+  Version: 18.1.2
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -7179,7 +7179,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.19.0
+  Version: 23.20.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8231,7 +8231,7 @@
   Description: Static libraries for racket
   Homepage: https://racket-lang.org
 - Package: radare2
-  Version: 5.9.4
+  Version: 5.9.6
   Description: Advanced Hexadecimal Editor
   Homepage: https://rada.re
 - Package: radare2-static

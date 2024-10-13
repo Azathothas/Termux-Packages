@@ -979,7 +979,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.7.6",
+    "Version": "3.7.7",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -5029,13 +5029,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.7.6",
+    "Version": "3.7.7",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.7.6",
+    "Version": "3.7.7",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -10243,7 +10243,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "18.1.1",
+    "Version": "18.1.2",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -10771,7 +10771,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.19.0",
+    "Version": "23.20.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12349,7 +12349,7 @@
   },
   {
     "Package": "radare2",
-    "Version": "5.9.4",
+    "Version": "5.9.6",
     "Description": "Advanced Hexadecimal Editor",
     "Homepage": "https://rada.re"
   },
