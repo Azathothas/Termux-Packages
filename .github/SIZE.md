@@ -1,9 +1,9 @@
 ```mathematica
-1.9M └─┬ main
+2.0M └─┬ main
 472K   ├── pkgs.json
 380K   ├── pkgs.yaml
+292K   ├── index.html
 288K   ├── termux.pkgs
-288K   ├── index.html
 288K   ├── README.md
 264K   ├── pkgs.txt
 4.0K   ├── LICENSE
