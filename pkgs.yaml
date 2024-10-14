@@ -1071,7 +1071,7 @@
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
-  Version: 1.7.2
+  Version: 1.7.2-1
   Description: Daemon that runs specified programs at scheduled times and related tools
   Homepage: https://github.com/cronie-crond/cronie/
 - Package: crowbook

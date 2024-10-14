@@ -1609,7 +1609,7 @@
   },
   {
     "Package": "cronie",
-    "Version": "1.7.2",
+    "Version": "1.7.2-1",
     "Description": "Daemon that runs specified programs at scheduled times and related tools",
     "Homepage": "https://github.com/cronie-crond/cronie/"
   },
