@@ -24,7 +24,7 @@
  aichat  0.22.0  A powerful chatgpt cli  https://github.com/sigoden/aichat 
  aidl  13.0.0.6-16  Android Interface Definition Language (AIDL)  https://elinux.org/Android_aapt 
  alass  2.0.0-2  Automatic Language-Agnostic Subtitle Synchronization  https://github.com/kaegi/alass 
- alembic  1.8.6  A framework for sharing scene data that includes a C++ lib, a file format and client plugin  https://alembic.io 
+ alembic  1.8.7  A framework for sharing scene data that includes a C++ lib, a file format and client plugin  https://alembic.io 
  algernon  1.17.1  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
  alist  3.38.0  A file list program that supports multiple storage  https://alist.nn.ci 
  alpine  2.26  Fast, easy to use email client  http://alpine.x10host.com/ 
@@ -216,7 +216,7 @@
  chezmoi  2.52.4  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0  Static libraries for chicken  https://www.call-cc.org 
- choose  1.3.4  A human-friendly and fast alternative to cut and (sometimes) awk  https://github.com/theryangeary/choose 
+ choose  1.3.6  A human-friendly and fast alternative to cut and (sometimes) awk  https://github.com/theryangeary/choose 
  chromaprint  1.5.1-p20221217-1  C library for generating audio fingerprints used by AcoustID  https://acoustid.org/chromaprint 
  chrony  4.6.1  chrony is an implementation of the Network Time Protocol (NTP)  https://chrony-project.org/ 
  ciso  1.0.2-1  PSP ISO compression tool  https://github.com/jamie/ciso 
@@ -1095,7 +1095,7 @@
  liblqr-static  0.4.3  Static libraries for liblqr  https://github.com/carlobaldassi/liblqr 
  liblrdf  0.6.1  A library to make it easy to manipulate RDF files describing LADSPA plugins  https://github.com/swh/LRDF 
  liblrdf-static  0.6.1  Static libraries for liblrdf  https://github.com/swh/LRDF 
- libltdl  2.4.7-4  Library for dlopening libraries  https://www.gnu.org/software/libtool/ 
+ libltdl  2.5.3  Library for dlopening libraries  https://www.gnu.org/software/libtool/ 
  liblua51  5.1.5  Shared library for the Lua interpreter (v5.1.x)  https://www.lua.org 
  liblua51-static  5.1.5  Static libraries for liblua51  https://www.lua.org 
  liblua52  5.2.4-8  Shared library for the Lua interpreter (v5.2.x)  https://www.lua.org 
@@ -1125,7 +1125,7 @@
  libmcrypt-static  2.5.8-3  Static libraries for libmcrypt  http://mcrypt.sourceforge.net/ 
  libmd  1.1.0  Message Digest functions from BSD systems  https://www.hadrons.org/software/libmd/ 
  libmd-static  1.1.0  Static libraries for libmd  https://www.hadrons.org/software/libmd/ 
- libmdbx  0.12.7  An extremely fast, compact, powerful, embedded, transactional key-value database  https://libmdbx.dqdkfa.ru/ 
+ libmdbx  0.12.10  An extremely fast, compact, powerful, embedded, transactional key-value database  https://libmdbx.dqdkfa.ru/ 
  libmediainfo  24.06-1  Library for reading information from media files  https://mediaarea.net/en/MediaInfo 
  libmediainfo-static  24.06-1  Static libraries for libmediainfo  https://mediaarea.net/en/MediaInfo 
  libmesode  0.10.1-4  Minimal XMPP library written for use with Profanity XMPP client  https://github.com/boothj5/libmesode 
@@ -1376,7 +1376,7 @@
  libtomcrypt-static  1.18.2  Static libraries for libtomcrypt  https://www.libtom.net/LibTomCrypt/ 
  libtommath  1.3.0  A free open source portable number theoretic multiple-precision integer library  https://www.libtom.net/LibTomMath/ 
  libtommath-static  1.3.0  Static libraries for libtommath  https://www.libtom.net/LibTomMath/ 
- libtool  2.4.7-4  Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface  https://www.gnu.org/software/libtool/ 
+ libtool  2.5.3  Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface  https://www.gnu.org/software/libtool/ 
  libtorrent  0.14.0-1  Libtorrent BitTorrent library  https://github.com/rakshasa/rtorrent/wiki 
  libtorrent-rasterbar  2.0.10-1  A feature complete C++ bittorrent implementation focusing on efficiency and scalability  https://libtorrent.org/ 
  libtorrent-static  0.14.0-1  Static libraries for libtorrent  https://github.com/rakshasa/rtorrent/wiki 
@@ -1475,8 +1475,8 @@
  libxfixes-static  6.0.1  Static libraries for libxfixes  https://xorg.freedesktop.org/ 
  libxft  2.3.8  FreeType-based font drawing library for X  https://xorg.freedesktop.org/ 
  libxft-static  2.3.8  Static libraries for libxft  https://xorg.freedesktop.org/ 
- libxi  1.8.1  X11 Input extension library  https://xorg.freedesktop.org/ 
- libxi-static  1.8.1  Static libraries for libxi  https://xorg.freedesktop.org/ 
+ libxi  1.8.2  X11 Input extension library  https://xorg.freedesktop.org/ 
+ libxi-static  1.8.2  Static libraries for libxi  https://xorg.freedesktop.org/ 
  libxls  1.6.2  A C library for reading Excel files in the nasty old binary OLE format  https://github.com/libxls/libxls 
  libxls-static  1.6.2  Static libraries for libxls  https://github.com/libxls/libxls 
  libxlsxwriter  1.1.8  A C library for creating Excel XLSX files  https://libxlsxwriter.github.io/ 
@@ -1546,7 +1546,7 @@
  lnd  0.17.0-beta-0  Lightning Network Daemon  https://github.com/lightningnetwork/lnd 
  logo-ls  2024.07.17  Modern ls command with vscode like File Icon and Git Integrations  https://github.com/Yash-Handa/logo-ls 
  logrotate  3.22.0  Simplify the administration of log files on a system which generates a lot of log files  https://github.com/logrotate/logrotate 
- loksh  7.5  A Linux port of OpenBSD's ksh  https://github.com/dimkr/loksh 
+ loksh  7.6  A Linux port of OpenBSD's ksh  https://github.com/dimkr/loksh 
  lowdown  1.1.2  Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)  https://kristaps.bsd.lv/lowdown 
  lowdown-static  1.1.2  Static libraries for lowdown  https://kristaps.bsd.lv/lowdown 
  lr  1.6-1  list files, recursively, includes the best features of ls, find, stat and du  https://git.vuxu.org/lr/about/ 
@@ -1975,7 +1975,7 @@
  pulseaudio-glib  17.0-1  PulseAudio GLIB mainloop component  https://www.freedesktop.org/wiki/Software/PulseAudio 
  pulseaudio-glib-static  14.2-10  Static library for PulseAudio GLIB mainloop component  https://www.freedesktop.org/wiki/Software/PulseAudio 
  pup  0.4.0-6  command line tool for processing HTML  https://github.com/ericchiang/pup 
- pure-ftpd  1.0.51  Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server  https://www.pureftpd.org/project/pure-ftpd 
+ pure-ftpd  1.0.52  Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server  https://www.pureftpd.org/project/pure-ftpd 
  pv  1.8.14  Terminal-based tool for monitoring the progress of data through a pipeline  http://www.ivarch.com/programs/pv.shtml 
  pwgen  2.08-1  Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords  http://pwgen.sourceforge.net/ 
  pycairo  1.27.0-1  Python bindings for the cairo graphics library  https://www.cairographics.org/pycairo/ 
@@ -2208,7 +2208,7 @@
  simulavr  1:1.1.0-1  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
  simuwaerm  0.02  A simple heat transfer simulator in pure Rust  https://github.com/file-acomplaint/simuwaerm 
  sing-box  1.9.7  The universal proxy platform  https://sing-box.sagernet.org 
- skate  0.2.2-1  A personal key-value store  https://github.com/charmbracelet/skate 
+ skate  1.0.0-1  A personal key-value store  https://github.com/charmbracelet/skate 
  sl  5.05  Tool curing your bad habit of mistyping  https://github.com/mtoyoda/sl 
  slang  2.3.3-1  S-Lang is a powerful interpreted language  https://www.jedsoft.org/slang/ 
  slashtime  2023.01.04-1  A small program which displays the time in various places  https://github.com/istathar/slashtime 
@@ -2326,7 +2326,7 @@
  tdb-tools  1.4.12  Tools for TDB  https://tdb.samba.org/ 
  tdl  0.17.5  Telegram downloader/tools written in Golang  https://docs.iyear.me/tdl/ 
  tea  0.9.2  The official CLI for Gitea  https://gitea.com/gitea/tea 
- tealdeer  1.6.1-1  A very fast implementation of tldr in Rust  https://dbrgn.github.io/tealdeer/ 
+ tealdeer  1.7.0  A very fast implementation of tldr in Rust  https://dbrgn.github.io/tealdeer/ 
  teckit  2.5.12  TECkit is a library for encoding conversion  https://scripts.sil.org/teckitdownloads 
  teckit-static  2.5.12  Static libraries for teckit  https://scripts.sil.org/teckitdownloads 
  tectonic  0.15.0-2  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
@@ -2586,7 +2586,7 @@
  xorriso  1:1.5.7-2  Tool for creating ISO files  https://www.gnu.org/software/xorriso 
  xpup  2021.12.26-3  pup for XML  https://github.com/ericchiang/xpup 
  xsltproc  1.1.42-1  XSLT command line processor  http://xmlsoft.org/libxslt/ 
- xtrans  1.5.0  X transport library  https://xorg.freedesktop.org/ 
+ xtrans  1.5.1  X transport library  https://xorg.freedesktop.org/ 
  xvidcore  1.3.7  High performance and high quality MPEG-4 library  https://www.xvid.com/ 
  xvidcore-static  1.3.7  Static libraries for xvidcore  https://www.xvid.com/ 
  xxhash  0.8.2  Extremely fast non-cryptographic hash algorithm  https://cyan4973.github.io/xxHash/ 

@@ -103,7 +103,7 @@
   Description: Automatic Language-Agnostic Subtitle Synchronization
   Homepage: https://github.com/kaegi/alass
 - Package: alembic
-  Version: 1.8.6
+  Version: 1.8.7
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
@@ -871,7 +871,7 @@
   Description: Static libraries for chicken
   Homepage: https://www.call-cc.org
 - Package: choose
-  Version: 1.3.4
+  Version: 1.3.6
   Description: A human-friendly and fast alternative to cut and (sometimes) awk
   Homepage: https://github.com/theryangeary/choose
 - Package: chromaprint
@@ -4387,7 +4387,7 @@
   Description: Static libraries for liblrdf
   Homepage: https://github.com/swh/LRDF
 - Package: libltdl
-  Version: 2.4.7-4
+  Version: 2.5.3
   Description: Library for dlopening libraries
   Homepage: https://www.gnu.org/software/libtool/
 - Package: liblua51
@@ -4507,7 +4507,7 @@
   Description: Static libraries for libmd
   Homepage: https://www.hadrons.org/software/libmd/
 - Package: libmdbx
-  Version: 0.12.7
+  Version: 0.12.10
   Description: An extremely fast, compact, powerful, embedded, transactional key-value database
   Homepage: https://libmdbx.dqdkfa.ru/
 - Package: libmediainfo
@@ -5511,7 +5511,7 @@
   Description: Static libraries for libtommath
   Homepage: https://www.libtom.net/LibTomMath/
 - Package: libtool
-  Version: 2.4.7-4
+  Version: 2.5.3
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
@@ -5907,11 +5907,11 @@
   Description: Static libraries for libxft
   Homepage: https://xorg.freedesktop.org/
 - Package: libxi
-  Version: 1.8.1
+  Version: 1.8.2
   Description: X11 Input extension library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxi-static
-  Version: 1.8.1
+  Version: 1.8.2
   Description: Static libraries for libxi
   Homepage: https://xorg.freedesktop.org/
 - Package: libxls
@@ -6191,7 +6191,7 @@
   Description: Simplify the administration of log files on a system which generates a lot of log files
   Homepage: https://github.com/logrotate/logrotate
 - Package: loksh
-  Version: "7.5"
+  Version: "7.6"
   Description: A Linux port of OpenBSDs ksh
   Homepage: https://github.com/dimkr/loksh
 - Package: lowdown
@@ -7907,7 +7907,7 @@
   Description: command line tool for processing HTML
   Homepage: https://github.com/ericchiang/pup
 - Package: pure-ftpd
-  Version: 1.0.51
+  Version: 1.0.52
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
@@ -8839,7 +8839,7 @@
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
-  Version: 0.2.2-1
+  Version: 1.0.0-1
   Description: A personal key-value store
   Homepage: https://github.com/charmbracelet/skate
 - Package: sl
@@ -9311,7 +9311,7 @@
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer
-  Version: 1.6.1-1
+  Version: 1.7.0
   Description: A very fast implementation of tldr in Rust
   Homepage: https://dbrgn.github.io/tealdeer/
 - Package: teckit
@@ -10351,7 +10351,7 @@
   Description: XSLT command line processor
   Homepage: http://xmlsoft.org/libxslt/
 - Package: xtrans
-  Version: 1.5.0
+  Version: 1.5.1
   Description: X transport library
   Homepage: https://xorg.freedesktop.org/
 - Package: xvidcore

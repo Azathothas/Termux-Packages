@@ -157,7 +157,7 @@
   },
   {
     "Package": "alembic",
-    "Version": "1.8.6",
+    "Version": "1.8.7",
     "Description": "A framework for sharing scene data that includes a C++ lib, a file format and client plugin",
     "Homepage": "https://alembic.io"
   },
@@ -1309,7 +1309,7 @@
   },
   {
     "Package": "choose",
-    "Version": "1.3.4",
+    "Version": "1.3.6",
     "Description": "A human-friendly and fast alternative to cut and (sometimes) awk",
     "Homepage": "https://github.com/theryangeary/choose"
   },
@@ -6583,7 +6583,7 @@
   },
   {
     "Package": "libltdl",
-    "Version": "2.4.7-4",
+    "Version": "2.5.3",
     "Description": "Library for dlopening libraries",
     "Homepage": "https://www.gnu.org/software/libtool/"
   },
@@ -6763,7 +6763,7 @@
   },
   {
     "Package": "libmdbx",
-    "Version": "0.12.7",
+    "Version": "0.12.10",
     "Description": "An extremely fast, compact, powerful, embedded, transactional key-value database",
     "Homepage": "https://libmdbx.dqdkfa.ru/"
   },
@@ -8269,7 +8269,7 @@
   },
   {
     "Package": "libtool",
-    "Version": "2.4.7-4",
+    "Version": "2.5.3",
     "Description": "Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface",
     "Homepage": "https://www.gnu.org/software/libtool/"
   },
@@ -8863,13 +8863,13 @@
   },
   {
     "Package": "libxi",
-    "Version": "1.8.1",
+    "Version": "1.8.2",
     "Description": "X11 Input extension library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
   {
     "Package": "libxi-static",
-    "Version": "1.8.1",
+    "Version": "1.8.2",
     "Description": "Static libraries for libxi",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -9289,7 +9289,7 @@
   },
   {
     "Package": "loksh",
-    "Version": "7.5",
+    "Version": "7.6",
     "Description": "A Linux port of OpenBSDs ksh",
     "Homepage": "https://github.com/dimkr/loksh"
   },
@@ -11863,7 +11863,7 @@
   },
   {
     "Package": "pure-ftpd",
-    "Version": "1.0.51",
+    "Version": "1.0.52",
     "Description": "Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server",
     "Homepage": "https://www.pureftpd.org/project/pure-ftpd"
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "skate",
-    "Version": "0.2.2-1",
+    "Version": "1.0.0-1",
     "Description": "A personal key-value store",
     "Homepage": "https://github.com/charmbracelet/skate"
   },
@@ -13969,7 +13969,7 @@
   },
   {
     "Package": "tealdeer",
-    "Version": "1.6.1-1",
+    "Version": "1.7.0",
     "Description": "A very fast implementation of tldr in Rust",
     "Homepage": "https://dbrgn.github.io/tealdeer/"
   },
@@ -15529,7 +15529,7 @@
   },
   {
     "Package": "xtrans",
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Description": "X transport library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
