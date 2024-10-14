@@ -1439,7 +1439,7 @@
   Description: High-performance disk usage analyzer
   Homepage: http://duc.zevv.nl/
 - Package: duckdb
-  Version: 1.1.1
+  Version: 1.1.2
   Description: DuckDB Command Line Interface (CLI) shell
   Homepage: https://duckdb.org/
 - Package: duf
@@ -3731,11 +3731,11 @@
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
-  Version: 1.1.1
+  Version: 1.1.2
   Description: An in-process SQL OLAP database management system
   Homepage: https://duckdb.org/
 - Package: libduckdb-static
-  Version: 1.1.1
+  Version: 1.1.2
   Description: Static libraries for libduckdb
   Homepage: https://duckdb.org/
 - Package: libduktape
@@ -7179,7 +7179,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.20.0
+  Version: 23.20.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
