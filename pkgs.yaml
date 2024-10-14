@@ -5951,7 +5951,7 @@
   Description: XML utilities
   Homepage: http://www.xmlsoft.org
 - Package: libxmlb
-  Version: 0.3.19
+  Version: 0.3.20
   Description: Library to help create and query binary XML blobs
   Homepage: https://github.com/hughsie/libxmlb
 - Package: libxmlrpc

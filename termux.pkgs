@@ -1486,7 +1486,7 @@
 | **libxml2-python-static** | 2.13.4-1 | Static libraries for libxml2-python | http://www.xmlsoft.org |
 | **libxml2-static** | 2.13.4-1 | Static libraries for libxml2 | http://www.xmlsoft.org |
 | **libxml2-utils** | 2.13.4-1 | XML utilities | http://www.xmlsoft.org |
-| **libxmlb** | 0.3.19 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
+| **libxmlb** | 0.3.20 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.59.03 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.59.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
 | **libxrandr** | 1.5.4 | X11 RandR extension library | https://xorg.freedesktop.org/ |
