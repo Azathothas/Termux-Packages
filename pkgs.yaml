@@ -8407,11 +8407,11 @@
   Description: Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color
   Homepage: https://rgbds.gbdev.io
 - Package: rhash
-  Version: 1.4.4
+  Version: 1.4.5
   Description: Console utility for calculation and verification of magnet links and a wide range of hash sums
   Homepage: https://github.com/rhash/RHash
 - Package: rhash-static
-  Version: 1.4.4
+  Version: 1.4.5
   Description: Static libraries for rhash
   Homepage: https://github.com/rhash/RHash
 - Package: rig
@@ -8559,7 +8559,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20241007"
+  Version: "20241014"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
