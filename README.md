@@ -500,7 +500,7 @@
 | **gawk-static** | 5.3.0 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.9.2-1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.9.3 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdal-static** | 3.5.3 | Static libraries for gdal | https://gdal.org |
 | **gdb** | 15.2 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.24 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
@@ -2492,7 +2492,7 @@
 | **util-linux-static** | 2.40.2-1 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-1 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.4.20 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.4.21 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.27-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.20.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

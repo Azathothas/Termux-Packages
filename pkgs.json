@@ -2941,7 +2941,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.9.2-1",
+    "Version": "3.9.3",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -14893,7 +14893,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.20",
+    "Version": "0.4.21",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
