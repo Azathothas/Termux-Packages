@@ -343,7 +343,7 @@
   Description: Read, parse and set metadata of MPEG-4 and 3gp files
   Homepage: https://github.com/wez/atomicparsley
 - Package: atomvm
-  Version: 1:0.6.4
+  Version: 1:0.6.5
   Description: The minimal Erlang VM implementation
   Homepage: https://github.com/bettio/AtomVM
 - Package: atool

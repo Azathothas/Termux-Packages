@@ -517,7 +517,7 @@
   },
   {
     "Package": "atomvm",
-    "Version": "1:0.6.4",
+    "Version": "1:0.6.5",
     "Description": "The minimal Erlang VM implementation",
     "Homepage": "https://github.com/bettio/AtomVM"
   },
