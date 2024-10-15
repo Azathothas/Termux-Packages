@@ -247,7 +247,7 @@
   },
   {
     "Package": "ansifilter",
-    "Version": "2.20",
+    "Version": "2.21",
     "Description": "Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode",
     "Homepage": "http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php"
   },
@@ -12001,7 +12001,7 @@
   },
   {
     "Package": "python-libsass",
-    "Version": "0.22.0-1",
+    "Version": "0.23.0",
     "Description": "A straightforward binding of libsass for Python",
     "Homepage": "https://github.com/sass/libsass-python"
   },

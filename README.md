@@ -51,7 +51,7 @@
 | **angband** | 4.2.5 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-grinder** | 0.19.4 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.9 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
-| **ansifilter** | 2.20 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
+| **ansifilter** | 2.21 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.15 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-2 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-3 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
@@ -2010,7 +2010,7 @@
 | **python-greenlet** | 3.1.1-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.67.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
-| **python-libsass** | 0.22.0-1 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
+| **python-libsass** | 0.23.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.3.0-2 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.1.0-1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 2.1.2-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |

@@ -163,7 +163,7 @@
   Description: A cli to browse and watch anime
   Homepage: https://github.com/pystardust/ani-cli
 - Package: ansifilter
-  Version: "2.20"
+  Version: "2.21"
   Description: Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode
   Homepage: http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php
 - Package: ant
@@ -7999,7 +7999,7 @@
   Description: Python bindings around the LAME encoder
   Homepage: https://github.com/chrisstaite/lameenc
 - Package: python-libsass
-  Version: 0.22.0-1
+  Version: 0.23.0
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-lxml
