@@ -4069,7 +4069,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.135.0",
+    "Version": "0.136.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -9649,13 +9649,13 @@
   },
   {
     "Package": "mbedtls",
-    "Version": "3.6.1",
+    "Version": "3.6.2",
     "Description": "Light-weight cryptographic and SSL/TLS library",
     "Homepage": "https://tls.mbed.org/"
   },
   {
     "Package": "mbedtls-static",
-    "Version": "3.6.1",
+    "Version": "3.6.2",
     "Description": "Static libraries for mbedtls",
     "Homepage": "https://tls.mbed.org/"
   },
@@ -12037,7 +12037,7 @@
   },
   {
     "Package": "python-pillow",
-    "Version": "10.4.0-1",
+    "Version": "11.0.0",
     "Description": "Python Imaging Library",
     "Homepage": "https://python-pillow.org/"
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.9.7",
+    "Version": "1.10.0",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -15103,7 +15103,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.21",
+    "Version": "0.9.99.22",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },

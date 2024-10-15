@@ -688,7 +688,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.135.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.136.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1618,8 +1618,8 @@
 | **maven** | 3.9.9 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13 | Mazes in your terminal | https://github.com/Canop/mazter |
-| **mbedtls** | 3.6.1 | Light-weight cryptographic and SSL/TLS library | https://tls.mbed.org/ |
-| **mbedtls-static** | 3.6.1 | Static libraries for mbedtls | https://tls.mbed.org/ |
+| **mbedtls** | 3.6.2 | Light-weight cryptographic and SSL/TLS library | https://tls.mbed.org/ |
+| **mbedtls-static** | 3.6.2 | Static libraries for mbedtls | https://tls.mbed.org/ |
 | **mc** | 4.8.32 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
 | **mcfly** | 0.9.2 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
 | **mdbook** | 0.4.40 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
@@ -2016,7 +2016,7 @@
 | **python-numpy** | 2.1.2-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.1.2-1 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.19.2-1 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
-| **python-pillow** | 10.4.0-1 | Python Imaging Library | https://python-pillow.org/ |
+| **python-pillow** | 11.0.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.2-1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 17.0.0-3 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pynvim** | 0.5.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |
@@ -2220,7 +2220,7 @@
 | **simh** | 1:3.12.5 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-1 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.9.7 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.10.0 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.0-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-1 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2527,7 +2527,7 @@
 | **vlc-static** | 3.0.21-1 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.21 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.22 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20240708 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.296 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
