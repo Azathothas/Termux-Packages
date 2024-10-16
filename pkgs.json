@@ -1849,7 +1849,7 @@
   },
   {
     "Package": "desed",
-    "Version": "1.2.1",
+    "Version": "1.2.2",
     "Description": "Demystifies and debugs your sed scripts",
     "Homepage": "https://github.com/SoptikHa2/desed"
   },
