@@ -899,7 +899,7 @@
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: C language frontend for LLVM
   Homepage: https://clang.llvm.org/
 - Package: clblast
@@ -3599,7 +3599,7 @@
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
@@ -4339,11 +4339,11 @@
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: Modular compiler and toolchain technologies library
   Homepage: https://clang.llvm.org/
 - Package: libllvm-static
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
@@ -5011,7 +5011,7 @@
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
@@ -6147,11 +6147,11 @@
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/apple/swift-llbuild
 - Package: lld
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: LLVM-based linker
   Homepage: https://clang.llvm.org/
 - Package: llvm
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
@@ -6171,11 +6171,11 @@
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://www.mingw-w64.org/
 - Package: llvm-tools
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: llvmgold
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: LLVM gold plugin
   Homepage: https://clang.llvm.org/
 - Package: lnav
@@ -6615,7 +6615,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.10.02.17.50.41
+  Version: 2024.10.13.13.34.11
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -6659,7 +6659,7 @@
   Description: command line utility to create BitTorrent metainfo files
   Homepage: https://github.com/Rudde/mktorrent
 - Package: mlir
-  Version: 19.1.1-1
+  Version: 19.1.2
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
 - Package: mlocate
@@ -9927,7 +9927,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.21
+  Version: 0.4.22
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
