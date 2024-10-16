@@ -8017,13 +8017,13 @@
   },
   {
     "Package": "libspice-server",
-    "Version": "0.15.1-1",
+    "Version": "0.15.2",
     "Description": "Implements the server side of the SPICE protocol",
     "Homepage": "https://www.spice-space.org/"
   },
   {
     "Package": "libspice-server-static",
-    "Version": "0.15.1-1",
+    "Version": "0.15.2",
     "Description": "Static libraries for libspice-server",
     "Homepage": "https://www.spice-space.org/"
   },

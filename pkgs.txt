@@ -1334,8 +1334,8 @@
  libspeex  1.2.1  A patent-free, Open Source/Free Software voice codec  https://www.speex.org/ 
  libspeex-static  1.2.1  Static libraries for libspeex  https://www.speex.org/ 
  libspice-protocol  0.14.4  SPICE protocol headers  https://www.spice-space.org/ 
- libspice-server  0.15.1-1  Implements the server side of the SPICE protocol  https://www.spice-space.org/ 
- libspice-server-static  0.15.1-1  Static libraries for libspice-server  https://www.spice-space.org/ 
+ libspice-server  0.15.2  Implements the server side of the SPICE protocol  https://www.spice-space.org/ 
+ libspice-server-static  0.15.2  Static libraries for libspice-server  https://www.spice-space.org/ 
  libsqlite  3.46.1  Library implementing a self-contained and transactional SQL database engine  https://www.sqlite.org 
  libsqlite-static  3.46.1  Static libraries for libsqlite  https://www.sqlite.org 
  libsqlite-tcl  3.46.1  tcl bindings for SQLite  https://www.sqlite.org 
