@@ -2269,7 +2269,7 @@
   },
   {
     "Package": "electrum",
-    "Version": "4.5.5-1",
+    "Version": "4.5.6",
     "Description": "Electrum is a lightweight Bitcoin wallet",
     "Homepage": "https://electrum.org"
   },
@@ -3097,7 +3097,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.58.0",
+    "Version": "2.59.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -4069,7 +4069,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.136.0",
+    "Version": "0.136.1",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -10693,7 +10693,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.98.0-1",
+    "Version": "0.99.0",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -14017,7 +14017,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.4.2",
+    "Version": "16.4.3",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15109,7 +15109,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.22",
+    "Version": "0.9.99.23",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
