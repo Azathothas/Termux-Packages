@@ -519,7 +519,7 @@
   Description: GNU Binutils libraries
   Homepage: https://www.gnu.org/software/binutils/
 - Package: bionic-host
-  Version: 8.0.0-r51-2
+  Version: 8.0.0-r51-4
   Description: bionic libc, libm, libdl and dynamic linker for ubuntu host
   Homepage: https://android.googlesource.com/platform/bionic/
 - Package: bison
@@ -3051,7 +3051,7 @@
   Description: Python for the Java Platform
   Homepage: https://www.jython.org/
 - Package: k2pdfopt
-  Version: 2.55-2
+  Version: 2.55-3
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
@@ -7023,7 +7023,7 @@
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: nginx
-  Version: 1.27.2-1
+  Version: 1.27.2-2
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -7915,7 +7915,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.8.14
+  Version: 1.9.0
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: http://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -8754,6 +8754,10 @@
   Version: "2.0"
   Description: Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)
   Homepage: https://codemadness.org/sfeed-simple-feed-parser.html
+- Package: sftpgo
+  Version: 2.6.2
+  Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
+  Homepage: https://sftpgo.com/
 - Package: shaderc
   Version: "2024.3"
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
@@ -9247,7 +9251,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 1.27.12
+  Version: 1.28.0
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
