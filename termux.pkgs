@@ -92,7 +92,7 @@
 | **aubio** | 0.4.9-2 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-2 | Static libraries for aubio | https://aubio.org/ |
 | **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
-| **autoconf-archive** | 2023.02.20 | A collection of freely re-usable Autoconf macros | https://www.gnu.org/software/autoconf-archive/ |
+| **autoconf-archive** | 2024.10.16 | A collection of freely re-usable Autoconf macros | https://www.gnu.org/software/autoconf-archive/ |
 | **autoconf213** | 2.13 | Creator of shell scripts to configure source code packages (legacy v2.13) | https://www.gnu.org/software/autoconf/autoconf.html |
 | **autojump** | 22.5.3-1 | A faster way to navigate your filesystem | https://github.com/wting/autojump |
 | **automake** | 1.17 | Tool for automatically generating Makefile.in files | https://www.gnu.org/software/automake/ |
@@ -279,9 +279,9 @@
 | **ctags** | 2:6.1.0 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctypes-sh** | 1.2-1 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
-| **cups** | 2.4.10 | Common UNIX Printing System | https://www.cups.org/ |
+| **cups** | 2.4.11 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1 | CUPS PDF backend | https://www.cups-pdf.de/ |
-| **cups-static** | 2.4.10 | Static libraries for cups | https://www.cups.org/ |
+| **cups-static** | 2.4.11 | Static libraries for cups | https://www.cups.org/ |
 | **curl** | 8.10.1-1 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.7.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-4 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
@@ -717,7 +717,7 @@
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
 | **iperf3** | 3.17.1 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.17.1 | Static libraries for iperf3 | https://github.com/esnet/iperf |
-| **ipfs** | 0.30.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **ipfs** | 0.31.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.11.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.2.1 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
@@ -1402,8 +1402,8 @@
 | **libunbound** | 1.22.0 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
 | **libunbound-static** | 1.22.0 | Static libraries for libunbound | https://unbound.net/ |
 | **libunibilium** | 2.1.2 | Terminfo parsing library | https://github.com/neovim/unibilium |
-| **libunistring** | 1.1 | Library providing functions for manipulating Unicode strings | https://www.gnu.org/software/libunistring/ |
-| **libunistring-static** | 1.1 | Static libraries for libunistring | https://www.gnu.org/software/libunistring/ |
+| **libunistring** | 1.3 | Library providing functions for manipulating Unicode strings | https://www.gnu.org/software/libunistring/ |
+| **libunistring-static** | 1.3 | Static libraries for libunistring | https://www.gnu.org/software/libunistring/ |
 | **libunqlite** | 1.1.9 | Transactional embedded database engine | https://unqlite.org/ |
 | **libupscaledb** | 2.2.1p20210820-9 | A database engine written in C/C++ | https://upscaledb.com/ |
 | **libupscaledb-static** | 2.2.1p20210820-9 | Static libraries for libupscaledb | https://upscaledb.com/ |
@@ -2096,7 +2096,7 @@
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-2 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
 | **redis** | 1:7.2.5 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
-| **remind** | 1:05.00.06 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
+| **remind** | 1:05.00.07 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-2 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
@@ -2141,21 +2141,21 @@
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.6 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.81.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.82.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20241014 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.70.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.81.0-1 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.81.0-1 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.81.0-1 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.81.0-1 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.81.0-1 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.81.0-1 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasi** | 1.81.0-1 | Rust std for target wasm32-wasi | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip1** | 1.81.0-1 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip2** | 1.81.0-1 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.81.0-1 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.81.0-1 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.81.0-1 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-docs** | 1.82.0 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.82.0 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.82.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.82.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.82.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.82.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasi** | 1.82.0 | Rust std for target wasm32-wasi | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip1** | 1.82.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip2** | 1.82.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.82.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.82.0 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.82.0 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.3.0 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
