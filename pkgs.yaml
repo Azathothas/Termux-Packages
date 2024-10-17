@@ -4687,11 +4687,11 @@
   Description: Static libraries for libnet
   Homepage: https://github.com/libnet/libnet
 - Package: libnettle
-  Version: 3.9.1
+  Version: "3.10"
   Description: Cryptographic library that is designed to fit easily in more or less any context
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: libnettle-static
-  Version: 3.9.1
+  Version: "3.10"
   Description: Static libraries for libnettle
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: libnewt
@@ -5371,11 +5371,11 @@
   Description: Tiny C SSH library
   Homepage: https://www.libssh.org/
 - Package: libssh2
-  Version: 1.11.0
+  Version: 1.11.1
   Description: Client-side library implementing the SSH2 protocol
   Homepage: https://www.libssh2.org
 - Package: libssh2-static
-  Version: 1.11.0
+  Version: 1.11.1
   Description: Static libraries for libssh2
   Homepage: https://www.libssh2.org
 - Package: libstemmer
@@ -7015,7 +7015,7 @@
   Description: Alter the contents of packets forwarded through network in real time
   Homepage: http://silicone.homelinux.org/projects/netsed/
 - Package: nettle
-  Version: 3.9.1
+  Version: "3.10"
   Description: Low level cryptographic tools
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: newsboat
