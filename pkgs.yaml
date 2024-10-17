@@ -2155,7 +2155,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.47.0
+  Version: 1.48.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2711,7 +2711,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.136.1
+  Version: 0.136.2
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -5603,11 +5603,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.21.1-1
+  Version: 1.22.0
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.21.1-1
+  Version: 1.22.0
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -8103,7 +8103,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.21.1-1
+  Version: 1.22.0
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -9819,7 +9819,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.21.1-1
+  Version: 1.22.0
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unbound-static
@@ -9943,7 +9943,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.22
+  Version: 0.4.23
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
