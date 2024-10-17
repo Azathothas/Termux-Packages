@@ -147,7 +147,7 @@
 | **bitlbee** | 3.6-1-0 | An IRC to other chat networks gateway | https://www.bitlbee.org/ |
 | **bk** | 0.6.0 | A terminal EPUB reader | https://github.com/aeosynth/bk |
 | **blackbox** | 1:1.20220610 | Safely store secrets in Git/Mercurial/Subversion | https://github.com/StackExchange/blackbox |
-| **blade** | 0.0.85 | A simple, fast, clean and dynamic language | https://bladelang.com/ |
+| **blade** | 0.0.86 | A simple, fast, clean and dynamic language | https://bladelang.com/ |
 | **blas-openblas** | 0.3.28 | OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE | https://www.openblas.net |
 | **blink** | 1:1.1.0 | Tiny x86-64 Linux emulator | https://justine.lol/blinkenlights/ |
 | **blk-utils** | 2.40.2-1 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
@@ -168,7 +168,7 @@
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.14.1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20240606 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.44.0-1 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.44.1 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-1 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
@@ -804,8 +804,8 @@
 | **ldns** | 1.8.4 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.3.2-3 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
-| **leptonica** | 1.84.1 | Library for image processing and image analysis | http://www.leptonica.com/ |
-| **leptonica-static** | 1.84.1 | Static libraries for leptonica | http://www.leptonica.com/ |
+| **leptonica** | 1.85.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
+| **leptonica-static** | 1.85.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 661 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
 | **lesspipe** | 2.15 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-3 | Fast key-value storage library | https://github.com/google/leveldb |
@@ -2368,7 +2368,7 @@
 | **termux-keyring** | 3.12-1 | GPG public keys for the official Termux repositories | https://github.com/termux |
 | **termux-licenses** | 2.0-3 | Contains LICENSE files for common licenses | https://termux.dev |
 | **termux-services** | 0.13-1 | Service daemon for Termux | https://github.com/termux/termux-services/ |
-| **termux-tools** | 1.44.0 | Basic system tools for Termux | https://termux.dev/ |
+| **termux-tools** | 1.44.1 | Basic system tools for Termux | https://termux.dev/ |
 | **teseq** | 1.1.1-1 | Tool for analyzing control characters and terminal control sequences | https://www.gnu.org/software/teseq/ |
 | **tesseract** | 5.4.1-1 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
 | **testssl.sh** | 3.0.9 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
@@ -2531,7 +2531,7 @@
 | **vtm** | 0.9.99.23 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20240708 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
-| **vulkan-extension-layer** | 1.3.296 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
+| **vulkan-extension-layer** | 1.3.298 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.3.298 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |

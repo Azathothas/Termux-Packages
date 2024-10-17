@@ -823,7 +823,7 @@
   },
   {
     "Package": "blade",
-    "Version": "0.0.85",
+    "Version": "0.0.86",
     "Description": "A simple, fast, clean and dynamic language",
     "Homepage": "https://bladelang.com/"
   },
@@ -949,7 +949,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.44.0-1",
+    "Version": "1.44.1",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -4765,13 +4765,13 @@
   },
   {
     "Package": "leptonica",
-    "Version": "1.84.1",
+    "Version": "1.85.0",
     "Description": "Library for image processing and image analysis",
     "Homepage": "http://www.leptonica.com/"
   },
   {
     "Package": "leptonica-static",
-    "Version": "1.84.1",
+    "Version": "1.85.0",
     "Description": "Static libraries for leptonica",
     "Homepage": "http://www.leptonica.com/"
   },
@@ -14149,7 +14149,7 @@
   },
   {
     "Package": "termux-tools",
-    "Version": "1.44.0",
+    "Version": "1.44.1",
     "Description": "Basic system tools for Termux",
     "Homepage": "https://termux.dev/"
   },
@@ -15127,7 +15127,7 @@
   },
   {
     "Package": "vulkan-extension-layer",
-    "Version": "1.3.296",
+    "Version": "1.3.298",
     "Description": "Vulkan Extension Layer",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ExtensionLayer"
   },
