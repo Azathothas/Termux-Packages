@@ -6415,7 +6415,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.10.9
+  Version: 0.11.0
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -8351,11 +8351,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.40.1-1
+  Version: 1.40.3
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.40.1-1
+  Version: 1.40.3
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recoll-static
