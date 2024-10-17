@@ -453,7 +453,7 @@
  fontconfig-static  2.15.0  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.15.0  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  forestdb-dump  1.2  ForestDB dump tool  https://github.com/couchbase/forestdb 
- forgejo  8.0.3  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
+ forgejo  9.0.0  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
  fortune  1.2-1  Revealer of fortunes  https://www.fefe.de/fortune/ 
  fossil  2.24  DSCM with built-in wiki, http interface and server, tickets database  https://www.fossil-scm.org 
  freecolor  0.9.3  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
@@ -2275,7 +2275,7 @@
  stdoutisatty  1.0  Patch the isatty() calls for colored output in pipeline  https://github.com/lilydjwg/stdoutisatty 
  steghide  0.5.1-7  Embeds a message in a file by replacing some of the least significant bits  https://steghide.sourceforge.net/ 
  stemwords  2.2.0-1  A command-line tool which uses libstemmer  https://snowballstem.org/ 
- step-cli  0.27.4-1  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
+ step-cli  0.27.5  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
  stfl  0.24-6  Structured Terminal Forms Language/Library  http://www.clifford.at/stfl 
  stfl-static  0.24-6  Static libraries for stfl  http://www.clifford.at/stfl 
  stoken  0.93-1  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 

@@ -2731,7 +2731,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "8.0.3",
+    "Version": "9.0.0",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -13663,7 +13663,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.27.4-1",
+    "Version": "0.27.5",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
