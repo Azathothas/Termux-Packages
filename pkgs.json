@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.2",
+    "Version": "0.20.3",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -4291,9 +4291,9 @@
   },
   {
     "Package": "inxi",
-    "Version": "3.3.31-2-0",
+    "Version": "3.3.36-1-0",
     "Description": "Full featured CLI system information tool",
-    "Homepage": "https://github.com/smxi/inxi"
+    "Homepage": "https://smxi.org/site/about.htm#inxi"
   },
   {
     "Package": "ipcalc",
