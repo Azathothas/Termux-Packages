@@ -1382,8 +1382,8 @@
 | **libtins** | 4.5 | High-level, multiplatform C++ network packet sniffing and crafting library. | https://libtins.github.io |
 | **libtinyxml** | 2.6.2-1 | A simple, small, C++ XML parser | https://sourceforge.net/projects/tinyxml |
 | **libtinyxml2** | 10.0.0 | A simple, small, efficient, C++ XML parser | http://www.grinninglizard.com/tinyxml2/ |
-| **libtirpc** | 1.3.5 | Transport Independent RPC library | http://git.linux-nfs.org/?p=steved/libtirpc.git |
-| **libtirpc-static** | 1.3.5 | Static libraries for libtirpc | http://git.linux-nfs.org/?p=steved/libtirpc.git |
+| **libtirpc** | 1.3.6 | Transport Independent RPC library | http://git.linux-nfs.org/?p=steved/libtirpc.git |
+| **libtirpc-static** | 1.3.6 | Static libraries for libtirpc | http://git.linux-nfs.org/?p=steved/libtirpc.git |
 | **libtllist** | 1.1.0 | A small font loading and glyph rasterization library | https://codeberg.org/dnkl/fcft |
 | **libtomcrypt** | 1.18.2 | A fairly comprehensive, modular and portable cryptographic toolkit | https://www.libtom.net/LibTomCrypt/ |
 | **libtomcrypt-static** | 1.18.2 | Static libraries for libtomcrypt | https://www.libtom.net/LibTomCrypt/ |
@@ -2149,7 +2149,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.5 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.5 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.6.9 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.7.0 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.6 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2496,7 +2496,7 @@
 | **util-linux-static** | 2.40.2-1 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-1 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.4.23 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.4.24 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.27-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.20.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
