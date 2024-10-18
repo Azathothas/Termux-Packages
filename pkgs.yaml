@@ -519,7 +519,7 @@
   Description: GNU Binutils libraries
   Homepage: https://www.gnu.org/software/binutils/
 - Package: bionic-host
-  Version: 8.0.0-r51-4
+  Version: 8.0.0-r51-5
   Description: bionic libc, libm, libdl and dynamic linker for ubuntu host
   Homepage: https://android.googlesource.com/platform/bionic/
 - Package: bison
@@ -1623,7 +1623,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.20.3
+  Version: 0.20.4
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
