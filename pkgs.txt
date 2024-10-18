@@ -702,7 +702,7 @@
  id3v2  0.1.12-1  A command line id3v2 tag editor  http://id3v2.sourceforge.net/ 
  imagemagick  7.1.1.39  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
  imagemagick-static  7.1.1.39  Static libraries for imagemagick  https://www.imagemagick.org/ 
- imath  3.1.11  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
+ imath  3.1.12  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
  imgflo  0.4.2-8  HTTP image processing server & Flowhub.io compatible runtime  https://github.com/imgflo/imgflo 
  imlib2  1.12.3-1  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
  imlib2-static  1.12.3-1  Static libraries for imlib2  https://sourceforge.net/projects/enlightenment/ 
@@ -1320,8 +1320,8 @@
  libsoldout-static  1.4-1  Static libraries for libsoldout  https://fossil.instinctive.eu/libsoldout/index 
  libsophia  2.2  Advanced transactional MVCC key-value/row storage library  http://sophia.systems/ 
  libsophia-static  2.2  Static libraries for libsophia  http://sophia.systems/ 
- libsoundtouch  2.3.2  An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files  https://www.surina.net/soundtouch/ 
- libsoundtouch-static  2.3.2  Static libraries for libsoundtouch  https://www.surina.net/soundtouch/ 
+ libsoundtouch  2.3.3  An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files  https://www.surina.net/soundtouch/ 
+ libsoundtouch-static  2.3.3  Static libraries for libsoundtouch  https://www.surina.net/soundtouch/ 
  libsoup  2.74.3-3  HTTP client and server library  https://wiki.gnome.org/action/show/Projects/libsoup 
  libsoup3  3.4.4  HTTP client and server library  https://wiki.gnome.org/Projects/libsoup 
  libsoxr  0.1.3-7  High quality, one-dimensional sample-rate conversion library  https://sourceforge.net/projects/soxr/ 
@@ -1942,8 +1942,8 @@
  pomodoro-curses  2.5  A simple pomodoro timer written with the Ncurses library  https://github.com/chunga2020/pomodoro_curses 
  poppler  24.05.0  PDF rendering library  https://poppler.freedesktop.org/ 
  poppler-data  0.4.12  Consists of encoding files for use with poppler  https://poppler.freedesktop.org/ 
- portaudio  19.07.00-1  A portable audio I/O library  http://www.portaudio.com/ 
- portaudio-static  19.07.00-1  Static libraries for portaudio  http://www.portaudio.com/ 
+ portaudio  19.07.00-2  A portable audio I/O library  https://www.portaudio.com/ 
+ portaudio-static  19.07.00-2  Static libraries for portaudio  https://www.portaudio.com/ 
  portmidi  2.0.4  A cross-platform MIDI input/output library  https://github.com/PortMidi/portmidi 
  posixvala  0.2  Aims to bring back the posix profile for Vala  https://github.com/radare/posixvala 
  postgis  3.5.0  Spatial database extender for PostgreSQL object-relational database  https://postgis.net 
@@ -2278,7 +2278,7 @@
  stdoutisatty  1.0  Patch the isatty() calls for colored output in pipeline  https://github.com/lilydjwg/stdoutisatty 
  steghide  0.5.1-7  Embeds a message in a file by replacing some of the least significant bits  https://steghide.sourceforge.net/ 
  stemwords  2.2.0-1  A command-line tool which uses libstemmer  https://snowballstem.org/ 
- step-cli  0.27.5  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
+ step-cli  0.27.5-1  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
  stfl  0.24-6  Structured Terminal Forms Language/Library  http://www.clifford.at/stfl 
  stfl-static  0.24-6  Static libraries for stfl  http://www.clifford.at/stfl 
  stoken  0.93-1  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
@@ -2343,7 +2343,7 @@
  tergent  1.0.0-4  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
  termimage  1.2.1  Terminal image viewer  https://github.com/nabijaczleweli/termimage 
  termplay  2.0.6  Plays an image/video in your terminal  https://gitlab.com/jD91mZM2/termplay 
- termux-am  0.8.0  Android Oreo-compatible am command reimplementation  https://github.com/termux/TermuxAm 
+ termux-am  0.8.0-1  Android Oreo-compatible am command reimplementation  https://github.com/termux/TermuxAm 
  termux-am-socket  1.5.0  A faster version of am with less features that only works while Termux is running  https://github.com/termux/termux-am-socket 
  termux-api  0.58.0-1  Termux API commands (install also the Termux:API app)  https://wiki.termux.com/wiki/Termux:API 
  termux-api-static  0.58.0-1  Static libraries for termux-api  https://wiki.termux.com/wiki/Termux:API 

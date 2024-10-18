@@ -2815,7 +2815,7 @@
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
-  Version: 3.1.11
+  Version: 3.1.12
   Description: Library for vector/matrix and math operations, plus the half type
   Homepage: https://imath.readthedocs.io/
 - Package: imgflo
@@ -5287,11 +5287,11 @@
   Description: Static libraries for libsophia
   Homepage: http://sophia.systems/
 - Package: libsoundtouch
-  Version: 2.3.2
+  Version: 2.3.3
   Description: An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files
   Homepage: https://www.surina.net/soundtouch/
 - Package: libsoundtouch-static
-  Version: 2.3.2
+  Version: 2.3.3
   Description: Static libraries for libsoundtouch
   Homepage: https://www.surina.net/soundtouch/
 - Package: libsoup
@@ -7775,13 +7775,13 @@
   Description: Consists of encoding files for use with poppler
   Homepage: https://poppler.freedesktop.org/
 - Package: portaudio
-  Version: 19.07.00-1
+  Version: 19.07.00-2
   Description: A portable audio I/O library
-  Homepage: http://www.portaudio.com/
+  Homepage: https://www.portaudio.com/
 - Package: portaudio-static
-  Version: 19.07.00-1
+  Version: 19.07.00-2
   Description: Static libraries for portaudio
-  Homepage: http://www.portaudio.com/
+  Homepage: https://www.portaudio.com/
 - Package: portmidi
   Version: 2.0.4
   Description: A cross-platform MIDI input/output library
@@ -9119,7 +9119,7 @@
   Description: A command-line tool which uses libstemmer
   Homepage: https://snowballstem.org/
 - Package: step-cli
-  Version: 0.27.5
+  Version: 0.27.5-1
   Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
   Homepage: https://smallstep.com/cli
 - Package: stfl
@@ -9379,7 +9379,7 @@
   Description: Plays an image/video in your terminal
   Homepage: https://gitlab.com/jD91mZM2/termplay
 - Package: termux-am
-  Version: 0.8.0
+  Version: 0.8.0-1
   Description: Android Oreo-compatible am command reimplementation
   Homepage: https://github.com/termux/TermuxAm
 - Package: termux-am-socket

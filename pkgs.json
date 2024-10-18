@@ -4225,7 +4225,7 @@
   },
   {
     "Package": "imath",
-    "Version": "3.1.11",
+    "Version": "3.1.12",
     "Description": "Library for vector/matrix and math operations, plus the half type",
     "Homepage": "https://imath.readthedocs.io/"
   },
@@ -7933,13 +7933,13 @@
   },
   {
     "Package": "libsoundtouch",
-    "Version": "2.3.2",
+    "Version": "2.3.3",
     "Description": "An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files",
     "Homepage": "https://www.surina.net/soundtouch/"
   },
   {
     "Package": "libsoundtouch-static",
-    "Version": "2.3.2",
+    "Version": "2.3.3",
     "Description": "Static libraries for libsoundtouch",
     "Homepage": "https://www.surina.net/soundtouch/"
   },
@@ -11665,15 +11665,15 @@
   },
   {
     "Package": "portaudio",
-    "Version": "19.07.00-1",
+    "Version": "19.07.00-2",
     "Description": "A portable audio I/O library",
-    "Homepage": "http://www.portaudio.com/"
+    "Homepage": "https://www.portaudio.com/"
   },
   {
     "Package": "portaudio-static",
-    "Version": "19.07.00-1",
+    "Version": "19.07.00-2",
     "Description": "Static libraries for portaudio",
-    "Homepage": "http://www.portaudio.com/"
+    "Homepage": "https://www.portaudio.com/"
   },
   {
     "Package": "portmidi",
@@ -13681,7 +13681,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.27.5",
+    "Version": "0.27.5-1",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -14071,7 +14071,7 @@
   },
   {
     "Package": "termux-am",
-    "Version": "0.8.0",
+    "Version": "0.8.0-1",
     "Description": "Android Oreo-compatible am command reimplementation",
     "Homepage": "https://github.com/termux/TermuxAm"
   },
