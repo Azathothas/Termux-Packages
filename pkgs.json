@@ -1129,7 +1129,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.4",
+    "Version": "0.10.5",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "18.0.1",
+    "Version": "18.0.2",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
@@ -5521,7 +5521,7 @@
   },
   {
     "Package": "libdav1d",
-    "Version": "1.4.3",
+    "Version": "1.5.0",
     "Description": "AV1 cross-platform decoder focused on speed and correctness",
     "Homepage": "https://code.videolan.org/videolan/dav1d/"
   },
@@ -15127,7 +15127,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.23",
+    "Version": "0.9.99.24",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
@@ -15151,7 +15151,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.3.298",
+    "Version": "1.3.299",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
