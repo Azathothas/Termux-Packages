@@ -2413,7 +2413,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "12.98",
+    "Version": "12.99",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -10777,7 +10777,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "23.20.1",
+    "Version": "23.20.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13153,7 +13153,7 @@
   },
   {
     "Package": "sftpgo",
-    "Version": "2.6.2",
+    "Version": "2.6.2-1",
     "Description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server",
     "Homepage": "https://sftpgo.com/"
   },
@@ -13969,7 +13969,7 @@
   },
   {
     "Package": "tcllib",
-    "Version": "1.21",
+    "Version": "2.0",
     "Description": "Tcl Standard Library",
     "Homepage": "https://core.tcl-lang.org/tcllib/"
   },

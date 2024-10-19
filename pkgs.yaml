@@ -1607,7 +1607,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "12.98"
+  Version: "12.99"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -7183,7 +7183,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.20.1
+  Version: 23.20.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8767,7 +8767,7 @@
   Description: Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)
   Homepage: https://codemadness.org/sfeed-simple-feed-parser.html
 - Package: sftpgo
-  Version: 2.6.2
+  Version: 2.6.2-1
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
@@ -9311,7 +9311,7 @@
   Description: Powerful but easy to learn dynamic programming language
   Homepage: https://www.tcl.tk/
 - Package: tcllib
-  Version: "1.21"
+  Version: "2.0"
   Description: Tcl Standard Library
   Homepage: https://core.tcl-lang.org/tcllib/
 - Package: tcsh
