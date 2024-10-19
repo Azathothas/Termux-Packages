@@ -8503,13 +8503,13 @@
   },
   {
     "Package": "libuv",
-    "Version": "1.49.1",
+    "Version": "1.49.2",
     "Description": "Support library with a focus on asynchronous I/O",
     "Homepage": "https://libuv.org"
   },
   {
     "Package": "libuv-static",
-    "Version": "1.49.1",
+    "Version": "1.49.2",
     "Description": "Static libraries for libuv",
     "Homepage": "https://libuv.org"
   },
@@ -15127,7 +15127,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.24",
+    "Version": "0.9.99.25",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
