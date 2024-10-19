@@ -15799,7 +15799,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "0.4.42",
+    "Version": "0.4.42-1",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
