@@ -995,7 +995,7 @@
 | **libgf2x-static** | 1.3.0 | Static libraries for libgf2x | https://gitlab.inria.fr/gf2x/gf2x |
 | **libgfshare** | 2.0.0-7 | Utilities for multi-way secret-sharing | http://www.digital-scurf.org/software/libgfshare |
 | **libgfshare-static** | 2.0.0-7 | Static libraries for libgfshare | http://www.digital-scurf.org/software/libgfshare |
-| **libgit2** | 1.8.1 | C library implementing Git core methods | https://libgit2.github.com/ |
+| **libgit2** | 1.8.2 | C library implementing Git core methods | https://libgit2.github.com/ |
 | **libglibmm-2.4** | 2.66.7 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglibmm-2.68** | 2.80.0 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglvnd** | 1.7.0 | The GL Vendor-Neutral Dispatch library | https://gitlab.freedesktop.org/glvnd/libglvnd |
@@ -1423,7 +1423,7 @@
 | **libvbisam-static** | 2.0-2 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-1 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.12.1 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.15.3-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.15.5 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvips-static** | 8.13.3-3 | Static libraries for libvips | https://libvips.github.io/libvips/ |
 | **libvmaf** | 3.0.0 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
 | **libvmaf-static** | 3.0.0 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
