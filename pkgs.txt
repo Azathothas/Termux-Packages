@@ -2444,7 +2444,7 @@
  tvheadend-data  4.2.8-10  Platform-independent data for tvheadend  https://tvheadend.org/ 
  tweego  2.1.1-4  A free command line compiler for Twine/Twee story formats  https://bitbucket.org/tmedwards/tweego 
  twolame  0.4.0  The frontend for libtwolame  https://www.twolame.org/ 
- typst  0.11.1-1  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
+ typst  0.12.0  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typst-lsp  0.13.0-1  Language server for Typst  https://github.com/nvarner/typst-lsp 
  typstfmt  0.2.10  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 

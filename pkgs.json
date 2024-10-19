@@ -14677,7 +14677,7 @@
   },
   {
     "Package": "typst",
-    "Version": "0.11.1-1",
+    "Version": "0.12.0",
     "Description": "A new markup-based typesetting system that is powerful and easy to learn",
     "Homepage": "https://typst.app/"
   },
