@@ -845,8 +845,8 @@
 | **libasm-static** | 0.191 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libass** | 0.17.3 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
 | **libass-static** | 0.17.3 | Static libraries for libass | https://github.com/libass/libass |
-| **libassuan** | 3.0.1 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
-| **libassuan-static** | 3.0.1 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
+| **libassuan** | 3.0.1-2 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
+| **libassuan-static** | 3.0.1-2 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
 | **libatomic-ops** | 7.8.2 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/ivmai/libatomic_ops |
 | **libatomic-ops-static** | 7.8.2 | Static libraries for libatomic-ops | https://github.com/ivmai/libatomic_ops |
 | **libbcprov-java** | 1.78v1 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |

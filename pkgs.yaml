@@ -3387,11 +3387,11 @@
   Description: Static libraries for libass
   Homepage: https://github.com/libass/libass
 - Package: libassuan
-  Version: 3.0.1
+  Version: 3.0.1-2
   Description: Library implementing the Assuan IPC protocol used between most newer GnuPG components
   Homepage: https://www.gnupg.org/related_software/libassuan/
 - Package: libassuan-static
-  Version: 3.0.1
+  Version: 3.0.1-2
   Description: Static libraries for libassuan
   Homepage: https://www.gnupg.org/related_software/libassuan/
 - Package: libatomic-ops
