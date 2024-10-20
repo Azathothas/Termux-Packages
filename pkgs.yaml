@@ -2991,7 +2991,7 @@
   Description: Jove is a compact, powerful, Emacs-style text-editor.
   Homepage: https://directory.fsf.org/wiki/Jove
 - Package: jp2a
-  Version: 1.3.0
+  Version: 1.3.1
   Description: A simple JPEG to ASCII converter
   Homepage: https://github.com/Talinx/jp2a/
 - Package: jpegoptim
@@ -8071,19 +8071,19 @@
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
-  Version: 2.4.1-4
+  Version: 2.5.0
   Description: Tensors and Dynamic neural networks in Python
   Homepage: https://pytorch.org/
 - Package: python-torch-static
-  Version: 2.4.1-4
+  Version: 2.5.0
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
-  Version: 2.4.1-2
+  Version: 2.5.0
   Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
   Homepage: https://github.com/pytorch/audio
 - Package: python-torchvision
-  Version: 0.19.1-2
+  Version: 0.20.0
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-xcbgen
@@ -10083,7 +10083,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.25
+  Version: 0.9.99.26
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
