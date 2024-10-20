@@ -117,7 +117,7 @@
  bc-gh  7.0.3  Unix dc and POSIX bc with GNU and BSD extensions  https://git.gavinhoward.com/gavin/bc 
  bdsup2sub  4.0.1  A subtitle conversion tool for image based stream formats  https://github.com/mjuhasz/BDSup2Sub 
  beanshell  2.1.1-1  Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java  https://github.com/beanshell/beanshell 
- bed  0.2.6  Binary editor written in GO  https://github.com/itchyny/bed 
+ bed  0.2.7  Binary editor written in GO  https://github.com/itchyny/bed 
  bftpd  6.2  Small, easy-to-configure FTP server  https://bftpd.sourceforge.net/ 
  bgrep  1.0-3  Binary string grep tool  https://debugmo.de/2009/04/bgrep-a-binary-grep/ 
  biboumi  9.0-4  An XMPP gateway that connects to IRC servers and translates between the two protocols  https://biboumi.louiz.org/ 
@@ -446,7 +446,7 @@
  flatbuffers-static  24.3.25  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
  flex  2.6.4-3  Fast lexical analyser generator  https://github.com/westes/flex 
  flex-static  2.6.4-3  Static libraries for flex  https://github.com/westes/flex 
- fluidsynth  2.3.6-1  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
+ fluidsynth  2.3.7  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
  fm  1.1.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.0.2  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.15.0  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -573,7 +573,7 @@
  gnustep-make  2.9.2  The GNUstep makefile package  http://www.gnustep.org 
  gnutls  3.8.5  Commandline utilities for interfacing with the gnutls library  https://www.gnutls.org/ 
  go-findimagedupes  2023.01.29-3  Find visually similar or duplicate images  https://gitlab.com/opennota/findimagedupes 
- go-musicfox  4.5.3  A netease music player in terminal.  https://github.com/go-musicfox/go-musicfox 
+ go-musicfox  4.5.4  A netease music player in terminal.  https://github.com/go-musicfox/go-musicfox 
  goaccess  1.9.3  An open source real-time web log analyzer and interactive viewer  http://goaccess.io 
  gobang  0.1.0-alpha.5-2  A cross-platform TUI database management tool written in Rust  https://github.com/TaKO8Ki/gobang 
  gobject-introspection  1.80.1-1  Uniform machine readable API  https://gi.readthedocs.io/ 
