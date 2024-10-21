@@ -1634,7 +1634,7 @@
 | **mediainfo** | 24.06-1 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **megacmd** | 1.7.0-2 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
-| **memcached** | 1.6.31 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
+| **memcached** | 1.6.32 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
 | **mesa** | 24.0.8-1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
