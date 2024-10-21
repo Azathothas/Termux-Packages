@@ -3457,7 +3457,7 @@
   },
   {
     "Package": "go-musicfox",
-    "Version": "4.5.4",
+    "Version": "4.5.5",
     "Description": "A netease music player in terminal.",
     "Homepage": "https://github.com/go-musicfox/go-musicfox"
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.136.2",
+    "Version": "0.136.3",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -7777,7 +7777,7 @@
   },
   {
     "Package": "libseat",
-    "Version": "0.8.0",
+    "Version": "0.9.0",
     "Description": "Reference implementation of a wayland compositor",
     "Homepage": "https://sr.ht/~kennylevinsen/seatd/"
   },
@@ -10453,7 +10453,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.11",
+    "Version": "0.8.12",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -15145,7 +15145,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.26",
+    "Version": "0.9.99.27",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },

@@ -2303,7 +2303,7 @@
   Description: Find visually similar or duplicate images
   Homepage: https://gitlab.com/opennota/findimagedupes
 - Package: go-musicfox
-  Version: 4.5.4
+  Version: 4.5.5
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
 - Package: goaccess
@@ -2715,7 +2715,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.136.2
+  Version: 0.136.3
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -5183,7 +5183,7 @@
   Description: Static libraries for libsearpc
   Homepage: https://github.com/haiwen/libsearpc
 - Package: libseat
-  Version: 0.8.0
+  Version: 0.9.0
   Description: Reference implementation of a wayland compositor
   Homepage: https://sr.ht/~kennylevinsen/seatd/
 - Package: libseccomp
@@ -6967,7 +6967,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.11
+  Version: 0.8.12
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://github.com/Decodetalkers/neocmakelsp
 - Package: neofetch
@@ -10095,7 +10095,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.26
+  Version: 0.9.99.27
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
