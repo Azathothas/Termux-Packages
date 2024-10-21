@@ -37,6 +37,7 @@
 | **android-tools** | 35.0.2 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.5 | Dungeon exploration adventure game | https://rephial.org/ |
+| **angle-android** | 2.1.23487-faae3c32-1 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
 | **angle-grinder** | 0.19.4 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.9 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.21 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
@@ -953,6 +954,7 @@
 | **libelf-static** | 0.191 | Static libraries for libelf | https://sourceware.org/elfutils/ |
 | **libenet** | 1.3.18 | ENet reliable UDP networking library | http://enet.bespin.org |
 | **libenet-static** | 1.3.18 | Static libraries for libenet | http://enet.bespin.org |
+| **libepoxy** | 1.5.10-2 | Library handling OpenGL function pointer management | https://github.com/anholt/libepoxy |
 | **libev** | 4.33-1 | Full-featured and high-performance event loop library | http://software.schmorp.de/pkg/libev.html |
 | **libev-static** | 4.33-1 | Static libraries for libev | http://software.schmorp.de/pkg/libev.html |
 | **libevent** | 2.1.12-2 | Library that provides asynchronous event notification | https://libevent.org/ |
@@ -1180,8 +1182,8 @@
 | **libnfs-static** | 5.0.3 | Static libraries for libnfs | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.2.8 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.2.8 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
-| **libnghttp2** | 1.63.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
-| **libnghttp2-static** | 1.63.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
+| **libnghttp2** | 1.64.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
+| **libnghttp2-static** | 1.64.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
 | **libnghttp3** | 1.6.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
 | **libnghttp3-static** | 1.6.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libnl** | 3.10.0 | Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces | https://github.com/thom311/libnl |
@@ -2142,7 +2144,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.6 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.82.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20241014 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20241021 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.70.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.82.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.82.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2483,7 +2485,7 @@
 | **util-linux-static** | 2.40.2-1 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-1 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.4.24 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.4.25 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.27-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.20.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2509,6 +2511,8 @@
 | **vim** | 9.1.0700 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **vim-python** | 9.1.0700-1 | Vi IMproved - enhanced vi editor - with python support | https://www.vim.org |
 | **vim-runtime** | 9.1.0700 | Vi IMproved - Runtime files | https://www.vim.org |
+| **virglrenderer** | 1.1.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
+| **virglrenderer-android** | 1.0.1-2 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.0.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
 | **vis** | 0.9-3 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-2 | Virtual terminal *tris clone | http://victornils.net/tetris/ |

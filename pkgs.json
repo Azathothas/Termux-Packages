@@ -234,6 +234,12 @@
     "Homepage": "https://rephial.org/"
   },
   {
+    "Package": "angle-android",
+    "Version": "2.1.23487-faae3c32-1",
+    "Description": "A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android",
+    "Homepage": "https://chromium.googlesource.com/angle/angle"
+  },
+  {
     "Package": "angle-grinder",
     "Version": "0.19.4",
     "Description": "Slice and dice logs on the command line",
@@ -5730,6 +5736,12 @@
     "Homepage": "http://enet.bespin.org"
   },
   {
+    "Package": "libepoxy",
+    "Version": "1.5.10-2",
+    "Description": "Library handling OpenGL function pointer management",
+    "Homepage": "https://github.com/anholt/libepoxy"
+  },
+  {
     "Package": "libev",
     "Version": "4.33-1",
     "Description": "Full-featured and high-performance event loop library",
@@ -7093,13 +7105,13 @@
   },
   {
     "Package": "libnghttp2",
-    "Version": "1.63.0",
+    "Version": "1.64.0",
     "Description": "nghttp HTTP 2.0 library",
     "Homepage": "https://nghttp2.org/"
   },
   {
     "Package": "libnghttp2-static",
-    "Version": "1.63.0",
+    "Version": "1.64.0",
     "Description": "Static libraries for libnghttp2",
     "Homepage": "https://nghttp2.org/"
   },
@@ -12865,7 +12877,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20241014",
+    "Version": "20241021",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
@@ -14911,7 +14923,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.4.24",
+    "Version": "0.4.25",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15064,6 +15076,18 @@
     "Version": "9.1.0700",
     "Description": "Vi IMproved - Runtime files",
     "Homepage": "https://www.vim.org"
+  },
+  {
+    "Package": "virglrenderer",
+    "Version": "1.1.0-1",
+    "Description": "A virtual 3D GPU for use inside qemu virtual machines",
+    "Homepage": "https://virgil3d.github.io/"
+  },
+  {
+    "Package": "virglrenderer-android",
+    "Version": "1.0.1-2",
+    "Description": "A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android",
+    "Homepage": "https://virgil3d.github.io/"
   },
   {
     "Package": "virustotal-cli",
