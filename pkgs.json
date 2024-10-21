@@ -11797,7 +11797,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.17.1",
+    "Version": "4.17.2",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -13444,12 +13444,6 @@
     "Version": "14.4.2-26",
     "Description": "Static libraries for sox",
     "Homepage": "https://sox.sourceforge.net/"
-  },
-  {
-    "Package": "spark",
-    "Version": "1.0.1",
-    "Description": "▁▂▃▅▂▇ in your shell.",
-    "Homepage": "https://github.com/holman/spark"
   },
   {
     "Package": "spatialite-tools",

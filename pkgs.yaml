@@ -7863,7 +7863,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 4.17.1
+  Version: 4.17.2
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8962,10 +8962,6 @@
   Version: 14.4.2-26
   Description: Static libraries for sox
   Homepage: https://sox.sourceforge.net/
-- Package: spark
-  Version: 1.0.1
-  Description: ▁▂▃▅▂▇ in your shell.
-  Homepage: https://github.com/holman/spark
 - Package: spatialite-tools
   Version: 5.0.1-3
   Description: Collection of tools supporting SpatiaLite
