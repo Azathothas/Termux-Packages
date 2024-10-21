@@ -796,7 +796,7 @@
  leptonica  1.85.0  Library for image processing and image analysis  http://www.leptonica.com/ 
  leptonica-static  1.85.0  Static libraries for leptonica  http://www.leptonica.com/ 
  less  661  Terminal pager program used to view the contents of a text file one screen at a time  https://www.greenwoodsoftware.com/less/ 
- lesspipe  2.15  An input filter for the pager less  http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html 
+ lesspipe  2.15-1  An input filter for the pager less  http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html 
  leveldb  1.23-3  Fast key-value storage library  https://github.com/google/leveldb 
  lexbor  2.3.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
  lexter  1.0.3-4  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 

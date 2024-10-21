@@ -3191,7 +3191,7 @@
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
-  Version: "2.15"
+  Version: 2.15-1
   Description: An input filter for the pager less
   Homepage: http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html
 - Package: leveldb

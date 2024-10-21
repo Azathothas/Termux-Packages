@@ -4789,7 +4789,7 @@
   },
   {
     "Package": "lesspipe",
-    "Version": "2.15",
+    "Version": "2.15-1",
     "Description": "An input filter for the pager less",
     "Homepage": "http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html"
   },
