@@ -9703,7 +9703,7 @@
   },
   {
     "Package": "mdbook-katex",
-    "Version": "0.9.0",
+    "Version": "0.9.0-1",
     "Description": "A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time",
     "Homepage": "https://github.com/lzanini/mdbook-katex"
   },

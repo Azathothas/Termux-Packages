@@ -6467,7 +6467,7 @@
   Description: mdbook preprocessor to add graphviz support
   Homepage: https://github.com/dylanowen/mdbook-graphviz
 - Package: mdbook-katex
-  Version: 0.9.0
+  Version: 0.9.0-1
   Description: A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time
   Homepage: https://github.com/lzanini/mdbook-katex
 - Package: mdbook-linkcheck
