@@ -7127,7 +7127,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.99.0
+  Version: 0.99.1
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nwipe
@@ -8807,7 +8807,7 @@
   Description: Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator
   Homepage: https://github.com/shellinabox/shellinabox
 - Package: shfmt
-  Version: 3.9.0
+  Version: 3.10.0
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
@@ -9247,7 +9247,7 @@
   Description: A high-performance CPU-based implementation of the Vulkan graphics API
   Homepage: https://swiftshader.googlesource.com/SwiftShader
 - Package: swig
-  Version: 4.2.1
+  Version: 4.3.0
   Description: Generate scripting interfaces to C/C++ code
   Homepage: https://swig.org
 - Package: swtpm
@@ -10055,7 +10055,7 @@
   Description: Virtual terminal *tris clone
   Homepage: http://victornils.net/tetris/
 - Package: viu
-  Version: 1.5.0
+  Version: 1.5.1
   Description: Terminal image viewer with native support for iTerm and Kitty
   Homepage: https://github.com/atanunq/viu
 - Package: vivid

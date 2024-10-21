@@ -1792,7 +1792,7 @@
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.105 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 5.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
-| **nushell** | 0.99.0 | A new type of shell operating on structured data | https://www.nushell.sh |
+| **nushell** | 0.99.1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nwipe** | 0.37-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
@@ -2212,7 +2212,7 @@
 | **shellcheck** | 0.10.0-1 | Shell script analysis tool | https://www.shellcheck.net/ |
 | **shellharden** | 4.3.1 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
-| **shfmt** | 3.9.0 | A shell parser and formatter | https://github.com/mvdan/sh |
+| **shfmt** | 3.10.0 | A shell parser and formatter | https://github.com/mvdan/sh |
 | **shiori** | 1.7.1 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
@@ -2322,7 +2322,7 @@
 | **swift-sdk-arm** | 5.10.1-1 | Swift SDK for Android armv7 | https://swift.org/ |
 | **swift-sdk-x86-64** | 5.10.1-1 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2024.05.08 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
-| **swig** | 4.2.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
+| **swig** | 4.3.0 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.9.0 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.9.0 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
 | **syncthing** | 1.28.0 | Decentralized file synchronization | https://syncthing.net/ |
@@ -2524,7 +2524,7 @@
 | **virustotal-cli** | 1.0.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
 | **vis** | 0.9-3 | Modern, legacy free, simple yet efficient vim-like editor | https://www.brain-dump.org/projects/vis/ |
 | **vitetris** | 0.59.1-2 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
-| **viu** | 1.5.0 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
+| **viu** | 1.5.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.10.1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
 | **vlc** | 3.0.21-2 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
 | **vlc-static** | 3.0.21-2 | Static libraries for vlc | https://www.videolan.org/ |

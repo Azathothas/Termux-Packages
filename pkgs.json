@@ -10693,7 +10693,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.99.0",
+    "Version": "0.99.1",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -13213,7 +13213,7 @@
   },
   {
     "Package": "shfmt",
-    "Version": "3.9.0",
+    "Version": "3.10.0",
     "Description": "A shell parser and formatter",
     "Homepage": "https://github.com/mvdan/sh"
   },
@@ -13873,7 +13873,7 @@
   },
   {
     "Package": "swig",
-    "Version": "4.2.1",
+    "Version": "4.3.0",
     "Description": "Generate scripting interfaces to C/C++ code",
     "Homepage": "https://swig.org"
   },
@@ -15085,7 +15085,7 @@
   },
   {
     "Package": "viu",
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Description": "Terminal image viewer with native support for iTerm and Kitty",
     "Homepage": "https://github.com/atanunq/viu"
   },
