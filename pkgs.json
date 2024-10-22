@@ -11773,7 +11773,7 @@
   },
   {
     "Package": "procs",
-    "Version": "0.14.6",
+    "Version": "0.14.7",
     "Description": "A modern replacement for ps",
     "Homepage": "https://github.com/dalance/procs"
   },
@@ -12415,7 +12415,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.17.1",
+    "Version": "3.17.9",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },

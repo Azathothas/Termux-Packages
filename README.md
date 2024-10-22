@@ -1972,7 +1972,7 @@
 | **privoxy** | 3.0.34 | Non-caching web proxy with advanced filtering capabilities | https://www.privoxy.org |
 | **procps** | 3.3.17-5 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
 | **procps-static** | 3.3.17-5 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
-| **procs** | 0.14.6 | A modern replacement for ps | https://github.com/dalance/procs |
+| **procs** | 0.14.7 | A modern replacement for ps | https://github.com/dalance/procs |
 | **procyon-decompiler** | 0.6.0-1 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.14.0-3 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
@@ -2079,7 +2079,7 @@
 | **rage** | 0.10.0 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 3.17.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 3.17.9 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.3-7 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-4 | fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
