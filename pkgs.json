@@ -11191,7 +11191,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20240922",
+    "Version": "20241022",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -12415,7 +12415,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.15.3",
+    "Version": "3.17.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -14965,7 +14965,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.7.1",
+    "Version": "3.8.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
