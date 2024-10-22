@@ -5,7 +5,7 @@
 292K   ├── index.html
 292K   ├── README.md
 288K   ├── termux.pkgs
-264K   ├── pkgs.txt
+268K   ├── pkgs.txt
 4.0K   ├── LICENSE
 4.0K   ├── INFO.md
 4.0K   └── CNAME
