@@ -286,7 +286,7 @@
 | **curl** | 8.10.1-1 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.7.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-4 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
-| **cvs** | 1:1.12.13-3 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
+| **cvs** | 1:1.12.13-4 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
 | **d8** | 33.0.1 | DEX bytecode compiler from Android SDK | https://developer.android.com/studio/command-line/d8 |
 | **daemonize** | 1.7.8-2 | Run a command as a Unix daemon | http://software.clapper.org/daemonize/ |
 | **dar** | 2.7.15-1 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |

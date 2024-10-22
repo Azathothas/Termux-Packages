@@ -1729,7 +1729,7 @@
   },
   {
     "Package": "cvs",
-    "Version": "1:1.12.13-3",
+    "Version": "1:1.12.13-4",
     "Description": "Concurrent Versions System",
     "Homepage": "https://www.nongnu.org/cvs/"
   },

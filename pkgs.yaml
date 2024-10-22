@@ -1151,7 +1151,7 @@
   Description: Fast-paced action strategy game focusing on high-level strategic planning
   Homepage: http://a-nikolaev.github.io/curseofwar/
 - Package: cvs
-  Version: 1:1.12.13-3
+  Version: 1:1.12.13-4
   Description: Concurrent Versions System
   Homepage: https://www.nongnu.org/cvs/
 - Package: d8
