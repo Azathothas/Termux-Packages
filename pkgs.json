@@ -15408,6 +15408,12 @@
     "Homepage": "https://www.wireguard.com"
   },
   {
+    "Package": "wireproxy",
+    "Version": "1.0.9",
+    "Description": "Wireguard client that exposes itself as a socks5 proxy",
+    "Homepage": "https://github.com/pufferffish/wireproxy"
+  },
+  {
     "Package": "wiz",
     "Version": "2022.06.02",
     "Description": "A high-level assembly language for writing homebrew software for retro console platforms",
