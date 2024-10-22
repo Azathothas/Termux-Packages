@@ -4939,11 +4939,11 @@
   Description: Static libraries for libpano13
   Homepage: https://panotools.sourceforge.net/
 - Package: libpaper
-  Version: 2.2.5
+  Version: 2.2.5-1
   Description: Library for handling paper characteristics (by @rrthomas)
   Homepage: https://github.com/rrthomas/psutils
 - Package: libpaper-static
-  Version: 2.2.5
+  Version: 2.2.5-1
   Description: Static libraries for libpaper
   Homepage: https://github.com/rrthomas/psutils
 - Package: libpcap
