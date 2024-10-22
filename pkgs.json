@@ -955,7 +955,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.44.1",
+    "Version": "1.44.2",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.136.3",
+    "Version": "0.136.4",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },

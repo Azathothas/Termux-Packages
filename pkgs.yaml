@@ -635,7 +635,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.44.1
+  Version: 1.44.2
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -2715,7 +2715,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.136.3
+  Version: 0.136.4
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin

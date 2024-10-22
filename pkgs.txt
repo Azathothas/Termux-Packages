@@ -157,7 +157,7 @@
  brainfuck-static  1:2.7.3  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
  brogue  1.14.1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20240606  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
- broot  1.44.1  A better way to navigate directories  https://github.com/Canop/broot 
+ broot  1.44.2  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.1.0  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  brotli-static  1.0.9-1  Static libraries for brotli  https://github.com/google/brotli 
  bsd-finger  0.17-1  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
@@ -677,7 +677,7 @@
  httrack-data  3.49.5  Platform-independent data for httrack  http://www.httrack.com 
  httrack-static  3.49.5  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-5  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
- hugo  0.136.3  A fast and flexible static site generator  https://gohugo.io/ 
+ hugo  0.136.4  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-3  Command line client for the imperial library of trantor  https://trantor.is/ 
  hunspell  1.7.2  Spell checker  https://hunspell.github.io 
  hunspell-en-us  20240129  American english dictionary for hunspell  https://hunspell.github.io 
