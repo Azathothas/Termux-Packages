@@ -234,7 +234,7 @@
  cloneit  20240728  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
  cloudflared  2024.10.0  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.2-3  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
- clvk  0.0.20241009.180347  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
+ clvk  0.0.20241021.225108  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
  cmake  3.30.5  Family of tools designed to build, test and package software  https://cmake.org/ 
  cmake-curses-gui  3.30.5  Curses based user interface for CMake (ccmake)  https://cmake.org/ 
  cmark  0.31.1  CommonMark parsing and rendering program  https://github.com/commonmark/cmark 
@@ -377,7 +377,7 @@
  eja  13.11.25-1  eja micro web server  https://github.com/eja/eja 
  electric-fence  2.2.7  Electric Fence (eFence) malloc memory debugger  https://elinux.org/Electric_Fence 
  electric-fence-static  2.2.7  Static libraries for electric-fence  https://elinux.org/Electric_Fence 
- electrum  4.5.6  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
+ electrum  4.5.7  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
  elfutils  0.191  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
  elinks  0.17.1.1  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
  elixir  1.17.3  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
@@ -1246,8 +1246,8 @@
  libplacebo  6.338.2-1  Reusable library for GPU-accelerated video/image rendering  http://libplacebo.org/ 
  libplist  2.6.0  A small portable C library to handle Apple Property List files in binary or XML format  https://libimobiledevice.org 
  libplist-static  2.6.0  Static libraries for libplist  https://libimobiledevice.org 
- libpluto  0.9.4-2  Shared library for the Pluto interpreter  https://plutolang.github.io/ 
- libpluto-static  0.9.4-2  Static libraries for libpluto  https://plutolang.github.io/ 
+ libpluto  0.9.5  Shared library for the Pluto interpreter  https://plutolang.github.io/ 
+ libpluto-static  0.9.5  Static libraries for libpluto  https://plutolang.github.io/ 
  libpng  1.6.44  Official PNG reference library  http://www.libpng.org/pub/png/libpng.html 
  libpng-static  1.6.44  Static libraries for libpng  http://www.libpng.org/pub/png/libpng.html 
  libpngwriter  0.7.0  C++ library for creating PNG images  http://pngwriter.sourceforge.net 
@@ -1931,7 +1931,7 @@
  pkgtop  2.5.1  Interactive package manager and resource monitor  https://github.com/orhun/pkgtop 
  plantuml  1.2024.7  Draws UML diagrams, using a simple and human readable text description  https://plantuml.com/ 
  play-audio  0.6-1  Simple command line audio player for Android  https://github.com/termux/play-audio 
- plutolang  0.9.4-2  A superset of Lua 5.4 with a focus on general-purpose programming.  https://plutolang.github.io/ 
+ plutolang  0.9.5  A superset of Lua 5.4 with a focus on general-purpose programming.  https://plutolang.github.io/ 
  plzip  1.11  A massively parallel lossless data compressor based on the lzlib compression library  http://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-1  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-1  PNG image optimising utility  https://pngquant.org 
