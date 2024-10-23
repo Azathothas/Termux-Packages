@@ -83,7 +83,7 @@
   Description: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability
   Homepage: https://github.com/FiloSottile/age
 - Package: agg
-  Version: 1.4.3
+  Version: 1.5.0
   Description: asciinema gif generator
   Homepage: https://github.com/asciinema/agg
 - Package: aha
@@ -1727,7 +1727,7 @@
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
-  Version: 2.2.2-p20240104-0
+  Version: 2.2.3-p20240913-0
   Description: Lightweight video thumbnailer that can be used by file managers
   Homepage: https://github.com/dirkvdb/ffmpegthumbnailer
 - Package: ffsend
@@ -2379,11 +2379,11 @@
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: gpac
-  Version: 2.2.1-3
+  Version: 2.4.0
   Description: An open-source multimedia framework focused on modularity and standards compliance
   Homepage: https://gpac.wp.imt.fr/
 - Package: gpac-static
-  Version: 2.2.1-3
+  Version: 2.4.0
   Description: Static libraries for gpac
   Homepage: https://gpac.wp.imt.fr/
 - Package: gperf
@@ -3887,11 +3887,11 @@
   Description: Static libraries for libffi
   Homepage: https://sourceware.org/libffi/
 - Package: libfinalcut
-  Version: 0.9.0
+  Version: 0.9.1
   Description: A C++ class library and widget toolkit for creating a text-based user interface
   Homepage: https://github.com/gansm/finalcut
 - Package: libfinalcut-static
-  Version: 0.9.0
+  Version: 0.9.1
   Description: Static libraries for libfinalcut
   Homepage: https://github.com/gansm/finalcut
 - Package: libfixposix
@@ -7187,7 +7187,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 23.20.2
+  Version: 23.20.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9355,7 +9355,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 16.4.3
+  Version: 16.4.6
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -10091,7 +10091,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.28
+  Version: 0.9.99.29
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
