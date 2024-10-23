@@ -4650,10 +4650,6 @@
   Version: 2.3.4-1
   Description: An extensible high performance math expression parser library written in C++
   Homepage: https://beltoforion.de/en/muparser
-- Package: libmusicbrainz
-  Version: 5.1.0-4
-  Description: The MusicBrainz Client Library
-  Homepage: https://musicbrainz.org/doc/libmusicbrainz
 - Package: libmypaint
   Version: 1.6.1-1
   Description: MyPaint brush engine library
@@ -9947,7 +9943,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.25
+  Version: 0.4.25-1
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
