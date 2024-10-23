@@ -13723,7 +13723,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.113.2",
+    "Version": "1.114.6",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
