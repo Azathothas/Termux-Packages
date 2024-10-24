@@ -3115,7 +3115,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.59.0",
+    "Version": "2.60.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -3469,7 +3469,7 @@
   },
   {
     "Package": "go-musicfox",
-    "Version": "4.5.5",
+    "Version": "4.5.6",
     "Description": "A netease music player in terminal.",
     "Homepage": "https://github.com/go-musicfox/go-musicfox"
   },
@@ -4087,7 +4087,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.136.4",
+    "Version": "0.136.5",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4627,7 +4627,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "18.0.2",
+    "Version": "18.0.2-1",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
@@ -7711,7 +7711,7 @@
   },
   {
     "Package": "librsvg",
-    "Version": "2.58.3",
+    "Version": "2.59.0",
     "Description": "Library to render SVG files using cairo",
     "Homepage": "https://wiki.gnome.org/action/show/Projects/LibRsvg"
   },
@@ -12685,7 +12685,7 @@
   },
   {
     "Package": "rip2",
-    "Version": "0.8.3",
+    "Version": "0.9.0",
     "Description": "A safe and ergonomic alternative to rm",
     "Homepage": "https://github.com/MilesCranmer/rip2"
   },
@@ -12859,7 +12859,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.7.0",
+    "Version": "0.7.1",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15157,7 +15157,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.33",
+    "Version": "0.9.99.34",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },

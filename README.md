@@ -529,7 +529,7 @@
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.59.0 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.60.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.2.5-1 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghc-libs** | 9.2.5-1 | The Glasgow Haskell Compiler libraries | https://www.haskell.org/ghc/ |
 | **ghc-libs-static** | 8.10.7-3 | Static libraries for ghc-libs | https://www.haskell.org/ghc/ |
@@ -588,7 +588,7 @@
 | **gnustep-make** | 2.9.2 | The GNUstep makefile package | http://www.gnustep.org |
 | **gnutls** | 3.8.5 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-3 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
-| **go-musicfox** | 4.5.5 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
+| **go-musicfox** | 4.5.6 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **goaccess** | 1.9.3 | An open source real-time web log analyzer and interactive viewer | http://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-2 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.80.1-1 | Uniform machine readable API | https://gi.readthedocs.io/ |
@@ -691,7 +691,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.136.4 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.136.5 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -781,7 +781,7 @@
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 17.1.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
-| **kakoune-lsp** | 18.0.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
+| **kakoune-lsp** | 18.0.2-1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20240919 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.4.0 | Key directory that maps social media identities to encryption keys | https://keybase.io |
@@ -1295,7 +1295,7 @@
 | **librnnoise-static** | 2021.03.12 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
 | **librocksdb** | 8.11.3 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
 | **librocksdb-static** | 8.11.3 | Static libraries for librocksdb | https://rocksdb.org/ |
-| **librsvg** | 2.58.3 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
+| **librsvg** | 2.59.0 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-2 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-1 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
@@ -2124,7 +2124,7 @@
 | **rig** | 1.11-1 | A program that generates fake identities | http://rig.sourceforge.net/ |
 | **rinetd** | 1:0.73-1 | A user-mode TCP port redirection server | https://github.com/samhocevar/rinetd |
 | **rip** | 0.13.1-1 | A command-line deletion tool focused on safety, ergonomics, and performance | https://github.com/nivekuil/rip |
-| **rip2** | 0.8.3 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
+| **rip2** | 0.9.0 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
 | **ripgrep** | 14.1.1 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
 | **ripgrep-all** | 1.0.0-alpha.5-2 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.8 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
@@ -2153,7 +2153,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.5 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.5 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.7.0 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.7.1 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.6 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2536,7 +2536,7 @@
 | **vlc-static** | 3.0.21-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.33 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.34 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20240708 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.298 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
