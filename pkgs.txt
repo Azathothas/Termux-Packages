@@ -1544,7 +1544,7 @@
  llvm-mingw-w64-ucrt  20241001  MinGW-w64 runtime for LLVM-MinGW  https://www.mingw-w64.org/ 
  llvm-tools  19.1.2  LLVM Development Tools  https://clang.llvm.org/ 
  llvmgold  19.1.2  LLVM gold plugin  https://clang.llvm.org/ 
- lnav  0.11.2-1  An advanced log file viewer for the small-scale  https://lnav.org/ 
+ lnav  0.12.2  An advanced log file viewer for the small-scale  https://lnav.org/ 
  lnd  0.17.0-beta-0  Lightning Network Daemon  https://github.com/lightningnetwork/lnd 
  logo-ls  2024.07.17  Modern ls command with vscode like File Icon and Git Integrations  https://github.com/Yash-Handa/logo-ls 
  logrotate  3.22.0  Simplify the administration of log files on a system which generates a lot of log files  https://github.com/logrotate/logrotate 
@@ -1620,7 +1620,7 @@
  mdbook-linkcheck  0.7.7  A backend for mdbook which will check your links for you  https://michael-f-bryan.github.io/mdbook-linkcheck/ 
  mdbook-mermaid  0.14.0  A preprocessor for mdbook to add mermaid support  https://github.com/badboy/mdbook-mermaid 
  mdbook-open-on-gh  2.4.3  A preprocessor for mdbook to add a open-on-github link on every page  https://github.com/badboy/mdbook-open-on-gh 
- mdbook-pikchr  0.1.7  A mdbook preprocessor to render pikchr code blocks as images in your book  https://github.com/podsvirov/mdbook-pikchr 
+ mdbook-pikchr  0.1.8  A mdbook preprocessor to render pikchr code blocks as images in your book  https://github.com/podsvirov/mdbook-pikchr 
  mdbook-plantuml  0.8.0-1  mdBook preprocessor to render PlantUML code blocks as images in your book  https://github.com/sytsereitsma/mdbook-plantuml 
  mdbook-presentation-preprocessor  0.3.1-1  A preprocessor for utilizing an MDBook as slides for a presentation  https://github.com/FreeMasen/mdbook-presentation-preprocessor 
  mdbook-svgbob  0.2.1  SvgBob mdbook preprocessor which swaps code-blocks with neat SVG  https://github.com/boozook/mdbook-svgbob 
@@ -1888,7 +1888,7 @@
  pcregrep  8.45-1  A grep with Perl-compatible regular expressions  https://www.pcre.org 
  pdf2djvu  0.9.19-5  PDF to DjVu converter  https://github.com/jwilk/pdf2djvu 
  pdf2svg  0.2.3-11  A PDF to SVG converter  http://www.cityinthesky.co.uk/opensource/pdf2svg/ 
- pdfcpu  0.8.1  A PDF processor written in Go  https://pdfcpu.io 
+ pdfcpu  0.9.0  A PDF processor written in Go  https://pdfcpu.io 
  pdfgrep  2.2.0-3  Command line utility to search text in PDF files  https://pdfgrep.org/ 
  pdftk  3.3.3-2  A simple tool for doing everyday things with PDF documents  https://gitlab.com/pdftk-java/pdftk 
  peaclock  0.4.3-5  A responsive and customizable clock, timer, and stopwatch for the terminal.  https://github.com/octobanana/peaclock 
@@ -1992,13 +1992,13 @@
  pypy3-tests  7.3.15-3  Test files for PyPy 3  https://pypy.org 
  pypy3-tkinter  7.3.15-3  Tkinter support for PyPy 3  https://pypy.org 
  pystring  1.1.4  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
- python  3.12.7  Python 3 programming language intended to enable clear programs  https://python.org/ 
+ python  3.12.7-1  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.46.1.0-1  Another Python SQLite Wrapper  https://github.com/rogerbinns/apsw/ 
  python-apt  2.9.0-1  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  4.2.0-1  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-contourpy  1.3.0-1  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  42.0.8-1  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
- python-ensurepip-wheels  3.12.7  Wheels for Python ensurepip  https://python.org/ 
+ python-ensurepip-wheels  3.12.7-1  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.1.1-1  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.67.0  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 
  python-lameenc  1.7.0-1  Python bindings around the LAME encoder  https://github.com/chrisstaite/lameenc 
@@ -2014,8 +2014,8 @@
  python-pynvim  0.5.0-1  Python client for Neovim  https://github.com/neovim/pynvim 
  python-sabyenc3  8.2.5-1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-skia-pathops  0.8.0-1  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
- python-static  3.12.7  Static libraries for python  https://python.org/ 
- python-tkinter  3.12.7  Tkinter support for Python 3  https://python.org/ 
+ python-static  3.12.7-1  Static libraries for python  https://python.org/ 
+ python-tkinter  3.12.7-1  Tkinter support for Python 3  https://python.org/ 
  python-tldp  0.7.5-5  Tools for publishing from TLDP sources  https://github.com/tLDP/python-tldp 
  python-torch  2.5.0  Tensors and Dynamic neural networks in Python  https://pytorch.org/ 
  python-torch-static  2.5.0  Static libraries for python-torch  https://pytorch.org/ 
@@ -2066,7 +2066,7 @@
  rage  0.10.0  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  3.17.9  This is the command line interface for Railway  https://railway.app 
+ railway-cli  3.17.10  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.3-7  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-4  fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2484,7 +2484,7 @@
  util-linux-static  2.40.2-1  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-1  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.4.25-1  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.4.26  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.27-1  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.21.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.17  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 

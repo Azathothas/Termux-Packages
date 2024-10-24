@@ -6183,7 +6183,7 @@
   Description: LLVM gold plugin
   Homepage: https://clang.llvm.org/
 - Package: lnav
-  Version: 0.11.2-1
+  Version: 0.12.2
   Description: An advanced log file viewer for the small-scale
   Homepage: https://lnav.org/
 - Package: lnd
@@ -6487,7 +6487,7 @@
   Description: A preprocessor for mdbook to add a open-on-github link on every page
   Homepage: https://github.com/badboy/mdbook-open-on-gh
 - Package: mdbook-pikchr
-  Version: 0.1.7
+  Version: 0.1.8
   Description: A mdbook preprocessor to render pikchr code blocks as images in your book
   Homepage: https://github.com/podsvirov/mdbook-pikchr
 - Package: mdbook-plantuml
@@ -7559,7 +7559,7 @@
   Description: A PDF to SVG converter
   Homepage: http://www.cityinthesky.co.uk/opensource/pdf2svg/
 - Package: pdfcpu
-  Version: 0.8.1
+  Version: 0.9.0
   Description: A PDF processor written in Go
   Homepage: https://pdfcpu.io
 - Package: pdfgrep
@@ -7975,7 +7975,7 @@
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
-  Version: 3.12.7
+  Version: 3.12.7-1
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
@@ -7999,7 +7999,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
-  Version: 3.12.7
+  Version: 3.12.7-1
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
@@ -8063,11 +8063,11 @@
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
-  Version: 3.12.7
+  Version: 3.12.7-1
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tkinter
-  Version: 3.12.7
+  Version: 3.12.7-1
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp
@@ -8271,7 +8271,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 3.17.9
+  Version: 3.17.10
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9943,7 +9943,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.4.25-1
+  Version: 0.4.26
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
