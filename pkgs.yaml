@@ -6927,23 +6927,23 @@
   Description: An ncurses Spotify client written in Rust
   Homepage: https://github.com/hrkfdn/ncspot
 - Package: ncurses
-  Version: 6.5.20240831-1
+  Version: 6.5.20240831-2
   Description: Library for text-based user interfaces in a terminal-independent manner
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-static
-  Version: 6.5.20240831-1
+  Version: 6.5.20240831-2
   Description: Static libraries for ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs
-  Version: 6.5.20240831-1
+  Version: 6.5.20240831-2
   Description: Libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-ui-libs-static
-  Version: 6.5.20240831-1
+  Version: 6.5.20240831-2
   Description: Static libraries for terminal user interfaces based on ncurses
   Homepage: https://invisible-island.net/ncurses/
 - Package: ncurses-utils
-  Version: 6.5.20240831-1
+  Version: 6.5.20240831-2
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
@@ -8454,6 +8454,10 @@
   Version: 0.13.1-1
   Description: A command-line deletion tool focused on safety, ergonomics, and performance
   Homepage: https://github.com/nivekuil/rip
+- Package: rip2
+  Version: 0.8.3
+  Description: A safe and ergonomic alternative to rm
+  Homepage: https://github.com/MilesCranmer/rip2
 - Package: ripgrep
   Version: 14.1.1
   Description: Search tool like grep and The Silver Searcher
