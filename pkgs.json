@@ -139,7 +139,7 @@
   },
   {
     "Package": "aichat",
-    "Version": "0.22.0",
+    "Version": "0.23.0",
     "Description": "A powerful chatgpt cli",
     "Homepage": "https://github.com/sigoden/aichat"
   },
@@ -1405,7 +1405,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2024.10.0",
+    "Version": "2024.10.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -11353,7 +11353,7 @@
   },
   {
     "Package": "pdfcpu",
-    "Version": "0.9.0",
+    "Version": "0.9.1",
     "Description": "A PDF processor written in Go",
     "Homepage": "https://pdfcpu.io"
   },
@@ -15151,7 +15151,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.29",
+    "Version": "0.9.99.33",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },

@@ -91,7 +91,7 @@
   Description: Converts ANSI escape sequences of a unix terminal to HTML code
   Homepage: https://github.com/theZiz/aha
 - Package: aichat
-  Version: 0.22.0
+  Version: 0.23.0
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
@@ -935,7 +935,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2024.10.0
+  Version: 2024.10.1
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -7567,7 +7567,7 @@
   Description: A PDF to SVG converter
   Homepage: http://www.cityinthesky.co.uk/opensource/pdf2svg/
 - Package: pdfcpu
-  Version: 0.9.0
+  Version: 0.9.1
   Description: A PDF processor written in Go
   Homepage: https://pdfcpu.io
 - Package: pdfgrep
@@ -10099,7 +10099,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.29
+  Version: 0.9.99.33
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
