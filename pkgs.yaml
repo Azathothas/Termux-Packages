@@ -2839,7 +2839,7 @@
   Description: C language source code formatting program
   Homepage: https://www.gnu.org/software/indent/
 - Package: inetutils
-  Version: 2.4-1
+  Version: 2.4-2
   Description: Collection of common network programs
   Homepage: https://www.gnu.org/software/inetutils/
 - Package: influxdb
@@ -10035,15 +10035,15 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.0700
+  Version: 9.1.0800
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: vim-python
-  Version: 9.1.0700-1
+  Version: 9.1.0800
   Description: Vi IMproved - enhanced vi editor - with python support
   Homepage: https://www.vim.org
 - Package: vim-runtime
-  Version: 9.1.0700
+  Version: 9.1.0800
   Description: Vi IMproved - Runtime files
   Homepage: https://www.vim.org
 - Package: virglrenderer
