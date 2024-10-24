@@ -1897,7 +1897,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.60.0",
+    "Version": "0.61.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -2248,6 +2248,18 @@
     "Version": "3.8.10",
     "Description": "Line based editor, browser, and mail client",
     "Homepage": "https://edbrowse.org/"
+  },
+  {
+    "Package": "editorconfig-core-c",
+    "Version": "0.12.9",
+    "Description": "EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)",
+    "Homepage": "https://editorconfig.org/"
+  },
+  {
+    "Package": "editorconfig-core-c-static",
+    "Version": "0.12.9",
+    "Description": "Static libraries for editorconfig-core-c",
+    "Homepage": "https://editorconfig.org/"
   },
   {
     "Package": "eigen",

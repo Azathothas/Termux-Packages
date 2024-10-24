@@ -314,7 +314,7 @@
  dialog-static  1.3-20240307-0  Static libraries for dialog  https://invisible-island.net/dialog/ 
  dictd  1.13.1  Online dictionary client and server  https://sourceforge.net/projects/dict/ 
  diffstat  1.66  Displays a histogram of changes to a file  https://invisible-island.net/diffstat/diffstat.html 
- difftastic  0.60.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
+ difftastic  0.61.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
  diffutils  3.10  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
  dirb  2.22-4  Web Directory Fuzzer  http://dirb.sourceforge.net/ 
  direnv  2.35.0  Environment switcher for shell  https://github.com/direnv/direnv 
@@ -373,6 +373,8 @@
  ecj  1:4.12-5  Eclipse Compiler for Java  https://www.eclipse.org/jdt/core/ 
  ed  1.20.2  Classic UNIX line editor  https://www.gnu.org/software/ed/ 
  edbrowse  3.8.10  Line based editor, browser, and mail client  https://edbrowse.org/ 
+ editorconfig-core-c  0.12.9  EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)  https://editorconfig.org/ 
+ editorconfig-core-c-static  0.12.9  Static libraries for editorconfig-core-c  https://editorconfig.org/ 
  eigen  3.4.0  Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms  http://eigen.tuxfamily.org 
  eja  13.11.25-1  eja micro web server  https://github.com/eja/eja 
  electric-fence  2.2.7  Electric Fence (eFence) malloc memory debugger  https://elinux.org/Electric_Fence 
