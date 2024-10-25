@@ -2850,12 +2850,6 @@
     "Homepage": "https://github.com/nowsecure/fsmon"
   },
   {
-    "Package": "fte",
-    "Version": "20110708-1",
-    "Description": "A free text editor for developers",
-    "Homepage": "http://fte.sourceforge.net/"
-  },
-  {
     "Package": "fwknop",
     "Version": "2.6.11",
     "Description": "fwknop: Single Packet Authorization > Port Knocking",
@@ -8602,6 +8596,18 @@
     "Version": "0.1.3",
     "Description": "Static libraries for libvo-amrwbenc",
     "Homepage": "https://sourceforge.net/projects/opencore-amr"
+  },
+  {
+    "Package": "libvoikko",
+    "Version": "4.3.2",
+    "Description": "A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language",
+    "Homepage": "http://voikko.sourceforge.net"
+  },
+  {
+    "Package": "libvoikko-static",
+    "Version": "4.3.2",
+    "Description": "Static libraries for libvoikko",
+    "Homepage": "http://voikko.sourceforge.net"
   },
   {
     "Package": "libvorbis",
@@ -15097,7 +15103,7 @@
   },
   {
     "Package": "virglrenderer-android",
-    "Version": "1.0.1-2",
+    "Version": "1.0.1-3",
     "Description": "A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android",
     "Homepage": "https://virgil3d.github.io/"
   },
@@ -15553,7 +15559,7 @@
   },
   {
     "Package": "xmlto",
-    "Version": "0.0.29",
+    "Version": "0.0.29-1",
     "Description": "Convert xml to many other formats",
     "Homepage": "https://pagure.io/xmlto/"
   },
