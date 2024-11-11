@@ -2479,7 +2479,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 14.0.9
+  Version: 14.1.0
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -5387,7 +5387,7 @@
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
-  Version: 1.5.3
+  Version: 1.5.4
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libssh
@@ -8615,7 +8615,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20241104"
+  Version: "20241111"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -9087,7 +9087,7 @@
   Description: A Free SOCKS proxy server
   Homepage: https://sourceforge.net/projects/socks-relay
 - Package: srt-tools
-  Version: 1.5.3
+  Version: 1.5.4
   Description: Command-line tools for libsrt
   Homepage: https://github.com/Haivision/srt
 - Package: srt2vobsub

@@ -618,7 +618,7 @@
 | **grex** | 1.4.5 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 14.0.9 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 14.1.0 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.16-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
@@ -1345,7 +1345,7 @@
 | **libsqlite** | 3.46.1 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
 | **libsqlite-static** | 3.46.1 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.46.1 | tcl bindings for SQLite | https://www.sqlite.org |
-| **libsrt** | 1.5.3 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
+| **libsrt** | 1.5.4 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.10.6 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1 | Static libraries for libssh2 | https://www.libssh2.org |
@@ -2152,7 +2152,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.7 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.82.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20241104 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20241111 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.70.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.82.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.82.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2270,7 +2270,7 @@
 | **squid** | 6.12 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.16 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-7 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay |
-| **srt-tools** | 1.5.3 | Command-line tools for libsrt | https://github.com/Haivision/srt |
+| **srt-tools** | 1.5.4 | Command-line tools for libsrt | https://github.com/Haivision/srt |
 | **srt2vobsub** | 1.0-4 | A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file | https://srt2vobsub.sourceforge.io/ |
 | **ssdb** | 1.9.9-2 | A Redis compatible NoSQL database stored on disk | https://ssdb.io/ |
 | **ssdeep** | 2.14.1-1 | A program for computing context triggered piecewise hashes (CTPH) | https://ssdeep-project.github.io/ssdeep/ |

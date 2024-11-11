@@ -3721,7 +3721,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "14.0.9",
+    "Version": "14.1.0",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -8083,7 +8083,7 @@
   },
   {
     "Package": "libsrt",
-    "Version": "1.5.3",
+    "Version": "1.5.4",
     "Description": "Secure Reliable Transport (SRT) Protocol",
     "Homepage": "https://github.com/Haivision/srt"
   },
@@ -12925,7 +12925,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20241104",
+    "Version": "20241111",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
@@ -13633,7 +13633,7 @@
   },
   {
     "Package": "srt-tools",
-    "Version": "1.5.3",
+    "Version": "1.5.4",
     "Description": "Command-line tools for libsrt",
     "Homepage": "https://github.com/Haivision/srt"
   },
