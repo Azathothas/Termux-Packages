@@ -314,7 +314,7 @@
 | **dialog** | 1.3-20240307-0 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
 | **dialog-static** | 1.3-20240307-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
 | **dictd** | 1.13.1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
-| **diffstat** | 1.66 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
+| **diffstat** | 1.67 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
 | **difftastic** | 0.61.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.10 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-4 | Web Directory Fuzzer | http://dirb.sourceforge.net/ |
@@ -478,7 +478,7 @@
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 35.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.56.1 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.56.2 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.82.0-1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.3-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -606,7 +606,7 @@
 | **gpgv** | 2.4.5-3 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.17.3 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:8.10.2 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:8.11 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:11.3.0-1 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-2 | Collection of image processing tools | http://www.graphicsmagick.org/ |
@@ -1030,8 +1030,8 @@
 | **libhangul-static** | 0.1.0-p20230415-2 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
 | **libhdf5** | 1.14.4.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.19.2 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.19.2 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.19.3 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.19.3 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libheif-static** | 1.15.2 | Static libraries for libheif | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.2.0 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhiredis-static** | 1.1.0 | Static libraries for libhiredis | https://redis.com/lp/hiredis |
@@ -1802,7 +1802,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 24.2.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 24.3.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2187,9 +2187,9 @@
 | **scrypt** | 1.3.2-3 | scrypt KDF library and file encryption tool | https://www.tarsnap.com/scrypt.html |
 | **sd** | 1.0.0-1 | An intuitive find & replace CLI | https://github.com/chmln/sd |
 | **sdcv** | 0.5.5 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
-| **seafile-client** | 9.0.9 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
-| **seafile-client-static** | 9.0.9 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 2.2.2 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seafile-client** | 9.0.10 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
+| **seafile-client-static** | 9.0.10 | Static libraries for seafile-client | https://seafile.com |
+| **seanime** | 2.2.3 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-7 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-5 | Secure file, disk, swap, memory erasure utilities | http://www.thc.org/ |
 | **sed** | 4.9-1 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |

@@ -1263,7 +1263,7 @@
   Description: Online dictionary client and server
   Homepage: https://sourceforge.net/projects/dict/
 - Package: diffstat
-  Version: "1.66"
+  Version: "1.67"
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
@@ -1919,7 +1919,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.56.1
+  Version: 0.56.2
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -2431,7 +2431,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:8.10.2
+  Version: "1:8.11"
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -4127,11 +4127,11 @@
   Description: Static libraries for libhdf5
   Homepage: https://portal.hdfgroup.org/display/support
 - Package: libheif
-  Version: 1.19.2
+  Version: 1.19.3
   Description: HEIF (HEIC/AVIF) image encoding and decoding library
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-progs
-  Version: 1.19.2
+  Version: 1.19.3
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-static
@@ -7215,7 +7215,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.2.2
+  Version: 24.3.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8755,15 +8755,15 @@
   Description: StarDict Console Version
   Homepage: http://dushistov.github.io/sdcv/
 - Package: seafile-client
-  Version: 9.0.9
+  Version: 9.0.10
   Description: Seafile is a file syncing and sharing software with file encryption and group sharing
   Homepage: https://seafile.com
 - Package: seafile-client-static
-  Version: 9.0.9
+  Version: 9.0.10
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 2.2.2
+  Version: 2.2.3
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
