@@ -9235,7 +9235,7 @@
   },
   {
     "Package": "lit",
-    "Version": "3.8.5-2",
+    "Version": "3.8.5-3",
     "Description": "Toolkit for developing, sharing, and running luvit/lua programs and libraries.",
     "Homepage": "https://luvit.io"
   },
@@ -9493,7 +9493,7 @@
   },
   {
     "Package": "luvit",
-    "Version": "2.18.1",
+    "Version": "2.18.1-1",
     "Description": "Asynchronous I/O for Lua",
     "Homepage": "https://luvit.io"
   },
