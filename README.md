@@ -867,7 +867,7 @@
 | **libatomic-ops-static** | 7.8.2 | Static libraries for libatomic-ops | https://github.com/ivmai/libatomic_ops |
 | **libbcprov-java** | 1.79 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.40.2-2 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
-| **libblocksruntime** | 1:5.10 | LLVM Blocks runtime library | https://github.com/apple/swift-corelibs-libdispatch |
+| **libblocksruntime** | 1:6.0.2 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6 | Static libraries for libblosc | https://www.blosc.org |
 | **libbluray** | 1.3.4-1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
@@ -944,7 +944,7 @@
 | **libdeflate** | 1.22 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
 | **libdeflate-static** | 1.22 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
 | **libdevil** | 1.8.0-6 | A cross-platform image library utilizing a simple syntax | https://openil.sourceforge.net/ |
-| **libdispatch** | 1:5.10 | The libdispatch project, for concurrency on multicore hardware | https://github.com/apple/swift-corelibs-libdispatch |
+| **libdispatch** | 1:6.0.2 | The libdispatch project, for concurrency on multicore hardware | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libdmtx** | 0.7.7 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.7 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
 | **libdrm** | 2.4.123 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
@@ -1554,7 +1554,7 @@
 | **littlecms** | 2.16 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.16 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.16 | Color management utilities | http://www.littlecms.com/ |
-| **llbuild** | 5.10 | A low-level build system, used by the Swift Package Manager | https://github.com/apple/swift-llbuild |
+| **llbuild** | 6.0.2 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 19.1.3 | LLVM-based linker | https://clang.llvm.org/ |
 | **llvm** | 19.1.3 | LLVM modular compiler and toolchain executables | https://clang.llvm.org/ |
 | **llvm-mingw-w64** | 20241030 | MinGW-w64 toolchain based on LLVM | https://github.com/mstorsjo/llvm-mingw |
@@ -2325,12 +2325,12 @@
 | **svt-av1** | 2.3.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 9.3.14 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
-| **swift-runtime-aarch64** | 5.10.1-1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
-| **swift-runtime-arm** | 5.10.1-1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
-| **swift-runtime-x86-64** | 5.10.1-1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
-| **swift-sdk-aarch64** | 5.10.1-1 | Swift SDK for Android AArch64 | https://swift.org/ |
-| **swift-sdk-arm** | 5.10.1-1 | Swift SDK for Android armv7 | https://swift.org/ |
-| **swift-sdk-x86-64** | 5.10.1-1 | Swift SDK for Android x86_64 | https://swift.org/ |
+| **swift-runtime-aarch64** | 6.0.2 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
+| **swift-runtime-arm** | 6.0.2 | Swift runtime libraries for Android armv7 | https://swift.org/ |
+| **swift-runtime-x86-64** | 6.0.2 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
+| **swift-sdk-aarch64** | 6.0.2 | Swift SDK for Android AArch64 | https://swift.org/ |
+| **swift-sdk-arm** | 6.0.2 | Swift SDK for Android armv7 | https://swift.org/ |
+| **swift-sdk-x86-64** | 6.0.2 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2024.05.08 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.3.0 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.9.0 | Software TPM Emulator | https://github.com/stefanberger/swtpm |

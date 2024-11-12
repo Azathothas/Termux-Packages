@@ -5143,9 +5143,9 @@
   },
   {
     "Package": "libblocksruntime",
-    "Version": "1:5.10",
+    "Version": "1:6.0.2",
     "Description": "LLVM Blocks runtime library",
-    "Homepage": "https://github.com/apple/swift-corelibs-libdispatch"
+    "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
   {
     "Package": "libblosc",
@@ -5605,9 +5605,9 @@
   },
   {
     "Package": "libdispatch",
-    "Version": "1:5.10",
+    "Version": "1:6.0.2",
     "Description": "The libdispatch project, for concurrency on multicore hardware",
-    "Homepage": "https://github.com/apple/swift-corelibs-libdispatch"
+    "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
   {
     "Package": "libdmtx",
@@ -9265,9 +9265,9 @@
   },
   {
     "Package": "llbuild",
-    "Version": "5.10",
+    "Version": "6.0.2",
     "Description": "A low-level build system, used by the Swift Package Manager",
-    "Homepage": "https://github.com/apple/swift-llbuild"
+    "Homepage": "https://github.com/swiftlang/swift-llbuild"
   },
   {
     "Package": "lld",
@@ -13891,37 +13891,37 @@
   },
   {
     "Package": "swift-runtime-aarch64",
-    "Version": "5.10.1-1",
+    "Version": "6.0.2",
     "Description": "Swift runtime libraries for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-arm",
-    "Version": "5.10.1-1",
+    "Version": "6.0.2",
     "Description": "Swift runtime libraries for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-x86-64",
-    "Version": "5.10.1-1",
+    "Version": "6.0.2",
     "Description": "Swift runtime libraries for Android x86_64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-aarch64",
-    "Version": "5.10.1-1",
+    "Version": "6.0.2",
     "Description": "Swift SDK for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-arm",
-    "Version": "5.10.1-1",
+    "Version": "6.0.2",
     "Description": "Swift SDK for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-x86-64",
-    "Version": "5.10.1-1",
+    "Version": "6.0.2",
     "Description": "Swift SDK for Android x86_64",
     "Homepage": "https://swift.org/"
   },
