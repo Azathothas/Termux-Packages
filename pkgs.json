@@ -13771,7 +13771,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.114.6",
+    "Version": "1.115.5",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -15349,7 +15349,7 @@
   },
   {
     "Package": "websocat",
-    "Version": "1.13.0",
+    "Version": "1.14.0",
     "Description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
     "Homepage": "https://github.com/vi/websocat"
   },

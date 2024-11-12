@@ -9179,7 +9179,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.114.6
+  Version: 1.115.5
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10231,7 +10231,7 @@
   Description: WebM GDK Pixbuf Loader library
   Homepage: https://github.com/aruiz/webp-pixbuf-loader
 - Package: websocat
-  Version: 1.13.0
+  Version: 1.14.0
   Description: Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
   Homepage: https://github.com/vi/websocat
 - Package: websocketd
