@@ -181,19 +181,19 @@
   },
   {
     "Package": "alsa-lib",
-    "Version": "1.2.12",
+    "Version": "1.2.13",
     "Description": "The Advanced Linux Sound Architecture (ALSA) - library",
     "Homepage": "https://www.alsa-project.org"
   },
   {
     "Package": "alsa-utils",
-    "Version": "1.2.12",
+    "Version": "1.2.13",
     "Description": "The Advanced Linux Sound Architecture (ALSA) - utils",
     "Homepage": "https://www.alsa-project.org"
   },
   {
     "Package": "alsa-utils-static",
-    "Version": "1.2.12",
+    "Version": "1.2.13",
     "Description": "Static libraries for alsa-utils",
     "Homepage": "https://www.alsa-project.org"
   },
@@ -8683,13 +8683,13 @@
   },
   {
     "Package": "libwayland",
-    "Version": "1.23.1",
+    "Version": "1.23.1-1",
     "Description": "Wayland protocol library",
     "Homepage": "https://wayland.freedesktop.org/"
   },
   {
     "Package": "libwayland-cross-scanner",
-    "Version": "1.23.1",
+    "Version": "1.23.1-1",
     "Description": "wayland-scanner for host (NOT for Termux)",
     "Homepage": "https://wayland.freedesktop.org/"
   },
@@ -14773,7 +14773,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "7.0.2",
+    "Version": "7.0.3",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },
