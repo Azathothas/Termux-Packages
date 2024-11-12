@@ -1280,7 +1280,7 @@
  libresolv-wrapper  1.1.7-4  A wrapper for DNS name resolving or DNS faking  https://cwrap.org/resolv_wrapper.html 
  libretls  3.8.1  libtls for OpenSSL  https://git.causal.agency/libretls/about/ 
  libretls-static  3.8.1  Static libraries for libretls  https://git.causal.agency/libretls/about/ 
- librime  1.11.2  A modular, extensible input method engine in cross-platform C++ code  https://rime.im/ 
+ librime  1.12.0  A modular, extensible input method engine in cross-platform C++ code  https://rime.im/ 
  librinutils  0.10.3  A C11 / gnu11 utilities C library  https://github.com/shlomif/rinutils 
  librnnoise  2021.03.12  RNN-based noise suppression  https://jmvalin.ca/demo/rnnoise/ 
  librnnoise-static  2021.03.12  Static libraries for librnnoise  https://jmvalin.ca/demo/rnnoise/ 

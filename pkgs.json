@@ -7693,7 +7693,7 @@
   },
   {
     "Package": "librime",
-    "Version": "1.11.2",
+    "Version": "1.12.0",
     "Description": "A modular, extensible input method engine in cross-platform C++ code",
     "Homepage": "https://rime.im/"
   },
