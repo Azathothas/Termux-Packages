@@ -703,7 +703,7 @@
 | **hunspell-static** | 1.7.2 | Static libraries for hunspell | https://hunspell.github.io |
 | **hut** | 0.6.0 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
 | **hydroxide** | 0.2.29 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
-| **hyperfine** | 1.18.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
+| **hyperfine** | 1.19.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.9.3 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
 | **i2pd** | 2.54.0 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
 | **i2pd-static** | 2.54.0 | Static libraries for i2pd | https://i2pd.website/ |

@@ -4159,7 +4159,7 @@
   },
   {
     "Package": "hyperfine",
-    "Version": "1.18.0",
+    "Version": "1.19.0",
     "Description": "A command-line benchmarking tool",
     "Homepage": "https://github.com/sharkdp/hyperfine"
   },
