@@ -2975,7 +2975,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.71.3
+  Version: 2.71.4
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -4979,9 +4979,9 @@
   Description: Static libraries for libpipeline
   Homepage: http://libpipeline.nongnu.org/
 - Package: libpixman
-  Version: 0.43.4
+  Version: 0.44.0
   Description: Low-level library for pixel manipulation
-  Homepage: http://www.pixman.org/
+  Homepage: https://www.pixman.org/
 - Package: libpixman-static
   Version: 0.42.2
   Description: Static libraries for libpixman
@@ -7215,7 +7215,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.3.0
+  Version: 24.4.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -10267,7 +10267,7 @@
   Description: weather app for the terminal
   Homepage: https://github.com/schachmat/wego
 - Package: wget
-  Version: 1.24.5
+  Version: 1.25.0
   Description: Commandline tool for retrieving files using HTTP, HTTPS and FTP
   Homepage: https://www.gnu.org/software/wget/
 - Package: wget2
