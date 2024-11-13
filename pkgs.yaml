@@ -1727,11 +1727,11 @@
   Description: A fast, simple, recursive content discovery tool written in Rust
   Homepage: https://github.com/epi052/feroxbuster
 - Package: fetchmail
-  Version: 6.5.0
+  Version: 6.5.1
   Description: A remote-mail retrieval utility
   Homepage: https://www.fetchmail.info/
 - Package: fetchmailconf
-  Version: 6.5.0
+  Version: 6.5.1
   Description: A GUI configurator for generating fetchmail configuration files
   Homepage: https://www.fetchmail.info/
 - Package: fff
@@ -6271,7 +6271,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.12.0
+  Version: 3.13.0
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -7159,7 +7159,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.99.1
+  Version: 0.100.0
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nwipe
@@ -7771,7 +7771,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.22.23
+  Version: 0.22.24
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8955,15 +8955,15 @@
   Description: SNMP trap translator
   Homepage: http://www.snmptt.org/
 - Package: snowflake
-  Version: 2.9.2
+  Version: 2.10.1
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-client
-  Version: 2.9.2
+  Version: 2.10.1
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Client)
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-proxy
-  Version: 2.9.2
+  Version: 2.10.1
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
   Homepage: https://snowflake.torproject.org/
 - Package: socat
