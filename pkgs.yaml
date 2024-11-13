@@ -1143,7 +1143,7 @@
   Description: Static libraries for cups
   Homepage: https://www.cups.org/
 - Package: curl
-  Version: 8.11.0
+  Version: 8.11.0-1
   Description: Command line tool for transferring data with URL syntax
   Homepage: https://curl.se/
 - Package: curlie
@@ -3663,11 +3663,11 @@
   Description: Static libraries for libcunit
   Homepage: https://sourceforge.net/projects/cunit/
 - Package: libcurl
-  Version: 8.11.0
+  Version: 8.11.0-1
   Description: Easy-to-use client-side URL transfer library
   Homepage: https://curl.se/
 - Package: libcurl-static
-  Version: 8.11.0
+  Version: 8.11.0-1
   Description: Static libraries for libcurl
   Homepage: https://curl.se/
 - Package: libcwidget
@@ -9335,7 +9335,7 @@
   Description: Shell command wrapping Taskwarrior commands
   Homepage: https://taskwarrior.org
 - Package: taskwarrior
-  Version: 3.1.0
+  Version: 3.2.0
   Description: Utility for managing your TODO list
   Homepage: https://taskwarrior.org
 - Package: tcc
