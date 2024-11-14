@@ -653,7 +653,7 @@
 | **helix** | 24.07-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 24.07-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 3.16.2 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 3.16.3 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.1.0 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-6 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
@@ -721,7 +721,7 @@
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
 | **iperf3** | 3.17.1 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.17.1 | Static libraries for iperf3 | https://github.com/esnet/iperf |
-| **ipfs** | 0.31.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **ipfs** | 0.32.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.11.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.2.1 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
@@ -1110,8 +1110,8 @@
 | **liblua53-static** | 5.3.6 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.7 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.7 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1727870382 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1727870382 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1731485912 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1731485912 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.10.0 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.6.3 | XZ-format compression library | https://tukaani.org/xz/ |
 | **liblzma-static** | 5.6.3 | Static libraries for liblzma | https://tukaani.org/xz/ |
@@ -1576,7 +1576,7 @@
 | **lua53** | 5.3.6 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua54** | 5.4.7 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1727870382 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1731485912 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.11.1 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.48.0-2-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 20241009 | A project in-between luv and luvit. | https://luvit.io |
@@ -2598,7 +2598,7 @@
 | **xmlstarlet** | 1.6.1-6 | Command line XML toolkit | https://xmlstar.sourceforge.net/ |
 | **xmlto** | 0.0.29-1 | Convert xml to many other formats | https://pagure.io/xmlto/ |
 | **xmppc** | 0.1.2-2 | Command Line Interface Tool for XMPP | https://codeberg.org/Anoxinon_e.V./xmppc |
-| **xorg-util-macros** | 1.20.1 | X.Org Autotools macros | https://xorg.freedesktop.org/ |
+| **xorg-util-macros** | 1.20.2 | X.Org Autotools macros | https://xorg.freedesktop.org/ |
 | **xorgproto** | 2024.1 | X.Org X11 Protocol headers | https://xorg.freedesktop.org/ |
 | **xorriso** | 1:1.5.7-2 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
 | **xpup** | 2021.12.26-3 | pup for XML | https://github.com/ericchiang/xpup |

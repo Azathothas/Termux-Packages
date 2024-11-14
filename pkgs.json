@@ -3931,7 +3931,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.16.2",
+    "Version": "3.16.3",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -4339,7 +4339,7 @@
   },
   {
     "Package": "ipfs",
-    "Version": "0.31.0",
+    "Version": "0.32.0",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -6673,13 +6673,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1727870382",
+    "Version": "1:2.1.1731485912",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1727870382",
+    "Version": "1:2.1.1731485912",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -9469,7 +9469,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1727870382",
+    "Version": "1:2.1.1731485912",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -15601,7 +15601,7 @@
   },
   {
     "Package": "xorg-util-macros",
-    "Version": "1.20.1",
+    "Version": "1.20.2",
     "Description": "X.Org Autotools macros",
     "Homepage": "https://xorg.freedesktop.org/"
   },
