@@ -2467,7 +2467,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.7",
+    "Version": "0.20.8",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -4735,7 +4735,7 @@
   },
   {
     "Package": "lastpass-cli",
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "Description": "LastPass command line interface tool",
     "Homepage": "https://lastpass.com/"
   },
@@ -10825,7 +10825,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.4.1",
+    "Version": "24.5.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },

@@ -1643,7 +1643,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.20.7
+  Version: 0.20.8
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -3155,7 +3155,7 @@
   Description: High quality MPEG Audio Layer III (MP3) encoder - frontend
   Homepage: https://lame.sourceforge.io/
 - Package: lastpass-cli
-  Version: 1.6.0
+  Version: 1.6.1
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
@@ -7215,7 +7215,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.4.1
+  Version: 24.5.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
