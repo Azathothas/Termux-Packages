@@ -997,7 +997,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.46.0",
+    "Version": "1.47.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -9883,19 +9883,19 @@
   },
   {
     "Package": "mesa",
-    "Version": "24.2.6",
+    "Version": "24.2.7",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "24.2.6",
+    "Version": "24.2.7",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "24.2.6",
+    "Version": "24.2.7",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -10825,7 +10825,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.4.0",
+    "Version": "24.4.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11131,7 +11131,7 @@
   },
   {
     "Package": "osmesa",
-    "Version": "24.2.6",
+    "Version": "24.2.7",
     "Description": "Mesa Off-screen Rendering Library",
     "Homepage": "https://www.mesa3d.org"
   },
