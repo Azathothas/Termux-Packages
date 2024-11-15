@@ -13135,13 +13135,13 @@
   },
   {
     "Package": "seafile-client",
-    "Version": "9.0.10",
+    "Version": "9.0.11",
     "Description": "Seafile is a file syncing and sharing software with file encryption and group sharing",
     "Homepage": "https://seafile.com"
   },
   {
     "Package": "seafile-client-static",
-    "Version": "9.0.10",
+    "Version": "9.0.11",
     "Description": "Static libraries for seafile-client",
     "Homepage": "https://seafile.com"
   },
@@ -14053,7 +14053,7 @@
   },
   {
     "Package": "tealdeer",
-    "Version": "1.7.0",
+    "Version": "1.7.1",
     "Description": "A very fast implementation of tldr in Rust",
     "Homepage": "https://dbrgn.github.io/tealdeer/"
   },
@@ -14773,7 +14773,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "7.0.3",
+    "Version": "7.0.4",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },
@@ -14971,7 +14971,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.1",
+    "Version": "0.5.2",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
