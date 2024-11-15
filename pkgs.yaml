@@ -2599,7 +2599,7 @@
   Description: Programs to compute hashsums of arbitrary number of files recursively
   Homepage: http://md5deep.sourceforge.net/
 - Package: hcl
-  Version: 2.22.0
+  Version: 2.23.0
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
@@ -6867,7 +6867,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 18.2.0
+  Version: 18.2.1
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -8347,7 +8347,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.68.1
+  Version: 1.68.2
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -8811,7 +8811,7 @@
   Description: Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)
   Homepage: https://codemadness.org/sfeed-simple-feed-parser.html
 - Package: sftpgo
-  Version: 2.6.2-1
+  Version: 2.6.3
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
