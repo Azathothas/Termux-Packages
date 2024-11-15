@@ -2881,7 +2881,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.56.2",
+    "Version": "0.56.3",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -3259,7 +3259,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.48.0",
+    "Version": "1.49.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
