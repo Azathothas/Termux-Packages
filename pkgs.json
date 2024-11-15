@@ -277,7 +277,7 @@
   },
   {
     "Package": "aom-tools",
-    "Version": "3.10.0",
+    "Version": "3.11.0",
     "Description": "Command-line tools using AOMedia library",
     "Homepage": "https://aomedia.org/"
   },
@@ -2431,7 +2431,7 @@
   },
   {
     "Package": "exercism",
-    "Version": "3.5.2",
+    "Version": "3.5.4",
     "Description": "A Go based command line tool for exercism.io",
     "Homepage": "https://github.com/exercism/cli/"
   },
@@ -2611,7 +2611,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "6.1.2",
+    "Version": "6.1.2-1",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -5041,13 +5041,13 @@
   },
   {
     "Package": "libaom",
-    "Version": "3.10.0",
+    "Version": "3.11.0",
     "Description": "AV1 Video Codec Library",
     "Homepage": "https://aomedia.org/"
   },
   {
     "Package": "libaom-static",
-    "Version": "3.10.0",
+    "Version": "3.11.0",
     "Description": "Static libraries for libaom",
     "Homepage": "https://aomedia.org/"
   },
@@ -6673,13 +6673,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1731485912",
+    "Version": "1:2.1.1731601260",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1731485912",
+    "Version": "1:2.1.1731601260",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -8647,13 +8647,13 @@
   },
   {
     "Package": "libvpx",
-    "Version": "1:1.15.0",
+    "Version": "1:1.15.0-1",
     "Description": "VP8 & VP9 Codec SDK",
     "Homepage": "https://www.webmproject.org"
   },
   {
     "Package": "libvpx-static",
-    "Version": "1:1.15.0",
+    "Version": "1:1.15.0-1",
     "Description": "Static libraries for libvpx",
     "Homepage": "https://www.webmproject.org"
   },
@@ -9469,7 +9469,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1731485912",
+    "Version": "1:2.1.1731601260",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -9850,6 +9850,12 @@
     "Version": "24.11",
     "Description": "Command-line utility for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
+  },
+  {
+    "Package": "mediamtx",
+    "Version": "1.9.3",
+    "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
+    "Homepage": "https://github.com/bluenviron/mediamtx"
   },
   {
     "Package": "megacmd",
@@ -12895,7 +12901,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.7.3",
+    "Version": "0.7.4",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },

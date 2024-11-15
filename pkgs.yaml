@@ -183,7 +183,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.10.0
+  Version: 3.11.0
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: apache-orc
@@ -1619,7 +1619,7 @@
   Description: An enhanced, backward-compatible port of Thompson Shell
   Homepage: https://etsh.nl
 - Package: exercism
-  Version: 3.5.2
+  Version: 3.5.4
   Description: A Go based command line tool for exercism.io
   Homepage: https://github.com/exercism/cli/
 - Package: exhale
@@ -1739,7 +1739,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 6.1.2
+  Version: 6.1.2-1
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -3359,11 +3359,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.10.0
+  Version: 3.11.0
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.10.0
+  Version: 3.11.0
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
@@ -4447,11 +4447,11 @@
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
 - Package: libluajit
-  Version: 1:2.1.1731485912
+  Version: 1:2.1.1731601260
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: libluajit-static
-  Version: 1:2.1.1731485912
+  Version: 1:2.1.1731601260
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
@@ -5763,11 +5763,11 @@
   Description: Static libraries for libvorbis
   Homepage: https://xiph.org/vorbis/
 - Package: libvpx
-  Version: 1:1.15.0
+  Version: 1:1.15.0-1
   Description: VP8 & VP9 Codec SDK
   Homepage: https://www.webmproject.org
 - Package: libvpx-static
-  Version: 1:1.15.0
+  Version: 1:1.15.0-1
   Description: Static libraries for libvpx
   Homepage: https://www.webmproject.org
 - Package: libvterm
@@ -6311,7 +6311,7 @@
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1731485912
+  Version: 1:2.1.1731601260
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -6566,6 +6566,10 @@
   Version: "24.11"
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
+- Package: mediamtx
+  Version: 1.9.3
+  Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
+  Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
   Version: 1.7.0-2
   Description: Provides non UI access to MEGA services
@@ -8595,7 +8599,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.7.3
+  Version: 0.7.4
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit

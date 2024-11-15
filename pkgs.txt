@@ -44,7 +44,7 @@
  ant  1.10.15  Java based build tool like make  https://ant.apache.org/ 
  antibody  6.1.1-2  The fastest shell plugin manager  https://github.com/getantibody/antibody 
  antiword  0.37-3  A free MS Word reader  https://en.m.wikipedia.org/wiki/Antiword 
- aom-tools  3.10.0  Command-line tools using AOMedia library  https://aomedia.org/ 
+ aom-tools  3.11.0  Command-line tools using AOMedia library  https://aomedia.org/ 
  apache-orc  2.0.2  Columnar storage for Hadoop workloads  https://orc.apache.org/ 
  apache2  1:2.4.62-1  Apache Web Server  https://httpd.apache.org 
  apkeep  0.17.0  A command-line tool for downloading APK files from various sources  https://github.com/EFForg/apkeep 
@@ -403,7 +403,7 @@
  espeak-static  1.51-2  Static libraries for espeak  https://github.com/espeak-ng/espeak-ng 
  et  6.2.9-2  A remote shell that automatically reconnects without interrupting the session  https://eternalterminal.dev 
  etsh  5.4.0  An enhanced, backward-compatible port of Thompson Shell  https://etsh.nl 
- exercism  3.5.2  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
+ exercism  3.5.4  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
  exhale  1.2.1  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
  exiftool  13.03  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
@@ -433,7 +433,7 @@
  fetchmail  6.5.1  A remote-mail retrieval utility  https://www.fetchmail.info/ 
  fetchmailconf  6.5.1  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
- ffmpeg  6.1.2  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
+ ffmpeg  6.1.2-1  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
  ffmpegthumbnailer  2.2.3-p20240913-0  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
  ffsend  0.2.76  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
  fftw  3.3.10-3  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
@@ -838,8 +838,8 @@
  libandroid-wordexp-static  0.1  Static libraries for libandroid-wordexp  https://man7.org/linux/man-pages/man3/wordexp.3.html 
  libao  1.2.2-7  A cross platform audio library  https://www.xiph.org/ao/ 
  libao-static  1.2.2-7  Static libraries for libao  https://www.xiph.org/ao/ 
- libaom  3.10.0  AV1 Video Codec Library  https://aomedia.org/ 
- libaom-static  3.10.0  Static libraries for libaom  https://aomedia.org/ 
+ libaom  3.11.0  AV1 Video Codec Library  https://aomedia.org/ 
+ libaom-static  3.11.0  Static libraries for libaom  https://aomedia.org/ 
  libapt-pkg-perl  0.1.40-10  Perl interface to APT's libapt-pkg  https://packages.debian.org/libapt-pkg-perl 
  libarchive  3.7.7  Multi-format archive and compression library  https://www.libarchive.org/ 
  libarchive-static  3.7.7  Static libraries for libarchive  https://www.libarchive.org/ 
@@ -1110,8 +1110,8 @@
  liblua53-static  5.3.6  Static libraries for liblua53  https://www.lua.org/ 
  liblua54  5.4.7  Shared library for the Lua interpreter  https://www.lua.org/ 
  liblua54-static  5.4.7  Static libraries for liblua54  https://www.lua.org/ 
- libluajit  1:2.1.1731485912  Just-In-Time Compiler for Lua  https://luajit.org/ 
- libluajit-static  1:2.1.1731485912  Static libraries for libluajit  https://luajit.org/ 
+ libluajit  1:2.1.1731601260  Just-In-Time Compiler for Lua  https://luajit.org/ 
+ libluajit-static  1:2.1.1731601260  Static libraries for libluajit  https://luajit.org/ 
  liblz4  1.10.0  Fast LZ compression algorithm library  https://lz4.github.io/lz4/ 
  liblzma  5.6.3  XZ-format compression library  https://tukaani.org/xz/ 
  liblzma-static  5.6.3  Static libraries for liblzma  https://tukaani.org/xz/ 
@@ -1439,8 +1439,8 @@
  libvoikko-static  4.3.2-1  Static libraries for libvoikko  http://voikko.sourceforge.net 
  libvorbis  1.3.7-2  Library for using the Ogg Vorbis compressed audio format  https://xiph.org/vorbis/ 
  libvorbis-static  1.3.7-2  Static libraries for libvorbis  https://xiph.org/vorbis/ 
- libvpx  1:1.15.0  VP8 & VP9 Codec SDK  https://www.webmproject.org 
- libvpx-static  1:1.15.0  Static libraries for libvpx  https://www.webmproject.org 
+ libvpx  1:1.15.0-1  VP8 & VP9 Codec SDK  https://www.webmproject.org 
+ libvpx-static  1:1.15.0-1  Static libraries for libvpx  https://www.webmproject.org 
  libvterm  1:0.3.3  Terminal emulator library  https://www.leonerd.org.uk/code/libvterm/ 
  libvxl  3.5.0-2  A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding  https://vxl.github.io 
  libwavpack  5.7.0  A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode  https://www.wavpack.com/ 
@@ -1576,7 +1576,7 @@
  lua53  5.3.6  Simple, extensible, embeddable programming language  https://www.lua.org/ 
  lua53-lpeg  1.1.0-2  Pattern-matching library for Lua 5.3  https://www.inf.puc-rio.br/~roberto/lpeg 
  lua54  5.4.7  Simple, extensible, embeddable programming language  https://www.lua.org/ 
- luajit  1:2.1.1731485912  Just-In-Time compiler for Lua - command line tool  https://luajit.org/ 
+ luajit  1:2.1.1731601260  Just-In-Time compiler for Lua - command line tool  https://luajit.org/ 
  luarocks  3.11.1  Deployment and management system for Lua modules  https://luarocks.org/ 
  luv  1.48.0-2-0  Bare libuv bindings for lua  https://github.com/luvit/luv 
  luvi  20241009  A project in-between luv and luvit.  https://luvit.io 
@@ -1640,6 +1640,7 @@
  mdp  1.0.15-2  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  10.1.0-1  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  24.11  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
+ mediamtx  1.9.3  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  1.7.0-2  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.1.20230212  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://megatools.megous.com/ 
  memcached  1.6.32  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
@@ -2147,7 +2148,7 @@
  rubiks-cube  1.2  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.3.5  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.3.5  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.7.3  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.7.4  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-3  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.6.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
