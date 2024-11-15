@@ -6411,11 +6411,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:11.5.2-2
+  Version: 2:11.6.1
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:11.5.2-2
+  Version: 2:11.6.1
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
