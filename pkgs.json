@@ -14983,7 +14983,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.21.0",
+    "Version": "5.22.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
