@@ -457,7 +457,7 @@
 | **finch-static** | 2.14.13-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 9.0.4 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
-| **fish** | 3.7.1-1 | The user-friendly command line shell | https://fishshell.com/ |
+| **fish** | 3.7.1-2 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.4.3 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
 | **flatbuffers** | 24.3.25 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
 | **flatbuffers-static** | 24.3.25 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |

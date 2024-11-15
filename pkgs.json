@@ -2683,7 +2683,7 @@
   },
   {
     "Package": "fish",
-    "Version": "3.7.1-1",
+    "Version": "3.7.1-2",
     "Description": "The user-friendly command line shell",
     "Homepage": "https://fishshell.com/"
   },

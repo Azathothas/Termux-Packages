@@ -1787,7 +1787,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 3.7.1-1
+  Version: 3.7.1-2
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
