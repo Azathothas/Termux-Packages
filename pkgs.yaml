@@ -2519,7 +2519,7 @@
   Description: OpenGL headers for GStreamer plugins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.24.9
+  Version: 1.24.9-1
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
