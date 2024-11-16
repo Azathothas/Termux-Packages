@@ -4339,7 +4339,7 @@
   },
   {
     "Package": "ipfs",
-    "Version": "0.32.0",
+    "Version": "0.32.1",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -6109,7 +6109,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.67.1",
+    "Version": "1.68.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12061,7 +12061,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.67.1",
+    "Version": "1.68.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
