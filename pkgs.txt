@@ -37,7 +37,7 @@
  android-tools  35.0.2  Android platform tools  https://developer.android.com/ 
  anewer  0.1.6  Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq)  https://github.com/ysf/anewer 
  angband  4.2.5  Dungeon exploration adventure game  https://rephial.org/ 
- angle-android  2.1.23487-faae3c32-1  A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android  https://chromium.googlesource.com/angle/angle 
+ angle-android  2.1.24318-9dd69aae-1  A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android  https://chromium.googlesource.com/angle/angle 
  angle-grinder  0.19.4  Slice and dice logs on the command line  https://github.com/rcoh/angle-grinder 
  ani-cli  4.9  A cli to browse and watch anime  https://github.com/pystardust/ani-cli 
  ansifilter  2.21  Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode  http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php 

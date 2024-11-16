@@ -155,7 +155,7 @@
   Description: Dungeon exploration adventure game
   Homepage: https://rephial.org/
 - Package: angle-android
-  Version: 2.1.23487-faae3c32-1
+  Version: 2.1.24318-9dd69aae-1
   Description: A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android
   Homepage: https://chromium.googlesource.com/angle/angle
 - Package: angle-grinder
