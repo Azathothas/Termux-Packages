@@ -1399,8 +1399,8 @@
 | **libtorrent** | 0.14.0-1 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
 | **libtorrent-rasterbar** | 2.0.10-1 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
 | **libtorrent-static** | 0.14.0-1 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
-| **libtpms** | 0.9.6 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
-| **libtpms-static** | 0.9.6 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
+| **libtpms** | 0.10.0 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
+| **libtpms-static** | 0.10.0 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.3-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
 | **libtree-ldd** | 3.1.1-1 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
 | **libtreesitter** | 0.22.6-1 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
@@ -1948,7 +1948,7 @@
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 22 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
-| **plantuml** | 1.2024.7 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
+| **plantuml** | 1.2024.8 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.10.2 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
@@ -2334,8 +2334,8 @@
 | **swift-sdk-x86-64** | 6.0.2 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2024.05.08 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.3.0 | Generate scripting interfaces to C/C++ code | https://swig.org |
-| **swtpm** | 0.9.0 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
-| **swtpm-static** | 0.9.0 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
+| **swtpm** | 0.10.0 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
+| **swtpm-static** | 0.10.0 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
 | **syncthing** | 1.28.0 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-6 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |

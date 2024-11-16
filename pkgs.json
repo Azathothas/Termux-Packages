@@ -8335,13 +8335,13 @@
   },
   {
     "Package": "libtpms",
-    "Version": "0.9.6",
+    "Version": "0.10.0",
     "Description": "Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)",
     "Homepage": "https://github.com/stefanberger/libtpms"
   },
   {
     "Package": "libtpms-static",
-    "Version": "0.9.6",
+    "Version": "0.10.0",
     "Description": "Static libraries for libtpms",
     "Homepage": "https://github.com/stefanberger/libtpms"
   },
@@ -11629,7 +11629,7 @@
   },
   {
     "Package": "plantuml",
-    "Version": "1.2024.7",
+    "Version": "1.2024.8",
     "Description": "Draws UML diagrams, using a simple and human readable text description",
     "Homepage": "https://plantuml.com/"
   },
@@ -13945,13 +13945,13 @@
   },
   {
     "Package": "swtpm",
-    "Version": "0.9.0",
+    "Version": "0.10.0",
     "Description": "Software TPM Emulator",
     "Homepage": "https://github.com/stefanberger/swtpm"
   },
   {
     "Package": "swtpm-static",
-    "Version": "0.9.0",
+    "Version": "0.10.0",
     "Description": "Static libraries for swtpm",
     "Homepage": "https://github.com/stefanberger/swtpm"
   },
