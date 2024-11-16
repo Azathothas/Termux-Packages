@@ -9673,7 +9673,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.11.0",
+    "Version": "0.11.1",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -10831,7 +10831,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.5.2",
+    "Version": "24.6.2",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12817,7 +12817,7 @@
   },
   {
     "Package": "rsgain",
-    "Version": "3.5.2-1",
+    "Version": "3.5.3",
     "Description": "A simple audio normalizazion utility",
     "Homepage": "https://github.com/complexlogic/rsgain"
   },
@@ -14095,7 +14095,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "16.4.7",
+    "Version": "17.0.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },

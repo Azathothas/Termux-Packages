@@ -6447,7 +6447,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.11.0
+  Version: 0.11.1
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -7219,7 +7219,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.5.2
+  Version: 24.6.2
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8543,7 +8543,7 @@
   Description: A tool for doing record analysis and transformation
   Homepage: https://github.com/dflemstr/rq
 - Package: rsgain
-  Version: 3.5.2-1
+  Version: 3.5.3
   Description: A simple audio normalizazion utility
   Homepage: https://github.com/complexlogic/rsgain
 - Package: rsnapshot
@@ -9395,7 +9395,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 16.4.7
+  Version: 17.0.1
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
