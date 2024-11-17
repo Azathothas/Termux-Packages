@@ -10831,7 +10831,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.6.3",
+    "Version": "24.6.4",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -11671,7 +11671,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.22.25",
+    "Version": "0.22.26",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
