@@ -38,7 +38,7 @@
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.7 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
 | **algernon** | 1.17.1 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
-| **alist** | 3.39.1 | A file list program that supports multiple storage | https://alist.nn.ci |
+| **alist** | 3.39.4 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **alsa-lib** | 1.2.13 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
 | **alsa-utils** | 1.2.13 | The Advanced Linux Sound Architecture (ALSA) - utils | https://www.alsa-project.org |
@@ -265,7 +265,7 @@
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
 | **command-not-found** | 2.4.0-51 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
-| **composer** | 2.8.2 | Dependency Manager for PHP | https://getcomposer.org/ |
+| **composer** | 2.8.3 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-1 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.8.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -2112,8 +2112,8 @@
 | **readline-static** | 8.2.13 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.14 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.14 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.40.3 | Full-text search for your desktop | https://www.recoll.org/ |
-| **recoll-python** | 1.40.3 | Python interface for Recoll | https://www.recoll.org/ |
+| **recoll** | 1.40.4 | Full-text search for your desktop | https://www.recoll.org/ |
+| **recoll-python** | 1.40.4 | Python interface for Recoll | https://www.recoll.org/ |
 | **recoll-static** | 1.37.5 | Static libraries for recoll | https://www.recoll.org/ |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
@@ -2314,7 +2314,7 @@
 | **stunnel** | 5.73 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.73 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-3 | An open source STUN server | https://www.stunprotocol.org/ |
-| **stylua** | 0.20.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
+| **stylua** | 2.0.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4 | DVD subtitle ripper for Linux | http://subtitleripper.sourceforge.net/ |
 | **subversion** | 1.14.4 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
 | **subversion-perl** | 1.14.4 | Perl interface to Subversion | https://subversion.apache.org |
