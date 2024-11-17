@@ -1839,7 +1839,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 9.0.1
+  Version: 9.0.2
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -2423,7 +2423,7 @@
   Description: GNU privacy guard - signature verification tool
   Homepage: https://www.gnupg.org/
 - Package: gping
-  Version: 1.17.3
+  Version: 1.18.0
   Description: Ping, but with a graph
   Homepage: https://github.com/orf/gping
 - Package: gpsbabel
@@ -3071,7 +3071,7 @@
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
 - Package: k9s
-  Version: 0.32.6
+  Version: 0.32.7
   Description: Kubernetes CLI To Manage Your Clusters In Style!
   Homepage: https://k9scli.io
 - Package: kainjow-mustache
@@ -7219,7 +7219,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.6.2
+  Version: 24.6.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -10063,7 +10063,7 @@
   Description: A collection of tools for the VGM file format
   Homepage: https://github.com/vgmrips/vgmtools
 - Package: viddy
-  Version: 1.2.0
+  Version: 1.2.1
   Description: A modern watch command
   Homepage: https://github.com/sachaos/viddy
 - Package: vifm
