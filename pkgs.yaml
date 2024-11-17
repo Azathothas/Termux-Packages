@@ -2507,7 +2507,7 @@
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.24.9
+  Version: 1.24.9-1
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
@@ -7318,6 +7318,10 @@
   Version: "0.1"
   Description: A metapackage for OpenGL implementation
   Homepage: https://github.com/termux/termux-packages
+- Package: openh264
+  Version: 2.5.0
+  Description: Codec library supporting H.264 encoding and decoding
+  Homepage: https://www.openh264.org/
 - Package: openjdk-17
   Version: 17.0-37
   Description: Java development kit and runtime

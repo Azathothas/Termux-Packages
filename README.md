@@ -637,7 +637,7 @@
 | **gsl** | 2.8 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
 | **gst-libav** | 1.24.9 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
-| **gst-plugins-bad** | 1.24.9 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-bad** | 1.24.9-1 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.24.9 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-gl-headers** | 1.24.9 | OpenGL headers for GStreamer plugins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.24.9-1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
@@ -1840,6 +1840,7 @@
 | **openexr** | 3.2.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2406 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 0.1 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
+| **openh264** | 2.5.0 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
 | **openjdk-17** | 17.0-37 | Java development kit and runtime | https://github.com/openjdk/mobile |
 | **openjdk-17-source** | 17.0-37 | Source files for openjdk-17 | https://github.com/openjdk/mobile |
 | **openjdk-17-x** | 17.0-37 | Portion of openjdk-17 requiring X11 functionality | https://github.com/openjdk/mobile |
