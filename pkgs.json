@@ -3271,7 +3271,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.5.1",
+    "Version": "1.6.0",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -4099,7 +4099,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.138.0",
+    "Version": "0.139.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -4537,7 +4537,7 @@
   },
   {
     "Package": "jq-lsp",
-    "Version": "0.1.6",
+    "Version": "0.1.7",
     "Description": "jq language server",
     "Homepage": "https://github.com/wader/jq-lsp"
   },
@@ -13165,7 +13165,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "2.2.3",
+    "Version": "2.3.0",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -13903,7 +13903,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.14",
+    "Version": "9.3.15",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
