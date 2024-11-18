@@ -122,6 +122,10 @@
   Version: 1.2.13
   Description: The Advanced Linux Sound Architecture (ALSA) - library
   Homepage: https://www.alsa-project.org
+- Package: alsa-plugins
+  Version: 1.2.12
+  Description: The Advanced Linux Sound Architecture (ALSA) - plugins
+  Homepage: https://www.alsa-project.org
 - Package: alsa-utils
   Version: 1.2.13
   Description: The Advanced Linux Sound Architecture (ALSA) - utils
@@ -1663,7 +1667,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.29.0
+  Version: 2.30.1
   Description: A neofetch-like tool for fetching system information and displaying them in a pretty way
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -8623,7 +8627,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20241111"
+  Version: "20241118"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -9367,7 +9371,7 @@
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
-  Version: 0.17.7
+  Version: 0.18.1
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
@@ -10015,7 +10019,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.9.0
+  Version: 3.9.1
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind
