@@ -6259,11 +6259,11 @@
   Description: Shows thumbnails in terminal using sixel graphics
   Homepage: https://github.com/hackerb9/lsix
 - Package: lsof
-  Version: 4.99.3
+  Version: 4.99.4
   Description: Lists open files for running Unix processes
   Homepage: https://github.com/lsof-org/lsof
 - Package: lsof-static
-  Version: 4.99.3
+  Version: 4.99.4
   Description: Static libraries for lsof
   Homepage: https://github.com/lsof-org/lsof
 - Package: ltrace

@@ -1575,8 +1575,8 @@
 | **lrzsz** | 0.12.21-rc1-0 | Tools for zmodem/xmodem/ymodem file transfer | https://ohse.de/uwe/software/lrzsz.html |
 | **lsd** | 1.1.5 | Next gen ls command | https://github.com/lsd-rs/lsd |
 | **lsix** | 1.9.1 | Shows thumbnails in terminal using sixel graphics | https://github.com/hackerb9/lsix |
-| **lsof** | 4.99.3 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
-| **lsof-static** | 4.99.3 | Static libraries for lsof | https://github.com/lsof-org/lsof |
+| **lsof** | 4.99.4 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
+| **lsof-static** | 4.99.4 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.7.9 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
 | **lua-language-server** | 3.13.0 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
