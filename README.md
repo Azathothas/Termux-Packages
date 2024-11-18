@@ -716,8 +716,8 @@
 | **id3lib-static** | 3.8.3-3 | Static libraries for id3lib | http://id3lib.sourceforge.net/ |
 | **id3ted** | 1.0-3 | A comand line id3 tag editor | https://muennich.github.io/id3ted/ |
 | **id3v2** | 0.1.12-1 | A command line id3v2 tag editor | http://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.1.40-1 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.1.40-1 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.1.41 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.1.41 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.12 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-8 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.3-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
@@ -1354,9 +1354,9 @@
 | **libspice-protocol** | 0.14.4 | SPICE protocol headers | https://www.spice-space.org/ |
 | **libspice-server** | 0.15.2 | Implements the server side of the SPICE protocol | https://www.spice-space.org/ |
 | **libspice-server-static** | 0.15.2 | Static libraries for libspice-server | https://www.spice-space.org/ |
-| **libsqlite** | 3.46.1 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
-| **libsqlite-static** | 3.46.1 | Static libraries for libsqlite | https://www.sqlite.org |
-| **libsqlite-tcl** | 3.46.1 | tcl bindings for SQLite | https://www.sqlite.org |
+| **libsqlite** | 3.47.0 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
+| **libsqlite-static** | 3.47.0 | Static libraries for libsqlite | https://www.sqlite.org |
+| **libsqlite-tcl** | 3.47.0 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.10.6 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -2014,7 +2014,7 @@
 | **pypy3-tkinter** | 7.3.15-3 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.7-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
-| **python-apsw** | 3.46.1.0-1 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
+| **python-apsw** | 3.47.0.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
 | **python-apt** | 2.9.0-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.2.0-1 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-contourpy** | 1.3.1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
@@ -2277,7 +2277,7 @@
 | **spirv-tools** | 1.3.296.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.6.1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.6.1 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
-| **sqlite** | 3.46.1 | Command line shell for SQLite | https://www.sqlite.org |
+| **sqlite** | 3.47.0 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 1.9.9.1430 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |

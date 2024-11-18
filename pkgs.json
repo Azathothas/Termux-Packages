@@ -4237,13 +4237,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.1.40-1",
+    "Version": "7.1.1.41",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.1.40-1",
+    "Version": "7.1.1.41",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -8065,19 +8065,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.46.1",
+    "Version": "3.47.0",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.46.1",
+    "Version": "3.47.0",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.46.1",
+    "Version": "3.47.0",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -12025,7 +12025,7 @@
   },
   {
     "Package": "python-apsw",
-    "Version": "3.46.1.0-1",
+    "Version": "3.47.0.0",
     "Description": "Another Python SQLite Wrapper",
     "Homepage": "https://github.com/rogerbinns/apsw/"
   },
@@ -13603,7 +13603,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.46.1",
+    "Version": "3.47.0",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
