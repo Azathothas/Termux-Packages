@@ -1411,7 +1411,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2024.11.0",
+    "Version": "2024.11.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -3079,13 +3079,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.14.11",
+    "Version": "1.14.12",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.14.11",
+    "Version": "1.14.12",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -3271,7 +3271,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -4471,7 +4471,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.71.4",
+    "Version": "2.71.5",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -4537,7 +4537,7 @@
   },
   {
     "Package": "jq-lsp",
-    "Version": "0.1.7",
+    "Version": "0.1.8",
     "Description": "jq language server",
     "Homepage": "https://github.com/wader/jq-lsp"
   },
@@ -6199,13 +6199,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.19.3",
+    "Version": "1.19.4",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.19.3",
+    "Version": "1.19.4",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -10393,7 +10393,7 @@
   },
   {
     "Package": "ncdu",
-    "Version": "1.20-1",
+    "Version": "1.21",
     "Description": "Disk usage analyzer",
     "Homepage": "https://dev.yorhel.nl/ncdu"
   },
@@ -12475,7 +12475,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.18.0",
+    "Version": "3.19.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },

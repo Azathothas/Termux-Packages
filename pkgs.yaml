@@ -939,7 +939,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2024.11.0
+  Version: 2024.11.1
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -2051,11 +2051,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.14.11
+  Version: 1.14.12
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.14.11
+  Version: 1.14.12
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -2179,7 +2179,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.6.0
+  Version: 1.6.1
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -2979,7 +2979,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.71.4
+  Version: 2.71.5
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3023,7 +3023,7 @@
   Description: Command-line JSON processor
   Homepage: https://stedolan.github.io/jq/
 - Package: jq-lsp
-  Version: 0.1.7
+  Version: 0.1.8
   Description: jq language server
   Homepage: https://github.com/wader/jq-lsp
 - Package: jq-static
@@ -4131,11 +4131,11 @@
   Description: Static libraries for libhdf5
   Homepage: https://portal.hdfgroup.org/display/support
 - Package: libheif
-  Version: 1.19.3
+  Version: 1.19.4
   Description: HEIF (HEIC/AVIF) image encoding and decoding library
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-progs
-  Version: 1.19.3
+  Version: 1.19.4
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-static
@@ -6927,7 +6927,7 @@
   Description: Modern and lightweight direct connect client with a friendly ncurses interface
   Homepage: https://dev.yorhel.nl/ncdc
 - Package: ncdu
-  Version: 1.20-1
+  Version: "1.21"
   Description: Disk usage analyzer
   Homepage: https://dev.yorhel.nl/ncdu
 - Package: ncdu2
@@ -8315,7 +8315,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 3.18.0
+  Version: 3.19.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
