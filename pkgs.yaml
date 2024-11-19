@@ -9946,10 +9946,6 @@
   Version: 1.1.0
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
-- Package: usbmuxd
-  Version: 1.1.1-p20230421-0
-  Description: A socket daemon to multiplex connections from and to iOS devices
-  Homepage: https://libimobiledevice.org
 - Package: usql
   Version: 0.19.12
   Description: A universal command-line interface for SQL databases

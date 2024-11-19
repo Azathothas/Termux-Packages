@@ -2497,7 +2497,6 @@
 | **upx** | 4.2.4 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 3.1.0 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 1.1.0 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
-| **usbmuxd** | 1.1.1-p20230421-0 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
 | **usql** | 0.19.12 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 4.0.6 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.9.0 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
