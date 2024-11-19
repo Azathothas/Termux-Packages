@@ -259,7 +259,7 @@
   },
   {
     "Package": "ansifilter",
-    "Version": "2.21",
+    "Version": "2.21-1",
     "Description": "Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode",
     "Homepage": "http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php"
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "Package": "lesspipe",
-    "Version": "2.15-1",
+    "Version": "2.16",
     "Description": "An input filter for the pager less",
     "Homepage": "http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html"
   },

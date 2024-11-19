@@ -41,7 +41,7 @@
 | **angle-android** | 2.1.24318-9dd69aae-1 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
 | **angle-grinder** | 0.19.4 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.9 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
-| **ansifilter** | 2.21 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
+| **ansifilter** | 2.21-1 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.15 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-2 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-3 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
@@ -800,7 +800,7 @@
 | **leptonica** | 1.85.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.85.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 661 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
-| **lesspipe** | 2.15-1 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
+| **lesspipe** | 2.16 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-3 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.4.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-4 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
