@@ -14515,7 +14515,7 @@
   },
   {
     "Package": "tree-sitter-c",
-    "Version": "0.23.1",
+    "Version": "0.23.2",
     "Description": "C grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter"
   },
