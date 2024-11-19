@@ -3063,7 +3063,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.36.0
+  Version: 1.36.0-1
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -10227,7 +10227,7 @@
   Description: WavPack command-line programs
   Homepage: https://www.wavpack.com/
 - Package: waypipe
-  Version: 0.9.1
+  Version: 0.9.2
   Description: A proxy for Wayland clients
   Homepage: https://gitlab.freedesktop.org/mstoeckl/waypipe
 - Package: wcalc
