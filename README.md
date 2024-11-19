@@ -785,7 +785,7 @@
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 18.0.3 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kcptun** | 20241031 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20241119 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.4.0 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-2 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.2.2-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -2084,7 +2084,7 @@
 | **quilt** | 0.68 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **racket** | 8.15-1 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 8.15-1 | Static libraries for racket | https://racket-lang.org |
-| **radare2** | 5.9.6 | Advanced Hexadecimal Editor | https://rada.re |
+| **radare2** | 5.9.8 | Advanced Hexadecimal Editor | https://rada.re |
 | **radare2-static** | 5.7.8 | Static libraries for radare2 | https://rada.re |
 | **rage** | 0.11.0 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
@@ -2108,7 +2108,7 @@
 | **rdiff-backup** | 2.2.6-2 | A utility for local/remote mirroring and incremental backups | https://rdiff-backup.net |
 | **rdircd** | 2023.02.07-1 | A daemon that allows using a personal Discord account through an IRC client | https://github.com/mk-fg/reliable-discord-client-irc-daemon |
 | **rdrview** | 1:0.1.3 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
-| **re2c** | 3.1-1 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
+| **re2c** | 4.0 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
 | **readline** | 8.2.13 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **readline-static** | 8.2.13 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.14 | Charset converter tool and library | https://github.com/pinard/Recode |
@@ -2560,7 +2560,7 @@
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
 | **wabt** | 1.0.36 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 1.104.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 1.105.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.10.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 24 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.10 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |

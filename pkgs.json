@@ -4651,7 +4651,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20241031",
+    "Version": "20241119",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -12445,7 +12445,7 @@
   },
   {
     "Package": "radare2",
-    "Version": "5.9.6",
+    "Version": "5.9.8",
     "Description": "Advanced Hexadecimal Editor",
     "Homepage": "https://rada.re"
   },
@@ -12589,7 +12589,7 @@
   },
   {
     "Package": "re2c",
-    "Version": "3.1-1",
+    "Version": "4.0",
     "Description": "Lexer generator for C, C++ and Go.",
     "Homepage": "https://re2c.org/"
   },
@@ -15301,7 +15301,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.104.0",
+    "Version": "1.105.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },

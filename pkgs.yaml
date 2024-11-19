@@ -3099,7 +3099,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
-  Version: "20241031"
+  Version: "20241119"
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
@@ -8295,7 +8295,7 @@
   Description: Static libraries for racket
   Homepage: https://racket-lang.org
 - Package: radare2
-  Version: 5.9.6
+  Version: 5.9.8
   Description: Advanced Hexadecimal Editor
   Homepage: https://rada.re
 - Package: radare2-static
@@ -8391,7 +8391,7 @@
   Description: Command line tool to extract the main content from a webpage
   Homepage: https://github.com/eafer/rdrview
 - Package: re2c
-  Version: 3.1-1
+  Version: "4.0"
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
@@ -10199,7 +10199,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.104.0
+  Version: 1.105.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
