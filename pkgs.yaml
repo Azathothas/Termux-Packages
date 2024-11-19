@@ -8439,7 +8439,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.00.07
+  Version: 1:05.01.01
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -9219,7 +9219,7 @@
   Description: An open source STUN server
   Homepage: https://www.stunprotocol.org/
 - Package: stylua
-  Version: 2.0.0
+  Version: 2.0.1
   Description: An opinionated Lua code formatter
   Homepage: https://github.com/JohnnyMorganz/StyLua
 - Package: subtitleripper
