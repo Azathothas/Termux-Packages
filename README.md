@@ -1743,7 +1743,7 @@
 | **navidrome** | 0.53.3 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.24.1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.21 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
-| **ncdu2** | 2.6 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
+| **ncdu2** | 2.7 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.2.7 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
 | **ncmpcpp** | 0.10.1 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
@@ -2544,7 +2544,7 @@
 | **vlc-static** | 3.0.21-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.35 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.47 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241031 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.300 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |

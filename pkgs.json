@@ -10399,7 +10399,7 @@
   },
   {
     "Package": "ncdu2",
-    "Version": "2.6",
+    "Version": "2.7",
     "Description": "Disk usage analyzer",
     "Homepage": "https://dev.yorhel.nl/ncdu"
   },
@@ -15205,7 +15205,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.35",
+    "Version": "0.9.99.47",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
