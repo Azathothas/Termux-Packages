@@ -289,7 +289,7 @@
   },
   {
     "Package": "apache-orc",
-    "Version": "2.0.2",
+    "Version": "2.0.3",
     "Description": "Columnar storage for Hadoop workloads",
     "Homepage": "https://orc.apache.org/"
   },
@@ -1177,7 +1177,7 @@
   },
   {
     "Package": "cavif-rs",
-    "Version": "1.5.5",
+    "Version": "1.5.6",
     "Description": "AVIF image creator in pure Rust",
     "Homepage": "https://lib.rs/cavif"
   },
@@ -12043,7 +12043,7 @@
   },
   {
     "Package": "python-bcrypt",
-    "Version": "4.2.0-1",
+    "Version": "4.2.1",
     "Description": "Acceptable password hashing for your software and your servers",
     "Homepage": "https://github.com/pyca/bcrypt"
   },
@@ -13753,7 +13753,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.28.0",
+    "Version": "0.28.1",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -14239,7 +14239,7 @@
   },
   {
     "Package": "termux-tools",
-    "Version": "1.44.3",
+    "Version": "1.44.4",
     "Description": "Basic system tools for Termux",
     "Homepage": "https://termux.dev/"
   },
