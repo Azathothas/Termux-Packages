@@ -8286,6 +8286,10 @@
   Version: "0.68"
   Description: Allows you to easily manage large numbers of patches
   Homepage: https://savannah.nongnu.org/projects/quilt
+- Package: rabbitmq-server
+  Version: 4.0.3
+  Description: Feature rich, multi-protocol messaging and streaming broker
+  Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
   Version: 8.15-1
   Description: Full-spectrum programming language going beyond Lisp and Scheme
