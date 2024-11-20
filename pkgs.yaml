@@ -2439,7 +2439,7 @@
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
-  Version: 1:11.3.0-1
+  Version: 1:11.3.1
   Description: The open-source platform for monitoring and observability
   Homepage: https://grafana.com/
 - Package: graphene
@@ -2903,7 +2903,7 @@
   Description: Command-line interface to IPMI-enabled devices
   Homepage: https://github.com/ipmitool/ipmitool
 - Package: iproute2
-  Version: 6.11.0
+  Version: 6.12.0
   Description: Utilities for controlling networking
   Homepage: https://wiki.linuxfoundation.org/networking/iproute2
 - Package: ipv6calc
@@ -4131,11 +4131,11 @@
   Description: Static libraries for libhdf5
   Homepage: https://portal.hdfgroup.org/display/support
 - Package: libheif
-  Version: 1.19.4
+  Version: 1.19.5
   Description: HEIF (HEIC/AVIF) image encoding and decoding library
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-progs
-  Version: 1.19.4
+  Version: 1.19.5
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-static
@@ -4223,7 +4223,7 @@
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
-  Version: 1.3.0-p20230430-0
+  Version: 1.3.0-p20230430-1
   Description: A library to communicate with services on iOS devices using native protocols
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue
@@ -4235,7 +4235,7 @@
   Description: Static libraries for libimobiledevice-glue
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-static
-  Version: 1.3.0-p20230430-0
+  Version: 1.3.0-p20230430-1
   Description: Static libraries for libimobiledevice
   Homepage: https://libimobiledevice.org/
 - Package: libimtui
@@ -5671,11 +5671,11 @@
   Description: Static libraries for libusb
   Homepage: https://libusb.info/
 - Package: libusbmuxd
-  Version: 2.0.2-p20230430-1
+  Version: 2.0.2-p20230430-2
   Description: A client library for applications to handle usbmux protocol connections with iOS devices
   Homepage: https://libimobiledevice.org
 - Package: libusbmuxd-static
-  Version: 2.0.2-p20230430-1
+  Version: 2.0.2-p20230430-2
   Description: Static libraries for libusbmuxd
   Homepage: https://libimobiledevice.org
 - Package: libusbredir
@@ -7783,7 +7783,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.22.26
+  Version: 0.22.27
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -7907,7 +7907,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 4.17.2
+  Version: 4.17.3
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -9987,7 +9987,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.5.2
+  Version: 0.5.3
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

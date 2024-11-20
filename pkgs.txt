@@ -608,7 +608,7 @@
  gping  1.18.0  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-2  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
  gradle  1:8.11  Powerful build system for the JVM  https://gradle.org/ 
- grafana  1:11.3.0-1  The open-source platform for monitoring and observability  https://grafana.com/ 
+ grafana  1:11.3.1  The open-source platform for monitoring and observability  https://grafana.com/ 
  graphene  1.10.8-1  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
  graphicsmagick  1.3.45-2  Collection of image processing tools  http://www.graphicsmagick.org/ 
  graphicsmagick-static  1.3.45-2  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
@@ -724,7 +724,7 @@
  iperf3-static  3.17.1  Static libraries for iperf3  https://github.com/esnet/iperf 
  ipfs  0.32.1  A peer-to-peer hypermedia distribution protocol  https://ipfs.io/ 
  ipmitool  1.8.19  Command-line interface to IPMI-enabled devices  https://github.com/ipmitool/ipmitool 
- iproute2  6.11.0  Utilities for controlling networking  https://wiki.linuxfoundation.org/networking/iproute2 
+ iproute2  6.12.0  Utilities for controlling networking  https://wiki.linuxfoundation.org/networking/iproute2 
  ipv6calc  4.2.1  Does some format changes and calculations of IPv6 addresses  https://www.deepspace6.net/projects/ipv6calc.html 
  ipv6toolkit  2022.09.30-2  SI6 Networks IPv6 Toolkit  https://www.si6networks.com/research/tools/ipv6toolkit/ 
  ircd-irc2  2.11.2p3-1  An Internet Relay Chat (IRC) daemon  http://www.irc.org/ 
@@ -1031,8 +1031,8 @@
  libhangul-static  0.1.0-p20230415-2  Static libraries for libhangul  https://github.com/libhangul/libhangul 
  libhdf5  1.14.4.3  Hierarchical Data Format 5 (HDF5)  https://portal.hdfgroup.org/display/support 
  libhdf5-static  1.14.4.3  Static libraries for libhdf5  https://portal.hdfgroup.org/display/support 
- libheif  1.19.4  HEIF (HEIC/AVIF) image encoding and decoding library  https://github.com/strukturag/libheif 
- libheif-progs  1.19.4  Programs for manipulating HEIF (HEIC/AVIF) image files  https://github.com/strukturag/libheif 
+ libheif  1.19.5  HEIF (HEIC/AVIF) image encoding and decoding library  https://github.com/strukturag/libheif 
+ libheif-progs  1.19.5  Programs for manipulating HEIF (HEIC/AVIF) image files  https://github.com/strukturag/libheif 
  libheif-static  1.15.2  Static libraries for libheif  https://github.com/strukturag/libheif 
  libhiredis  1.2.0  Hiredis is a minimalistic C client library for the Redis database  https://redis.com/lp/hiredis 
  libhiredis-static  1.1.0  Static libraries for libhiredis  https://redis.com/lp/hiredis 
@@ -1054,10 +1054,10 @@
  libidn2-static  2.3.7  Static libraries for libidn2  https://www.gnu.org/software/libidn/#libidn2 
  libimagequant  4.3.3  Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images  https://pngquant.org/lib/ 
  libimagequant-static  4.3.3  Static libraries for libimagequant  https://pngquant.org/lib/ 
- libimobiledevice  1.3.0-p20230430-0  A library to communicate with services on iOS devices using native protocols  https://libimobiledevice.org/ 
+ libimobiledevice  1.3.0-p20230430-1  A library to communicate with services on iOS devices using native protocols  https://libimobiledevice.org/ 
  libimobiledevice-glue  1.0.0  Library with common code used by the libraries and tools around the libimobiledevice project  https://libimobiledevice.org/ 
  libimobiledevice-glue-static  1.0.0  Static libraries for libimobiledevice-glue  https://libimobiledevice.org/ 
- libimobiledevice-static  1.3.0-p20230430-0  Static libraries for libimobiledevice  https://libimobiledevice.org/ 
+ libimobiledevice-static  1.3.0-p20230430-1  Static libraries for libimobiledevice  https://libimobiledevice.org/ 
  libimtui  1.0.5-1  An immediate mode text-based user interface library  https://github.com/ggerganov/imtui 
  libinih  58  A simple .INI file parser written in C  https://github.com/benhoyt/inih 
  libiniparser  4.2.4  Offers parsing of ini files from the C level  https://github.com/ndevilla/iniparser 
@@ -1416,8 +1416,8 @@
  libupscaledb-static  2.2.1p20210820-9  Static libraries for libupscaledb  https://upscaledb.com/ 
  libusb  1.0.27-1  A C library that provides generic access to USB devices  https://libusb.info/ 
  libusb-static  1.0.27-1  Static libraries for libusb  https://libusb.info/ 
- libusbmuxd  2.0.2-p20230430-1  A client library for applications to handle usbmux protocol connections with iOS devices  https://libimobiledevice.org 
- libusbmuxd-static  2.0.2-p20230430-1  Static libraries for libusbmuxd  https://libimobiledevice.org 
+ libusbmuxd  2.0.2-p20230430-2  A client library for applications to handle usbmux protocol connections with iOS devices  https://libimobiledevice.org 
+ libusbmuxd-static  2.0.2-p20230430-2  Static libraries for libusbmuxd  https://libimobiledevice.org 
  libusbredir  0.13.0  network protocol for sending USB device traffic over a network connection  https://www.spice-space.org/ 
  libusbredir-static  0.7.1  Static libraries for libusbredir  https://www.spice-space.org/ 
  libutf8-range  2:25.1-3  Fast UTF-8 validation with Range algorithm  https://github.com/protocolbuffers/protobuf 
@@ -1944,7 +1944,7 @@
  plzip  1.11  A massively parallel lossless data compressor based on the lzlib compression library  http://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-1  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-1  PNG image optimising utility  https://pngquant.org 
- pocketbase  0.22.26  An open source Go backend  https://github.com/pocketbase/pocketbase 
+ pocketbase  0.22.27  An open source Go backend  https://github.com/pocketbase/pocketbase 
  poke  4.2  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
  poke-static  4.2  Static libraries for poke  http://www.jemarch.net/poke.html 
  polipo  1.1.1  A small and fast caching web proxy  http://www.pps.jussieu.fr/~jch/software/polipo/ 
@@ -1975,7 +1975,7 @@
  progress  0.17  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
  proj  9.5.0  Generic coordinate transformation software  https://proj.org 
  proot  5.1.107-65  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
- proot-distro  4.17.2  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
+ proot-distro  4.17.3  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
  protobuf  2:25.1-3  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
  protobuf-dev  2:25.1-3  CMake files for protobuf shared libraries  https://github.com/protocolbuffers/protobuf 
  protobuf-static  25.1-3  Protocol buffers C++ library (static)  https://github.com/protocolbuffers/protobuf 
@@ -2495,7 +2495,7 @@
  util-linux-static  2.40.2-2  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-2  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.5.2  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.5.3  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.28  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.22.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.17  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
