@@ -1762,7 +1762,7 @@
 | **neocmakelsp** | 0.8.12.2 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20241114 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.10.2-2 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim** | 0.10.2-3 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2530,9 +2530,9 @@
 | **viddy** | 1.2.1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.13 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.1.0800-1 | Vi IMproved - enhanced vi editor | https://www.vim.org |
-| **vim-python** | 9.1.0800-1 | Vi IMproved - enhanced vi editor - with python support | https://www.vim.org |
-| **vim-runtime** | 9.1.0800-1 | Vi IMproved - Runtime files | https://www.vim.org |
+| **vim** | 9.1.0850 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim-python** | 9.1.0850 | Vi IMproved - enhanced vi editor - with python support | https://www.vim.org |
+| **vim-runtime** | 9.1.0850 | Vi IMproved - Runtime files | https://www.vim.org |
 | **virglrenderer** | 1.1.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.0.1-3 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.0.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
