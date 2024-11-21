@@ -422,7 +422,7 @@
 | **exiv2** | 2:0.28.3 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.20.8 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.20.9 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.36 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.36 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -796,7 +796,7 @@
 | **kotlin** | 2.0.21 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.21.3 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.4.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.31.2 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.31.3 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.31.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-5 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
@@ -1578,7 +1578,7 @@
 | **lsof** | 4.99.4 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.4 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.7.9 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
-| **lua-language-server** | 3.13.0 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
+| **lua-language-server** | 3.13.2 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5 | Simple, extensible, embeddable programming language | https://www.lua.org |
@@ -2544,11 +2544,11 @@
 | **vlc-static** | 3.0.21-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.47 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.48 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241031 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.300 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.3.301 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.3.302 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.3.301 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
