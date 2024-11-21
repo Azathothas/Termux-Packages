@@ -10227,7 +10227,7 @@
   Description: WavPack command-line programs
   Homepage: https://www.wavpack.com/
 - Package: waypipe
-  Version: 0.9.2
+  Version: 0.9.2-1
   Description: A proxy for Wayland clients
   Homepage: https://gitlab.freedesktop.org/mstoeckl/waypipe
 - Package: wcalc

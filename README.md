@@ -2567,7 +2567,7 @@
 | **wasmedge-static** | 0.14.0 | Static libraries for wasmedge | https://wasmedge.org/ |
 | **watchexec** | 2.1.2 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.7.0 | WavPack command-line programs | https://www.wavpack.com/ |
-| **waypipe** | 0.9.2 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
+| **waypipe** | 0.9.2-1 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-5 | Capable calculator | http://w-calc.sourceforge.net |
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **webp-pixbuf-loader** | 0.2.7 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
