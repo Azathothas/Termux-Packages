@@ -619,7 +619,7 @@
 | **gpgv** | 2.4.5-3 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.18.0 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:8.11 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:8.11.1 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:11.3.1 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-2 | Collection of image processing tools | http://www.graphicsmagick.org/ |
@@ -776,7 +776,7 @@
 | **jsoncpp-static** | 1.9.6 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.36.0-1 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.37.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.32.7 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
@@ -1816,7 +1816,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 24.6.4 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 24.6.5 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2303,7 +2303,7 @@
 | **stdoutisatty** | 1.0 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-7 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
 | **stemwords** | 2.2.0-1 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
-| **step-cli** | 0.28.1 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
+| **step-cli** | 0.28.2 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-6 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-6 | Static libraries for stfl | http://www.clifford.at/stfl |
 | **stoken** | 0.93-1 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
@@ -2508,7 +2508,7 @@
 | **util-linux-static** | 2.40.2-2 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-2 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.5.3 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.5.4 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.28 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.22.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

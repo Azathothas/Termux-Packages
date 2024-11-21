@@ -2435,7 +2435,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: "1:8.11"
+  Version: 1:8.11.1
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -3063,7 +3063,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.36.0-1
+  Version: 1.37.0
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -7223,7 +7223,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.6.4
+  Version: 24.6.5
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -9171,7 +9171,7 @@
   Description: A command-line tool which uses libstemmer
   Homepage: https://snowballstem.org/
 - Package: step-cli
-  Version: 0.28.1
+  Version: 0.28.2
   Description: An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows
   Homepage: https://smallstep.com/cli
 - Package: stfl
@@ -9991,7 +9991,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.5.3
+  Version: 0.5.4
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
