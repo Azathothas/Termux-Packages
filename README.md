@@ -1805,7 +1805,7 @@
 | **nwipe** | 0.37-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
-| **o-editor** | 2.68.2 | Small, fast and limited text editor | https://github.com/xyproto/o |
+| **o-editor** | 2.68.3 | Small, fast and limited text editor | https://github.com/xyproto/o |
 | **oathtool** | 2.6.11 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.11 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
 | **obfs4proxy** | 0.0.14-3 | A pluggable transport plugin for Tor | https://github.com/Yawning/obfs4 |

@@ -7179,7 +7179,7 @@
   Description: The most efficient usenet downloader
   Homepage: https://nzbget.net/
 - Package: o-editor
-  Version: 2.68.2
+  Version: 2.68.3
   Description: Small, fast and limited text editor
   Homepage: https://github.com/xyproto/o
 - Package: oathtool
