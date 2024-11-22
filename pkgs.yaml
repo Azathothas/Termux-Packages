@@ -6867,7 +6867,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 18.2.1
+  Version: 18.2.2
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -8283,7 +8283,7 @@
   Description: Allows you to easily manage large numbers of patches
   Homepage: https://savannah.nongnu.org/projects/quilt
 - Package: rabbitmq-server
-  Version: 4.0.3
+  Version: 4.0.4
   Description: Feature rich, multi-protocol messaging and streaming broker
   Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
