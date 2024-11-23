@@ -6323,8 +6323,8 @@
   Description: Bare libuv bindings for lua
   Homepage: https://github.com/luvit/luv
 - Package: luvi
-  Version: "20241009"
-  Description: A project in-between luv and luvit.
+  Version: 1:2.15.0
+  Description: A project in-between luv and luvit
   Homepage: https://luvit.io
 - Package: luvit
   Version: 2.18.1-1
@@ -7115,11 +7115,11 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect.
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 22.8.0
+  Version: 22.8.0-1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
-  Version: 20.17.0
+  Version: 20.17.0-1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses

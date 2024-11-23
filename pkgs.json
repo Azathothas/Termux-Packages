@@ -9487,8 +9487,8 @@
   },
   {
     "Package": "luvi",
-    "Version": "20241009",
-    "Description": "A project in-between luv and luvit.",
+    "Version": "1:2.15.0",
+    "Description": "A project in-between luv and luvit",
     "Homepage": "https://luvit.io"
   },
   {
@@ -10675,13 +10675,13 @@
   },
   {
     "Package": "nodejs",
-    "Version": "22.8.0",
+    "Version": "22.8.0-1",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
   {
     "Package": "nodejs-lts",
-    "Version": "20.17.0",
+    "Version": "20.17.0-1",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
