@@ -3463,7 +3463,7 @@
   },
   {
     "Package": "gnustep-make",
-    "Version": "2.9.2",
+    "Version": "2.9.2-1",
     "Description": "The GNUstep makefile package",
     "Homepage": "http://www.gnustep.org"
   },
@@ -3871,19 +3871,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "10.1.0",
+    "Version": "10.1.0-1",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "10.1.0",
+    "Version": "10.1.0-1",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "10.1.0",
+    "Version": "10.1.0-1",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -6073,7 +6073,7 @@
   },
   {
     "Package": "libgnustep-base",
-    "Version": "1.30.0",
+    "Version": "1.30.0-1",
     "Description": "A library of general-purpose, non-graphical Objective C objects",
     "Homepage": "http://www.gnustep.org"
   },
@@ -6247,7 +6247,7 @@
   },
   {
     "Package": "libical",
-    "Version": "3.0.18-1",
+    "Version": "3.0.18-2",
     "Description": "Libical is an Open Source implementation of the iCalendar protocols and protocol data units",
     "Homepage": "https://libical.github.io/libical/"
   },
@@ -7609,13 +7609,13 @@
   },
   {
     "Package": "libraptor2",
-    "Version": "2.0.16-5",
+    "Version": "2.0.16-6",
     "Description": "RDF Syntax Library",
     "Homepage": "https://librdf.org/raptor/"
   },
   {
     "Package": "libraptor2-static",
-    "Version": "2.0.16-5",
+    "Version": "2.0.16-6",
     "Description": "Static libraries for libraptor2",
     "Homepage": "https://librdf.org/raptor/"
   },
@@ -9859,7 +9859,7 @@
   },
   {
     "Package": "megacmd",
-    "Version": "1.7.0-2",
+    "Version": "1.7.0-3",
     "Description": "Provides non UI access to MEGA services",
     "Homepage": "https://mega.io/"
   },
@@ -10183,7 +10183,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.23.15-3",
+    "Version": "0.23.15-4",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },
@@ -10285,7 +10285,7 @@
   },
   {
     "Package": "music-file-organizer",
-    "Version": "1.0.4-4",
+    "Version": "1.0.4-5",
     "Description": "Organizer of audio files into directories based on metadata tags",
     "Homepage": "https://git.zx2c4.com/music-file-organizer/about/"
   },
@@ -11461,37 +11461,37 @@
   },
   {
     "Package": "php",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "Server-side, HTML-embedded scripting language",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "Apache 2.0 Handler module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-ldap",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "LDAP module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-opcache",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "OPcache module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-pgsql",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "PostgreSQL modules for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-sodium",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "Sodium module for PHP/Apache",
     "Homepage": "https://php.net"
   },
@@ -11503,13 +11503,13 @@
   },
   {
     "Package": "php-fpm",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "FastCGI Process Manager for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-gd",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "gd module for PHP",
     "Homepage": "https://php.net"
   },
@@ -11521,13 +11521,13 @@
   },
   {
     "Package": "php-ldap",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "LDAP module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-pgsql",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "PostgreSQL modules for PHP",
     "Homepage": "https://php.net"
   },
@@ -11545,7 +11545,7 @@
   },
   {
     "Package": "php-sodium",
-    "Version": "8.3.10-1",
+    "Version": "8.3.10-2",
     "Description": "Sodium module for PHP",
     "Homepage": "https://php.net"
   },
@@ -11755,13 +11755,13 @@
   },
   {
     "Package": "postgresql",
-    "Version": "17.0",
+    "Version": "17.0-1",
     "Description": "Object-relational SQL database",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "postgresql-static",
-    "Version": "17.0",
+    "Version": "17.0-1",
     "Description": "Static libraries for postgresql",
     "Homepage": "https://www.postgresql.org"
   },
@@ -14089,7 +14089,7 @@
   },
   {
     "Package": "tectonic",
-    "Version": "0.15.0-2",
+    "Version": "0.15.0-3",
     "Description": "A modernized, complete, self-contained TeX/LaTeX engine",
     "Homepage": "https://tectonic-typesetting.github.io/"
   },
@@ -14251,7 +14251,7 @@
   },
   {
     "Package": "tesseract",
-    "Version": "5.5.0",
+    "Version": "5.5.0-1",
     "Description": "Tesseract is probably the most accurate open source OCR engine available",
     "Homepage": "https://github.com/tesseract-ocr/tesseract"
   },
@@ -14281,13 +14281,13 @@
   },
   {
     "Package": "texlive-bin",
-    "Version": "20240310-1",
+    "Version": "20240310-2",
     "Description": "TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.",
     "Homepage": "https://www.tug.org/texlive/"
   },
   {
     "Package": "texlive-bin-static",
-    "Version": "20240310-1",
+    "Version": "20240310-2",
     "Description": "Static libraries for texlive-bin",
     "Homepage": "https://www.tug.org/texlive/"
   },
