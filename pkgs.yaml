@@ -2807,7 +2807,7 @@
   Description: Extracts and converts images in MS Windows(R) icon and cursor files.
   Homepage: https://www.nongnu.org/icoutils/
 - Package: icu-devtools
-  Version: "75.1"
+  Version: "76.1"
   Description: Development utilities for International Components for Unicode
   Homepage: http://site.icu-project.org/home
 - Package: id3lib
@@ -4183,11 +4183,11 @@
   Description: Static libraries for libiconv
   Homepage: https://www.gnu.org/software/libiconv/
 - Package: libicu
-  Version: "75.1"
+  Version: "76.1"
   Description: International Components for Unicode library
   Homepage: http://site.icu-project.org/home
 - Package: libicu-static
-  Version: "75.1"
+  Version: "76.1"
   Description: Static libraries for libicu
   Homepage: http://site.icu-project.org/home
 - Package: libid3tag
@@ -4323,7 +4323,7 @@
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkiwix
-  Version: 13.1.0-1
+  Version: 13.1.0-2
   Description: A library that contains a lot of things used by other kiwix programs
   Homepage: https://github.com/kiwix/libkiwix
 - Package: libknot
@@ -6087,7 +6087,7 @@
   Description: Static libraries for libzen
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libzim
-  Version: 9.2.3
+  Version: 9.2.3-1
   Description: The ZIM library is the reference implementation for the ZIM file format.
   Homepage: https://openzim.org
 - Package: libzimg
@@ -6935,7 +6935,7 @@
   Description: A free set of programs that use the File Transfer Protocol
   Homepage: https://www.ncftp.com/
 - Package: ncmpcpp
-  Version: 0.10.1
+  Version: 0.10.1-1
   Description: NCurses Music Player Client (Plus Plus)
   Homepage: https://rybczak.net/ncmpcpp/
 - Package: ncompress
@@ -7607,7 +7607,7 @@
   Description: A simple tool for doing everyday things with PDF documents
   Homepage: https://gitlab.com/pdftk-java/pdftk
 - Package: peaclock
-  Version: 0.4.3-5
+  Version: 0.4.3-6
   Description: A responsive and customizable clock, timer, and stopwatch for the terminal.
   Homepage: https://github.com/octobanana/peaclock
 - Package: peco
@@ -8703,7 +8703,7 @@
   Description: A secure, easy, self-hosted messaging
   Homepage: https://salty.im/
 - Package: samba
-  Version: 4.16.11-1
+  Version: 4.16.11-2
   Description: SMB/CIFS fileserver
   Homepage: https://www.samba.org/
 - Package: samefile
@@ -9863,7 +9863,7 @@
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
-  Version: 1.10.7-8
+  Version: 1.10.7-9
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
@@ -10567,7 +10567,7 @@
   Description: Zig language server
   Homepage: https://github.com/zigtools/zls
 - Package: znc
-  Version: 1.9.1
+  Version: 1.9.1-1
   Description: An advanced IRC bouncer
   Homepage: https://znc.in/
 - Package: zola

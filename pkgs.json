@@ -4213,7 +4213,7 @@
   },
   {
     "Package": "icu-devtools",
-    "Version": "75.1",
+    "Version": "76.1",
     "Description": "Development utilities for International Components for Unicode",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -6277,13 +6277,13 @@
   },
   {
     "Package": "libicu",
-    "Version": "75.1",
+    "Version": "76.1",
     "Description": "International Components for Unicode library",
     "Homepage": "http://site.icu-project.org/home"
   },
   {
     "Package": "libicu-static",
-    "Version": "75.1",
+    "Version": "76.1",
     "Description": "Static libraries for libicu",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -6487,7 +6487,7 @@
   },
   {
     "Package": "libkiwix",
-    "Version": "13.1.0-1",
+    "Version": "13.1.0-2",
     "Description": "A library that contains a lot of things used by other kiwix programs",
     "Homepage": "https://github.com/kiwix/libkiwix"
   },
@@ -9133,7 +9133,7 @@
   },
   {
     "Package": "libzim",
-    "Version": "9.2.3",
+    "Version": "9.2.3-1",
     "Description": "The ZIM library is the reference implementation for the ZIM file format.",
     "Homepage": "https://openzim.org"
   },
@@ -10405,7 +10405,7 @@
   },
   {
     "Package": "ncmpcpp",
-    "Version": "0.10.1",
+    "Version": "0.10.1-1",
     "Description": "NCurses Music Player Client (Plus Plus)",
     "Homepage": "https://rybczak.net/ncmpcpp/"
   },
@@ -11413,7 +11413,7 @@
   },
   {
     "Package": "peaclock",
-    "Version": "0.4.3-5",
+    "Version": "0.4.3-6",
     "Description": "A responsive and customizable clock, timer, and stopwatch for the terminal.",
     "Homepage": "https://github.com/octobanana/peaclock"
   },
@@ -13057,7 +13057,7 @@
   },
   {
     "Package": "samba",
-    "Version": "4.16.11-1",
+    "Version": "4.16.11-2",
     "Description": "SMB/CIFS fileserver",
     "Homepage": "https://www.samba.org/"
   },
@@ -14797,7 +14797,7 @@
   },
   {
     "Package": "unar",
-    "Version": "1.10.7-8",
+    "Version": "1.10.7-9",
     "Description": "Command line tools for archive and file unarchiving and extraction",
     "Homepage": "https://theunarchiver.com/command-line"
   },
@@ -15853,7 +15853,7 @@
   },
   {
     "Package": "znc",
-    "Version": "1.9.1",
+    "Version": "1.9.1-1",
     "Description": "An advanced IRC bouncer",
     "Homepage": "https://znc.in/"
   },
