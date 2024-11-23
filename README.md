@@ -783,7 +783,7 @@
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 17.1.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
-| **kakoune-lsp** | 18.0.3 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
+| **kakoune-lsp** | 18.1.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20241119 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.4.0 | Key directory that maps social media identities to encryption keys | https://keybase.io |

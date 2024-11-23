@@ -4639,7 +4639,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "18.0.3",
+    "Version": "18.1.0",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
