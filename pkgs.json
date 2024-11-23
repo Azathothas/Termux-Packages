@@ -11239,7 +11239,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20241022",
+    "Version": "20241122",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -14791,7 +14791,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "7.0.4",
+    "Version": "7.1.0",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },
@@ -15205,7 +15205,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.48",
+    "Version": "0.9.99.49",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
