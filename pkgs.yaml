@@ -2731,7 +2731,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.139.0
+  Version: 0.139.2
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3023,7 +3023,7 @@
   Description: Command-line JSON processor
   Homepage: https://stedolan.github.io/jq/
 - Package: jq-lsp
-  Version: 0.1.8
+  Version: 0.1.9
   Description: jq language server
   Homepage: https://github.com/wader/jq-lsp
 - Package: jq-static
@@ -6879,7 +6879,7 @@
   Description: Tool to manage all your version control repos
   Homepage: https://myrepos.branchable.com/
 - Package: n-t-roff-sc
-  Version: 7.16-1.1.2-0
+  Version: 7.16-1.1.3-0
   Description: A vi-like spreadsheet calculator
   Homepage: https://github.com/n-t-roff/sc
 - Package: n2n
@@ -7011,7 +7011,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
-  Version: 0.4.1
+  Version: 0.4.2
   Description: nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
   Homepage: https://github.com/loichyan/nerdfix
 - Package: net-snmp
@@ -7699,7 +7699,7 @@
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
-  Version: 1.6.1
+  Version: 1.7.0
   Description: The Zephir Parser delivered as a C extension for the PHP language
   Homepage: https://github.com/phalcon/php-zephir-parser
 - Package: phpmyadmin
@@ -10135,7 +10135,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.49
+  Version: 0.9.99.50
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
