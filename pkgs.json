@@ -2347,25 +2347,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "3.1.71",
+    "Version": "3.1.72",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "3.1.71",
+    "Version": "3.1.72",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "3.1.71",
+    "Version": "3.1.72",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "3.1.71",
+    "Version": "3.1.72",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -2377,15 +2377,15 @@
   },
   {
     "Package": "enchant",
-    "Version": "2.8.2",
+    "Version": "2.8.2-1",
     "Description": "Wraps a number of different spelling libraries and programs with a consistent interface",
-    "Homepage": "https://abiword.github.io/enchant/"
+    "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enchant-static",
-    "Version": "2.8.2",
+    "Version": "2.8.2-1",
     "Description": "Static libraries for enchant",
-    "Homepage": "https://abiword.github.io/enchant/"
+    "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enscript",
@@ -10831,7 +10831,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.6.5",
+    "Version": "24.8.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
