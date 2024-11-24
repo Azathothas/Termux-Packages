@@ -229,7 +229,7 @@
  clblast  1.6.3  Tuned OpenCL BLAS  https://github.com/CNugteren/CLBlast 
  cliaoke  0.2.4-4  Command line karaoke  https://github.com/jessfraz/cliaoke 
  clidle  2022.05.25-2  Play Wordle over SSH  https://github.com/ajeetdsouza/clidle 
- clifm  1.21  The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell  https://github.com/leo-arch/clifm 
+ clifm  1.22  The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell  https://github.com/leo-arch/clifm 
  clinfo  3.0.23.01.25  Print all known information about all available OpenCL platforms and devices in the system  https://github.com/Oblomov/clinfo 
  clipp  1.2.3-1  Command line interfaces for modern C++  https://github.com/muellan/clipp 
  cloneit  20240728  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
