@@ -1019,7 +1019,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 2.4.0-51
+  Version: 2.4.0-52
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -10591,7 +10591,7 @@
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
-  Version: 5.9-5
+  Version: 5.9-6
   Description: Shell with lots of features
   Homepage: https://www.zsh.org
 - Package: zsh-completions
