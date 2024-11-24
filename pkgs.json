@@ -10513,7 +10513,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.10.2-3",
+    "Version": "0.10.2-4",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
