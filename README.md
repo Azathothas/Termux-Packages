@@ -551,7 +551,7 @@
 | **git-svn** | 2.47.0-1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **gitea** | 1.22.3 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
-| **gitoxide** | 0.38.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
+| **gitoxide** | 0.39.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.49.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
@@ -604,7 +604,7 @@
 | **google-glog** | 0.7.1 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.15.2 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.23.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
-| **gopass** | 1.15.14 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
+| **gopass** | 1.15.15 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.16.2 | The official Go language server | https://github.com/golang/tools |
 | **gotop** | 4.2.0-3 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
@@ -1955,7 +1955,7 @@
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.22.27 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.23.0 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.2 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.2 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2544,7 +2544,7 @@
 | **vlc-static** | 3.0.21-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.50 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.51 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241031 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.300 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |

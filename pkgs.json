@@ -3247,7 +3247,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.38.0",
+    "Version": "0.39.0",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/Byron/gitoxide"
   },
@@ -3565,7 +3565,7 @@
   },
   {
     "Package": "gopass",
-    "Version": "1.15.14",
+    "Version": "1.15.15",
     "Description": "The slightly more awesome standard unix password manager for teams",
     "Homepage": "https://github.com/gopasspw/gopass"
   },
@@ -11671,7 +11671,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.22.27",
+    "Version": "0.23.0",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -15205,7 +15205,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.50",
+    "Version": "0.9.99.51",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },

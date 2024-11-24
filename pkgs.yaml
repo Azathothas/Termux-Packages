@@ -2163,7 +2163,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.38.0
+  Version: 0.39.0
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -2375,7 +2375,7 @@
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
-  Version: 1.15.14
+  Version: 1.15.15
   Description: The slightly more awesome standard unix password manager for teams
   Homepage: https://github.com/gopasspw/gopass
 - Package: gopher
@@ -7779,7 +7779,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.22.27
+  Version: 0.23.0
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -10135,7 +10135,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.50
+  Version: 0.9.99.51
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
