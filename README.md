@@ -1358,7 +1358,7 @@
 | **libsqlite-static** | 3.47.0 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.47.0 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
-| **libssh** | 0.10.6 | Tiny C SSH library | https://www.libssh.org/ |
+| **libssh** | 0.11.1 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1 | Static libraries for libssh2 | https://www.libssh2.org |
 | **libstemmer** | 2.2.0-1 | Snowball compiler and stemming algorithms | https://snowballstem.org/ |
@@ -1519,8 +1519,8 @@
 | **libxslt-static** | 1.1.39 | Static libraries for libxslt | http://xmlsoft.org/libxslt/ |
 | **libxss** | 1.2.4 | X11 Screen Saver extension library | https://xorg.freedesktop.org/ |
 | **libxss-static** | 1.2.4 | Static libraries for libxss | https://xorg.freedesktop.org/ |
-| **libxt** | 1.3.0 | X11 toolkit intrinsics library | https://xorg.freedesktop.org/ |
-| **libxt-static** | 1.3.0 | Static libraries for libxt | https://xorg.freedesktop.org/ |
+| **libxt** | 1.3.1 | X11 toolkit intrinsics library | https://xorg.freedesktop.org/ |
+| **libxt-static** | 1.3.1 | Static libraries for libxt | https://xorg.freedesktop.org/ |
 | **libxtst** | 1.2.5 | Xlib-based library for XTEST & RECORD extensions | https://xorg.freedesktop.org/ |
 | **libxtst-static** | 1.2.5 | Static libraries for libxtst | https://xorg.freedesktop.org/ |
 | **libxv** | 1.0.12 | Library for the X Video (Xv) extension to the X Window System | https://xorg.freedesktop.org/ |
