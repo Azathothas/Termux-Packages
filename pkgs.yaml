@@ -4687,11 +4687,11 @@
   Description: Static libraries for libncnn
   Homepage: https://github.com/Tencent/ncnn
 - Package: libneon
-  Version: 0.33.0-1
+  Version: 0.34.0
   Description: An HTTP/1.1 and WebDAV client library, with a C interface
   Homepage: https://notroj.github.io/neon/
 - Package: libneon-static
-  Version: 0.33.0-1
+  Version: 0.34.0
   Description: Static libraries for libneon
   Homepage: https://notroj.github.io/neon/
 - Package: libnet
@@ -5427,7 +5427,7 @@
   Description: A library for syntax highlighting different types of text files
   Homepage: https://os.ghalkes.nl/t3/libt3highlight.html
 - Package: libt3key
-  Version: 0.2.10
+  Version: 0.2.11
   Description: A library and database with escape sequence to key symbol mappings
   Homepage: https://os.ghalkes.nl/t3/libt3key.html
 - Package: libt3widget
@@ -5563,7 +5563,7 @@
   Description: Static libraries for libtpms
   Homepage: https://github.com/stefanberger/libtpms
 - Package: libtranscript
-  Version: 0.3.3-1
+  Version: 0.3.4
   Description: A character-set conversion library
   Homepage: https://os.ghalkes.nl/libtranscript.html
 - Package: libtree-ldd
@@ -7863,7 +7863,7 @@
   Description: Platform-independent data for povray
   Homepage: https://www.povray.org/
 - Package: predict
-  Version: 2.3.1
+  Version: 2.3.1-1
   Description: A Satellite Tracking/Orbital Prediction Program
   Homepage: https://www.qsl.net/kd2bd/predict.html
 - Package: privoxy
