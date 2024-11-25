@@ -10279,11 +10279,11 @@
   Description: Commandline tool for retrieving files using HTTP, HTTPS and FTP
   Homepage: https://www.gnu.org/software/wget/
 - Package: wget2
-  Version: 2.1.0
+  Version: 2.2.0
   Description: The successor of GNU Wget, a file and recursive website downloader
   Homepage: https://gitlab.com/gnuwget/wget2
 - Package: wget2-static
-  Version: 2.1.0
+  Version: 2.2.0
   Description: Static libraries for wget2
   Homepage: https://gitlab.com/gnuwget/wget2
 - Package: wgetpaste

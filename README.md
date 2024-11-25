@@ -2580,8 +2580,8 @@
 | **weggli** | 0.2.4-1 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.3 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.25.0 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
-| **wget2** | 2.1.0 | The successor of GNU Wget, a file and recursive website downloader | https://gitlab.com/gnuwget/wget2 |
-| **wget2-static** | 2.1.0 | Static libraries for wget2 | https://gitlab.com/gnuwget/wget2 |
+| **wget2** | 2.2.0 | The successor of GNU Wget, a file and recursive website downloader | https://gitlab.com/gnuwget/wget2 |
+| **wget2-static** | 2.2.0 | Static libraries for wget2 | https://gitlab.com/gnuwget/wget2 |
 | **wgetpaste** | 2.34 | wgetpaste is a shell script that allows its users to upload log. | https://github.com/zlin/wgetpaste |
 | **which** | 2.21 | Shows the full path of (shell) commands | https://carlowood.github.io/which/ |
 | **whiptail** | 0.52.24 | Display dialog boxes from shell scripts | https://pagure.io/newt |
