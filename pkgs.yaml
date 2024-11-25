@@ -455,7 +455,7 @@
   Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
   Homepage: https://www.gnu.org/software/bash/
 - Package: bash-completion
-  Version: 2.14.0
+  Version: 2.15.0
   Description: Programmable completion for the bash shell
   Homepage: https://github.com/scop/bash-completion
 - Package: bastet
@@ -8775,7 +8775,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 2.3.0
+  Version: 2.4.0
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -10135,7 +10135,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.51
+  Version: 0.9.99.52
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
@@ -10591,7 +10591,7 @@
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh
-  Version: 5.9-6
+  Version: 5.9-7
   Description: Shell with lots of features
   Homepage: https://www.zsh.org
 - Package: zsh-completions
