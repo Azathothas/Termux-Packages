@@ -91,7 +91,7 @@
   Description: Converts ANSI escape sequences of a unix terminal to HTML code
   Homepage: https://github.com/theZiz/aha
 - Package: aichat
-  Version: 0.23.0
+  Version: 0.24.0
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
@@ -2123,7 +2123,7 @@
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
 - Package: git
-  Version: 2.47.0-1
+  Version: 2.47.1
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-crypt
@@ -2135,11 +2135,11 @@
   Description: A syntax-highlighter for git and diff output
   Homepage: https://dandavison.github.io/delta/
 - Package: git-gitk
-  Version: 2.47.0-1
+  Version: 2.47.1
   Description: Git repository browser
   Homepage: https://git-scm.com/
 - Package: git-gui
-  Version: 2.47.0-1
+  Version: 2.47.1
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
@@ -2151,7 +2151,7 @@
   Description: Compute various size metrics for a Git repository
   Homepage: https://github.com/github/git-sizer
 - Package: git-svn
-  Version: 2.47.0-1
+  Version: 2.47.1
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: gitea
@@ -7219,7 +7219,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.8.0
+  Version: 24.9.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7779,7 +7779,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.23.0
+  Version: 0.23.1
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8391,7 +8391,7 @@
   Description: Command line tool to extract the main content from a webpage
   Homepage: https://github.com/eafer/rdrview
 - Package: re2c
-  Version: "4.0"
+  Version: 4.0.1
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
@@ -8627,7 +8627,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20241118"
+  Version: "20241125"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
