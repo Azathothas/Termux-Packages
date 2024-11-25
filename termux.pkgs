@@ -1618,7 +1618,7 @@
 | **mbedtls-static** | 3.6.2 | Static libraries for mbedtls | https://tls.mbed.org/ |
 | **mc** | 4.8.32 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
 | **mcfly** | 0.9.2 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
-| **mdbook** | 0.4.42 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
+| **mdbook** | 0.4.43 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
 | **mdbook-epub** | 0.4.37 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
@@ -1770,7 +1770,7 @@
 | **ninja** | 1.12.1 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-2 | Space Invaders clone based on ncurses for ASCII output | http://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.11.3 | JSON for Modern C++ | https://github.com/nlohmann/json |
-| **nlopt** | 2.9.0 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
+| **nlopt** | 2.9.1 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
 | **nmap** | 7.95 | Utility for network discovery and security auditing | https://nmap.org/ |
 | **nmap-ncat** | 7.95 | Feature-packed networking utility which reads and writes data across networks from the command line | https://nmap.org/ |
 | **nmh** | 1.8-1 | Powerful electronic mail handling system | http://www.nongnu.org/nmh/ |
@@ -2038,8 +2038,8 @@
 | **pyunbound** | 1.22.0 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.6-2 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
-| **qalc** | 5.3.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
-| **qalc-static** | 5.3.0 | Static libraries for qalc | https://qalculate.github.io/ |
+| **qalc** | 5.4.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
+| **qalc-static** | 5.4.0 | Static libraries for qalc | https://qalculate.github.io/ |
 | **qemu-common** | 1:8.2.6 | A set common files used by the QEMU emulators | https://www.qemu.org |
 | **qemu-system-aarch64-headless** | 1:8.2.6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
 | **qemu-system-arm-headless** | 1:8.2.6 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
@@ -2532,7 +2532,7 @@
 | **vlc-static** | 3.0.21-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.52 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.53 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241031 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.300 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |

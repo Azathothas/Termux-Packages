@@ -9721,7 +9721,7 @@
   },
   {
     "Package": "mdbook",
-    "Version": "0.4.42",
+    "Version": "0.4.43",
     "Description": "Creates book from markdown files",
     "Homepage": "https://rust-lang.github.io/mdBook/"
   },
@@ -10633,7 +10633,7 @@
   },
   {
     "Package": "nlopt",
-    "Version": "2.9.0",
+    "Version": "2.9.1",
     "Description": "Library for nonlinear optimization",
     "Homepage": "https://nlopt.readthedocs.io/"
   },
@@ -12241,13 +12241,13 @@
   },
   {
     "Package": "qalc",
-    "Version": "5.3.0",
+    "Version": "5.4.0",
     "Description": "Powerful and easy to use command line calculator",
     "Homepage": "https://qalculate.github.io/"
   },
   {
     "Package": "qalc-static",
-    "Version": "5.3.0",
+    "Version": "5.4.0",
     "Description": "Static libraries for qalc",
     "Homepage": "https://qalculate.github.io/"
   },
@@ -15205,7 +15205,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.52",
+    "Version": "0.9.99.53",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
