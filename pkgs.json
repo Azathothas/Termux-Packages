@@ -14503,7 +14503,7 @@
   },
   {
     "Package": "tree",
-    "Version": "2.1.3",
+    "Version": "2.2.0",
     "Description": "Recursive directory lister producing a depth indented listing of files",
     "Homepage": "http://mama.indstate.edu/users/ice/tree/"
   },
