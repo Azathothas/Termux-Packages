@@ -12127,7 +12127,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "18.0.0",
+    "Version": "18.1.0",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -14503,7 +14503,7 @@
   },
   {
     "Package": "tree",
-    "Version": "2.2.0",
+    "Version": "2.2.1",
     "Description": "Recursive directory lister producing a depth indented listing of files",
     "Homepage": "http://mama.indstate.edu/users/ice/tree/"
   },
@@ -15253,7 +15253,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.3.301",
+    "Version": "1.3.302",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
