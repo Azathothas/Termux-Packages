@@ -13801,7 +13801,7 @@
   },
   {
     "Package": "strace",
-    "Version": "6.11",
+    "Version": "6.12",
     "Description": "Debugging utility to monitor system calls and signals received",
     "Homepage": "https://strace.io/"
   },
