@@ -104,7 +104,7 @@
 | **await** | 1.0.8 | Runs list of commands in parallel and waits for their termination | https://await-cli.app/ |
 | **awesomeshot** | 1.1.0 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
 | **axel** | 2.17.14 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
-| **b3sum** | 1.5.4 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
+| **b3sum** | 1.5.5 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.110 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacula-fd** | 15.0.2 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd-static** | 15.0.2 | Static libraries for bacula-fd | https://www.bacula.org |
@@ -1837,8 +1837,8 @@
 | **openjdk-21-x** | 21.0.5 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
 | **openjpeg** | 2.5.2 | JPEG 2000 image compression library | http://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.2 | Command-line tools using the JPEG 2000 library | http://www.openjpeg.org/ |
-| **openldap** | 2.6.8 | OpenLDAP server | https://openldap.org |
-| **openldap-static** | 2.6.8 | Static libraries for openldap | https://openldap.org |
+| **openldap** | 2.6.9 | OpenLDAP server | https://openldap.org |
+| **openldap-static** | 2.6.9 | Static libraries for openldap | https://openldap.org |
 | **openmpi** | 4.1.5 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5 | Static libraries for openmpi | https://www.open-mpi.org |
 | **openscad** | 2021.01 | The programmers solid 3D CAD modeller (headless build) | http://openscad.org/ |
@@ -2339,7 +2339,7 @@
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
 | **tcl** | 8.6.14 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
-| **tcsh** | 6.24.13 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
+| **tcsh** | 6.24.14 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.12 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.18.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.9.2 | The official CLI for Gitea | https://gitea.com/gitea/tea |

@@ -637,7 +637,7 @@
   },
   {
     "Package": "b3sum",
-    "Version": "1.5.4",
+    "Version": "1.5.5",
     "Description": "A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum",
     "Homepage": "https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum"
   },
@@ -11035,13 +11035,13 @@
   },
   {
     "Package": "openldap",
-    "Version": "2.6.8",
+    "Version": "2.6.9",
     "Description": "OpenLDAP server",
     "Homepage": "https://openldap.org"
   },
   {
     "Package": "openldap-static",
-    "Version": "2.6.8",
+    "Version": "2.6.9",
     "Description": "Static libraries for openldap",
     "Homepage": "https://openldap.org"
   },
@@ -14047,7 +14047,7 @@
   },
   {
     "Package": "tcsh",
-    "Version": "6.24.13",
+    "Version": "6.24.14",
     "Description": "TENEX C Shell, an enhanced version of Berkeley csh",
     "Homepage": "https://www.tcsh.org"
   },
