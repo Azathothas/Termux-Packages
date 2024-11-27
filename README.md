@@ -446,7 +446,7 @@
 | **fetchmail** | 6.5.1 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.5.1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 6.1.2-1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 6.1.2-2 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20240913-0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.76 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-3 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |

@@ -2617,7 +2617,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "6.1.2-1",
+    "Version": "6.1.2-2",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
