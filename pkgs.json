@@ -4699,7 +4699,7 @@
   },
   {
     "Package": "kotlin",
-    "Version": "2.0.21",
+    "Version": "2.1.0",
     "Description": "The Kotlin Programming Language",
     "Homepage": "https://kotlinlang.org/"
   },
@@ -14203,7 +14203,7 @@
   },
   {
     "Package": "termux-gui-c",
-    "Version": "0.1.3",
+    "Version": "0.1.3-1",
     "Description": "A C library for the Termux:GUI plugin",
     "Homepage": "https://github.com/tareksander/termux-gui-c-bindings"
   },
