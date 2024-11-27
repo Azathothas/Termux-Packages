@@ -2449,7 +2449,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.03",
+    "Version": "13.04",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -6475,13 +6475,13 @@
   },
   {
     "Package": "libjxl",
-    "Version": "0.11.0",
+    "Version": "0.11.1",
     "Description": "JPEG XL image format reference implementation",
     "Homepage": "https://jpegxl.info/"
   },
   {
     "Package": "libjxl-progs",
-    "Version": "0.11.0",
+    "Version": "0.11.1",
     "Description": "Programs for manipulating JPEG XL files",
     "Homepage": "https://jpegxl.info/"
   },
@@ -10591,7 +10591,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.27.2-2",
+    "Version": "1.27.3",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
@@ -10831,7 +10831,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.9.1",
+    "Version": "24.10.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },

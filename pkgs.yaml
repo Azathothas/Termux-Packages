@@ -1631,7 +1631,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.03"
+  Version: "13.04"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -4315,11 +4315,11 @@
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
-  Version: 0.11.0
+  Version: 0.11.1
   Description: JPEG XL image format reference implementation
   Homepage: https://jpegxl.info/
 - Package: libjxl-progs
-  Version: 0.11.0
+  Version: 0.11.1
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkiwix
@@ -7059,7 +7059,7 @@
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: nginx
-  Version: 1.27.2-2
+  Version: 1.27.3
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -7219,7 +7219,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.9.1
+  Version: 24.10.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
