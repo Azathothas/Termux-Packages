@@ -7779,7 +7779,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.23.1
+  Version: 0.23.2
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8907,7 +8907,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.10.2
+  Version: 1.10.3
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -10515,7 +10515,7 @@
   Description: Static libraries for yuma123
   Homepage: https://yuma123.org/
 - Package: z-push
-  Version: 2.7.4
+  Version: 2.7.5
   Description: An open-source application to synchronize ActiveSync compatible devices and Outlook
   Homepage: https://z-push.org/
 - Package: z3

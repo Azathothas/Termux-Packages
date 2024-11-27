@@ -11671,7 +11671,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.23.1",
+    "Version": "0.23.2",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -13363,7 +13363,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.10.2",
+    "Version": "1.10.3",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -15775,7 +15775,7 @@
   },
   {
     "Package": "z-push",
-    "Version": "2.7.4",
+    "Version": "2.7.5",
     "Description": "An open-source application to synchronize ActiveSync compatible devices and Outlook",
     "Homepage": "https://z-push.org/"
   },
