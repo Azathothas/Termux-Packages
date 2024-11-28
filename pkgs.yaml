@@ -371,11 +371,11 @@
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
-  Version: 0.4.9-2
+  Version: 0.4.9-3
   Description: A library to label music and sounds
   Homepage: https://aubio.org/
 - Package: aubio-static
-  Version: 0.4.9-2
+  Version: 0.4.9-3
   Description: Static libraries for aubio
   Homepage: https://aubio.org/
 - Package: autoconf
