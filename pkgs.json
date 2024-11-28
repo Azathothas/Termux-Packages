@@ -12475,7 +12475,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.19.0",
+    "Version": "3.19.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
