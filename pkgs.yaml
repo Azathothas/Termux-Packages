@@ -5170,6 +5170,10 @@
   Version: 1.1.0-2
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
+- Package: librusty-v8
+  Version: 130.0.1
+  Description: High quality Rust bindings to V8s C++ API
+  Homepage: https://github.com/denoland/rusty_v8
 - Package: libsamplerate
   Version: 0.2.2-1
   Description: A library for performing sample rate conversion of audio data
