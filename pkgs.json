@@ -11911,8 +11911,8 @@
   },
   {
     "Package": "ptunnel-ng",
-    "Version": "1.42",
-    "Description": "Tunnel TCP connections through ICMP.",
+    "Version": "1.43",
+    "Description": "Tunnel TCP connections through ICMP",
     "Homepage": "https://github.com/lnslbrty/ptunnel-ng"
   },
   {
