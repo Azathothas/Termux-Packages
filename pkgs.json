@@ -2347,25 +2347,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "3.1.72",
+    "Version": "3.1.73",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "3.1.72",
+    "Version": "3.1.73",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "3.1.72",
+    "Version": "3.1.73",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "3.1.72",
+    "Version": "3.1.73",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
