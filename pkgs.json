@@ -1141,7 +1141,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.5",
+    "Version": "0.10.6",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -1861,7 +1861,7 @@
   },
   {
     "Package": "debootstrap",
-    "Version": "1.0.137",
+    "Version": "1.0.138",
     "Description": "Bootstrap a basic Debian system",
     "Homepage": "https://wiki.debian.org/Debootstrap"
   },
@@ -3265,7 +3265,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.49.0",
+    "Version": "1.50.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -10909,7 +10909,7 @@
   },
   {
     "Package": "openal-soft",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "Software implementation of the OpenAL API",
     "Homepage": "https://openal-soft.org/"
   },
@@ -11443,7 +11443,7 @@
   },
   {
     "Package": "pet",
-    "Version": "0.9.1",
+    "Version": "1.0.0",
     "Description": "Simple command-line snippet manager",
     "Homepage": "https://github.com/knqyf263/pet"
   },
@@ -14989,7 +14989,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.4",
+    "Version": "0.5.5",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
