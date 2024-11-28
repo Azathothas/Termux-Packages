@@ -268,7 +268,7 @@
  cpufetch  1.06  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-1  CPU usage limiter  https://github.com/opsengine/cpulimit 
  crawl  0.32.1  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
- croc  1:10.1.0  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
+ croc  1:10.1.1  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
  cronie  1.7.2-1  Daemon that runs specified programs at scheduled times and related tools  https://github.com/cronie-crond/cronie/ 
  crowbook  0.16.1-3  Allows you to write a book in Markdown without worrying about formatting or typography  https://github.com/crowdagger/crowbook 
  crunch  3.6-4  Highly customizable wordlist generator  https://sourceforge.net/projects/crunch-wordlist 
@@ -410,7 +410,7 @@
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  exiv2-static  2:0.27.7-1  Static libraries for exiv2  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
- eza  0.20.9  A modern replacement for ls  https://github.com/eza-community/eza 
+ eza  0.20.10  A modern replacement for ls  https://github.com/eza-community/eza 
  fact++  1.6.5-1  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
  fakeroot  1.36  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.36  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
@@ -1646,9 +1646,9 @@
  memcached  1.6.32  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
  mercury  22.01.8  A logic/functional programming language  https://www.mercurylang.org/ 
  mercury-static  22.01.8  Static libraries for mercury  https://www.mercurylang.org/ 
- mesa  24.2.7  An open-source implementation of the OpenGL specification  https://www.mesa3d.org 
- mesa-dev  24.2.7  Mesa's OpenGL headers  https://www.mesa3d.org 
- mesa-vulkan-icd-swrast  24.2.7  Mesa's Swrast Vulkan ICD  https://www.mesa3d.org 
+ mesa  24.2.8  An open-source implementation of the OpenGL specification  https://www.mesa3d.org 
+ mesa-dev  24.2.8  Mesa's OpenGL headers  https://www.mesa3d.org 
+ mesa-vulkan-icd-swrast  24.2.8  Mesa's Swrast Vulkan ICD  https://www.mesa3d.org 
  mfcuk  2018.07.14  MiFare Classic Universal toolKit (MFCUK)  https://github.com/nfc-tools/mfcuk 
  mg  20240709  microscopic GNU Emacs-style editor  https://github.com/hboetes/mg 
  micro  2.0.14-1  Modern and intuitive terminal-based text editor  https://micro-editor.github.io/ 
@@ -1855,7 +1855,7 @@
  opusfile  0.12-3  A high-level API for decoding and seeking within .opus files  https://www.opus-codec.org/ 
  opusfile-static  0.12-3  Static libraries for opusfile  https://www.opus-codec.org/ 
  osmctools  0.9-2  Simple tools for OpenStreetMap processing  https://gitlab.com/osm-c-tools/osmctools 
- osmesa  24.2.7  Mesa Off-screen Rendering Library  https://www.mesa3d.org 
+ osmesa  24.2.8  Mesa Off-screen Rendering Library  https://www.mesa3d.org 
  osmium-tool  1.16.0-1  A multipurpose command line tool based on the Osmium Library  https://osmcode.org/osmium-tool/ 
  osslsigncode  2.9  OpenSSL based Authenticode signing for PE/MSI/Java CAB files  https://github.com/mtrojnar/osslsigncode 
  ossp-uuid  1.6.2-3  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
@@ -2203,7 +2203,7 @@
  serf  1.3.10-1  High performance C-based HTTP client library  https://serf.apache.org/ 
  serf-static  1.3.10-1  Static libraries for serf  https://serf.apache.org/ 
  sfeed  2.0  Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)  https://codemadness.org/sfeed-simple-feed-parser.html 
- sftpgo  2.6.3  Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server  https://sftpgo.com/ 
+ sftpgo  2.6.4  Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server  https://sftpgo.com/ 
  shaderc  2024.3  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
  shairport-sync  3.1.2-6  An AirPlay audio player  https://github.com/mikebrady/shairport-sync 
  sharutils  4.15.2-3  Utilities for packaging and unpackaging shell archives  https://www.gnu.org/software/sharutils/ 

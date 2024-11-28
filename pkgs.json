@@ -1621,7 +1621,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.1.0",
+    "Version": "1:10.1.1",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2473,7 +2473,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.9",
+    "Version": "0.20.10",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -9889,19 +9889,19 @@
   },
   {
     "Package": "mesa",
-    "Version": "24.2.7",
+    "Version": "24.2.8",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "24.2.7",
+    "Version": "24.2.8",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "24.2.7",
+    "Version": "24.2.8",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -11143,7 +11143,7 @@
   },
   {
     "Package": "osmesa",
-    "Version": "24.2.7",
+    "Version": "24.2.8",
     "Description": "Mesa Off-screen Rendering Library",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -13231,7 +13231,7 @@
   },
   {
     "Package": "sftpgo",
-    "Version": "2.6.3",
+    "Version": "2.6.4",
     "Description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server",
     "Homepage": "https://sftpgo.com/"
   },
