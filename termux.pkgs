@@ -1944,7 +1944,7 @@
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.23.2 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.23.3 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.2 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.2 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2342,7 +2342,7 @@
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.14 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.12 | Tools for TDB | https://tdb.samba.org/ |
-| **tdl** | 0.18.1 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
+| **tdl** | 0.18.3 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.9.2 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.7.1 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |
 | **teckit** | 2.5.12 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |

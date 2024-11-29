@@ -7783,7 +7783,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.23.2
+  Version: 0.23.3
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -9375,7 +9375,7 @@
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
-  Version: 0.18.1
+  Version: 0.18.3
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
