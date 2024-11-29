@@ -4471,7 +4471,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.72.0",
+    "Version": "2.72.1",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -10837,7 +10837,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.10.1",
+    "Version": "24.11.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15109,7 +15109,7 @@
   },
   {
     "Package": "viddy",
-    "Version": "1.2.1",
+    "Version": "1.3.0",
     "Description": "A modern watch command",
     "Homepage": "https://github.com/sachaos/viddy"
   },
