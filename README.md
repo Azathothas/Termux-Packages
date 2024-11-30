@@ -254,7 +254,7 @@
 | **cmark-static** | 0.31.1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
 | **cmocka** | 1.1.7 | cmocka is an unit testing framework for C | https://cmocka.org/ |
-| **cmus** | 2.12.0-1 | Small, fast and powerful console music player | https://cmus.github.io/ |
+| **cmus** | 2.12.0-2 | Small, fast and powerful console music player | https://cmus.github.io/ |
 | **cmusfm** | 0.5.0 | Last.fm standalone scrobbler for the cmus music player | https://github.com/Arkq/cmusfm |
 | **codecrypt** | 1.8-9 | The post-quantum cryptography tool | http://e-x-a.org/codecrypt/ |
 | **coinor-cbc** | 2.10.12 | An open-source mixed integer linear programming solver | https://github.com/coin-or/Cbc |
@@ -2476,7 +2476,7 @@
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **uftrace** | 0.16-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.8 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
-| **ugrep** | 7.1.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
+| **ugrep** | 7.1.1 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.7-9 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.22.0 | Unbound command-line tools | https://unbound.net/ |
 | **unbound-static** | 1.17.1 | Static libraries for unbound | https://unbound.net/ |
