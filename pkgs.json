@@ -1531,7 +1531,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-52",
+    "Version": "2.4.0-53",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -1579,7 +1579,7 @@
   },
   {
     "Package": "cowsay",
-    "Version": "3.8.3",
+    "Version": "3.8.4",
     "Description": "Program which generates ASCII pictures of a cow with a message",
     "Homepage": "https://cowsay.diamonds/"
   },

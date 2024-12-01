@@ -265,7 +265,7 @@
 | **colm** | 0.14.7-1 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 2.4.0-52 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 2.4.0-53 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.8.3 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-1 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
@@ -273,7 +273,7 @@
 | **coreutils** | 9.5-3 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-4 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-3 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
-| **cowsay** | 3.8.3 | Program which generates ASCII pictures of a cow with a message | https://cowsay.diamonds/ |
+| **cowsay** | 3.8.4 | Program which generates ASCII pictures of a cow with a message | https://cowsay.diamonds/ |
 | **cpio** | 2.15 | CPIO implementation from the GNU project | https://www.gnu.org/software/cpio/ |
 | **cppcheck** | 2.16.0 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
 | **cppi** | 1.18-1 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://www.gnu.org/software/cppi/ |
