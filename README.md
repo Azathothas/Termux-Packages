@@ -2161,8 +2161,8 @@
 | **rubberband-static** | 4.0.0 | Static libraries for rubberband | https://breakfastquay.com/rubberband/ |
 | **rubberband-vamp** | 4.0.0 | Vamp plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
-| **ruby** | 3.3.5 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
-| **ruby-ri** | 3.3.5 | Ruby documentation index | https://www.ruby-lang.org/ |
+| **ruby** | 3.3.6 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
+| **ruby-ri** | 3.3.6 | Ruby documentation index | https://www.ruby-lang.org/ |
 | **ruff** | 0.8.1 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
@@ -2531,7 +2531,7 @@
 | **viddy** | 1.3.0 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.13 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.1.0850-1 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.1.0850-2 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **vim-python** | 9.1.0850 | Vi IMproved - enhanced vi editor - with python support | https://www.vim.org |
 | **vim-runtime** | 9.1.0850 | Vi IMproved - Runtime files | https://www.vim.org |
 | **virglrenderer** | 1.1.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
@@ -2621,7 +2621,7 @@
 | **xtrans** | 1.5.2 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.1.0850-1 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.1.0850-2 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.2 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.2 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.6.3 | XZ-format compression tools | https://tukaani.org/xz/ |
