@@ -2725,7 +2725,7 @@
   },
   {
     "Package": "fluidsynth",
-    "Version": "2.4.0",
+    "Version": "2.4.1",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
   },
@@ -3511,7 +3511,7 @@
   },
   {
     "Package": "gojq",
-    "Version": "0.12.16",
+    "Version": "0.12.17",
     "Description": "Pure Go implementation of jq",
     "Homepage": "https://github.com/itchyny/gojq"
   },
@@ -10777,7 +10777,7 @@
   },
   {
     "Package": "o-editor",
-    "Version": "2.68.3",
+    "Version": "2.68.4",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://github.com/xyproto/o"
   },
@@ -10837,7 +10837,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.11.2",
+    "Version": "24.11.4",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
