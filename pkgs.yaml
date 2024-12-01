@@ -7231,7 +7231,7 @@
   Description: OpenKeychain agents for GnuPG and OpenSSH
   Homepage: https://github.com/DDoSolitary/okc-agents
 - Package: ol
-  Version: 2.6-1
+  Version: 2.6-2
   Description: Purely functional dialect of Lisp
   Homepage: https://yuriy-chumak.github.io/ol/
 - Package: oleo
@@ -10083,7 +10083,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.0850
+  Version: 9.1.0850-1
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: vim-python
@@ -10442,6 +10442,10 @@
   Version: 1.3.7
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
+- Package: xxd
+  Version: 9.1.0850-1
+  Description: Hexdump utility from vim
+  Homepage: https://www.vim.org
 - Package: xxhash
   Version: 0.8.2
   Description: Extremely fast non-cryptographic hash algorithm

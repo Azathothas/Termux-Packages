@@ -1818,7 +1818,7 @@
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
 | **oh-my-posh** | 24.11.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
-| **ol** | 2.6-1 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
+| **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
 | **onefetch** | 2.22.0 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
@@ -2531,7 +2531,7 @@
 | **viddy** | 1.3.0 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.13 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.1.0850 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.1.0850-1 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **vim-python** | 9.1.0850 | Vi IMproved - enhanced vi editor - with python support | https://www.vim.org |
 | **vim-runtime** | 9.1.0850 | Vi IMproved - Runtime files | https://www.vim.org |
 | **virglrenderer** | 1.1.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
@@ -2621,6 +2621,7 @@
 | **xtrans** | 1.5.2 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |
+| **xxd** | 9.1.0850-1 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.2 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.2 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.6.3 | XZ-format compression tools | https://tukaani.org/xz/ |
