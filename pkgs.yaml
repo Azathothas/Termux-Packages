@@ -15,7 +15,7 @@
   Description: Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa
   Homepage: https://github.com/wojtekka/6tunnel
 - Package: 7zip
-  Version: "24.08"
+  Version: "24.09"
   Description: 7-Zip file archiver with a high compression ratio
   Homepage: https://www.7-zip.org
 - Package: 8086tiny
@@ -483,7 +483,7 @@
   Description: Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java
   Homepage: https://github.com/beanshell/beanshell
 - Package: bed
-  Version: 0.2.7
+  Version: 0.2.8
   Description: Binary editor written in GO
   Homepage: https://github.com/itchyny/bed
 - Package: bftpd
@@ -2319,7 +2319,7 @@
   Description: Find visually similar or duplicate images
   Homepage: https://gitlab.com/opennota/findimagedupes
 - Package: go-musicfox
-  Version: 4.5.7
+  Version: 4.6.0
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
 - Package: goaccess
@@ -7899,7 +7899,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.5.0
+  Version: 9.5.1
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot

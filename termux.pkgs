@@ -2,7 +2,7 @@
 | **2048-c** | 2022.10.23 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
 | **2ping** | 4.5.1-4 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
 | **6tunnel** | 0.13 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
-| **7zip** | 24.08 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
+| **7zip** | 24.09 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
 | **8086tiny** | 1.25-4 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
 | **a52dec** | 0.8.0-1 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-11 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
@@ -119,7 +119,7 @@
 | **bc-gh** | 7.0.3 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
 | **bdsup2sub** | 4.0.1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
 | **beanshell** | 2.1.1-1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/beanshell/beanshell |
-| **bed** | 0.2.7 | Binary editor written in GO | https://github.com/itchyny/bed |
+| **bed** | 0.2.8 | Binary editor written in GO | https://github.com/itchyny/bed |
 | **bftpd** | 6.2 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
 | **bgrep** | 1.0-3 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
 | **biboumi** | 9.0-4 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
@@ -578,7 +578,7 @@
 | **gnustep-make** | 2.9.2-1 | The GNUstep makefile package | http://www.gnustep.org |
 | **gnutls** | 3.8.5 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-3 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
-| **go-musicfox** | 4.5.7 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
+| **go-musicfox** | 4.6.0 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **goaccess** | 1.9.3 | An open source real-time web log analyzer and interactive viewer | http://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-2 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.82.0-1 | Uniform machine readable API | https://gi.readthedocs.io/ |
@@ -1973,7 +1973,7 @@
 | **procyon-decompiler** | 0.6.0-1 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.14.0-3 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
 | **progress** | 0.17 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
-| **proj** | 9.5.0 | Generic coordinate transformation software | https://proj.org |
+| **proj** | 9.5.1 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107-65 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 4.17.3 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:25.1-3 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
