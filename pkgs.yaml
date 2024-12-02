@@ -6235,11 +6235,11 @@
   Description: A Linux port of OpenBSDs ksh
   Homepage: https://github.com/dimkr/loksh
 - Package: lowdown
-  Version: 1.2.0
+  Version: 1.3.0
   Description: Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lowdown-static
-  Version: 1.2.0
+  Version: 1.3.0
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lr
