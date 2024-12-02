@@ -7297,13 +7297,13 @@
   },
   {
     "Package": "libopenmpt",
-    "Version": "0.7.11",
+    "Version": "0.7.12",
     "Description": "OpenMPT based module player library and libopenmpt based command-line player",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
   {
     "Package": "libopenmpt-static",
-    "Version": "0.7.11",
+    "Version": "0.7.12",
     "Description": "Static libraries for libopenmpt",
     "Homepage": "https://lib.openmpt.org/libopenmpt/"
   },
@@ -12949,7 +12949,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20241125",
+    "Version": "20241202",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://github.com/rust-lang/rust-analyzer"
   },
@@ -15235,7 +15235,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.3.302",
+    "Version": "1.4.303",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
