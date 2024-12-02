@@ -7783,7 +7783,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.23.3
+  Version: 0.23.4
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -9271,7 +9271,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.15
+  Version: 9.3.16
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
