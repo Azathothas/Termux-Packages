@@ -7537,7 +7537,7 @@
   },
   {
     "Package": "libpoco",
-    "Version": "1.13.3-1",
+    "Version": "1.14.0",
     "Description": "A comprehensive set of C++ libraries that cover all modern-day programming needs",
     "Homepage": "https://pocoproject.org/"
   },
