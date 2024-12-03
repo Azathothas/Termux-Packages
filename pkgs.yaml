@@ -6706,6 +6706,10 @@
   Version: 0.26-5
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
+- Package: moar
+  Version: 1.30.0
+  Description: A pager designed to just do the right thing without any configuration
+  Homepage: https://github.com/walles/moar
 - Package: mold
   Version: 2.34.1
   Description: 'mold: A Modern Linker'
