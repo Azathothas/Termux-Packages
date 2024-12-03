@@ -15253,7 +15253,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.3.302",
+    "Version": "1.4.303",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
