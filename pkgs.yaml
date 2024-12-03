@@ -6791,7 +6791,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.23.15-4
+  Version: 0.23.16
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpd-static
@@ -10083,7 +10083,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.0850-2
+  Version: 9.1.0900
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: vim-python
@@ -10443,7 +10443,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.1.0850-2
+  Version: 9.1.0900
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
