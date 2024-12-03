@@ -157,7 +157,7 @@
   },
   {
     "Package": "alembic",
-    "Version": "1.8.7",
+    "Version": "1.8.8",
     "Description": "A framework for sharing scene data that includes a C++ lib, a file format and client plugin",
     "Homepage": "https://alembic.io"
   },
@@ -13507,7 +13507,7 @@
   },
   {
     "Package": "sops",
-    "Version": "3.9.1",
+    "Version": "3.9.2",
     "Description": "Simple and flexible tool for managing secrets",
     "Homepage": "https://github.com/getsops/sops"
   },
@@ -15319,7 +15319,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.10",
+    "Version": "0.5.11",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },
