@@ -275,7 +275,7 @@
 | **corkscrew** | 2.0-3 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
 | **cowsay** | 3.8.4 | Program which generates ASCII pictures of a cow with a message | https://cowsay.diamonds/ |
 | **cpio** | 2.15 | CPIO implementation from the GNU project | https://www.gnu.org/software/cpio/ |
-| **cppcheck** | 2.16.0 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
+| **cppcheck** | 2.16.1 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
 | **cppi** | 1.18-1 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://www.gnu.org/software/cppi/ |
 | **cpufetch** | 1.06 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
@@ -427,7 +427,7 @@
 | **fakeroot** | 1.36 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.36 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.30.1 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.31.0 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.75.7 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -1255,7 +1255,7 @@
 | **libphysfs** | 3.2.0-1 | A portable, flexible file i/o abstraction | https://icculus.org/physfs/ |
 | **libpipeline** | 1.5.8 | C library for manipulating pipelines of subprocesses in a flexible and convenient way | http://libpipeline.nongnu.org/ |
 | **libpipeline-static** | 1.5.8 | Static libraries for libpipeline | http://libpipeline.nongnu.org/ |
-| **libpixman** | 0.44.0 | Low-level library for pixel manipulation | https://www.pixman.org/ |
+| **libpixman** | 0.44.2 | Low-level library for pixel manipulation | https://www.pixman.org/ |
 | **libpixman-static** | 0.42.2 | Static libraries for libpixman | http://www.pixman.org/ |
 | **libplacebo** | 6.338.2-1 | Reusable library for GPU-accelerated video/image rendering | http://libplacebo.org/ |
 | **libplist** | 2.6.0-1 | A small portable C library to handle Apple Property List files in binary or XML format | https://libimobiledevice.org |
@@ -2114,8 +2114,8 @@
 | **readline-static** | 8.2.13 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.14 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.14 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.40.4 | Full-text search for your desktop | https://www.recoll.org/ |
-| **recoll-python** | 1.40.4 | Python interface for Recoll | https://www.recoll.org/ |
+| **recoll** | 1.41.0 | Full-text search for your desktop | https://www.recoll.org/ |
+| **recoll-python** | 1.41.0 | Python interface for Recoll | https://www.recoll.org/ |
 | **recoll-static** | 1.37.5 | Static libraries for recoll | https://www.recoll.org/ |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
@@ -2198,7 +2198,7 @@
 | **scdaemon** | 2.4.5-3 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.3 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
 | **screen** | 4.9.1 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
-| **screenfetch** | 3.9.1-1 | Bash Screenshot Information Tool | https://github.com/KittyKatt/screenFetch |
+| **screenfetch** | 3.9.9 | Bash Screenshot Information Tool | https://github.com/KittyKatt/screenFetch |
 | **scrub** | 2.6.1-1 | Iteratively writes patterns on files or disk devices to make retreiving the data more difficult | https://github.com/chaos/scrub |
 | **scrypt** | 1.3.2-3 | scrypt KDF library and file encryption tool | https://www.tarsnap.com/scrypt.html |
 | **sd** | 1.0.0-1 | An intuitive find & replace CLI | https://github.com/chmln/sd |
@@ -2339,7 +2339,7 @@
 | **swig** | 4.3.0 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.0 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.10.0 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 1.28.0 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 1.28.1 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-6 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |

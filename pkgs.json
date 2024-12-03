@@ -1591,7 +1591,7 @@
   },
   {
     "Package": "cppcheck",
-    "Version": "2.16.0",
+    "Version": "2.16.1",
     "Description": "tool for static C/C++ code analysis",
     "Homepage": "https://github.com/danmar/cppcheck"
   },
@@ -2503,7 +2503,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.30.1",
+    "Version": "2.31.0",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -7471,7 +7471,7 @@
   },
   {
     "Package": "libpixman",
-    "Version": "0.44.0",
+    "Version": "0.44.2",
     "Description": "Low-level library for pixel manipulation",
     "Homepage": "https://www.pixman.org/"
   },
@@ -12625,13 +12625,13 @@
   },
   {
     "Package": "recoll",
-    "Version": "1.40.4",
+    "Version": "1.41.0",
     "Description": "Full-text search for your desktop",
     "Homepage": "https://www.recoll.org/"
   },
   {
     "Package": "recoll-python",
-    "Version": "1.40.4",
+    "Version": "1.41.0",
     "Description": "Python interface for Recoll",
     "Homepage": "https://www.recoll.org/"
   },
@@ -13129,7 +13129,7 @@
   },
   {
     "Package": "screenfetch",
-    "Version": "3.9.1-1",
+    "Version": "3.9.9",
     "Description": "Bash Screenshot Information Tool",
     "Homepage": "https://github.com/KittyKatt/screenFetch"
   },
@@ -13975,7 +13975,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "1.28.0",
+    "Version": "1.28.1",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
