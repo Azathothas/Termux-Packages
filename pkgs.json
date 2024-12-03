@@ -3271,7 +3271,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.6.2",
+    "Version": "1.6.3",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -6109,7 +6109,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.68.1",
+    "Version": "1.68.2",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12079,7 +12079,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.68.1",
+    "Version": "1.68.2",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -15271,7 +15271,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.3.302",
+    "Version": "1.4.303",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },

@@ -555,7 +555,7 @@
 | **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.50.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **gleam** | 1.6.2 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
+| **gleam** | 1.6.3 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.82.2 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.82.2 | Programs for the GLib library | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.82.2 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -1028,7 +1028,7 @@
 | **libgpg-error** | 1.50 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.50 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
-| **libgrpc** | 1.68.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **libgrpc** | 1.68.2 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.53 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
@@ -2023,7 +2023,7 @@
 | **python-cryptography** | 42.0.8-1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.7-1 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.1.1-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
-| **python-grpcio** | 1.68.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **python-grpcio** | 1.68.2 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.3.0-2 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
@@ -2555,7 +2555,7 @@
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.303 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.3.302 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.3.302 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-utility-libraries** | 1.4.303 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.3.297 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.3.295 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
