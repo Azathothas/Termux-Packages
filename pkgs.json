@@ -14119,7 +14119,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "17.0.2",
+    "Version": "17.0.3",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
