@@ -3775,25 +3775,25 @@
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.24.9",
+    "Version": "1.24.10",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-gl-headers",
-    "Version": "1.24.9",
+    "Version": "1.24.10",
     "Description": "OpenGL headers for GStreamer plugins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.24.9-1",
+    "Version": "1.24.10",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.24.9",
+    "Version": "1.24.10",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -3805,7 +3805,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.24.9",
+    "Version": "1.24.10",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
