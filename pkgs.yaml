@@ -2507,11 +2507,11 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.24.9
+  Version: 1.24.10
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.24.9-1
+  Version: 1.24.10
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
@@ -8019,7 +8019,7 @@
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
-  Version: 3.12.7-1
+  Version: 3.12.8
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
@@ -8043,7 +8043,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ensurepip-wheels
-  Version: 3.12.7-1
+  Version: 3.12.8
   Description: Wheels for Python ensurepip
   Homepage: https://python.org/
 - Package: python-greenlet
@@ -8107,7 +8107,7 @@
   Description: Python bindings for the Skia librarys Path Ops
   Homepage: https://github.com/fonttools/skia-pathops
 - Package: python-static
-  Version: 3.12.7-1
+  Version: 3.12.8
   Description: Static libraries for python
   Homepage: https://python.org/
 - Package: python-tflite-runtime
@@ -8115,7 +8115,7 @@
   Description: TensorFlow Lite Python bindings
   Homepage: https://www.tensorflow.org/lite
 - Package: python-tkinter
-  Version: 3.12.7-1
+  Version: 3.12.8
   Description: Tkinter support for Python 3
   Homepage: https://python.org/
 - Package: python-tldp
