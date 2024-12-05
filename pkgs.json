@@ -1429,13 +1429,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "3.31.1",
+    "Version": "3.31.2",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "3.31.1",
+    "Version": "3.31.2",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -2911,13 +2911,13 @@
   },
   {
     "Package": "gap",
-    "Version": "4.13.1",
+    "Version": "4.14.0",
     "Description": "GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory",
     "Homepage": "https://www.gap-system.org/"
   },
   {
     "Package": "gap-packages",
-    "Version": "4.13.1",
+    "Version": "4.14.0",
     "Description": "Packages for gap",
     "Homepage": "https://www.gap-system.org/"
   },
@@ -12925,7 +12925,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.8.1",
+    "Version": "0.8.2",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13711,7 +13711,7 @@
   },
   {
     "Package": "sslscan",
-    "Version": "2.1.5",
+    "Version": "2.1.6",
     "Description": "Utility to discover supported cipher suites on SSL/TLS enabled servers",
     "Homepage": "https://github.com/rbsec/sslscan"
   },

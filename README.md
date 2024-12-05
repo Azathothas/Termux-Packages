@@ -248,8 +248,8 @@
 | **cloudflared** | 2024.11.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20241126.190426 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 3.31.1 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 3.31.1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 3.31.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 3.31.2 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -495,8 +495,8 @@
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.82.0-1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.3-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
-| **gap** | 4.13.1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
-| **gap-packages** | 4.13.1 | Packages for gap | https://www.gap-system.org/ |
+| **gap** | 4.14.0 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
+| **gap-packages** | 4.14.0 | Packages for gap | https://www.gap-system.org/ |
 | **gap-static** | 4.12.2 | Static libraries for gap | https://www.gap-system.org/ |
 | **gatling** | 0.16-1 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
 | **gauche** | 0.9.12-5 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
@@ -2164,7 +2164,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.6 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.6 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.8.1 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.8.2 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2295,7 +2295,7 @@
 | **sse2neon** | 1.7.0-1 | A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics | https://github.com/DLTcollab/sse2neon |
 | **sshpass** | 1.10 | Noninteractive ssh password provider | https://sourceforge.net/projects/sshpass/ |
 | **sshping** | 0.1.4-2 | measure character-echo latency and bandwidth for an interactive ssh session | https://github.com/spook/sshping |
-| **sslscan** | 2.1.5 | Utility to discover supported cipher suites on SSL/TLS enabled servers | https://github.com/rbsec/sslscan |
+| **sslscan** | 2.1.6 | Utility to discover supported cipher suites on SSL/TLS enabled servers | https://github.com/rbsec/sslscan |
 | **sssnake** | 0.3.2-1 | cli snake game that plays itself | https://github.com/AngelJumbo/sssnake |
 | **ssss** | 0.5.7 | Simple command-line implementation of Shamir's Secret Sharing Scheme | https://github.com/MrJoy/ssss |
 | **stag** | 1.0.0-1 | Streaming bar graphs. For stats and stuff. | https://github.com/seenaburns/stag |
