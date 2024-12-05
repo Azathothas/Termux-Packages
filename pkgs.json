@@ -2473,7 +2473,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.10",
+    "Version": "0.20.11",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -15223,7 +15223,7 @@
   },
   {
     "Package": "vttest",
-    "Version": "20241031",
+    "Version": "20241204",
     "Description": "Program for testing the VT100 compatibility of terminal emulators",
     "Homepage": "https://invisible-island.net/vttest/"
   },
@@ -15307,7 +15307,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.106.0",
+    "Version": "1.106.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
