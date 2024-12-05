@@ -1411,7 +1411,7 @@
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
 | **libtwolame** | 0.4.0 | An optimised MPEG Audio Layer 2 (MP2) encoder | https://www.twolame.org/ |
 | **libtwolame-static** | 0.4.0 | Static libraries for libtwolame | https://www.twolame.org/ |
-| **libuber-h3** | 4.1.0 | A hexagonal hierarchical geospatial indexing system | https://h3geo.org/ |
+| **libuber-h3** | 4.2.0 | A hexagonal hierarchical geospatial indexing system | https://h3geo.org/ |
 | **libuchardet** | 0.0.8 | An encoding detector library | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **libuchardet-static** | 0.0.8 | Static libraries for libuchardet | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **libucontext** | 1.2 | A library which provides the ucontext.h C API | https://github.com/kaniini/libucontext |

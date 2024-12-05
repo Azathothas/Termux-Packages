@@ -8407,7 +8407,7 @@
   },
   {
     "Package": "libuber-h3",
-    "Version": "4.1.0",
+    "Version": "4.2.0",
     "Description": "A hexagonal hierarchical geospatial indexing system",
     "Homepage": "https://h3geo.org/"
   },
