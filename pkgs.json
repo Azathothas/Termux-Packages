@@ -2449,7 +2449,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.04",
+    "Version": "13.05",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -3613,25 +3613,25 @@
   },
   {
     "Package": "gpgme",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "Library designed to make access to GnuPG easier",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgme-static",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "Static libraries for gpgme",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgmepp",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "Programmatic C++ library interface to GnuPG",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgmepp-static",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "Static libraries for gpgmepp",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
@@ -3661,7 +3661,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "1:11.3.1",
+    "Version": "1:11.3.2",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },
@@ -3799,7 +3799,7 @@
   },
   {
     "Package": "gst-python",
-    "Version": "1.24.9",
+    "Version": "1.24.10",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -5629,7 +5629,7 @@
   },
   {
     "Package": "libdrm",
-    "Version": "2.4.123",
+    "Version": "2.4.124",
     "Description": "Userspace interface to kernel DRM services",
     "Homepage": "https://dri.freedesktop.org/wiki/"
   },
@@ -12043,7 +12043,7 @@
   },
   {
     "Package": "python-apt",
-    "Version": "2.9.1",
+    "Version": "2.9.2",
     "Description": "Python bindings for APT",
     "Homepage": "https://apt-team.pages.debian.net/python-apt/"
   },
@@ -15235,7 +15235,7 @@
   },
   {
     "Package": "vulkan-extension-layer",
-    "Version": "1.3.300",
+    "Version": "1.4.303",
     "Description": "Vulkan Extension Layer",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ExtensionLayer"
   },
