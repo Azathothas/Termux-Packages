@@ -14881,7 +14881,7 @@
   },
   {
     "Package": "unrar",
-    "Version": "7.1.1",
+    "Version": "7.1.2",
     "Description": "Tool for extracting files from .rar archives",
     "Homepage": "https://www.rarlab.com/"
   },
