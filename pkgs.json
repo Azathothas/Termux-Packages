@@ -9415,7 +9415,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.13.2",
+    "Version": "3.13.3",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
