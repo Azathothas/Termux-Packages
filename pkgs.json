@@ -907,7 +907,7 @@
   },
   {
     "Package": "bore",
-    "Version": "0.5.1",
+    "Version": "0.5.2",
     "Description": "Bore is a simple CLI tool for making tunnels to localhost",
     "Homepage": "https://github.com/ekzhang/bore"
   },
@@ -3127,7 +3127,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.63.1",
+    "Version": "2.63.2",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -3661,7 +3661,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "1:11.3.2",
+    "Version": "1:11.4.0",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },
@@ -9877,7 +9877,7 @@
   },
   {
     "Package": "memcached",
-    "Version": "1.6.32",
+    "Version": "1.6.33",
     "Description": "Free & open source, high-performance, distributed memory object caching system",
     "Homepage": "https://memcached.org/"
   },
