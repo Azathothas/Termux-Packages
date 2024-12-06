@@ -3031,7 +3031,7 @@
   Description: Static libraries for jq
   Homepage: https://stedolan.github.io/jq/
 - Package: jql
-  Version: 8.0.1
+  Version: 8.0.2
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -9199,7 +9199,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.115.5
+  Version: 1.116.7
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10089,14 +10089,6 @@
 - Package: vim
   Version: 9.1.0900
   Description: Vi IMproved - enhanced vi editor
-  Homepage: https://www.vim.org
-- Package: vim-python
-  Version: 9.1.0850
-  Description: Vi IMproved - enhanced vi editor - with python support
-  Homepage: https://www.vim.org
-- Package: vim-runtime
-  Version: 9.1.0850
-  Description: Vi IMproved - Runtime files
   Homepage: https://www.vim.org
 - Package: virglrenderer
   Version: 1.1.0-1
