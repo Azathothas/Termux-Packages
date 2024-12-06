@@ -406,7 +406,7 @@
  etsh  5.4.0  An enhanced, backward-compatible port of Thompson Shell  https://etsh.nl 
  exercism  3.5.4  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
  exhale  1.2.1  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
- exiftool  13.05  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
+ exiftool  13.06  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  exiv2-static  2:0.27.7-1  Static libraries for exiv2  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
@@ -2223,7 +2223,7 @@
  silicon  0.5.3  Silicon is an alternative to Carbon implemented in Rust  https://github.com/Aloxaf/silicon 
  silversearcher-ag  2.2.0-5  Fast grep-like program, alternative to ack-grep  https://geoff.greer.fm/ag/ 
  simde  0.8.2  Implementations of SIMD instructions for all systems  https://simd-everywhere.github.io/ 
- simdjson  3.10.1  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
+ simdjson  3.11.0  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
  simh  1:3.12.5  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
  simulavr  1:1.1.0-1  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
  simuwaerm  0.02  A simple heat transfer simulator in pure Rust  https://github.com/file-acomplaint/simuwaerm 
@@ -2351,7 +2351,7 @@
  tectonic  0.15.0-3  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20241031  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-6  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  17.0.3  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  17.0.4  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.6.0  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-4  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
