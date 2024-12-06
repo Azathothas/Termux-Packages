@@ -247,7 +247,7 @@
   },
   {
     "Package": "angle-grinder",
-    "Version": "0.19.4",
+    "Version": "0.19.4-1",
     "Description": "Slice and dice logs on the command line",
     "Homepage": "https://github.com/rcoh/angle-grinder"
   },
@@ -301,7 +301,7 @@
   },
   {
     "Package": "apkeep",
-    "Version": "0.17.0",
+    "Version": "0.17.0-1",
     "Description": "A command-line tool for downloading APK files from various sources",
     "Homepage": "https://github.com/EFForg/apkeep"
   },
@@ -553,7 +553,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.3.0",
+    "Version": "18.3.0-1",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -697,7 +697,7 @@
   },
   {
     "Package": "bat",
-    "Version": "0.24.0-2",
+    "Version": "0.24.0-3",
     "Description": "A cat(1) clone with wings",
     "Homepage": "https://github.com/sharkdp/bat"
   },
@@ -1141,7 +1141,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.7",
+    "Version": "0.10.7-1",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -1555,7 +1555,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.8.0",
+    "Version": "0.8.0-1",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "Package": "distant",
-    "Version": "1:0.20.0",
+    "Version": "1:0.20.0-1",
     "Description": "Library and tooling that supports remote filesystem and process",
     "Homepage": "https://github.com/chipsenkbeil/distant"
   },
@@ -2677,7 +2677,7 @@
   },
   {
     "Package": "findomain",
-    "Version": "9.0.4",
+    "Version": "9.0.4-1",
     "Description": "Findomain is the fastest subdomain enumerator and the only one written in Rust",
     "Homepage": "https://findomain.app/"
   },
@@ -3247,13 +3247,13 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.39.0",
+    "Version": "0.39.0-1",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/Byron/gitoxide"
   },
   {
     "Package": "gitui",
-    "Version": "0.26.3",
+    "Version": "0.26.3-1",
     "Description": "Blazing fast terminal-ui for git written in rust",
     "Homepage": "https://github.com/extrawurst/gitui"
   },
@@ -3493,7 +3493,7 @@
   },
   {
     "Package": "gobang",
-    "Version": "0.1.0-alpha.5-2",
+    "Version": "0.1.0-alpha.5-3",
     "Description": "A cross-platform TUI database management tool written in Rust",
     "Homepage": "https://github.com/TaKO8Ki/gobang"
   },
@@ -3919,13 +3919,13 @@
   },
   {
     "Package": "helix",
-    "Version": "24.07-1",
+    "Version": "24.07-2",
     "Description": "A post-modern modal text editor written in rust",
     "Homepage": "https://helix-editor.com/"
   },
   {
     "Package": "helix-grammars",
-    "Version": "24.07-1",
+    "Version": "24.07-2",
     "Description": "Helix grammars",
     "Homepage": "https://helix-editor.com/"
   },
@@ -7639,13 +7639,13 @@
   },
   {
     "Package": "librav1e",
-    "Version": "0.7.1-1",
+    "Version": "0.7.1-2",
     "Description": "An AV1 encoder library focused on speed and safety",
     "Homepage": "https://github.com/xiph/rav1e/"
   },
   {
     "Package": "librav1e-static",
-    "Version": "0.7.1-1",
+    "Version": "0.7.1-2",
     "Description": "Static libraries for librav1e",
     "Homepage": "https://github.com/xiph/rav1e/"
   },
@@ -9721,7 +9721,7 @@
   },
   {
     "Package": "mcfly",
-    "Version": "0.9.2",
+    "Version": "0.9.2-1",
     "Description": "Replaces your default ctrl-r shell history search with an intelligent search engine",
     "Homepage": "https://github.com/cantino/mcfly"
   },
@@ -9763,7 +9763,7 @@
   },
   {
     "Package": "mdbook-linkcheck",
-    "Version": "0.7.7",
+    "Version": "0.7.7-1",
     "Description": "A backend for mdbook which will check your links for you",
     "Homepage": "https://michael-f-bryan.github.io/mdbook-linkcheck/"
   },
@@ -10099,7 +10099,7 @@
   },
   {
     "Package": "monolith",
-    "Version": "2.8.3",
+    "Version": "2.8.3-1",
     "Description": "CLI tool for saving complete web pages as a single HTML file",
     "Homepage": "https://github.com/Y2Z/monolith"
   },
@@ -10759,7 +10759,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.100.0",
+    "Version": "0.100.0-1",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -10963,13 +10963,13 @@
   },
   {
     "Package": "openethereum",
-    "Version": "3.3.5-2",
+    "Version": "3.3.5-3",
     "Description": "Lightweight Ethereum Client",
     "Homepage": "https://openethereum.github.io"
   },
   {
     "Package": "openethereum-utils",
-    "Version": "3.3.5-2",
+    "Version": "3.3.5-3",
     "Description": "Additional utilities for OpenEthereum (like evm, ethstore, ethkey)",
     "Homepage": "https://openethereum.github.io"
   },
@@ -12517,7 +12517,7 @@
   },
   {
     "Package": "rav1e",
-    "Version": "0.7.1-1",
+    "Version": "0.7.1-2",
     "Description": "An AV1 encoder program focused on speed and safety",
     "Homepage": "https://github.com/xiph/rav1e/"
   },
@@ -12763,7 +12763,7 @@
   },
   {
     "Package": "ripgrep-all",
-    "Version": "1.0.0-alpha.5-2",
+    "Version": "1.0.0-alpha.5-3",
     "Description": "Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc",
     "Homepage": "https://github.com/phiresky/ripgrep-all"
   },
@@ -12949,7 +12949,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -12967,73 +12967,73 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust std for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust std for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust std for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust std for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasi",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust std for target wasm32-wasi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust std for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust std for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust std for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.83.0",
+    "Version": "1.83.0-1",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },

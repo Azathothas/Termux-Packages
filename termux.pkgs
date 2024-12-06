@@ -39,7 +39,7 @@
 | **anewer** | 0.1.6 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.5 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24318-9dd69aae-1 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
-| **angle-grinder** | 0.19.4 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
+| **angle-grinder** | 0.19.4-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.9 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.21-1 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
 | **ant** | 1.10.15 | Java based build tool like make | https://ant.apache.org/ |
@@ -48,7 +48,7 @@
 | **aom-tools** | 3.11.0 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **apache-orc** | 2.0.3 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
 | **apache2** | 1:2.4.62-1 | Apache Web Server | https://httpd.apache.org |
-| **apkeep** | 0.17.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
+| **apkeep** | 0.17.0-1 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
 | **appstream** | 1.0.3 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
 | **apr** | 1.7.5 | Apache Portable Runtime Library | https://apr.apache.org/ |
@@ -90,7 +90,7 @@
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.2 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.2 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.3.0 | Magical shell history | https://atuin.sh/ |
+| **atuin** | 18.3.0-1 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-3 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-3 | Static libraries for aubio | https://aubio.org/ |
 | **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
@@ -114,7 +114,7 @@
 | **bash** | 5.2.37 | A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh) | https://www.gnu.org/software/bash/ |
 | **bash-completion** | 2.15.0 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
 | **bastet** | 0.43.2-10 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
-| **bat** | 0.24.0-2 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
+| **bat** | 0.24.0-3 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.07.1-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
 | **bc-gh** | 7.0.3 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
 | **bdsup2sub** | 4.0.1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
@@ -188,7 +188,7 @@
 | **capnproto** | 1.0.2 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
 | **capstone** | 5.0.3 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.3 | Static libraries for capstone | https://www.capstone-engine.org/ |
-| **cargo-c** | 0.10.7 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
+| **cargo-c** | 0.10.7-1 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **catdoc** | 0.95-1 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
 | **catimg** | 2.7.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
@@ -257,7 +257,7 @@
 | **composer** | 2.8.3 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-1 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.8.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.8.0-1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.5-3 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-4 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-3 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -323,7 +323,7 @@
 | **direvent** | 5.4 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
 | **discordo** | 2022.08.12-3 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayntgl/discordo |
 | **diskus** | 0.7.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
-| **distant** | 1:0.20.0 | Library and tooling that supports remote filesystem and process | https://github.com/chipsenkbeil/distant |
+| **distant** | 1:0.20.0-1 | Library and tooling that supports remote filesystem and process | https://github.com/chipsenkbeil/distant |
 | **distcc** | 3.4-3 | Distributed C/C++ compiler | http://distcc.org/ |
 | **djvulibre** | 3.5.28-6 | Suite to create, manipulate and view DjVu ('déjà vu') documents | https://djvu.sourceforge.net/ |
 | **djvulibre-static** | 3.5.28-6 | Static libraries for djvulibre | https://djvu.sourceforge.net/ |
@@ -444,7 +444,7 @@
 | **file-static** | 5.45 | Static libraries for file | https://darwinsys.com/file/ |
 | **finch** | 2.14.13-2 | Text-based multi-protocol instant messaging client | https://pidgin.im/ |
 | **finch-static** | 2.14.13-2 | Static libraries for finch | https://pidgin.im/ |
-| **findomain** | 9.0.4 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
+| **findomain** | 9.0.4-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
 | **fish** | 3.7.1-2 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.4.3 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
@@ -539,8 +539,8 @@
 | **git-svn** | 2.47.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **gitea** | 1.22.4 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
-| **gitoxide** | 0.39.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
-| **gitui** | 0.26.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
+| **gitoxide** | 0.39.0-1 | Rust implementation of Git | https://github.com/Byron/gitoxide |
+| **gitui** | 0.26.3-1 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.50.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.6.3 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
@@ -580,7 +580,7 @@
 | **go-findimagedupes** | 2023.01.29-3 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
 | **go-musicfox** | 4.6.0 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **goaccess** | 1.9.3 | An open source real-time web log analyzer and interactive viewer | http://goaccess.io |
-| **gobang** | 0.1.0-alpha.5-2 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
+| **gobang** | 0.1.0-alpha.5-3 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.82.0-1 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.0-2 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.17 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
@@ -651,8 +651,8 @@
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.23.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
 | **hcloud** | 1.49.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
-| **helix** | 24.07-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
-| **helix-grammars** | 24.07-1 | Helix grammars | https://helix-editor.com/ |
+| **helix** | 24.07-2 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
+| **helix-grammars** | 24.07-2 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.16.3 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.1.0 | Language server for Helm | https://github.com/mrjosh/helm-ls |
@@ -1271,8 +1271,8 @@
 | **libraqm** | 0.10.2 | Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API | https://github.com/HOST-Oman/libraqm |
 | **librasqal** | 0.9.33-2 | RDF Query Library | https://librdf.org/rasqal/ |
 | **librasqal-static** | 0.9.33-2 | Static libraries for librasqal | https://librdf.org/rasqal/ |
-| **librav1e** | 0.7.1-1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
-| **librav1e-static** | 0.7.1-1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
+| **librav1e** | 0.7.1-2 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
+| **librav1e-static** | 0.7.1-2 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
 | **libraw** | 0.21.3 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
 | **libraw-static** | 0.21.3 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2024.07.02-1 | A regular expression library | https://github.com/google/re2 |
@@ -1618,14 +1618,14 @@
 | **mbedtls** | 3.6.2 | Light-weight cryptographic and SSL/TLS library | https://tls.mbed.org/ |
 | **mbedtls-static** | 3.6.2 | Static libraries for mbedtls | https://tls.mbed.org/ |
 | **mc** | 4.8.32 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
-| **mcfly** | 0.9.2 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
+| **mcfly** | 0.9.2-1 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
 | **mdbook** | 0.4.43 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
 | **mdbook-epub** | 0.4.37 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
 | **mdbook-graphviz** | 0.2.1-1 | mdbook preprocessor to add graphviz support | https://github.com/dylanowen/mdbook-graphviz |
 | **mdbook-katex** | 0.9.1 | A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time | https://github.com/lzanini/mdbook-katex |
-| **mdbook-linkcheck** | 0.7.7 | A backend for mdbook which will check your links for you | https://michael-f-bryan.github.io/mdbook-linkcheck/ |
+| **mdbook-linkcheck** | 0.7.7-1 | A backend for mdbook which will check your links for you | https://michael-f-bryan.github.io/mdbook-linkcheck/ |
 | **mdbook-mermaid** | 0.14.0 | A preprocessor for mdbook to add mermaid support | https://github.com/badboy/mdbook-mermaid |
 | **mdbook-open-on-gh** | 2.4.3 | A preprocessor for mdbook to add a open-on-github link on every page | https://github.com/badboy/mdbook-open-on-gh |
 | **mdbook-pikchr** | 0.1.9 | A mdbook preprocessor to render pikchr code blocks as images in your book | https://github.com/podsvirov/mdbook-pikchr |
@@ -1681,7 +1681,7 @@
 | **mono** | 6.12.0.199-1 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
 | **mono-libs** | 6.12.0.199-1 | Platform-independent libraries for mono | https://www.mono-project.com/ |
 | **mono-static** | 6.12.0.199-1 | Static libraries for mono | https://www.mono-project.com/ |
-| **monolith** | 2.8.3 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
+| **monolith** | 2.8.3-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
 | **moreutils** | 0.69 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-5 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -1791,7 +1791,7 @@
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.107 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 5.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
-| **nushell** | 0.100.0 | A new type of shell operating on structured data | https://www.nushell.sh |
+| **nushell** | 0.100.0-1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nwipe** | 0.37-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
@@ -1825,8 +1825,8 @@
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.4.0 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **opencolorio-static** | 2.1.2 | Static libraries for opencolorio | https://opencolorio.org |
-| **openethereum** | 3.3.5-2 | Lightweight Ethereum Client | https://openethereum.github.io |
-| **openethereum-utils** | 3.3.5-2 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
+| **openethereum** | 3.3.5-3 | Lightweight Ethereum Client | https://openethereum.github.io |
+| **openethereum-utils** | 3.3.5-3 | Additional utilities for OpenEthereum (like evm, ethstore, ethkey) | https://openethereum.github.io |
 | **openexr** | 3.2.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2406 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 0.1 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
@@ -2084,7 +2084,7 @@
 | **ranger** | 1.9.4 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-5 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
 | **ratt** | 2023.02.02-2 | A tool for converting websites to rss/atom feeds | https://git.sr.ht/~ghost08/ratt |
-| **rav1e** | 0.7.1-1 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
+| **rav1e** | 0.7.1-2 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **ravencoin** | 4.6.1-5 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
 | **ravencoin-static** | 4.6.1-5 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.12.1 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
@@ -2125,7 +2125,7 @@
 | **rip** | 0.13.1-1 | A command-line deletion tool focused on safety, ergonomics, and performance | https://github.com/nivekuil/rip |
 | **rip2** | 0.9.0 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
 | **ripgrep** | 14.1.1 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
-| **ripgrep-all** | 1.0.0-alpha.5-2 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
+| **ripgrep-all** | 1.0.0-alpha.5-3 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.8 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-1 | A terminal IRC client in C | https://github.com/rcr/rirc |
 | **rizin** | 0.7.3-2 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
@@ -2156,21 +2156,21 @@
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.83.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.83.0-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20241202 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.70.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.83.0 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.83.0 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.83.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.83.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.83.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.83.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasi** | 1.83.0 | Rust std for target wasm32-wasi | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip1** | 1.83.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip2** | 1.83.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.83.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.83.0 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.83.0 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-docs** | 1.83.0-1 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.83.0-1 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.83.0-1 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.83.0-1 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.83.0-1 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.83.0-1 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasi** | 1.83.0-1 | Rust std for target wasm32-wasi | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip1** | 1.83.0-1 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip2** | 1.83.0-1 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.83.0-1 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.83.0-1 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.83.0-1 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.3.0 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
