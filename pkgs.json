@@ -1621,7 +1621,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.1.1",
+    "Version": "1:10.1.3",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -10843,7 +10843,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.11.4",
+    "Version": "24.12.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13351,7 +13351,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "3.11.0",
+    "Version": "3.11.1",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -13843,7 +13843,7 @@
   },
   {
     "Package": "stylua",
-    "Version": "2.0.1",
+    "Version": "2.0.2",
     "Description": "An opinionated Lua code formatter",
     "Homepage": "https://github.com/JohnnyMorganz/StyLua"
   },
@@ -14251,7 +14251,7 @@
   },
   {
     "Package": "termux-tools",
-    "Version": "1.44.4",
+    "Version": "1.44.5",
     "Description": "Basic system tools for Termux",
     "Homepage": "https://termux.dev/"
   },
