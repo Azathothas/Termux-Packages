@@ -2455,11 +2455,11 @@
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
-  Version: 12.2.0-1
+  Version: 12.2.1
   Description: Rich set of graph drawing tools
   Homepage: https://www.graphviz.org/
 - Package: graphviz-static
-  Version: 12.2.0-1
+  Version: 12.2.1
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
