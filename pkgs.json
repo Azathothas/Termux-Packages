@@ -14455,7 +14455,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "16.0.1",
+    "Version": "16.0.2",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -15751,7 +15751,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.44.5",
+    "Version": "4.44.6",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },

@@ -2407,7 +2407,7 @@
  tokei  13.0.0-alpha.7-0  A blazingly fast CLOC (Count Lines Of Code) program  https://github.com/XAMPPRocky/tokei 
  tome2  2022.12.27-3  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.2.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
- topgrade  16.0.1  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
+ topgrade  16.0.2  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
  tor  0.4.8.13  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torsocks  2.4.0  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.4.0  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
@@ -2623,7 +2623,7 @@
  yazi  0.3.3-1  Blazing fast terminal file manager written in Rust, based on async I/O  https://yazi-rs.github.io/ 
  yosys  0.47  A framework for RTL synthesis tools  https://yosyshq.net/yosys/ 
  youtubedr  2.10.1  Download youtube video in Golang  https://github.com/kkdai/youtube 
- yq  4.44.5  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
+ yq  4.44.6  A lightweight and portable command-line YAML, JSON and XML processor  https://mikefarah.gitbook.io/yq/ 
  ytfzf  2.6.2  A POSIX script that helps you find Youtube videos (without API)  https://github.com/pystardust/ytfzf 
  ytui-music  2.0.0-beta-1  Youtube client in terminal for music  https://github.com/sudipghimire533/ytui-music 
  yuma123  2.13-2  Provides an opensource YANG API in C  https://yuma123.org/ 
