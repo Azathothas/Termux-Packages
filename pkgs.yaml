@@ -907,7 +907,7 @@
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
-  Version: 19.1.4
+  Version: 19.1.5
   Description: C language frontend for LLVM
   Homepage: https://clang.llvm.org/
 - Package: clblast
@@ -3619,7 +3619,7 @@
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
-  Version: 19.1.4
+  Version: 19.1.5
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
@@ -4359,11 +4359,11 @@
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
-  Version: 19.1.4
+  Version: 19.1.5
   Description: Modular compiler and toolchain technologies library
   Homepage: https://clang.llvm.org/
 - Package: libllvm-static
-  Version: 19.1.4
+  Version: 19.1.5
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
@@ -5027,7 +5027,7 @@
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
-  Version: 19.1.4
+  Version: 19.1.5
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
@@ -6183,11 +6183,11 @@
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/swiftlang/swift-llbuild
 - Package: lld
-  Version: 19.1.4
+  Version: 19.1.5
   Description: LLVM-based linker
   Homepage: https://clang.llvm.org/
 - Package: llvm
-  Version: 19.1.4
+  Version: 19.1.5
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
@@ -6207,11 +6207,11 @@
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://www.mingw-w64.org/
 - Package: llvm-tools
-  Version: 19.1.4
+  Version: 19.1.5
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: llvmgold
-  Version: 19.1.4
+  Version: 19.1.5
   Description: LLVM gold plugin
   Homepage: https://clang.llvm.org/
 - Package: lnav
@@ -6699,7 +6699,7 @@
   Description: command line utility to create BitTorrent metainfo files
   Homepage: https://github.com/Rudde/mktorrent
 - Package: mlir
-  Version: 19.1.4
+  Version: 19.1.5
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
 - Package: mlocate
