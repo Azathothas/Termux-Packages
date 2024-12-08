@@ -9923,7 +9923,7 @@
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield
-  Version: 1.5.1
+  Version: 1.5.1-1
   Description: Tool and library to extract CAB files from InstallShield installers
   Homepage: https://github.com/twogood/unshield
 - Package: unzip

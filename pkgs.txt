@@ -2479,7 +2479,7 @@
  unixodbc-static  2.3.12  Static libraries for unixodbc  https://www.unixodbc.org/ 
  unpaper  1:7.0.0-1  A post-processing tool for scanned sheets of paper  https://www.flameeyes.com/projects/unpaper 
  unrar  7.1.2  Tool for extracting files from .rar archives  https://www.rarlab.com/ 
- unshield  1.5.1  Tool and library to extract CAB files from InstallShield installers  https://github.com/twogood/unshield 
+ unshield  1.5.1-1  Tool and library to extract CAB files from InstallShield installers  https://github.com/twogood/unshield 
  unzip  6.0-9  Tools for working with zip files  https://sourceforge.net/projects/infozip/ 
  up  0.4-3  Helps interactively and incrementally explore textual data in Linux  https://github.com/akavel/up 
  update-info-dir  7.1.1  Update or create index file from all installed info files in directory  https://www.gnu.org/software/texinfo/ 
