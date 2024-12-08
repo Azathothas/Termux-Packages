@@ -6711,7 +6711,7 @@
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
-  Version: 2.34.1
+  Version: 2.35.0
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
@@ -7631,7 +7631,7 @@
   Description: renames multiple files using perl expressions.
   Homepage: https://search.cpan.org/~pederst/rename/
 - Package: pet
-  Version: 1.0.0
+  Version: 1.0.1
   Description: Simple command-line snippet manager
   Homepage: https://github.com/knqyf263/pet
 - Package: pforth

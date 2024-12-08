@@ -1676,7 +1676,7 @@
 | **mlir** | 19.1.5 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **moar** | 1.30.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
-| **mold** | 2.34.1 | mold: A Modern Linker | https://github.com/rui314/mold |
+| **mold** | 2.35.0 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.3.4 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.12.0.199-1 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
 | **mono-libs** | 6.12.0.199-1 | Platform-independent libraries for mono | https://www.mono-project.com/ |
@@ -1906,7 +1906,7 @@
 | **peco** | 0.5.11-2 | Simplistic interactive filtering tool | https://github.com/peco/peco |
 | **perl** | 5.38.2-3 | Capable, feature-rich programming language | https://www.perl.org/ |
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
-| **pet** | 1.0.0 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
+| **pet** | 1.0.1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1 | Portable Forth in C | http://www.softsynth.com/pforth/ |
 | **pgroonga** | 3.2.4 | A PostgreSQL extension to use Groonga as index | https://github.com/pgroonga/pgroonga |
 | **photon-rss** | 2023.02.02-2 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |

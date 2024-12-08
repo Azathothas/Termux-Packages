@@ -10069,7 +10069,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.34.1",
+    "Version": "2.35.0",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },
@@ -11449,7 +11449,7 @@
   },
   {
     "Package": "pet",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Description": "Simple command-line snippet manager",
     "Homepage": "https://github.com/knqyf263/pet"
   },
