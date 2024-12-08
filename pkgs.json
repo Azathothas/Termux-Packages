@@ -10123,7 +10123,7 @@
   },
   {
     "Package": "morse2ascii",
-    "Version": "0.2-4",
+    "Version": "0.2.1",
     "Description": "A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files",
     "Homepage": "https://packages.debian.org/sid/morse2ascii"
   },
