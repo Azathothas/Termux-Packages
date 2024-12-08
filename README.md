@@ -1957,7 +1957,7 @@
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.23.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.23.5 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.2 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.2 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2028,8 +2028,8 @@
 | **python-libsass** | 0.23.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.3.0-2 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.1.0-1 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
-| **python-numpy** | 2.1.3 | The fundamental package for scientific computing with Python | https://numpy.org/ |
-| **python-numpy-static** | 2.1.3 | Static libraries for python-numpy | https://numpy.org/ |
+| **python-numpy** | 2.2.0 | The fundamental package for scientific computing with Python | https://numpy.org/ |
+| **python-numpy-static** | 2.2.0 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.19.2-1 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 11.0.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.3.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
