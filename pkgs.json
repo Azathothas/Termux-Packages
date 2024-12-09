@@ -313,7 +313,7 @@
   },
   {
     "Package": "appstream",
-    "Version": "1.0.3",
+    "Version": "1.0.4",
     "Description": "Provides a standard for creating app stores across distributions",
     "Homepage": "https://www.freedesktop.org/wiki/Distributions/AppStream/"
   },

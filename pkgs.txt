@@ -50,7 +50,7 @@
  apache2  1:2.4.62-1  Apache Web Server  https://httpd.apache.org 
  apkeep  0.17.0-1  A command-line tool for downloading APK files from various sources  https://github.com/EFForg/apkeep 
  apksigner  33.0.1  APK signing tool from Android SDK  https://developer.android.com/studio/command-line/apksigner 
- appstream  1.0.3  Provides a standard for creating app stores across distributions  https://www.freedesktop.org/wiki/Distributions/AppStream/ 
+ appstream  1.0.4  Provides a standard for creating app stores across distributions  https://www.freedesktop.org/wiki/Distributions/AppStream/ 
  apr  1.7.5  Apache Portable Runtime Library  https://apr.apache.org/ 
  apr-static  1.7.5  Static libraries for apr  https://apr.apache.org/ 
  apr-util  1.6.3-2  Apache Portable Runtime Utility Library  https://apr.apache.org/ 
