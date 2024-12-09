@@ -7639,7 +7639,7 @@
   Description: Portable Forth in C
   Homepage: http://www.softsynth.com/pforth/
 - Package: pgroonga
-  Version: 3.2.4
+  Version: 3.2.5
   Description: A PostgreSQL extension to use Groonga as index
   Homepage: https://github.com/pgroonga/pgroonga
 - Package: photon-rss
@@ -8635,7 +8635,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20241202"
+  Version: "20241209"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
@@ -9235,19 +9235,19 @@
   Description: DVD subtitle ripper for Linux
   Homepage: http://subtitleripper.sourceforge.net/
 - Package: subversion
-  Version: 1.14.4
+  Version: 1.14.5
   Description: Centralized version control system characterized by its simplicity
   Homepage: https://subversion.apache.org
 - Package: subversion-perl
-  Version: 1.14.4
+  Version: 1.14.5
   Description: Perl interface to Subversion
   Homepage: https://subversion.apache.org
 - Package: subversion-perl-static
-  Version: 1.14.4
+  Version: 1.14.5
   Description: Static libraries for subversion-perl
   Homepage: https://subversion.apache.org
 - Package: subversion-static
-  Version: 1.14.4
+  Version: 1.14.5
   Description: Static libraries for subversion
   Homepage: https://subversion.apache.org
 - Package: suil
