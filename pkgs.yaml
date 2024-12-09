@@ -2731,7 +2731,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.139.3
+  Version: 0.139.4
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3383,7 +3383,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 18.0.0
+  Version: 18.1.0
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -4671,11 +4671,11 @@
   Description: Static libraries for libmypaint
   Homepage: https://github.com/mypaint/libmypaint
 - Package: libnats-c
-  Version: 3.9.1
+  Version: 3.9.2
   Description: A C client for the NATS messaging system
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libnats-c-static
-  Version: 3.9.1
+  Version: 3.9.2
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
@@ -7355,13 +7355,13 @@
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjpeg
-  Version: 2.5.2
+  Version: 2.5.3
   Description: JPEG 2000 image compression library
-  Homepage: http://www.openjpeg.org/
+  Homepage: https://www.openjpeg.org/
 - Package: openjpeg-tools
-  Version: 2.5.2
+  Version: 2.5.3
   Description: Command-line tools using the JPEG 2000 library
-  Homepage: http://www.openjpeg.org/
+  Homepage: https://www.openjpeg.org/
 - Package: openldap
   Version: 2.6.9
   Description: OpenLDAP server
@@ -8639,7 +8639,7 @@
   Description: A Rust compiler front-end for IDEs
   Homepage: https://github.com/rust-lang/rust-analyzer
 - Package: rust-bindgen
-  Version: 0.71.0
+  Version: 0.71.1
   Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
   Homepage: https://github.com/rust-lang/rust-bindgen
 - Package: rust-docs
@@ -8831,7 +8831,7 @@
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
-  Version: "2024.3"
+  Version: "2024.4"
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
   Homepage: https://github.com/google/shaderc
 - Package: shairport-sync
