@@ -8023,7 +8023,7 @@
   Description: Python 3 programming language intended to enable clear programs
   Homepage: https://python.org/
 - Package: python-apsw
-  Version: 3.47.1.0
+  Version: 3.47.2.0
   Description: Another Python SQLite Wrapper
   Homepage: https://github.com/rogerbinns/apsw/
 - Package: python-apt
