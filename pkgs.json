@@ -139,7 +139,7 @@
   },
   {
     "Package": "aichat",
-    "Version": "0.24.0",
+    "Version": "0.25.0",
     "Description": "A powerful chatgpt cli",
     "Homepage": "https://github.com/sigoden/aichat"
   },
@@ -11965,9 +11965,9 @@
   },
   {
     "Package": "pv",
-    "Version": "1.9.0",
+    "Version": "1.9.15",
     "Description": "Terminal-based tool for monitoring the progress of data through a pipeline",
-    "Homepage": "http://www.ivarch.com/programs/pv.shtml"
+    "Homepage": "https://www.ivarch.com/programs/pv.shtml"
   },
   {
     "Package": "pwgen",
@@ -13351,7 +13351,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "3.11.1",
+    "Version": "3.11.2",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },

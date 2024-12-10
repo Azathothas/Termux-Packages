@@ -91,7 +91,7 @@
   Description: Converts ANSI escape sequences of a unix terminal to HTML code
   Homepage: https://github.com/theZiz/aha
 - Package: aichat
-  Version: 0.24.0
+  Version: 0.25.0
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
@@ -7975,9 +7975,9 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.9.0
+  Version: 1.9.15
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
-  Homepage: http://www.ivarch.com/programs/pv.shtml
+  Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
   Version: 2.08-1
   Description: Password generator which by default, unless given the -s option, generates memorable but insecure passwords
@@ -8899,7 +8899,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 3.11.1
+  Version: 3.11.2
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
