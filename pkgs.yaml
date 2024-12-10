@@ -1479,7 +1479,7 @@
   Description: Terminal tiling window manager
   Homepage: https://github.com/martanne/dvtm
 - Package: dwarves
-  Version: "1.27"
+  Version: "1.28"
   Description: Pahole and other DWARF utils
   Homepage: https://git.kernel.org/cgit/devel/pahole/pahole.git/
 - Package: dx
