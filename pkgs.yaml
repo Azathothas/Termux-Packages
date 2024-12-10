@@ -939,7 +939,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2024.12.0
+  Version: 2024.12.1
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -3023,7 +3023,7 @@
   Description: Command-line JSON processor
   Homepage: https://stedolan.github.io/jq/
 - Package: jq-lsp
-  Version: 0.1.9
+  Version: 0.1.10
   Description: jq language server
   Homepage: https://github.com/wader/jq-lsp
 - Package: jq-static
@@ -3043,7 +3043,7 @@
   Description: Static libraries for json-c
   Homepage: https://github.com/json-c/json-c/wiki
 - Package: json-glib
-  Version: 1.10.0
+  Version: 1.10.6
   Description: GLib JSON manipulation library
   Homepage: https://wiki.gnome.org/Projects/JsonGlib
 - Package: jsoncpp
@@ -4535,11 +4535,11 @@
   Description: An extremely fast, compact, powerful, embedded, transactional key-value database
   Homepage: https://libmdbx.dqdkfa.ru/
 - Package: libmediainfo
-  Version: "24.11"
+  Version: "24.12"
   Description: Library for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmediainfo-static
-  Version: "24.11"
+  Version: "24.12"
   Description: Static libraries for libmediainfo
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libmesode
@@ -8731,7 +8731,7 @@
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
-  Version: 3.5.2
+  Version: 3.6.2
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc
