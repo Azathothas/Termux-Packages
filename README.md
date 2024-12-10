@@ -245,7 +245,7 @@
 | **clinfo** | 3.0.23.01.25 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2024.11.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2024.12.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20241207.014703 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 3.31.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -2186,7 +2186,7 @@
 | **rustscan** | 2.3.0 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 4.3.3-1 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 4.4.0 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **salty-chat** | 0.0.22-4 | A secure, easy, self-hosted messaging | https://salty.im/ |
 | **samba** | 4.16.11-2 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
