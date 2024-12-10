@@ -1759,13 +1759,13 @@
   },
   {
     "Package": "dar",
-    "Version": "2.7.15-1",
+    "Version": "2.7.16",
     "Description": "A full featured command-line backup tool, short for Disk ARchive",
     "Homepage": "http://dar.linux.free.fr/"
   },
   {
     "Package": "dar-static",
-    "Version": "2.7.15-1",
+    "Version": "2.7.16",
     "Description": "Static libraries for dar",
     "Homepage": "http://dar.linux.free.fr/"
   },
@@ -3277,19 +3277,19 @@
   },
   {
     "Package": "glib",
-    "Version": "2.82.2",
+    "Version": "2.82.3",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-bin",
-    "Version": "2.82.2",
+    "Version": "2.82.3",
     "Description": "Programs for the GLib library",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.82.2",
+    "Version": "2.82.3",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
