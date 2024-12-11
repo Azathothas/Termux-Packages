@@ -1023,7 +1023,7 @@
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.8.3
+  Version: 2.8.4
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -2207,7 +2207,7 @@
   Description: C++ mathematics library for graphics software based on the GLSL specifications
   Homepage: https://glm.g-truc.net/
 - Package: global
-  Version: 6.6.13
+  Version: 6.6.14
   Description: Source code search and browse tools
   Homepage: https://www.gnu.org/software/global/
 - Package: global-static
@@ -3207,7 +3207,7 @@
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
-  Version: "2.16"
+  Version: 2.16-1
   Description: An input filter for the pager less
   Homepage: http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html
 - Package: leveldb
@@ -6567,7 +6567,7 @@
   Description: List of standard media types and their usual file extension
   Homepage: https://pagure.io/mailcap
 - Package: mediainfo
-  Version: "24.11"
+  Version: "24.12"
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
@@ -9679,7 +9679,7 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.24.4
+  Version: 0.24.5
   Description: An incremental parsing system for programming tools
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-c
@@ -9719,7 +9719,7 @@
   Description: Static libraries for tree-sitter-query
   Homepage: https://github.com/tree-sitter-grammars
 - Package: tree-sitter-static
-  Version: 0.24.4
+  Version: 0.24.5
   Description: Static libraries for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter
 - Package: tree-sitter-vim

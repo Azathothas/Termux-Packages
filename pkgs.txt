@@ -254,7 +254,7 @@
  colm-static  0.14.7-1  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.21  Tool to colorize 'diff' output  https://www.colordiff.org/ 
  command-not-found  2.4.0-54  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
- composer  2.8.3  Dependency Manager for PHP  https://getcomposer.org/ 
+ composer  2.8.4  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-1  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
  cookcli  0.8.0-1  A suite of tools to create shopping lists and maintain food recipes  https://cooklang.org 
@@ -550,7 +550,7 @@
  glib-networking  2.80.0  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
  glibc-repo  1.0  A package repository containing glibc-based programs and libraries  https://github.com/termux/glibc-packages 
  glm  0.9.9.8  C++ mathematics library for graphics software based on the GLSL specifications  https://glm.g-truc.net/ 
- global  6.6.13  Source code search and browse tools  https://www.gnu.org/software/global/ 
+ global  6.6.14  Source code search and browse tools  https://www.gnu.org/software/global/ 
  global-static  6.6.12  Static libraries for global  https://www.gnu.org/software/global/ 
  glow  2.0.0  Render markdown on the CLI, with pizzazz!  https://github.com/charmbracelet/glow 
  glpk  5.0-1  GNU Linear Programming Kit: solve LP, MIP and other problems  https://www.gnu.org/software/glpk/ 
@@ -800,7 +800,7 @@
  leptonica  1.85.0  Library for image processing and image analysis  http://www.leptonica.com/ 
  leptonica-static  1.85.0  Static libraries for leptonica  http://www.leptonica.com/ 
  less  668  Terminal pager program used to view the contents of a text file one screen at a time  https://www.greenwoodsoftware.com/less/ 
- lesspipe  2.16  An input filter for the pager less  http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html 
+ lesspipe  2.16-1  An input filter for the pager less  http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html 
  leveldb  1.23-3  Fast key-value storage library  https://github.com/google/leveldb 
  lexbor  2.4.0  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
  lexter  1.0.3-4  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 
@@ -1640,7 +1640,7 @@
  mdns-scan  0.5-2  A tool for scanning for mDNS/DNS-SD services published on the local network  https://github.com/alteholz/mdns-scan 
  mdp  1.0.15-2  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  10.1.0-1  List of standard media types and their usual file extension  https://pagure.io/mailcap 
- mediainfo  24.11  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
+ mediainfo  24.12  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
  mediamtx  1.10.0  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  1.7.0-3  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.1.20230212  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://megatools.megous.com/ 
@@ -2418,7 +2418,7 @@
  translate-shell  0.9.7.1  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.  https://www.soimort.org/translate-shell 
  transmission  4.0.6-1  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
  tree  2.2.1  Recursive directory lister producing a depth indented listing of files  http://mama.indstate.edu/users/ice/tree/ 
- tree-sitter  0.24.4  An incremental parsing system for programming tools  https://github.com/tree-sitter/tree-sitter 
+ tree-sitter  0.24.5  An incremental parsing system for programming tools  https://github.com/tree-sitter/tree-sitter 
  tree-sitter-c  0.23.2  C grammar for tree-sitter  https://github.com/tree-sitter 
  tree-sitter-c-static  0.23.1  Static libraries for tree-sitter-c  https://github.com/tree-sitter 
  tree-sitter-lua  0.2.0  Lua grammar for tree-sitter  https://github.com/tree-sitter-grammars 
@@ -2428,7 +2428,7 @@
  tree-sitter-parsers  0.0.1  A metapackage that provides commonly used treesitter parsers  https://github.com/termux/termux-packages 
  tree-sitter-query  0.4.0-1  TS query grammar for tree-sitter  https://github.com/tree-sitter-grammars 
  tree-sitter-query-static  0.4.0-1  Static libraries for tree-sitter-query  https://github.com/tree-sitter-grammars 
- tree-sitter-static  0.24.4  Static libraries for tree-sitter  https://github.com/tree-sitter/tree-sitter 
+ tree-sitter-static  0.24.5  Static libraries for tree-sitter  https://github.com/tree-sitter/tree-sitter 
  tree-sitter-vim  0.4.0-1  Vimscript grammar for tree-sitter  https://github.com/tree-sitter-grammars 
  tree-sitter-vim-static  0.4.0-1  Static libraries for tree-sitter-vim  https://github.com/tree-sitter-grammars 
  tree-sitter-vimdoc  3.0.0-2  Tree-sitter parser for Vim help files  https://github.com/neovim/tree-sitter-vimdoc 

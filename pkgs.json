@@ -1537,7 +1537,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.8.3",
+    "Version": "2.8.4",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -3313,7 +3313,7 @@
   },
   {
     "Package": "global",
-    "Version": "6.6.13",
+    "Version": "6.6.14",
     "Description": "Source code search and browse tools",
     "Homepage": "https://www.gnu.org/software/global/"
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "Package": "lesspipe",
-    "Version": "2.16",
+    "Version": "2.16-1",
     "Description": "An input filter for the pager less",
     "Homepage": "http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html"
   },
@@ -9853,7 +9853,7 @@
   },
   {
     "Package": "mediainfo",
-    "Version": "24.11",
+    "Version": "24.12",
     "Description": "Command-line utility for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -14521,7 +14521,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.24.4",
+    "Version": "0.24.5",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14581,7 +14581,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.24.4",
+    "Version": "0.24.5",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
