@@ -1183,7 +1183,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
-  Version: 3.5.4
+  Version: 3.6.0
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
@@ -1647,7 +1647,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.20.11
+  Version: 0.20.12
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -7787,7 +7787,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.23.5
+  Version: 0.23.6
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8399,7 +8399,7 @@
   Description: Command line tool to extract the main content from a webpage
   Homepage: https://github.com/eafer/rdrview
 - Package: re2c
-  Version: 4.0.1
+  Version: 4.0.2
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
@@ -8987,7 +8987,7 @@
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
   Homepage: https://snowflake.torproject.org/
 - Package: socat
-  Version: 1.8.0.1
+  Version: 1.8.0.2
   Description: Relay for bidirectional data transfer between two independent data channels
   Homepage: http://www.dest-unreach.org/socat/
 - Package: softether-vpn
@@ -9995,7 +9995,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.5.7
+  Version: 0.5.8
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
