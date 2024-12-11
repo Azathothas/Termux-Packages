@@ -1683,7 +1683,7 @@
 | **mono-static** | 6.12.0.199-1 | Static libraries for mono | https://www.mono-project.com/ |
 | **monolith** | 2.8.3-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
-| **moreutils** | 0.69 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
+| **moreutils** | 0.70 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-5 | Rogue-like game with an infinite dungeon | https://umoria.org |
 | **morse2ascii** | 0.2.1 | A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files | https://packages.debian.org/sid/morse2ascii |
 | **mosh** | 1.4.0-11 | Mobile shell that supports roaming and intelligent local echo | https://mosh.org |

@@ -10111,7 +10111,7 @@
   },
   {
     "Package": "moreutils",
-    "Version": "0.69",
+    "Version": "0.70",
     "Description": "A growing collection of the unix tools that nobody thought to write thirty years ago",
     "Homepage": "https://joeyh.name/code/moreutils/"
   },
