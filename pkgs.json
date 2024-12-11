@@ -15739,7 +15739,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.47",
+    "Version": "0.48",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },
