@@ -12925,7 +12925,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.8.2-1",
+    "Version": "0.8.3",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13351,7 +13351,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "3.11.2",
+    "Version": "3.11.3",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
