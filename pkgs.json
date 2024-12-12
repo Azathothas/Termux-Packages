@@ -2449,7 +2449,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.06",
+    "Version": "13.07",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -3865,7 +3865,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.1.0",
+    "Version": "3.1.1",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -12043,7 +12043,7 @@
   },
   {
     "Package": "python-apt",
-    "Version": "2.9.2",
+    "Version": "2.9.3",
     "Description": "Python bindings for APT",
     "Homepage": "https://apt-team.pages.debian.net/python-apt/"
   },

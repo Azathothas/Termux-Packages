@@ -1631,7 +1631,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.06"
+  Version: "13.07"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -2575,7 +2575,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.1.0
+  Version: 3.1.1
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -8027,7 +8027,7 @@
   Description: Another Python SQLite Wrapper
   Homepage: https://github.com/rogerbinns/apsw/
 - Package: python-apt
-  Version: 2.9.2
+  Version: 2.9.3
   Description: Python bindings for APT
   Homepage: https://apt-team.pages.debian.net/python-apt/
 - Package: python-bcrypt
