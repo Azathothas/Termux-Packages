@@ -26,7 +26,7 @@
  alass  2.0.0-2  Automatic Language-Agnostic Subtitle Synchronization  https://github.com/kaegi/alass 
  alembic  1.8.8  A framework for sharing scene data that includes a C++ lib, a file format and client plugin  https://alembic.io 
  algernon  1.17.1  Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support  https://algernon.roboticoverlords.org/ 
- alist  3.40.0  A file list program that supports multiple storage  https://alist.nn.ci 
+ alist  3.41.0  A file list program that supports multiple storage  https://alist.nn.ci 
  alpine  2.26  Fast, easy to use email client  http://alpine.x10host.com/ 
  alsa-lib  1.2.13  The Advanced Linux Sound Architecture (ALSA) - library  https://www.alsa-project.org 
  alsa-plugins  1.2.12  The Advanced Linux Sound Architecture (ALSA) - plugins  https://www.alsa-project.org 
@@ -537,16 +537,16 @@
  git-lfs  3.6.0  Git extension for versioning large files  https://git-lfs.github.com/ 
  git-sizer  1.5.0-4  Compute various size metrics for a Git repository  https://github.com/github/git-sizer 
  git-svn  2.47.1  Convert between Git and Subversion repositories  https://git-scm.com/ 
- gitea  1.22.4  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
+ gitea  1.22.5  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
  gitoxide  0.39.0-1  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.26.3-1  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
  gkermit  2.01  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.50.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.6.3  A friendly language for building type-safe, scalable systems!  https://gleam.run 
- glib  2.82.3  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
- glib-bin  2.82.3  Programs for the GLib library  https://developer.gnome.org/glib/ 
- glib-cross  2.82.3  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
+ glib  2.82.4  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
+ glib-bin  2.82.4  Programs for the GLib library  https://developer.gnome.org/glib/ 
+ glib-cross  2.82.4  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
  glib-networking  2.80.0  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
  glibc-repo  1.0  A package repository containing glibc-based programs and libraries  https://github.com/termux/glibc-packages 
  glm  0.9.9.8  C++ mathematics library for graphics software based on the GLSL specifications  https://glm.g-truc.net/ 
@@ -591,7 +591,7 @@
  google-drive-upload  4.5  Bash scripts to upload files to google drive  https://github.com/labbots/google-drive-upload 
  google-glog  0.7.1  Logging library for C++  https://github.com/google/glog 
  googletest  1.15.2  Google C++ testing framework  https://github.com/google/googletest 
- goose  3.23.0  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
+ goose  3.23.1  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
  gopass  1.15.15  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.17.3-1  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.16.2  The official Go language server  https://github.com/golang/tools 
@@ -784,7 +784,7 @@
  kotlin  2.1.0  The Kotlin Programming Language  https://kotlinlang.org/ 
  krb5  1.21.3  The Kerberos network authentication system  https://web.mit.edu/kerberos 
  kubecolor  0.4.0  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
- kubectl  1.31.4  Kubernetes.io client binary  https://kubernetes.io/ 
+ kubectl  1.32.0  Kubernetes.io client binary  https://kubernetes.io/ 
  kubelogin  1.31.0  A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication  https://github.com/int128/kubelogin 
  ladspa-sdk  1.17-2  Linux Audio Developer's Simple Plugin API  https://www.ladspa.org/ 
  lame  3.100-5  High quality MPEG Audio Layer III (MP3) encoder - frontend  https://lame.sourceforge.io/ 
@@ -1751,7 +1751,7 @@
  nelua  2024.01.13  Minimal, efficient, statically-typed and meta-programmable systems programming language  https://nelua.io 
  neocmakelsp  0.8.12.2  a cmake lsp based on tower-lsp and treesitter  https://github.com/Decodetalkers/neocmakelsp 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
- neomutt  20241114  A version of mutt with added features  https://neomutt.org/ 
+ neomutt  20241212  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.10.2-4  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
  nerdfix  0.4.2  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.4  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
@@ -1823,7 +1823,7 @@
  opencl-clhpp  2024.10.24  Khronos OpenCL C++ Headers  https://github.com/KhronosGroup/OpenCL-CLHPP 
  opencl-headers  2024.10.24  Khronos OpenCL-Headers  https://github.com/KhronosGroup/OpenCL-Headers 
  opencl-vendor-driver  0.3  OpenCL driver from system vendor  https://termux.dev 
- opencolorio  2.4.0  A color management framework for visual effects and animation  https://opencolorio.org 
+ opencolorio  2.4.1  A color management framework for visual effects and animation  https://opencolorio.org 
  opencolorio-static  2.1.2  Static libraries for opencolorio  https://opencolorio.org 
  openethereum  3.3.5-3  Lightweight Ethereum Client  https://openethereum.github.io 
  openethereum-utils  3.3.5-3  Additional utilities for OpenEthereum (like evm, ethstore, ethkey)  https://openethereum.github.io 
@@ -1889,8 +1889,8 @@
  pathpicker  0.9.5-2  Facebook PathPicker - a terminal-based file picker  https://facebook.github.io/PathPicker/ 
  pb  2022.11.03-1  A helper utility for using 0x0 pastebin services  https://tildegit.org/tomasino/pb 
  pcal  4.11.0  A multi-platform program which generates annotated PostScript or HTML calendars in a monthly or yearly format  https://pcal.sourceforge.net/ 
- pcaudiolib  1.2-2  Portable C Audio Library  https://github.com/espeak-ng/pcaudiolib 
- pcaudiolib-static  1.2-2  Static libraries for pcaudiolib  https://github.com/espeak-ng/pcaudiolib 
+ pcaudiolib  1.3  Portable C Audio Library  https://github.com/espeak-ng/pcaudiolib 
+ pcaudiolib-static  1.3  Static libraries for pcaudiolib  https://github.com/espeak-ng/pcaudiolib 
  pcre  8.45-1  Library implementing regular expression pattern matching using the same syntax and semantics as Perl 5  https://www.pcre.org 
  pcre-static  8.45-1  Static libraries for pcre  https://www.pcre.org 
  pcre2  10.44  Perl 5 compatible regular expression library  https://www.pcre.org 

@@ -169,7 +169,7 @@
   },
   {
     "Package": "alist",
-    "Version": "3.40.0",
+    "Version": "3.41.0",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://alist.nn.ci"
   },
@@ -3235,7 +3235,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.22.4",
+    "Version": "1.22.5",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -3277,19 +3277,19 @@
   },
   {
     "Package": "glib",
-    "Version": "2.82.3",
+    "Version": "2.82.4",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-bin",
-    "Version": "2.82.3",
+    "Version": "2.82.4",
     "Description": "Programs for the GLib library",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.82.3",
+    "Version": "2.82.4",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -3559,7 +3559,7 @@
   },
   {
     "Package": "goose",
-    "Version": "3.23.0",
+    "Version": "3.23.1",
     "Description": "A database migration tool. Supports SQL migrations and Go functions.",
     "Homepage": "https://pressly.github.io/goose"
   },
@@ -4717,7 +4717,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.31.4",
+    "Version": "1.32.0",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -10519,7 +10519,7 @@
   },
   {
     "Package": "neomutt",
-    "Version": "20241114",
+    "Version": "20241212",
     "Description": "A version of mutt with added features",
     "Homepage": "https://neomutt.org/"
   },
@@ -10951,7 +10951,7 @@
   },
   {
     "Package": "opencolorio",
-    "Version": "2.4.0",
+    "Version": "2.4.1",
     "Description": "A color management framework for visual effects and animation",
     "Homepage": "https://opencolorio.org"
   },
@@ -11347,13 +11347,13 @@
   },
   {
     "Package": "pcaudiolib",
-    "Version": "1.2-2",
+    "Version": "1.3",
     "Description": "Portable C Audio Library",
     "Homepage": "https://github.com/espeak-ng/pcaudiolib"
   },
   {
     "Package": "pcaudiolib-static",
-    "Version": "1.2-2",
+    "Version": "1.3",
     "Description": "Static libraries for pcaudiolib",
     "Homepage": "https://github.com/espeak-ng/pcaudiolib"
   },
