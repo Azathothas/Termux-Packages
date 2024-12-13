@@ -241,7 +241,7 @@
   },
   {
     "Package": "angle-android",
-    "Version": "2.1.24479-f5196a27-1",
+    "Version": "2.1.24521-c75bd915-1",
     "Description": "A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android",
     "Homepage": "https://chromium.googlesource.com/angle/angle"
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "6.1.2-2",
+    "Version": "6.1.2-3",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -3235,7 +3235,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.22.5",
+    "Version": "1.22.6",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -6193,13 +6193,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.19.5",
+    "Version": "1.19.5-1",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.19.5",
+    "Version": "1.19.5-1",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -8791,13 +8791,13 @@
   },
   {
     "Package": "libx265",
-    "Version": "3.5-p20230222-0",
+    "Version": "4.1",
     "Description": "H.265/HEVC video stream encoder library",
     "Homepage": "http://x265.org/"
   },
   {
     "Package": "libx265-static",
-    "Version": "3.5-p20230222-0",
+    "Version": "4.1",
     "Description": "Static libraries for libx265",
     "Homepage": "http://x265.org/"
   },
@@ -9415,7 +9415,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.13.3",
+    "Version": "3.13.4",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -15181,13 +15181,13 @@
   },
   {
     "Package": "vlc",
-    "Version": "3.0.21-2",
+    "Version": "3.0.21-3",
     "Description": "A popular libre and open source media player and multimedia engine",
     "Homepage": "https://www.videolan.org/"
   },
   {
     "Package": "vlc-static",
-    "Version": "3.0.21-2",
+    "Version": "3.0.21-3",
     "Description": "Static libraries for vlc",
     "Homepage": "https://www.videolan.org/"
   },
@@ -15541,7 +15541,7 @@
   },
   {
     "Package": "x265",
-    "Version": "3.5-p20230222-0",
+    "Version": "4.1",
     "Description": "H.265/HEVC video stream encoder tool",
     "Homepage": "http://x265.org/"
   },

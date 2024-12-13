@@ -50,7 +50,7 @@
 | **android-tools** | 35.0.2 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.1.6 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.5 | Dungeon exploration adventure game | https://rephial.org/ |
-| **angle-android** | 2.1.24479-f5196a27-1 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
+| **angle-android** | 2.1.24521-c75bd915-1 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
 | **angle-grinder** | 0.19.4-1 | Slice and dice logs on the command line | https://github.com/rcoh/angle-grinder |
 | **ani-cli** | 4.9 | A cli to browse and watch anime | https://github.com/pystardust/ani-cli |
 | **ansifilter** | 2.21-1 | Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode | http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php |
@@ -446,7 +446,7 @@
 | **fetchmail** | 6.5.1 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.5.1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 6.1.2-2 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 6.1.2-3 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20240913-0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.76 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-3 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
@@ -549,7 +549,7 @@
 | **git-lfs** | 3.6.0 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.47.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.22.5 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.22.6 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.39.0-1 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.26.3-1 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
@@ -1042,8 +1042,8 @@
 | **libhangul-static** | 0.1.0-p20230415-2 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
 | **libhdf5** | 1.14.4.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.19.5 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.19.5 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.19.5-1 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.19.5-1 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libheif-static** | 1.15.2 | Static libraries for libheif | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.2.0 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhiredis-static** | 1.1.0 | Static libraries for libhiredis | https://redis.com/lp/hiredis |
@@ -1475,8 +1475,8 @@
 | **libx11-static** | 1.8.10 | Static libraries for libx11 | https://xorg.freedesktop.org/ |
 | **libx264** | 1:0.164.3191 | Library for encoding video streams into the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **libx264-static** | 1:0.164.3191 | Static libraries for libx264 | https://www.videolan.org/developers/x264.html |
-| **libx265** | 3.5-p20230222-0 | H.265/HEVC video stream encoder library | http://x265.org/ |
-| **libx265-static** | 3.5-p20230222-0 | Static libraries for libx265 | http://x265.org/ |
+| **libx265** | 4.1 | H.265/HEVC video stream encoder library | http://x265.org/ |
+| **libx265-static** | 4.1 | Static libraries for libx265 | http://x265.org/ |
 | **libxapian** | 1.4.27 | Xapian search engine library | https://xapian.org |
 | **libxapian-static** | 1.4.27 | Static libraries for libxapian | https://xapian.org |
 | **libxau** | 1.0.11 | X11 authorisation library | https://xorg.freedesktop.org/ |
@@ -1579,7 +1579,7 @@
 | **lsof** | 4.99.4 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.4 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.7.9 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
-| **lua-language-server** | 3.13.3 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
+| **lua-language-server** | 3.13.4 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5 | Simple, extensible, embeddable programming language | https://www.lua.org |
@@ -2540,8 +2540,8 @@
 | **vitetris** | 0.59.1-2 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.5.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.10.1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
-| **vlc** | 3.0.21-2 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
-| **vlc-static** | 3.0.21-2 | Static libraries for vlc | https://www.videolan.org/ |
+| **vlc** | 3.0.21-3 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
+| **vlc-static** | 3.0.21-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 0.9.99.55 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
@@ -2600,7 +2600,7 @@
 | **wv-tools** | 1.2.9-3 | Command-line tools for libwv | http://wvware.sourceforge.net/ |
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |
 | **x264** | 1:0.164.3191 | Commandline video encoder for the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
-| **x265** | 3.5-p20230222-0 | H.265/HEVC video stream encoder tool | http://x265.org/ |
+| **x265** | 4.1 | H.265/HEVC video stream encoder tool | http://x265.org/ |
 | **xapian-tools** | 1.4.27 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-1 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
