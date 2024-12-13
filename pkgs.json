@@ -9661,7 +9661,7 @@
   },
   {
     "Package": "matplotlib",
-    "Version": "3.9.3",
+    "Version": "3.9.4",
     "Description": "A comprehensive library for creating static, animated, and interactive visualizations in Python",
     "Homepage": "https://matplotlib.org/"
   },
