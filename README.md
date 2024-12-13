@@ -1922,21 +1922,21 @@
 | **pforth** | 1:2.0.1 | Portable Forth in C | http://www.softsynth.com/pforth/ |
 | **pgroonga** | 3.2.5 | A PostgreSQL extension to use Groonga as index | https://github.com/pgroonga/pgroonga |
 | **photon-rss** | 2023.02.02-2 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
-| **php** | 8.3.10-2 | Server-side, HTML-embedded scripting language | https://php.net |
-| **php-apache** | 8.3.10-2 | Apache 2.0 Handler module for PHP | https://php.net |
-| **php-apache-ldap** | 8.3.10-2 | LDAP module for PHP/Apache | https://php.net |
-| **php-apache-opcache** | 8.3.10-2 | OPcache module for PHP/Apache | https://php.net |
-| **php-apache-pgsql** | 8.3.10-2 | PostgreSQL modules for PHP/Apache | https://php.net |
-| **php-apache-sodium** | 8.3.10-2 | Sodium module for PHP/Apache | https://php.net |
+| **php** | 8.4.1 | Server-side, HTML-embedded scripting language | https://php.net |
+| **php-apache** | 8.4.1 | Apache 2.0 Handler module for PHP | https://php.net |
+| **php-apache-ldap** | 8.4.1 | LDAP module for PHP/Apache | https://php.net |
+| **php-apache-opcache** | 8.4.1 | OPcache module for PHP/Apache | https://php.net |
+| **php-apache-pgsql** | 8.4.1 | PostgreSQL modules for PHP/Apache | https://php.net |
+| **php-apache-sodium** | 8.4.1 | Sodium module for PHP/Apache | https://php.net |
 | **php-apcu** | 5.1.24 | APCu - APC User Cache | http://php.net/apcu |
-| **php-fpm** | 8.3.10-2 | FastCGI Process Manager for PHP | https://php.net |
-| **php-gd** | 8.3.10-2 | gd module for PHP | https://php.net |
+| **php-fpm** | 8.4.1 | FastCGI Process Manager for PHP | https://php.net |
+| **php-gd** | 8.4.1 | gd module for PHP | https://php.net |
 | **php-imagick** | 3.7.0-5 | The Imagick PHP extension | https://github.com/Imagick/imagick |
-| **php-ldap** | 8.3.10-2 | LDAP module for PHP | https://php.net |
-| **php-pgsql** | 8.3.10-2 | PostgreSQL modules for PHP | https://php.net |
+| **php-ldap** | 8.4.1 | LDAP module for PHP | https://php.net |
+| **php-pgsql** | 8.4.1 | PostgreSQL modules for PHP | https://php.net |
 | **php-psr** | 1.2.0-3 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
 | **php-redis** | 6.1.0RC2 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
-| **php-sodium** | 8.3.10-2 | Sodium module for PHP | https://php.net |
+| **php-sodium** | 8.4.1 | Sodium module for PHP | https://php.net |
 | **php-zephir-parser** | 1.7.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.1 | A PHP tool for administering MySQL databases | https://www.phpmyadmin.net |
 | **pianobar** | 2022.04.01-1 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |

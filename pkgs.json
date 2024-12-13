@@ -11473,37 +11473,37 @@
   },
   {
     "Package": "php",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "Server-side, HTML-embedded scripting language",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "Apache 2.0 Handler module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-ldap",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "LDAP module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-opcache",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "OPcache module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-pgsql",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "PostgreSQL modules for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-sodium",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "Sodium module for PHP/Apache",
     "Homepage": "https://php.net"
   },
@@ -11515,13 +11515,13 @@
   },
   {
     "Package": "php-fpm",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "FastCGI Process Manager for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-gd",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "gd module for PHP",
     "Homepage": "https://php.net"
   },
@@ -11533,13 +11533,13 @@
   },
   {
     "Package": "php-ldap",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "LDAP module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-pgsql",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "PostgreSQL modules for PHP",
     "Homepage": "https://php.net"
   },
@@ -11557,7 +11557,7 @@
   },
   {
     "Package": "php-sodium",
-    "Version": "8.3.10-2",
+    "Version": "8.4.1",
     "Description": "Sodium module for PHP",
     "Homepage": "https://php.net"
   },
