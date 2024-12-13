@@ -3577,7 +3577,7 @@
   },
   {
     "Package": "gopls",
-    "Version": "0.16.2",
+    "Version": "0.17.0",
     "Description": "The official Go language server",
     "Homepage": "https://github.com/golang/tools"
   },
@@ -6457,19 +6457,19 @@
   },
   {
     "Package": "libjpeg-turbo",
-    "Version": "3.0.4",
+    "Version": "3.1.0",
     "Description": "Library for reading and writing JPEG image files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-progs",
-    "Version": "3.0.4",
+    "Version": "3.1.0",
     "Description": "Programs for manipulating JPEG files",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
   {
     "Package": "libjpeg-turbo-static",
-    "Version": "3.0.4",
+    "Version": "3.1.0",
     "Description": "Static libraries for libjpeg-turbo",
     "Homepage": "https://libjpeg-turbo.virtualgl.org"
   },
@@ -6991,7 +6991,7 @@
   },
   {
     "Package": "libmuparser",
-    "Version": "2.3.4-1",
+    "Version": "2.3.5",
     "Description": "An extensible high performance math expression parser library written in C++",
     "Homepage": "https://beltoforion.de/en/muparser"
   },
