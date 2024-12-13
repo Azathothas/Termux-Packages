@@ -371,11 +371,11 @@
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
-  Version: 0.4.9-3
+  Version: 0.4.9-4
   Description: A library to label music and sounds
   Homepage: https://aubio.org/
 - Package: aubio-static
-  Version: 0.4.9-3
+  Version: 0.4.9-4
   Description: Static libraries for aubio
   Homepage: https://aubio.org/
 - Package: autoconf
@@ -883,7 +883,7 @@
   Description: A human-friendly and fast alternative to cut and (sometimes) awk
   Homepage: https://github.com/theryangeary/choose
 - Package: chromaprint
-  Version: 1.5.1-p20221217-1
+  Version: 1.5.1-p20221217-2
   Description: C library for generating audio fingerprints used by AcoustID
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
@@ -975,7 +975,7 @@
   Description: cmocka is an unit testing framework for C
   Homepage: https://cmocka.org/
 - Package: cmus
-  Version: 2.12.0-2
+  Version: 2.12.0-3
   Description: Small, fast and powerful console music player
   Homepage: https://cmus.github.io/
 - Package: cmusfm
@@ -1743,11 +1743,11 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 6.1.2-3
+  Version: "7.1"
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
-  Version: 2.2.3-p20240913-0
+  Version: 2.2.3-p20240913-1
   Description: Lightweight video thumbnailer that can be used by file managers
   Homepage: https://github.com/dirkvdb/ffmpegthumbnailer
 - Package: ffsend
@@ -2027,7 +2027,7 @@
   Description: Static libraries for gecode
   Homepage: https://github.com/Gecode/gecode
 - Package: gegl
-  Version: 0.4.50
+  Version: 0.4.50-1
   Description: Data flow based image processing framework
   Homepage: https://gegl.org/
 - Package: gengetopt
@@ -2395,11 +2395,11 @@
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: gpac
-  Version: 2.4.0
+  Version: 2.4.0-1
   Description: An open-source multimedia framework focused on modularity and standards compliance
   Homepage: https://gpac.wp.imt.fr/
 - Package: gpac-static
-  Version: 2.4.0
+  Version: 2.4.0-1
   Description: Static libraries for gpac
   Homepage: https://gpac.wp.imt.fr/
 - Package: gperf
@@ -2507,7 +2507,7 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.24.10
+  Version: 1.24.10-1
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
@@ -6643,7 +6643,7 @@
   Description: Friendly menu driven serial communication program
   Homepage: https://salsa.debian.org/minicom-team/minicom
 - Package: minidlna
-  Version: 1.3.3-1
+  Version: 1.3.3-2
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
@@ -6795,7 +6795,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.23.16
+  Version: 0.23.16-1
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpd-static
@@ -6815,7 +6815,7 @@
   Description: Static libraries for mpg123
   Homepage: https://mpg123.org/
 - Package: mpv
-  Version: 0.39.0
+  Version: 0.39.0-1
   Description: Command-line media player
   Homepage: https://mpv.io/
 - Package: mruby
@@ -7131,15 +7131,15 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
-  Version: 3.0.11
+  Version: 3.0.11-1
   Description: blingful TUIs and character graphics
   Homepage: https://notcurses.com/
 - Package: notcurses-data
-  Version: 3.0.11
+  Version: 3.0.11-1
   Description: Platform-independent data for notcurses
   Homepage: https://notcurses.com/
 - Package: notcurses-tools
-  Version: 3.0.11
+  Version: 3.0.11-1
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch
@@ -7715,7 +7715,7 @@
   Description: A PHP tool for administering MySQL databases
   Homepage: https://www.phpmyadmin.net
 - Package: pianobar
-  Version: 2022.04.01-1
+  Version: 2022.04.01-2
   Description: pianobar is a free/open-source, console-based client for the personalized online radio Pandora.
   Homepage: https://6xq.net/pianobar/
 - Package: pick
@@ -7747,7 +7747,7 @@
   Description: Animated pipes terminal screensaver
   Homepage: https://github.com/pipeseroni/pipes.sh
 - Package: pipewire
-  Version: 1.2.0-1
+  Version: 1.2.0-2
   Description: A server and user space API to deal with multimedia pipelines
   Homepage: https://pipewire.org/
 - Package: pkg-config
@@ -8559,7 +8559,7 @@
   Description: A tool for doing record analysis and transformation
   Homepage: https://github.com/dflemstr/rq
 - Package: rsgain
-  Version: 3.5.3
+  Version: 3.5.3-1
   Description: A simple audio normalizazion utility
   Homepage: https://github.com/complexlogic/rsgain
 - Package: rsnapshot
@@ -9567,7 +9567,7 @@
   Description: Command-line time tracker
   Homepage: https://timewarrior.net/
 - Package: timg
-  Version: 1.6.0-2
+  Version: 1.6.0-3
   Description: A terminal image and video viewer
   Homepage: https://timg.sh/
 - Package: timidity++
@@ -9915,7 +9915,7 @@
   Description: Static libraries for unixodbc
   Homepage: https://www.unixodbc.org/
 - Package: unpaper
-  Version: 1:7.0.0-1
+  Version: 1:7.0.0-2
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
@@ -10067,7 +10067,7 @@
   Description: A programmable tool for verification, analysis and transformation of C++ source code
   Homepage: https://bitbucket.org/verateam/vera
 - Package: vgmstream
-  Version: "1951"
+  Version: 1951-1
   Description: A library for playback of various streamed audio formats used in video games
   Homepage: https://github.com/vgmstream/vgmstream
 - Package: vgmtools
