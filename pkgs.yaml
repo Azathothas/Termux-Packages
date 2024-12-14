@@ -9215,11 +9215,11 @@
   Description: Records and splits streaming mp3 into tracks
   Homepage: http://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: "5.73"
+  Version: "5.74"
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: "5.73"
+  Version: "5.74"
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
@@ -9995,7 +9995,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.5.8
+  Version: 0.5.9
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
