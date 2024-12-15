@@ -184,7 +184,7 @@
 | **byacc** | 20240109 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 6.12 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://byobu.co/ |
 | **bzip2** | 1.0.8-6 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.34.3 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
+| **c-ares** | 1.34.4 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.18-p20240317-0 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.18-p20240317-0 | Static libraries for c-toxcore | https://tox.chat |
@@ -732,8 +732,8 @@
 | **intltool** | 0.51.0-3 | The internationalization tool collection | https://launchpad.net/intltool |
 | **inxi** | 3.3.36-1-0 | Full featured CLI system information tool | https://smxi.org/site/about.htm#inxi |
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
-| **iperf3** | 3.17.1 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
-| **iperf3-static** | 3.17.1 | Static libraries for iperf3 | https://github.com/esnet/iperf |
+| **iperf3** | 3.18 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
+| **iperf3-static** | 3.18 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipfs** | 0.32.1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.12.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
@@ -2206,7 +2206,7 @@
 | **sdcv** | 0.5.5 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **seafile-client** | 9.0.11 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.11 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 2.4.2 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 2.5.0 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-7 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-5 | Secure file, disk, swap, memory erasure utilities | http://www.thc.org/ |
 | **sed** | 4.9-1 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |

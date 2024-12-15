@@ -1045,9 +1045,9 @@
   },
   {
     "Package": "c-ares",
-    "Version": "1.34.3",
+    "Version": "1.34.4",
     "Description": "Library for asynchronous DNS requests (including name resolves)",
-    "Homepage": "https://c-ares.haxx.se"
+    "Homepage": "https://c-ares.org/"
   },
   {
     "Package": "c-script",
@@ -4333,13 +4333,13 @@
   },
   {
     "Package": "iperf3",
-    "Version": "3.17.1",
+    "Version": "3.18",
     "Description": "TCP, UDP, and SCTP network bandwidth measurement tool",
     "Homepage": "https://github.com/esnet/iperf"
   },
   {
     "Package": "iperf3-static",
-    "Version": "3.17.1",
+    "Version": "3.18",
     "Description": "Static libraries for iperf3",
     "Homepage": "https://github.com/esnet/iperf"
   },
@@ -13177,7 +13177,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "2.4.2",
+    "Version": "2.5.0",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
