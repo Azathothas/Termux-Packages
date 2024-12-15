@@ -867,7 +867,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.55.0
+  Version: 2.56.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -2731,7 +2731,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.139.4
+  Version: 0.139.5
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -6655,7 +6655,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.11.07.00.52.20
+  Version: 2024.12.13.22.19.12
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -6807,11 +6807,11 @@
   Description: A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler
   Homepage: https://www.musicpd.org/clients/mpdscribble/
 - Package: mpg123
-  Version: 1.32.9
+  Version: 1.32.10
   Description: Fast console MPEG Audio Player and decoder library
   Homepage: https://mpg123.org/
 - Package: mpg123-static
-  Version: 1.32.9
+  Version: 1.32.10
   Description: Static libraries for mpg123
   Homepage: https://mpg123.org/
 - Package: mpv
@@ -7227,7 +7227,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.12.0
+  Version: 24.13.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents

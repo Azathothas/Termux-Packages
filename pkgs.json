@@ -1303,7 +1303,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.55.0",
+    "Version": "2.56.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -4099,7 +4099,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.139.4",
+    "Version": "0.139.5",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -9985,7 +9985,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.11.07.00.52.20",
+    "Version": "2024.12.13.22.19.12",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -10213,13 +10213,13 @@
   },
   {
     "Package": "mpg123",
-    "Version": "1.32.9",
+    "Version": "1.32.10",
     "Description": "Fast console MPEG Audio Player and decoder library",
     "Homepage": "https://mpg123.org/"
   },
   {
     "Package": "mpg123-static",
-    "Version": "1.32.9",
+    "Version": "1.32.10",
     "Description": "Static libraries for mpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -10843,7 +10843,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.12.0",
+    "Version": "24.13.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
