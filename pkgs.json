@@ -12955,9 +12955,9 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20241209",
+    "Version": "20241216",
     "Description": "A Rust compiler front-end for IDEs",
-    "Homepage": "https://github.com/rust-lang/rust-analyzer"
+    "Homepage": "https://rust-analyzer.github.io/"
   },
   {
     "Package": "rust-bindgen",
