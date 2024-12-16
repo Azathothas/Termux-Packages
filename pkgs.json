@@ -2449,7 +2449,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.07",
+    "Version": "13.08",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -2851,7 +2851,7 @@
   },
   {
     "Package": "frp",
-    "Version": "0.61.0",
+    "Version": "0.61.1",
     "Description": "A fast reverse proxy to expose a local server behind a NAT or firewall to the internet",
     "Homepage": "https://github.com/fatedier/frp"
   },
@@ -10843,7 +10843,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.13.0",
+    "Version": "24.13.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12439,7 +12439,7 @@
   },
   {
     "Package": "rabbitmq-server",
-    "Version": "4.0.4",
+    "Version": "4.0.5",
     "Description": "Feature rich, multi-protocol messaging and streaming broker",
     "Homepage": "https://github.com/rabbitmq/rabbitmq-server"
   },
