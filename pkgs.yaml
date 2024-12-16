@@ -6875,7 +6875,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 18.2.2
+  Version: 19.0.1
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -10119,11 +10119,11 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.21-3
+  Version: 3.0.21-4
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
-  Version: 3.0.21-3
+  Version: 3.0.21-4
   Description: Static libraries for vlc
   Homepage: https://www.videolan.org/
 - Package: vobsub2srt
@@ -10223,7 +10223,7 @@
   Description: WavPack command-line programs
   Homepage: https://www.wavpack.com/
 - Package: waypipe
-  Version: 0.9.2-1
+  Version: 0.9.2-2
   Description: A proxy for Wayland clients
   Homepage: https://gitlab.freedesktop.org/mstoeckl/waypipe
 - Package: wcalc
