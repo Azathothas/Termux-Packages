@@ -9679,7 +9679,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.11.1",
+    "Version": "0.11.2",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -10069,7 +10069,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.35.0",
+    "Version": "2.35.1",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },
@@ -11683,7 +11683,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.23.7",
+    "Version": "0.23.8",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -15205,7 +15205,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.55",
+    "Version": "0.9.99.56",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
