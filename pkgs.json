@@ -2767,7 +2767,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "9.0.2",
+    "Version": "9.0.3",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -5593,13 +5593,13 @@
   },
   {
     "Package": "libdeflate",
-    "Version": "1.22",
+    "Version": "1.23",
     "Description": "C library for fast compression and decompression",
     "Homepage": "https://github.com/ebiggers/libdeflate"
   },
   {
     "Package": "libdeflate-static",
-    "Version": "1.22",
+    "Version": "1.23",
     "Description": "Static libraries for libdeflate",
     "Homepage": "https://github.com/ebiggers/libdeflate"
   },
@@ -14527,7 +14527,7 @@
   },
   {
     "Package": "tree-sitter-c",
-    "Version": "0.23.2",
+    "Version": "0.23.4",
     "Description": "C grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter"
   },

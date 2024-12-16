@@ -459,7 +459,7 @@
  fontconfig-static  2.15.0  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.15.0  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  forestdb-dump  1.2  ForestDB dump tool  https://github.com/couchbase/forestdb 
- forgejo  9.0.2  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
+ forgejo  9.0.3  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
  fortune  1.2-1  Revealer of fortunes  https://www.fefe.de/fortune/ 
  fossil  2.25-1  DSCM with built-in wiki, http interface and server, tickets database  https://www.fossil-scm.org 
  freecolor  0.9.3  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
@@ -930,8 +930,8 @@
  libde265-static  1.0.15  Static libraries for libde265  https://github.com/strukturag/libde265 
  libdebuginfod  0.191  Library for debuginfod  https://sourceware.org/elfutils/ 
  libdecor  0.2.2  Client-side decorations library for Wayland clients  https://gitlab.freedesktop.org/libdecor/libdecor 
- libdeflate  1.22  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
- libdeflate-static  1.22  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
+ libdeflate  1.23  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
+ libdeflate-static  1.23  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
  libdevil  1.8.0-6  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
  libdispatch  1:6.0.2  The libdispatch project, for concurrency on multicore hardware  https://github.com/swiftlang/swift-corelibs-libdispatch 
  libdmtx  0.7.7  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
@@ -2419,7 +2419,7 @@
  transmission  4.0.6-1  Easy, lean and powerful BitTorrent client  https://transmissionbt.com/ 
  tree  2.2.1  Recursive directory lister producing a depth indented listing of files  http://mama.indstate.edu/users/ice/tree/ 
  tree-sitter  0.24.5  An incremental parsing system for programming tools  https://github.com/tree-sitter/tree-sitter 
- tree-sitter-c  0.23.2  C grammar for tree-sitter  https://github.com/tree-sitter 
+ tree-sitter-c  0.23.4  C grammar for tree-sitter  https://github.com/tree-sitter 
  tree-sitter-c-static  0.23.1  Static libraries for tree-sitter-c  https://github.com/tree-sitter 
  tree-sitter-lua  0.2.0  Lua grammar for tree-sitter  https://github.com/tree-sitter-grammars 
  tree-sitter-lua-static  0.2.0  Static libraries for tree-sitter-lua  https://github.com/tree-sitter-grammars 
