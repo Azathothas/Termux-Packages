@@ -13177,7 +13177,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "2.5.0",
+    "Version": "2.5.1",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
