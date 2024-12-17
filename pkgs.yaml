@@ -2623,7 +2623,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 3.16.3
+  Version: 3.16.4
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -2779,7 +2779,7 @@
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
-  Version: 0.9.3
+  Version: 0.9.4
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
@@ -8323,7 +8323,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 3.19.1
+  Version: 3.20.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -8447,7 +8447,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.01.01
+  Version: 1:05.02.00
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
