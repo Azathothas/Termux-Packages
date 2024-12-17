@@ -213,7 +213,7 @@
 | **ccache** | 4.10.2-1 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
 | **cccc** | 3.2.0 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
 | **ccextractor** | 0.94-4 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
-| **ccls** | 0.20240505 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
+| **ccls** | 0.20241206 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
 | **ccrypt** | 1.11 | Secure encryption and decryption of files and streams utility | http://ccrypt.sourceforge.net/ |
 | **cec-client** | 6.0.2-1 | Client applications for libCEC | http://libcec.pulse-eight.com/ |
 | **ceu-lang** | 2019.07.17-2 | The Structured Synchronous Reactive Programming Language Céu | https://github.com/ceu-lang/ceu |
@@ -418,7 +418,7 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.4 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.08 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.09 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.3 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -452,8 +452,8 @@
 | **fftw** | 3.3.10-3 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
 | **fftw-static** | 3.3.10-3 | Static libraries for fftw | http://www.fftw.org/ |
 | **figlet** | 2.2.5-2 | Program for making large letters out of ordinary text | http://www.figlet.org/ |
-| **file** | 5.45 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
-| **file-static** | 5.45 | Static libraries for file | https://darwinsys.com/file/ |
+| **file** | 5.46 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
+| **file-static** | 5.46 | Static libraries for file | https://darwinsys.com/file/ |
 | **finch** | 2.14.13-2 | Text-based multi-protocol instant messaging client | https://pidgin.im/ |
 | **finch-static** | 2.14.13-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 9.0.4-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
@@ -693,7 +693,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.139.5 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.140.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -2017,7 +2017,7 @@
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.8 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.47.2.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
-| **python-apt** | 2.9.3 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
+| **python-apt** | 2.9.4 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.2.1 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-contourpy** | 1.3.1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 42.0.8-1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
@@ -2544,7 +2544,7 @@
 | **vlc-static** | 3.0.21-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.56 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.57 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241204 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.303 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |

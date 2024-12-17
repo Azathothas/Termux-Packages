@@ -811,7 +811,7 @@
   Description: A tool used to produce subtitles for TV recordings
   Homepage: https://ccextractor.org/
 - Package: ccls
-  Version: "0.20240505"
+  Version: "0.20241206"
   Description: C/C++/ObjC language server
   Homepage: https://github.com/MaskRay/ccls
 - Package: ccrypt
@@ -1631,7 +1631,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.08"
+  Version: "13.09"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -1767,11 +1767,11 @@
   Description: Program for making large letters out of ordinary text
   Homepage: http://www.figlet.org/
 - Package: file
-  Version: "5.45"
+  Version: "5.46"
   Description: Command-line tool that tells you in words what kind of data a file contains
   Homepage: https://darwinsys.com/file/
 - Package: file-static
-  Version: "5.45"
+  Version: "5.46"
   Description: Static libraries for file
   Homepage: https://darwinsys.com/file/
 - Package: finch
@@ -2731,7 +2731,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.139.5
+  Version: 0.140.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -8027,7 +8027,7 @@
   Description: Another Python SQLite Wrapper
   Homepage: https://github.com/rogerbinns/apsw/
 - Package: python-apt
-  Version: 2.9.3
+  Version: 2.9.4
   Description: Python bindings for APT
   Homepage: https://apt-team.pages.debian.net/python-apt/
 - Package: python-bcrypt
@@ -10135,7 +10135,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.56
+  Version: 0.9.99.57
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
