@@ -751,7 +751,7 @@
   },
   {
     "Package": "binaryen",
-    "Version": "119",
+    "Version": "121",
     "Description": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
     "Homepage": "https://github.com/WebAssembly/binaryen"
   },
@@ -15787,7 +15787,7 @@
   },
   {
     "Package": "z3",
-    "Version": "4.13.3",
+    "Version": "4.13.4",
     "Description": "Z3 is a theorem prover from Microsoft Research",
     "Homepage": "https://github.com/Z3Prover/z3"
   },
