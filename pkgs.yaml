@@ -9859,7 +9859,7 @@
   Description: Linux tools for UDF filesystems and DVD/CD-R(W) drives
   Homepage: https://github.com/pali/udftools
 - Package: uftrace
-  Version: 0.16-1
+  Version: "0.17"
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugit

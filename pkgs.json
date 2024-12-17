@@ -14791,7 +14791,7 @@
   },
   {
     "Package": "uftrace",
-    "Version": "0.16-1",
+    "Version": "0.17",
     "Description": "Function (graph) tracer for user-space",
     "Homepage": "https://uftrace.github.io/slide"
   },
