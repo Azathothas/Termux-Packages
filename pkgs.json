@@ -1723,7 +1723,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.11.0-1",
+    "Version": "8.11.1",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -5503,13 +5503,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.11.0-1",
+    "Version": "8.11.1",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.11.0-1",
+    "Version": "8.11.1",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
