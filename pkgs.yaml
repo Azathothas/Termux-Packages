@@ -27,11 +27,11 @@
   Description: A test program for liba52
   Homepage: http://liba52.sourceforge.net/
 - Package: aalib
-  Version: 1.4rc5-11
+  Version: 1.4rc5-12
   Description: A portable ASCII art graphic library
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aalib-static
-  Version: 1.4rc5-11
+  Version: 1.4rc5-12
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt

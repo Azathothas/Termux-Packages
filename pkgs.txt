@@ -5,8 +5,8 @@
  7zip  24.09  7-Zip file archiver with a high compression ratio  https://www.7-zip.org 
  8086tiny  1.25-4  A PC XT-compatible emulator/virtual machine  https://github.com/adriancable/8086tiny 
  a52dec  0.8.0-1  A test program for liba52  http://liba52.sourceforge.net/ 
- aalib  1.4rc5-11  A portable ASCII art graphic library  https://sourceforge.net/projects/aa-project/ 
- aalib-static  1.4rc5-11  Static libraries for aalib  https://sourceforge.net/projects/aa-project/ 
+ aalib  1.4rc5-12  A portable ASCII art graphic library  https://sourceforge.net/projects/aa-project/ 
+ aalib-static  1.4rc5-12  Static libraries for aalib  https://sourceforge.net/projects/aa-project/ 
  aapt  13.0.0.6-16  Android Asset Packaging Tool  https://elinux.org/Android_aapt 
  aapt2  13.0.0.6-16  AAPT2 (Android Asset Packaging Tool)  https://elinux.org/Android_aapt 
  abduco  0.6-3  Clean and simple terminal session manager  https://www.brain-dump.org/projects/abduco/ 
