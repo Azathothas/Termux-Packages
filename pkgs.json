@@ -1363,7 +1363,7 @@
   },
   {
     "Package": "clang",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -2503,7 +2503,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.32.0",
+    "Version": "2.32.1",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -5431,7 +5431,7 @@
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6541,13 +6541,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7543,7 +7543,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9277,13 +9277,13 @@
   },
   {
     "Package": "lld",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9313,13 +9313,13 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvmgold",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "LLVM gold plugin",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10051,7 +10051,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "19.1.5",
+    "Version": "19.1.6",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10843,7 +10843,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.14.0",
+    "Version": "24.15.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12199,13 +12199,13 @@
   },
   {
     "Package": "python-torchaudio",
-    "Version": "2.5.0",
+    "Version": "2.5.0-1",
     "Description": "Data manipulation and transformation for audio signal processing, powered by PyTorch",
     "Homepage": "https://github.com/pytorch/audio"
   },
   {
     "Package": "python-torchvision",
-    "Version": "0.20.0",
+    "Version": "0.20.0-1",
     "Description": "Datasets, Transforms and Models specific to Computer Vision",
     "Homepage": "https://github.com/pytorch/vision"
   },
@@ -14464,6 +14464,12 @@
     "Version": "0.4.8.13",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
+  },
+  {
+    "Package": "torchaudio-ffmpeg",
+    "Version": "2.5.0-1",
+    "Description": "Minimal FFmpeg libraries for python-torchaudio",
+    "Homepage": "https://github.com/pytorch/audio"
   },
   {
     "Package": "torsocks",
