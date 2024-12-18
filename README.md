@@ -30,7 +30,7 @@
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.18.2 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.11 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
-| **age** | 1:1.2.0 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
+| **age** | 1:1.2.1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.5.0 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
 | **aichat** | 0.25.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
@@ -422,7 +422,7 @@
 | **exiv2** | 2:0.28.3 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.20.12 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.20.13 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.36 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.36 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -554,7 +554,7 @@
 | **gitoxide** | 0.39.0-1 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.26.3-1 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.50.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.51.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.6.3 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.82.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.82.4 | Programs for the GLib library | https://developer.gnome.org/glib/ |
@@ -617,7 +617,7 @@
 | **gpgmepp** | 1.24.1 | Programmatic C++ library interface to GnuPG | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgmepp-static** | 1.24.1 | Static libraries for gpgmepp | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgv** | 2.4.5-3 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
-| **gping** | 1.18.0 | Ping, but with a graph | https://github.com/orf/gping |
+| **gping** | 1.19.0 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:8.11.1 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:11.4.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
@@ -783,7 +783,7 @@
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 17.1.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
-| **kakoune-lsp** | 18.1.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
+| **kakoune-lsp** | 18.1.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.6.4 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kcptun** | 20241119 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **keybase** | 6.4.0 | Key directory that maps social media identities to encryption keys | https://keybase.io |
@@ -1596,7 +1596,7 @@
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-1 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lv2** | 1.18.10-4 | A plugin standard for audio systems | https://lv2plug.in/ |
-| **lychee** | 0.17.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
+| **lychee** | 0.18.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.8.9rel.1-8 | The text web browser | http://lynx.browser.org/ |
 | **lz4** | 1.10.0 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
 | **lzip** | 1.24.1 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
@@ -1817,7 +1817,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 24.15.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 24.15.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -1957,7 +1957,7 @@
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.23.9 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.23.10 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.2 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.2 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2088,7 +2088,7 @@
 | **racket-static** | 8.15-1 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 5.9.8 | Advanced Hexadecimal Editor | https://rada.re |
 | **radare2-static** | 5.7.8 | Static libraries for radare2 | https://rada.re |
-| **rage** | 0.11.0 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
+| **rage** | 0.11.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
 | **railway-cli** | 3.20.0 | This is the command line interface for Railway | https://railway.app |
@@ -2329,7 +2329,7 @@
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 2.3.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
-| **swi-prolog** | 9.3.16 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
+| **swi-prolog** | 9.3.17 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 6.0.3 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 6.0.3 | Swift runtime libraries for Android armv7 | https://swift.org/ |
 | **swift-runtime-x86-64** | 6.0.3 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
@@ -2560,7 +2560,7 @@
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
 | **wabt** | 1.0.36 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 1.106.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 1.107.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.10.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 24 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.11 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
