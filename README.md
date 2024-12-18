@@ -179,7 +179,7 @@
 | **btfs2** | 3.0.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
 | **buf** | 1.47.2 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
-| **busybox** | 1.36.1-2 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
+| **busybox** | 1.36.1-3 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.4.2 | Binary file editor based on vi | http://bvi.sourceforge.net/ |
 | **byacc** | 20240109 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 6.12 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://byobu.co/ |
@@ -1052,7 +1052,7 @@
 | **libhyphen** | 2.8.8 | hyphenation library to use converted TeX hyphenation patterns | https://github.com/hunspell/hyphen |
 | **libhyphen-static** | 2.8.8 | Static libraries for libhyphen | https://github.com/hunspell/hyphen |
 | **libical** | 3.0.18-2 | Libical is an Open Source implementation of the iCalendar protocols and protocol data units | https://libical.github.io/libical/ |
-| **libice** | 1.1.1 | X11 Inter-Client Exchange library | https://xorg.freedesktop.org/ |
+| **libice** | 1.1.2 | X11 Inter-Client Exchange library | https://xorg.freedesktop.org/ |
 | **libice-static** | 1.1.1 | Static libraries for libice | https://xorg.freedesktop.org/ |
 | **libiconv** | 1.17 | An implementation of iconv() | https://www.gnu.org/software/libiconv/ |
 | **libiconv-static** | 1.17 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
@@ -1327,7 +1327,7 @@
 | **libsixel** | 1.10.3-2 | Encoder/decoder implementation for DEC SIXEL graphics | https://saitoha.github.io/libsixel/ |
 | **libsixel-static** | 1.10.3-2 | Static libraries for libsixel | https://saitoha.github.io/libsixel/ |
 | **libslirp** | 4.8.0-1 | A general purpose TCP-IP emulator | https://gitlab.freedesktop.org/slirp/libslirp |
-| **libsm** | 1.2.4-1 | X11 Session Management library | https://xorg.freedesktop.org/ |
+| **libsm** | 1.2.5 | X11 Session Management library | https://xorg.freedesktop.org/ |
 | **libsm-static** | 1.2.4-1 | Static libraries for libsm | https://xorg.freedesktop.org/ |
 | **libsmartcols** | 2.40.2-2 | Library for smart adaptive formatting of tabular data | https://en.wikipedia.org/wiki/Util-linux |
 | **libsnappy** | 1.1.10 | A compression/decompression library | https://github.com/google/snappy |
@@ -1460,7 +1460,7 @@
 | **libwavpack-static** | 5.7.0 | Static libraries for libwavpack | https://www.wavpack.com/ |
 | **libwayland** | 1.23.1-1 | Wayland protocol library | https://wayland.freedesktop.org/ |
 | **libwayland-cross-scanner** | 1.23.1-1 | wayland-scanner for host (NOT for Termux) | https://wayland.freedesktop.org/ |
-| **libwayland-protocols** | 1.36 | Wayland protocols library | https://wayland.freedesktop.org/ |
+| **libwayland-protocols** | 1.38 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.4.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebp-static** | 1.4.0-rc1-0 | Static libraries for libwebp | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 1.3-1 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |

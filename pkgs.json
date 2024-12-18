@@ -1015,7 +1015,7 @@
   },
   {
     "Package": "busybox",
-    "Version": "1.36.1-2",
+    "Version": "1.36.1-3",
     "Description": "Tiny versions of many common UNIX utilities into a single small executable",
     "Homepage": "https://busybox.net/"
   },
@@ -6253,7 +6253,7 @@
   },
   {
     "Package": "libice",
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "Description": "X11 Inter-Client Exchange library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -7903,7 +7903,7 @@
   },
   {
     "Package": "libsm",
-    "Version": "1.2.4-1",
+    "Version": "1.2.5",
     "Description": "X11 Session Management library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -8701,7 +8701,7 @@
   },
   {
     "Package": "libwayland-protocols",
-    "Version": "1.36",
+    "Version": "1.38",
     "Description": "Wayland protocols library",
     "Homepage": "https://wayland.freedesktop.org/"
   },
