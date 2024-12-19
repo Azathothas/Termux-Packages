@@ -8827,7 +8827,7 @@
   },
   {
     "Package": "libxau",
-    "Version": "1.0.11",
+    "Version": "1.0.12",
     "Description": "X11 authorisation library",
     "Homepage": "https://xorg.freedesktop.org/"
   },

@@ -1481,7 +1481,7 @@
 | **libx265-static** | 4.1 | Static libraries for libx265 | http://x265.org/ |
 | **libxapian** | 1.4.27 | Xapian search engine library | https://xapian.org |
 | **libxapian-static** | 1.4.27 | Static libraries for libxapian | https://xapian.org |
-| **libxau** | 1.0.11 | X11 authorisation library | https://xorg.freedesktop.org/ |
+| **libxau** | 1.0.12 | X11 authorisation library | https://xorg.freedesktop.org/ |
 | **libxau-static** | 1.0.11 | Static libraries for libxau | https://xorg.freedesktop.org/ |
 | **libxcb** | 1.17.0 | X11 client-side library | https://xcb.freedesktop.org/ |
 | **libxcb-static** | 1.17.0 | Static libraries for libxcb | https://xcb.freedesktop.org/ |
