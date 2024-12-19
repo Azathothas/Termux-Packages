@@ -2770,6 +2770,10 @@
   Version: 0.6.0
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
+- Package: hwdata
+  Version: "0.390"
+  Description: Database of hardware identification and configuration data
+  Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
   Version: 0.2.29
   Description: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
@@ -3742,6 +3746,10 @@
   Version: 1:6.0.2
   Description: The libdispatch project, for concurrency on multicore hardware
   Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
+- Package: libdisplay-info
+  Version: 0.2.0
+  Description: EDID and DisplayID library
+  Homepage: https://emersion.pages.freedesktop.org/libdisplay-info/
 - Package: libdmtx
   Version: 0.7.7
   Description: A software library that enables programs to read and write Data Matrix barcodes
