@@ -6015,7 +6015,7 @@
   Description: Static libraries for libxrandr
   Homepage: https://xorg.freedesktop.org/
 - Package: libxrender
-  Version: 0.9.11
+  Version: 0.9.12
   Description: X Rendering Extension client library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxrender-static
@@ -6023,7 +6023,7 @@
   Description: Static libraries for libxrender
   Homepage: https://xorg.freedesktop.org/
 - Package: libxshmfence
-  Version: 1.3.2-1
+  Version: 1.3.3
   Description: A library that exposes a event API on top of Linux futexes
   Homepage: https://xorg.freedesktop.org/
 - Package: libxshmfence-static

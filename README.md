@@ -1514,9 +1514,9 @@
 | **libxmlrpc-static** | 1.59.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
 | **libxrandr** | 1.5.4 | X11 RandR extension library | https://xorg.freedesktop.org/ |
 | **libxrandr-static** | 1.5.4 | Static libraries for libxrandr | https://xorg.freedesktop.org/ |
-| **libxrender** | 0.9.11 | X Rendering Extension client library | https://xorg.freedesktop.org/ |
+| **libxrender** | 0.9.12 | X Rendering Extension client library | https://xorg.freedesktop.org/ |
 | **libxrender-static** | 0.9.11 | Static libraries for libxrender | https://xorg.freedesktop.org/ |
-| **libxshmfence** | 1.3.2-1 | A library that exposes a event API on top of Linux futexes | https://xorg.freedesktop.org/ |
+| **libxshmfence** | 1.3.3 | A library that exposes a event API on top of Linux futexes | https://xorg.freedesktop.org/ |
 | **libxshmfence-static** | 1.3.2-1 | Static libraries for libxshmfence | https://xorg.freedesktop.org/ |
 | **libxslt** | 1.1.42-1 | XSLT processing library | http://xmlsoft.org/libxslt/ |
 | **libxslt-static** | 1.1.39 | Static libraries for libxslt | http://xmlsoft.org/libxslt/ |
