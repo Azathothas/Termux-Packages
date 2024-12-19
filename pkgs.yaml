@@ -4759,11 +4759,11 @@
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
-  Version: 1.6.0
+  Version: 1.7.0
   Description: HTTP/3 library written in C
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libnghttp3-static
-  Version: 1.6.0
+  Version: 1.7.0
   Description: Static libraries for libnghttp3
   Homepage: https://nghttp2.org/nghttp3/
 - Package: libnl
@@ -7795,7 +7795,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.23.10
+  Version: 0.23.11
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8427,11 +8427,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.41.0
+  Version: 1.41.1
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.41.0
+  Version: 1.41.1
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recoll-static
@@ -10395,7 +10395,7 @@
   Description: A command-line tool for converting XLS to CSV
   Homepage: https://github.com/libxls/libxls
 - Package: xmake
-  Version: 2.9.6
+  Version: 2.9.7
   Description: A cross-platform build utility based on Lua
   Homepage: https://xmake.io/
 - Package: xmlsec
