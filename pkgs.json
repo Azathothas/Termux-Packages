@@ -1411,7 +1411,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2024.12.1",
+    "Version": "2024.12.2",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "Package": "elixir",
-    "Version": "1.17.3",
+    "Version": "1.18.0",
     "Description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications",
     "Homepage": "https://elixir-lang.org/"
   },
@@ -3559,7 +3559,7 @@
   },
   {
     "Package": "goose",
-    "Version": "3.23.1",
+    "Version": "3.24.0",
     "Description": "A database migration tool. Supports SQL migrations and Go functions.",
     "Homepage": "https://pressly.github.io/goose"
   },
@@ -9097,7 +9097,7 @@
   },
   {
     "Package": "libxv",
-    "Version": "1.0.12",
+    "Version": "1.0.13",
     "Description": "Library for the X Video (Xv) extension to the X Window System",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -9109,7 +9109,7 @@
   },
   {
     "Package": "libxxf86vm",
-    "Version": "1.1.5-1",
+    "Version": "1.1.6",
     "Description": "X11 XFree86 video mode extension library",
     "Homepage": "https://xorg.freedesktop.org/"
   },
@@ -9997,7 +9997,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.12.13.22.19.12",
+    "Version": "2024.12.18.13.15.44",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -10795,7 +10795,7 @@
   },
   {
     "Package": "o-editor",
-    "Version": "2.68.5",
+    "Version": "2.68.6",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://github.com/xyproto/o"
   },
@@ -12937,7 +12937,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.8.3",
+    "Version": "0.8.4",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14047,7 +14047,7 @@
   },
   {
     "Package": "taskwarrior",
-    "Version": "3.2.0",
+    "Version": "3.3.0",
     "Description": "Utility for managing your TODO list",
     "Homepage": "https://taskwarrior.org"
   },
@@ -15223,7 +15223,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.57",
+    "Version": "0.9.99.58",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },

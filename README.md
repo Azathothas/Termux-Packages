@@ -245,7 +245,7 @@
 | **clinfo** | 3.0.23.01.25 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2024.12.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2024.12.2 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20241207.014703 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 3.31.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -397,7 +397,7 @@
 | **electrum** | 4.5.8 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.191 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.17.1.1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
-| **elixir** | 1.17.3 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
+| **elixir** | 1.18.0 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.4-2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
@@ -603,7 +603,7 @@
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
 | **google-glog** | 0.7.1 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.15.2 | Google C++ testing framework | https://github.com/google/googletest |
-| **goose** | 3.23.1 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
+| **goose** | 3.24.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.15.15 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.17.0 | The official Go language server | https://github.com/golang/tools |
@@ -1526,9 +1526,9 @@
 | **libxt-static** | 1.3.1 | Static libraries for libxt | https://xorg.freedesktop.org/ |
 | **libxtst** | 1.2.5 | Xlib-based library for XTEST & RECORD extensions | https://xorg.freedesktop.org/ |
 | **libxtst-static** | 1.2.5 | Static libraries for libxtst | https://xorg.freedesktop.org/ |
-| **libxv** | 1.0.12 | Library for the X Video (Xv) extension to the X Window System | https://xorg.freedesktop.org/ |
+| **libxv** | 1.0.13 | Library for the X Video (Xv) extension to the X Window System | https://xorg.freedesktop.org/ |
 | **libxv-static** | 1.0.12 | Static libraries for libxv | https://xorg.freedesktop.org/ |
-| **libxxf86vm** | 1.1.5-1 | X11 XFree86 video mode extension library | https://xorg.freedesktop.org/ |
+| **libxxf86vm** | 1.1.6 | X11 XFree86 video mode extension library | https://xorg.freedesktop.org/ |
 | **libxxf86vm-static** | 1.1.5-1 | Static libraries for libxxf86vm | https://xorg.freedesktop.org/ |
 | **libyaml** | 0.2.5-4 | LibYAML is a YAML 1.1 parser and emitter written in C | https://pyyaml.org/wiki/LibYAML |
 | **libyaml-cpp** | 0.8.0 | A YAML parser and emitter in C++ matching the YAML 1.2 spec | https://github.com/jbeder/yaml-cpp |
@@ -1676,7 +1676,7 @@
 | **minidlna** | 1.3.3-2 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.2.3 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.12.13.22.19.12 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2024.12.18.13.15.44 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.28.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.8-1 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -1809,7 +1809,7 @@
 | **nwipe** | 0.37-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
-| **o-editor** | 2.68.5 | Small, fast and limited text editor | https://github.com/xyproto/o |
+| **o-editor** | 2.68.6 | Small, fast and limited text editor | https://github.com/xyproto/o |
 | **oathtool** | 2.6.11 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.11 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
 | **obfs4proxy** | 0.0.14-3 | A pluggable transport plugin for Tor | https://github.com/Yawning/obfs4 |
@@ -2166,7 +2166,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.6 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.6 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.8.3 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.8.4 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2351,7 +2351,7 @@
 | **tar** | 1.35 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
 | **task-spooler** | 1:1.0.3 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
 | **tasksh** | 1.2.0-9 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
-| **taskwarrior** | 3.2.0 | Utility for managing your TODO list | https://taskwarrior.org |
+| **taskwarrior** | 3.3.0 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
 | **tcl** | 8.6.14 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
@@ -2547,7 +2547,7 @@
 | **vlc-static** | 3.0.21-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.57 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.58 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241204 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.303 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |

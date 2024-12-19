@@ -939,7 +939,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2024.12.1
+  Version: 2024.12.2
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -1547,7 +1547,7 @@
   Description: Full-Featured Text WWW Browser
   Homepage: https://github.com/rkd77/elinks
 - Package: elixir
-  Version: 1.17.3
+  Version: 1.18.0
   Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
   Homepage: https://elixir-lang.org/
 - Package: eltclsh
@@ -2371,7 +2371,7 @@
   Description: Google C++ testing framework
   Homepage: https://github.com/google/googletest
 - Package: goose
-  Version: 3.23.1
+  Version: 3.24.0
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
@@ -6063,7 +6063,7 @@
   Description: Static libraries for libxtst
   Homepage: https://xorg.freedesktop.org/
 - Package: libxv
-  Version: 1.0.12
+  Version: 1.0.13
   Description: Library for the X Video (Xv) extension to the X Window System
   Homepage: https://xorg.freedesktop.org/
 - Package: libxv-static
@@ -6071,7 +6071,7 @@
   Description: Static libraries for libxv
   Homepage: https://xorg.freedesktop.org/
 - Package: libxxf86vm
-  Version: 1.1.5-1
+  Version: 1.1.6
   Description: X11 XFree86 video mode extension library
   Homepage: https://xorg.freedesktop.org/
 - Package: libxxf86vm-static
@@ -6663,7 +6663,7 @@
   Description: General-purpose software audio FSK modem
   Homepage: http://www.whence.com/minimodem/
 - Package: minio
-  Version: 2024.12.13.22.19.12
+  Version: 2024.12.18.13.15.44
   Description: Multi-Cloud Object Storage
   Homepage: https://min.io/
 - Package: miniserve
@@ -7195,7 +7195,7 @@
   Description: The most efficient usenet downloader
   Homepage: https://nzbget.net/
 - Package: o-editor
-  Version: 2.68.5
+  Version: 2.68.6
   Description: Small, fast and limited text editor
   Homepage: https://github.com/xyproto/o
 - Package: oathtool
@@ -8623,7 +8623,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.8.3
+  Version: 0.8.4
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9363,7 +9363,7 @@
   Description: Shell command wrapping Taskwarrior commands
   Homepage: https://taskwarrior.org
 - Package: taskwarrior
-  Version: 3.2.0
+  Version: 3.3.0
   Description: Utility for managing your TODO list
   Homepage: https://taskwarrior.org
 - Package: tcc
@@ -10147,7 +10147,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 0.9.99.57
+  Version: 0.9.99.58
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
