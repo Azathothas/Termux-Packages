@@ -486,7 +486,7 @@
 | **frogcomposband** | 7.1.salmiak-1 | Open world Angband variant with many additions | https://github.com/sulkasormi/frogcomposband/ |
 | **frotz** | 2.54-1 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
 | **frp** | 0.61.1 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
-| **fselect** | 0.8.6 | Find files with SQL-like queries | https://fselect.rocks/ |
+| **fselect** | 0.8.7 | Find files with SQL-like queries | https://fselect.rocks/ |
 | **fsmon** | 1.8.6 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
