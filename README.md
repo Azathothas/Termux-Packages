@@ -486,7 +486,7 @@
 | **frogcomposband** | 7.1.salmiak-1 | Open world Angband variant with many additions | https://github.com/sulkasormi/frogcomposband/ |
 | **frotz** | 2.54-1 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
 | **frp** | 0.61.1 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
-| **fselect** | 0.8.7 | Find files with SQL-like queries | https://fselect.rocks/ |
+| **fselect** | 0.8.8 | Find files with SQL-like queries | https://fselect.rocks/ |
 | **fsmon** | 1.8.6 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
@@ -1819,7 +1819,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 24.16.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 24.16.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2547,7 +2547,7 @@
 | **vlc-static** | 3.0.21-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.58 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.60 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241204 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.303 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
