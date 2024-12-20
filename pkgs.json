@@ -2407,7 +2407,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.24.0",
+    "Version": "0.24.1",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -9427,7 +9427,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.13.4",
+    "Version": "3.13.5",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -10519,7 +10519,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.13",
+    "Version": "0.8.14",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -11977,7 +11977,7 @@
   },
   {
     "Package": "pv",
-    "Version": "1.9.15",
+    "Version": "1.9.24",
     "Description": "Terminal-based tool for monitoring the progress of data through a pipeline",
     "Homepage": "https://www.ivarch.com/programs/pv.shtml"
   },
@@ -15013,7 +15013,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.10",
+    "Version": "0.5.11",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15247,7 +15247,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.303",
+    "Version": "1.4.304",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
