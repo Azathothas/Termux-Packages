@@ -411,7 +411,7 @@
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.6 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
 | **erlang** | 27.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **esbuild** | 0.24.1 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.24.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.51-2 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.51-2 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.9-2 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
@@ -531,7 +531,7 @@
 | **gflags** | 2.2.2-9 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-9 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-1 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.63.2 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.64.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.2.5-1 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghc-libs** | 9.2.5-1 | The Glasgow Haskell Compiler libraries | https://www.haskell.org/ghc/ |
 | **ghc-libs-static** | 8.10.7-3 | Static libraries for ghc-libs | https://www.haskell.org/ghc/ |
@@ -606,7 +606,7 @@
 | **goose** | 3.24.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.15.15 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
-| **gopls** | 0.17.0 | The official Go language server | https://github.com/golang/tools |
+| **gopls** | 0.17.1 | The official Go language server | https://github.com/golang/tools |
 | **gotop** | 4.2.0-3 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotty** | 1.5.0-3 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
 | **gpac** | 2.4.0-1 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
@@ -1194,7 +1194,7 @@
 | **libnewt-static** | 0.52.24 | Static libraries for libnewt | https://pagure.io/newt |
 | **libnfc** | 1.8.0-1 | Free/Libre Near Field Communication (NFC) library | https://github.com/nfc-tools/libnfc |
 | **libnfc-static** | 1.8.0-1 | Static libraries for libnfc | https://github.com/nfc-tools/libnfc |
-| **libnfs** | 6.0.0 | NFS client library | https://github.com/sahlberg/libnfs |
+| **libnfs** | 6.0.2 | NFS client library | https://github.com/sahlberg/libnfs |
 | **libnfs-static** | 5.0.3 | Static libraries for libnfs | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.2.8 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.2.8 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
@@ -2019,7 +2019,7 @@
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.12.8 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.47.2.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
-| **python-apt** | 2.9.4 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
+| **python-apt** | 2.9.5 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.2.1 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-contourpy** | 1.3.1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-cryptography** | 42.0.8-1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
@@ -2188,7 +2188,7 @@
 | **rustscan** | 2.3.0 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 4.4.0 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 4.4.1 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **salty-chat** | 0.0.22-4 | A secure, easy, self-hosted messaging | https://salty.im/ |
 | **samba** | 4.16.11-2 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
@@ -2241,7 +2241,7 @@
 | **simh** | 1:3.12.5 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-1 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.10.3 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.10.4 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 1.0.0-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-1 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
@@ -2271,7 +2271,7 @@
 | **spatialite-tools** | 5.0.1-3 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
 | **speechd** | 0.11.5-1 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
 | **speechd-data** | 0.11.5-1 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
-| **speedtest-go** | 1.7.9 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
+| **speedtest-go** | 1.7.10 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
 | **speex-utils** | 1.2.1 | Speex command line tools | https://www.speex.org/ |
 | **speexdsp** | 1.2.1 | Speex audio processing library | https://speex.org/ |
 | **speexdsp-static** | 1.2.1 | Static libraries for speexdsp | https://speex.org/ |
@@ -2635,7 +2635,7 @@
 | **yarn** | 1.22.22 | Fast, reliable, and secure dependency management | https://classic.yarnpkg.com/lang/en/ |
 | **yasm** | 1.3.0-6 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-6 | Static libraries for yasm | https://yasm.tortall.net/ |
-| **yazi** | 0.4.1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
+| **yazi** | 0.4.2 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.48 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.1 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.44.6 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |

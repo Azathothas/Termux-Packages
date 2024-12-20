@@ -2407,7 +2407,7 @@
   },
   {
     "Package": "esbuild",
-    "Version": "0.24.1",
+    "Version": "0.24.2",
     "Description": "An extremely fast JavaScript bundler",
     "Homepage": "https://esbuild.github.io/"
   },
@@ -3127,7 +3127,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.63.2",
+    "Version": "2.64.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -3577,7 +3577,7 @@
   },
   {
     "Package": "gopls",
-    "Version": "0.17.0",
+    "Version": "0.17.1",
     "Description": "The official Go language server",
     "Homepage": "https://github.com/golang/tools"
   },
@@ -7105,7 +7105,7 @@
   },
   {
     "Package": "libnfs",
-    "Version": "6.0.0",
+    "Version": "6.0.2",
     "Description": "NFS client library",
     "Homepage": "https://github.com/sahlberg/libnfs"
   },
@@ -12055,7 +12055,7 @@
   },
   {
     "Package": "python-apt",
-    "Version": "2.9.4",
+    "Version": "2.9.5",
     "Description": "Python bindings for APT",
     "Homepage": "https://apt-team.pages.debian.net/python-apt/"
   },
@@ -13069,7 +13069,7 @@
   },
   {
     "Package": "sabnzbd",
-    "Version": "4.4.0",
+    "Version": "4.4.1",
     "Description": "Fully automated Usenet Binary Downloader",
     "Homepage": "https://sabnzbd.org/"
   },
@@ -13387,7 +13387,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.10.3",
+    "Version": "1.10.4",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -13567,7 +13567,7 @@
   },
   {
     "Package": "speedtest-go",
-    "Version": "1.7.9",
+    "Version": "1.7.10",
     "Description": "Command line interface to test internet speed using speedtest.net",
     "Homepage": "https://github.com/showwin/speedtest-go/"
   },
@@ -15751,7 +15751,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "0.4.1",
+    "Version": "0.4.2",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },

@@ -1603,7 +1603,7 @@
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: esbuild
-  Version: 0.24.1
+  Version: 0.24.2
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
@@ -2083,7 +2083,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.63.2
+  Version: 2.64.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -2383,7 +2383,7 @@
   Description: University of Minnesota gopher
   Homepage: gopher://gopher.quux.org/1/devel/gopher
 - Package: gopls
-  Version: 0.17.0
+  Version: 0.17.1
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: gotop
@@ -4735,7 +4735,7 @@
   Description: Static libraries for libnfc
   Homepage: https://github.com/nfc-tools/libnfc
 - Package: libnfs
-  Version: 6.0.0
+  Version: 6.0.2
   Description: NFS client library
   Homepage: https://github.com/sahlberg/libnfs
 - Package: libnfs-static
@@ -8035,7 +8035,7 @@
   Description: Another Python SQLite Wrapper
   Homepage: https://github.com/rogerbinns/apsw/
 - Package: python-apt
-  Version: 2.9.4
+  Version: 2.9.5
   Description: Python bindings for APT
   Homepage: https://apt-team.pages.debian.net/python-apt/
 - Package: python-bcrypt
@@ -8711,7 +8711,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 4.4.0
+  Version: 4.4.1
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: salty-chat
@@ -8923,7 +8923,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.10.3
+  Version: 1.10.4
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -9043,7 +9043,7 @@
   Description: Platform-independent data for speechd
   Homepage: https://github.com/brailcom/speechd
 - Package: speedtest-go
-  Version: 1.7.9
+  Version: 1.7.10
   Description: Command line interface to test internet speed using speedtest.net
   Homepage: https://github.com/showwin/speedtest-go/
 - Package: speex-utils
@@ -10499,7 +10499,7 @@
   Description: Static libraries for yasm
   Homepage: https://yasm.tortall.net/
 - Package: yazi
-  Version: 0.4.1
+  Version: 0.4.2
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
