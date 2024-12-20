@@ -1003,7 +1003,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.47.2",
+    "Version": "1.48.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1429,13 +1429,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "3.31.2",
+    "Version": "3.31.3",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "3.31.2",
+    "Version": "3.31.3",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -1591,7 +1591,7 @@
   },
   {
     "Package": "cppcheck",
-    "Version": "2.16.1",
+    "Version": "2.16.2",
     "Description": "tool for static C/C++ code analysis",
     "Homepage": "https://github.com/danmar/cppcheck"
   },
@@ -10855,7 +10855,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.15.1",
+    "Version": "24.16.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14131,7 +14131,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "17.0.5",
+    "Version": "17.1.0",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
