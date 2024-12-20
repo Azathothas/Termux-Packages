@@ -2401,7 +2401,7 @@
   },
   {
     "Package": "erlang",
-    "Version": "27.1.2",
+    "Version": "27.2",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
@@ -7105,7 +7105,7 @@
   },
   {
     "Package": "libnfs",
-    "Version": "5.0.3",
+    "Version": "6.0.0",
     "Description": "NFS client library",
     "Homepage": "https://github.com/sahlberg/libnfs"
   },

@@ -398,7 +398,7 @@
  enchant-static  2.8.2-1  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
  enscript  1.6.6-12  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
  entr  5.6  Event Notify Test Runner - run arbitrary commands when files change  http://eradman.com/entrproject/ 
- erlang  27.1.2  General-purpose concurrent functional programming language  https://www.erlang.org/ 
+ erlang  27.2  General-purpose concurrent functional programming language  https://www.erlang.org/ 
  esbuild  0.24.1  An extremely fast JavaScript bundler  https://esbuild.github.io/ 
  espeak  1.51-2  Compact software speech synthesizer  https://github.com/espeak-ng/espeak-ng 
  espeak-static  1.51-2  Static libraries for espeak  https://github.com/espeak-ng/espeak-ng 
@@ -1182,7 +1182,7 @@
  libnewt-static  0.52.24  Static libraries for libnewt  https://pagure.io/newt 
  libnfc  1.8.0-1  Free/Libre Near Field Communication (NFC) library  https://github.com/nfc-tools/libnfc 
  libnfc-static  1.8.0-1  Static libraries for libnfc  https://github.com/nfc-tools/libnfc 
- libnfs  5.0.3  NFS client library  https://github.com/sahlberg/libnfs 
+ libnfs  6.0.0  NFS client library  https://github.com/sahlberg/libnfs 
  libnfs-static  5.0.3  Static libraries for libnfs  https://github.com/sahlberg/libnfs 
  libnftnl  1.2.8  Netfilter library providing interface to the nf_tables subsystem  https://www.netfilter.org/projects/libnftnl/ 
  libnftnl-static  1.2.8  Static libraries for libnftnl  https://www.netfilter.org/projects/libnftnl/ 
