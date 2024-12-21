@@ -2413,13 +2413,13 @@
   },
   {
     "Package": "espeak",
-    "Version": "1.51-2",
+    "Version": "1.52.0",
     "Description": "Compact software speech synthesizer",
     "Homepage": "https://github.com/espeak-ng/espeak-ng"
   },
   {
     "Package": "espeak-static",
-    "Version": "1.51-2",
+    "Version": "1.52.0",
     "Description": "Static libraries for espeak",
     "Homepage": "https://github.com/espeak-ng/espeak-ng"
   },
@@ -10375,7 +10375,7 @@
   },
   {
     "Package": "nano",
-    "Version": "8.2",
+    "Version": "8.3",
     "Description": "Small, free and friendly text editor",
     "Homepage": "https://www.nano-editor.org/"
   },
@@ -10543,7 +10543,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.10.2-4",
+    "Version": "0.10.3",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -12799,7 +12799,7 @@
   },
   {
     "Package": "rizin",
-    "Version": "0.7.3-2",
+    "Version": "0.7.4",
     "Description": "UNIX-like reverse engineering framework and command-line toolset.",
     "Homepage": "https://rizin.re"
   },
@@ -13393,7 +13393,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.10.4",
+    "Version": "1.10.5",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },

@@ -1607,11 +1607,11 @@
   Description: An extremely fast JavaScript bundler
   Homepage: https://esbuild.github.io/
 - Package: espeak
-  Version: 1.51-2
+  Version: 1.52.0
   Description: Compact software speech synthesizer
   Homepage: https://github.com/espeak-ng/espeak-ng
 - Package: espeak-static
-  Version: 1.51-2
+  Version: 1.52.0
   Description: Static libraries for espeak
   Homepage: https://github.com/espeak-ng/espeak-ng
 - Package: et
@@ -6915,7 +6915,7 @@
   Description: An offline tool for querying IP geographic information and CDN provider
   Homepage: https://github.com/zu1k/nali
 - Package: nano
-  Version: "8.2"
+  Version: "8.3"
   Description: Small, free and friendly text editor
   Homepage: https://www.nano-editor.org/
 - Package: nasm
@@ -7027,7 +7027,7 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.10.2-4
+  Version: 0.10.3
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8531,7 +8531,7 @@
   Description: A terminal IRC client in C
   Homepage: https://github.com/rcr/rirc
 - Package: rizin
-  Version: 0.7.3-2
+  Version: 0.7.4
   Description: UNIX-like reverse engineering framework and command-line toolset.
   Homepage: https://rizin.re
 - Package: rlwrap
@@ -8927,7 +8927,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.10.4
+  Version: 1.10.5
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
