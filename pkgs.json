@@ -1909,7 +1909,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.61.0",
+    "Version": "0.62.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -2485,13 +2485,13 @@
   },
   {
     "Package": "fakeroot",
-    "Version": "1.36",
+    "Version": "1.36.1",
     "Description": "Tool for simulating superuser privileges (with tcp ipc)",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
   {
     "Package": "fakeroot-static",
-    "Version": "1.36",
+    "Version": "1.36.1",
     "Description": "Static libraries for fakeroot",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
@@ -15277,7 +15277,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.303-1",
+    "Version": "1.4.304",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
