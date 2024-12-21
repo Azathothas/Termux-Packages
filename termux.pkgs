@@ -2553,7 +2553,7 @@
 | **wabt** | 1.0.36 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
 | **wakatime-cli** | 1.107.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.10.0 | A terminal file manager | https://github.com/antonmedv/walk |
-| **wasi-libc** | 24 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
+| **wasi-libc** | 25 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.11 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge-static** | 0.14.0 | Static libraries for wasmedge | https://wasmedge.org/ |
 | **watchexec** | 2.1.2 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |

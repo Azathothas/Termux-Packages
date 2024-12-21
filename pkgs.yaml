@@ -10219,7 +10219,7 @@
   Description: A terminal file manager
   Homepage: https://github.com/antonmedv/walk
 - Package: wasi-libc
-  Version: "24"
+  Version: "25"
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
