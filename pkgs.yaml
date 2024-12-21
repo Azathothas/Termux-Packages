@@ -1631,7 +1631,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.09"
+  Version: "13.10"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -2435,7 +2435,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:8.11.1
+  Version: "1:8.12"
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -5811,11 +5811,11 @@
   Description: Wayland protocols library
   Homepage: https://wayland.freedesktop.org/
 - Package: libwebp
-  Version: 1.4.0-rc1-0
+  Version: 1.5.0
   Description: Library to encode and decode images in WebP format
   Homepage: https://github.com/webmproject/libwebp
 - Package: libwebp-static
-  Version: 1.4.0-rc1-0
+  Version: 1.5.0
   Description: Static libraries for libwebp
   Homepage: https://github.com/webmproject/libwebp
 - Package: libwebrtc-audio-processing
@@ -6655,7 +6655,7 @@
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
-  Version: 2.2.3
+  Version: 2.2.4
   Description: A minimalist and opinionated feed reader
   Homepage: https://miniflux.app/
 - Package: minimodem
@@ -9419,7 +9419,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 17.1.0
+  Version: 17.1.1
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -10175,7 +10175,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.303
+  Version: 1.4.304
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10183,7 +10183,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.303
+  Version: 1.4.304
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
@@ -10507,7 +10507,7 @@
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
-  Version: 2.10.1
+  Version: 2.10.2
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
