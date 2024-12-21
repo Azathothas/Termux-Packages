@@ -6731,17 +6731,17 @@
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: mono
-  Version: 6.12.0.199-1
-  Description: Cross platform, open source .NET framework
-  Homepage: https://www.mono-project.com/
+  Version: 6.12.0.206
+  Description: Framework Mono
+  Homepage: https://gitlab.winehq.org/mono/mono
 - Package: mono-libs
-  Version: 6.12.0.199-1
+  Version: 6.12.0.206
   Description: Platform-independent libraries for mono
-  Homepage: https://www.mono-project.com/
+  Homepage: https://gitlab.winehq.org/mono/mono
 - Package: mono-static
-  Version: 6.12.0.199-1
+  Version: 6.12.0.206
   Description: Static libraries for mono
-  Homepage: https://www.mono-project.com/
+  Homepage: https://gitlab.winehq.org/mono/mono
 - Package: monolith
   Version: 2.8.3-1
   Description: CLI tool for saving complete web pages as a single HTML file

@@ -1681,9 +1681,9 @@
 | **moar** | 1.30.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.35.1 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.3.4 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
-| **mono** | 6.12.0.199-1 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
-| **mono-libs** | 6.12.0.199-1 | Platform-independent libraries for mono | https://www.mono-project.com/ |
-| **mono-static** | 6.12.0.199-1 | Static libraries for mono | https://www.mono-project.com/ |
+| **mono** | 6.12.0.206 | Framework Mono | https://gitlab.winehq.org/mono/mono |
+| **mono-libs** | 6.12.0.206 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
+| **mono-static** | 6.12.0.206 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.8.3-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
 | **moreutils** | 0.70 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
