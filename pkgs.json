@@ -91,7 +91,7 @@
   },
   {
     "Package": "ack-grep",
-    "Version": "3.7.0",
+    "Version": "3.8.0",
     "Description": "Tool like grep optimized for programmers",
     "Homepage": "https://beyondgrep.com/"
   },
@@ -3433,7 +3433,7 @@
   },
   {
     "Package": "gnuplot",
-    "Version": "6.0.1",
+    "Version": "6.0.2",
     "Description": "Command-line driven graphing utility",
     "Homepage": "http://gnuplot.info/"
   },
@@ -11593,7 +11593,7 @@
   },
   {
     "Package": "pianobar",
-    "Version": "2022.04.01-2",
+    "Version": "2024.12.21",
     "Description": "pianobar is a free/open-source, console-based client for the personalized online radio Pandora.",
     "Homepage": "https://6xq.net/pianobar/"
   },
@@ -14269,7 +14269,7 @@
   },
   {
     "Package": "termux-tools",
-    "Version": "1.44.5",
+    "Version": "1.44.6",
     "Description": "Basic system tools for Termux",
     "Homepage": "https://termux.dev/"
   },
@@ -15229,7 +15229,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.60",
+    "Version": "0.9.99.61",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
