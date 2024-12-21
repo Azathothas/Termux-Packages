@@ -2536,7 +2536,7 @@
 | **viddy** | 1.3.0-1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.13 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.1.0900-1 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.1.0950 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.1.0-1 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.0.1-3 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.0.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2624,7 +2624,7 @@
 | **xtrans** | 1.5.2 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.1.0900-1 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.1.0950 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.2 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.2 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.6.3 | XZ-format compression tools | https://tukaani.org/xz/ |
