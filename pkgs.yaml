@@ -3211,7 +3211,7 @@
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
-  Version: 2.16-1
+  Version: "2.17"
   Description: An input filter for the pager less
   Homepage: http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html
 - Package: leveldb
@@ -3239,7 +3239,7 @@
   Description: Static libraries for lftp
   Homepage: https://lftp.tech/
 - Package: lgogdownloader
-  Version: 3.15-1
+  Version: "3.16"
   Description: Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader
   Homepage: https://sites.google.com/site/gogdownloader/
 - Package: lhasa
@@ -5347,7 +5347,7 @@
   Description: High quality, one-dimensional sample-rate conversion library
   Homepage: https://sourceforge.net/projects/soxr/
 - Package: libspatialindex
-  Version: 2.0.0
+  Version: 2.1.0
   Description: C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API
   Homepage: https://libspatialindex.github.io
 - Package: libspatialite
@@ -7239,7 +7239,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.16.1
+  Version: 24.17.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7799,7 +7799,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.23.11
+  Version: 0.23.12
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8883,7 +8883,7 @@
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
-  Version: 1.7.1
+  Version: 1.7.2
   Description: Simple bookmark manager built with Go
   Homepage: https://github.com/go-shiori/shiori
 - Package: shntool

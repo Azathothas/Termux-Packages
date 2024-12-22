@@ -801,14 +801,14 @@
 | **leptonica** | 1.85.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.85.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 668 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
-| **lesspipe** | 2.16-1 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
+| **lesspipe** | 2.17 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-3 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.4.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-4 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
 | **lf** | 33 | Terminal file manager | https://github.com/gokcehan/lf |
 | **lftp** | 4.9.2-6 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-6 | Static libraries for lftp | https://lftp.tech/ |
-| **lgogdownloader** | 3.15-1 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
+| **lgogdownloader** | 3.16 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
 | **lhasa** | 0.4.0 | LHA compressor/decompressor | https://fragglet.github.io/lhasa/ |
 | **lhasa-static** | 0.4.0 | Static libraries for lhasa | https://fragglet.github.io/lhasa/ |
 | **liba52** | 0.8.0-1 | A free library for decoding ATSC A/52 streams | http://liba52.sourceforge.net/ |
@@ -1335,7 +1335,7 @@
 | **libsoup** | 2.74.3-3 | HTTP client and server library | https://wiki.gnome.org/action/show/Projects/libsoup |
 | **libsoup3** | 3.6.1 | HTTP client and server library | https://libsoup.gnome.org/libsoup-3.0/ |
 | **libsoxr** | 0.1.3-7 | High quality, one-dimensional sample-rate conversion library | https://sourceforge.net/projects/soxr/ |
-| **libspatialindex** | 2.0.0 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
+| **libspatialindex** | 2.1.0 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
 | **libspatialite** | 5.1.0 | SQLite extension to support spatial data types and operations | https://www.gaia-gis.it/fossil/libspatialite |
 | **libspatialite-static** | 5.1.0 | Static libraries for libspatialite | https://www.gaia-gis.it/fossil/libspatialite |
 | **libspdlog** | 1.15.0 | Very fast, header-only/compiled, C++ logging library | https://github.com/gabime/spdlog |
@@ -1808,7 +1808,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 24.16.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 24.17.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -1948,7 +1948,7 @@
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.23.11 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.23.12 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.2 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.2 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2219,7 +2219,7 @@
 | **shellharden** | 4.3.1 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
 | **shfmt** | 3.10.0 | A shell parser and formatter | https://github.com/mvdan/sh |
-| **shiori** | 1.7.1 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
+| **shiori** | 1.7.2 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
 | **signify** | 32 | Lightweight cryptographic signing and verifying tool | https://github.com/aperezdc/signify |
