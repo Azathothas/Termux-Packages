@@ -747,7 +747,7 @@
   Description: Sync calcurse with remote caldav calendar
   Homepage: https://calcurse.org/
 - Package: capnproto
-  Version: 1.0.2
+  Version: 1.1.0
   Description: Data interchange format and capability-based RPC system
   Homepage: https://capnproto.org/
 - Package: capstone
@@ -1655,11 +1655,11 @@
   Description: Re-implementation of the well-known FaCT Description Logic (DL) Reasoner
   Homepage: https://bitbucket.org/dtsarkov/factplusplus
 - Package: fakeroot
-  Version: 1.36.1
+  Version: 1.36.2
   Description: Tool for simulating superuser privileges (with tcp ipc)
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fakeroot-static
-  Version: 1.36.1
+  Version: 1.36.2
   Description: Static libraries for fakeroot
   Homepage: https://packages.qa.debian.org/f/fakeroot.html
 - Package: fasd
@@ -8083,11 +8083,11 @@
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
-  Version: 2.2.0
+  Version: 2.2.1
   Description: The fundamental package for scientific computing with Python
   Homepage: https://numpy.org/
 - Package: python-numpy-static
-  Version: 2.2.0
+  Version: 2.2.1
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
@@ -8763,7 +8763,7 @@
   Description: Small man page generator
   Homepage: https://git.sr.ht/~sircmpwn/scdoc
 - Package: screen
-  Version: 4.9.1
+  Version: 5.0.0
   Description: Terminal multiplexer with VT100/ANSI terminal emulation
   Homepage: https://www.gnu.org/software/screen/
 - Package: screenfetch

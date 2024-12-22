@@ -1123,7 +1123,7 @@
   },
   {
     "Package": "capnproto",
-    "Version": "1.0.2",
+    "Version": "1.1.0",
     "Description": "Data interchange format and capability-based RPC system",
     "Homepage": "https://capnproto.org/"
   },
@@ -2485,13 +2485,13 @@
   },
   {
     "Package": "fakeroot",
-    "Version": "1.36.1",
+    "Version": "1.36.2",
     "Description": "Tool for simulating superuser privileges (with tcp ipc)",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
   {
     "Package": "fakeroot-static",
-    "Version": "1.36.1",
+    "Version": "1.36.2",
     "Description": "Static libraries for fakeroot",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
@@ -12127,13 +12127,13 @@
   },
   {
     "Package": "python-numpy",
-    "Version": "2.2.0",
+    "Version": "2.2.1",
     "Description": "The fundamental package for scientific computing with Python",
     "Homepage": "https://numpy.org/"
   },
   {
     "Package": "python-numpy-static",
-    "Version": "2.2.0",
+    "Version": "2.2.1",
     "Description": "Static libraries for python-numpy",
     "Homepage": "https://numpy.org/"
   },
@@ -13147,7 +13147,7 @@
   },
   {
     "Package": "screen",
-    "Version": "4.9.1",
+    "Version": "5.0.0",
     "Description": "Terminal multiplexer with VT100/ANSI terminal emulation",
     "Homepage": "https://www.gnu.org/software/screen/"
   },
