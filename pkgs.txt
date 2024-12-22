@@ -1732,7 +1732,7 @@
  natpmpc  20230423-1  Portable and fully compliant implementation of NAT-PMP  https://miniupnp.tuxfamily.org/libnatpmp.html 
  natpmpc-static  20230423-1  Static libraries for natpmpc  https://miniupnp.tuxfamily.org/libnatpmp.html 
  navi  2.23.0  An interactive cheatsheet tool for the command-line  https://github.com/denisidoro/navi 
- navidrome  0.53.3  🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic  https://www.navidrome.org/ 
+ navidrome  0.54.2  🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic  https://www.navidrome.org/ 
  ncdc  1.24.1  Modern and lightweight direct connect client with a friendly ncurses interface  https://dev.yorhel.nl/ncdc 
  ncdu  1.21  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
  ncdu2  2.7  Disk usage analyzer  https://dev.yorhel.nl/ncdu 

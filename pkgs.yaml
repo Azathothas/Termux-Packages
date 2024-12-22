@@ -6935,7 +6935,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.53.3
+  Version: 0.54.2
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
