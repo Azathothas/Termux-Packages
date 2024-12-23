@@ -2335,7 +2335,7 @@
   Description: Uniform machine readable API
   Homepage: https://gi.readthedocs.io/
 - Package: gogs
-  Version: 0.13.1
+  Version: 0.13.2
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: gojq
@@ -2731,7 +2731,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.140.0
+  Version: 0.140.1
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -4171,7 +4171,7 @@
   Description: Static libraries for libhyphen
   Homepage: https://github.com/hunspell/hyphen
 - Package: libical
-  Version: 3.0.18-2
+  Version: 3.0.19
   Description: Libical is an Open Source implementation of the iCalendar protocols and protocol data units
   Homepage: https://libical.github.io/libical/
 - Package: libice
