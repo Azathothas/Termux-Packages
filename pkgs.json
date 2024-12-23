@@ -10615,7 +10615,7 @@
   },
   {
     "Package": "newsboat",
-    "Version": "2.37",
+    "Version": "2.38",
     "Description": "RSS/Atom feed reader for the text console",
     "Homepage": "https://newsboat.org/"
   },
