@@ -9895,7 +9895,7 @@
   },
   {
     "Package": "memcached",
-    "Version": "1.6.33",
+    "Version": "1.6.34",
     "Description": "Free & open source, high-performance, distributed memory object caching system",
     "Homepage": "https://memcached.org/"
   },
@@ -11779,7 +11779,7 @@
   },
   {
     "Package": "postgis",
-    "Version": "3.5.0",
+    "Version": "3.5.1",
     "Description": "Spatial database extender for PostgreSQL object-relational database",
     "Homepage": "https://postgis.net"
   },
@@ -12973,7 +12973,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20241216",
+    "Version": "20241223",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },

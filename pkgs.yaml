@@ -6595,7 +6595,7 @@
   Description: Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
   Homepage: https://megatools.megous.com/
 - Package: memcached
-  Version: 1.6.33
+  Version: 1.6.34
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury
@@ -7851,7 +7851,7 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.5.0
+  Version: 3.5.1
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
@@ -8647,7 +8647,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20241216"
+  Version: "20241223"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen

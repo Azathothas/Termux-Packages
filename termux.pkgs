@@ -1647,7 +1647,7 @@
 | **mediamtx** | 1.10.0 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 1.7.0-3 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
-| **memcached** | 1.6.33 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
+| **memcached** | 1.6.34 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
 | **mesa** | 24.2.8 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
@@ -1961,7 +1961,7 @@
 | **portaudio-static** | 19.07.00-2 | Static libraries for portaudio | https://www.portaudio.com/ |
 | **portmidi** | 2.0.4 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
-| **postgis** | 3.5.0 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
+| **postgis** | 3.5.1 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
 | **postgresql** | 17.0-1 | Object-relational SQL database | https://www.postgresql.org |
 | **postgresql-static** | 17.0-1 | Static libraries for postgresql | https://www.postgresql.org |
 | **potrace** | 1.16-1 | Tool for transforming a bitmap into a smooth, scalable image | http://potrace.sourceforge.net |
@@ -2160,7 +2160,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.83.0-2 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20241216 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20241223 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.71.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.83.0-2 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.83.0-2 | Rust source code files | https://www.rust-lang.org/ |
