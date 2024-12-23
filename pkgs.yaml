@@ -2163,7 +2163,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.39.0-1
+  Version: 0.40.0
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -2335,7 +2335,7 @@
   Description: Uniform machine readable API
   Homepage: https://gi.readthedocs.io/
 - Package: gogs
-  Version: 0.13.0-2
+  Version: 0.13.1
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: gojq
@@ -2983,7 +2983,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.72.2
+  Version: 2.72.3
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -7183,7 +7183,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.100.0-1
+  Version: 0.101.0
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nwipe
@@ -7239,7 +7239,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.17.0
+  Version: 24.17.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -7987,7 +7987,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.9.24
+  Version: 1.9.25
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -8511,7 +8511,7 @@
   Description: A command-line deletion tool focused on safety, ergonomics, and performance
   Homepage: https://github.com/nivekuil/rip
 - Package: rip2
-  Version: 0.9.0
+  Version: 0.9.1
   Description: A safe and ergonomic alternative to rm
   Homepage: https://github.com/MilesCranmer/rip2
 - Package: ripgrep
