@@ -2483,7 +2483,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 14.1.1
+  Version: 14.1.2
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -4079,7 +4079,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.68.2
+  Version: 1.69.0
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -8063,7 +8063,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.68.2
+  Version: 1.69.0
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc

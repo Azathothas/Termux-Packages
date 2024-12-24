@@ -3727,7 +3727,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "14.1.1",
+    "Version": "14.1.2",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -6121,7 +6121,7 @@
   },
   {
     "Package": "libgrpc",
-    "Version": "1.68.2",
+    "Version": "1.69.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -12097,7 +12097,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.68.2",
+    "Version": "1.69.0",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },

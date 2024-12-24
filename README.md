@@ -631,7 +631,7 @@
 | **grex** | 1.4.5 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 14.1.1 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 14.1.2 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.16-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
@@ -1030,7 +1030,7 @@
 | **libgpg-error** | 1.50 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.50 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
-| **libgrpc** | 1.68.2 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **libgrpc** | 1.69.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.53 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
@@ -2026,7 +2026,7 @@
 | **python-cryptography** | 42.0.8-1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.8 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.1.1-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
-| **python-grpcio** | 1.68.2 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **python-grpcio** | 1.69.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-lxml** | 5.3.0-2 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
