@@ -1547,7 +1547,7 @@
   Description: Full-Featured Text WWW Browser
   Homepage: https://github.com/rkd77/elinks
 - Package: elixir
-  Version: 1.18.0
+  Version: 1.18.1
   Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
   Homepage: https://elixir-lang.org/
 - Package: eltclsh
@@ -2831,11 +2831,11 @@
   Description: A command line id3v2 tag editor
   Homepage: http://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.1.41
+  Version: 7.1.1.43
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.1.41
+  Version: 7.1.1.43
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath

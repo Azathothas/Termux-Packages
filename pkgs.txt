@@ -385,7 +385,7 @@
  electrum  4.5.8  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
  elfutils  0.191  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
  elinks  0.17.1.1  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
- elixir  1.18.0  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
+ elixir  1.18.1  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
  eltclsh  1.19-2  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
  elvish  0.21.0  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  29.4-2  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
@@ -706,8 +706,8 @@
  id3lib-static  3.8.3-3  Static libraries for id3lib  http://id3lib.sourceforge.net/ 
  id3ted  1.0-3  A comand line id3 tag editor  https://muennich.github.io/id3ted/ 
  id3v2  0.1.12-1  A command line id3v2 tag editor  http://id3v2.sourceforge.net/ 
- imagemagick  7.1.1.41  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
- imagemagick-static  7.1.1.41  Static libraries for imagemagick  https://www.imagemagick.org/ 
+ imagemagick  7.1.1.43  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
+ imagemagick-static  7.1.1.43  Static libraries for imagemagick  https://www.imagemagick.org/ 
  imath  3.1.12  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
  imgflo  0.4.2-8  HTTP image processing server & Flowhub.io compatible runtime  https://github.com/imgflo/imgflo 
  imlib2  1.12.3-1  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
