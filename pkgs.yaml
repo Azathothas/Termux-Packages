@@ -1799,11 +1799,11 @@
   Description: FLAC (Free Lossless Audio Codec) command-line tool
   Homepage: https://xiph.org/flac/
 - Package: flatbuffers
-  Version: 24.3.25
+  Version: 24.12.23
   Description: Memory Efficient Serialization Library
   Homepage: https://github.com/google/flatbuffers
 - Package: flatbuffers-static
-  Version: 24.3.25
+  Version: 24.12.23
   Description: Static libraries for flatbuffers
   Homepage: https://github.com/google/flatbuffers
 - Package: flex
@@ -7511,7 +7511,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20241122"
+  Version: "20241222"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
@@ -10163,7 +10163,7 @@
   Description: Utilities for testing and working with virtual terminals
   Homepage: https://github.com/fornwall/vtutils
 - Package: vulkan-extension-layer
-  Version: 1.4.303
+  Version: 1.4.304
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
