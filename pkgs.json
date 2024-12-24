@@ -11275,13 +11275,13 @@
   },
   {
     "Package": "pari",
-    "Version": "2.17.0",
+    "Version": "2.17.1",
     "Description": "A computer algebra system designed for fast computations in number theory",
     "Homepage": "https://pari.math.u-bordeaux.fr/"
   },
   {
     "Package": "pari-static",
-    "Version": "2.17.0",
+    "Version": "2.17.1",
     "Description": "Static libraries for pari",
     "Homepage": "https://pari.math.u-bordeaux.fr/"
   },
@@ -13195,7 +13195,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "2.5.1",
+    "Version": "2.5.2",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },

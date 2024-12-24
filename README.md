@@ -1889,8 +1889,8 @@
 | **paperkey** | 1.6 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 0.8.1-4 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
 | **parallel** | 20241222 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
-| **pari** | 2.17.0 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
-| **pari-static** | 2.17.0 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
+| **pari** | 2.17.1 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
+| **pari-static** | 2.17.1 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
 | **parted** | 3.6 | Versatile partition editor | https://www.gnu.org/software/parted/ |
 | **parted-static** | 3.6 | Static libraries for parted | https://www.gnu.org/software/parted/ |
 | **paruz** | 1.1.2 | A fzf terminal UI for paru or pacman | https://github.com/joehillen/paruz |
@@ -2209,7 +2209,7 @@
 | **sdcv** | 0.5.5 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **seafile-client** | 9.0.11 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.11 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 2.5.1 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 2.5.2 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-7 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-5 | Secure file, disk, swap, memory erasure utilities | http://www.thc.org/ |
 | **sed** | 4.9-1 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
