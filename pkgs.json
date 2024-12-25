@@ -12769,7 +12769,7 @@
   },
   {
     "Package": "rip2",
-    "Version": "0.9.1",
+    "Version": "0.9.2",
     "Description": "A safe and ergonomic alternative to rm",
     "Homepage": "https://github.com/MilesCranmer/rip2"
   },

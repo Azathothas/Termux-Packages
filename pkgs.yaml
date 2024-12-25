@@ -8511,7 +8511,7 @@
   Description: A command-line deletion tool focused on safety, ergonomics, and performance
   Homepage: https://github.com/nivekuil/rip
 - Package: rip2
-  Version: 0.9.1
+  Version: 0.9.2
   Description: A safe and ergonomic alternative to rm
   Homepage: https://github.com/MilesCranmer/rip2
 - Package: ripgrep
