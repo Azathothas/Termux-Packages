@@ -2135,7 +2135,7 @@
 | **restic** | 0.17.3 | Fast, secure, efficient backup program | https://restic.net/ |
 | **restic-server** | 0.13.0 | Restic's REST backend API server | https://restic.net/ |
 | **restish** | 0.20.0 | A CLI for interacting with REST-ish HTTP APIs | https://github.com/danielgtaylor/restish |
-| **rgbds** | 0.8.0 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
+| **rgbds** | 0.9.0 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
 | **rhash** | 1.4.5 | Console utility for calculation and verification of magnet links and a wide range of hash sums | https://github.com/rhash/RHash |
 | **rhash-static** | 1.4.5 | Static libraries for rhash | https://github.com/rhash/RHash |
 | **rig** | 1.11-1 | A program that generates fake identities | http://rig.sourceforge.net/ |
@@ -2298,7 +2298,7 @@
 | **ssdb** | 1.9.9-2 | A Redis compatible NoSQL database stored on disk | https://ssdb.io/ |
 | **ssdeep** | 2.14.1-1 | A program for computing context triggered piecewise hashes (CTPH) | https://ssdeep-project.github.io/ssdeep/ |
 | **ssdeep-static** | 2.14.1-1 | Static libraries for ssdeep | https://ssdeep-project.github.io/ssdeep/ |
-| **sse2neon** | 1.7.0-1 | A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics | https://github.com/DLTcollab/sse2neon |
+| **sse2neon** | 1.8.0 | A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics | https://github.com/DLTcollab/sse2neon |
 | **sshpass** | 1.10 | Noninteractive ssh password provider | https://sourceforge.net/projects/sshpass/ |
 | **sshping** | 0.1.4-2 | measure character-echo latency and bandwidth for an interactive ssh session | https://github.com/spook/sshping |
 | **sslscan** | 2.1.6 | Utility to discover supported cipher suites on SSL/TLS enabled servers | https://github.com/rbsec/sslscan |
@@ -2523,7 +2523,7 @@
 | **valac-static** | 0.56.17 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.17 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.17 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.9.1 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.9.2 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-2 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
