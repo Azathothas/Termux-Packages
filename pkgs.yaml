@@ -2958,6 +2958,10 @@
   Version: 1.9.22
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
+- Package: janet
+  Version: 1.37.1
+  Description: Janet is a dialect of Lisp intended for embedding into programs and such
+  Homepage: https://janet-lang.org
 - Package: jbig2dec
   Version: "0.20"
   Description: Decoder implementation of the JBIG2 image compression format
@@ -4290,6 +4294,14 @@
   Version: 1.5.6.pl01
   Description: Static libraries for libisofs
   Homepage: https://dev.lovelyhq.com/libburnia
+- Package: libjanet
+  Version: 1.37.1
+  Description: Development library for Janet
+  Homepage: https://janet-lang.org
+- Package: libjanet-static
+  Version: 1.37.1
+  Description: Static libraries for libjanet
+  Homepage: https://janet-lang.org
 - Package: libjansi
   Version: 2.4.1
   Description: A small java library that allows you to use ANSI escape codes to format your console output
