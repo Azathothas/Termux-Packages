@@ -112,7 +112,7 @@
  barcode  0.99-4  Tool to convert text strings to printed bars  https://www.gnu.org/software/barcode/ 
  base16384  2.3.1  Encode binary to printable utf16be  https://github.com/fumiama/base16384 
  bash  5.2.37  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
- bash-completion  2.15.0  Programmable completion for the bash shell  https://github.com/scop/bash-completion 
+ bash-completion  2.16.0  Programmable completion for the bash shell  https://github.com/scop/bash-completion 
  bastet  0.43.2-10  Tetris clone with 'bastard' block-choosing AI  http://fph.altervista.org/prog/bastet.html 
  bat  0.24.0-3  A cat(1) clone with wings  https://github.com/sharkdp/bat 
  bc  1.07.1-1  Arbitrary precision numeric processing language  https://www.gnu.org/software/bc/ 

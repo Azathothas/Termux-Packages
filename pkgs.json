@@ -685,7 +685,7 @@
   },
   {
     "Package": "bash-completion",
-    "Version": "2.15.0",
+    "Version": "2.16.0",
     "Description": "Programmable completion for the bash shell",
     "Homepage": "https://github.com/scop/bash-completion"
   },
