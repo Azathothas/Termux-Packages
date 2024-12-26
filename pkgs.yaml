@@ -1543,7 +1543,7 @@
   Description: A collection of utilities to read, create and modify ELF binary files
   Homepage: https://sourceware.org/elfutils/
 - Package: elinks
-  Version: 0.17.1.1
+  Version: 0.18.0
   Description: Full-Featured Text WWW Browser
   Homepage: https://github.com/rkd77/elinks
 - Package: elixir
@@ -1647,7 +1647,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.20.13
+  Version: 0.20.14
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -2987,7 +2987,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.72.3
+  Version: 2.72.4
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui

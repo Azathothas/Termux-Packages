@@ -396,7 +396,7 @@
 | **electric-fence-static** | 2.2.7 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
 | **electrum** | 4.5.8 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.191 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
-| **elinks** | 0.17.1.1 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
+| **elinks** | 0.18.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.18.1 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
@@ -422,7 +422,7 @@
 | **exiv2** | 2:0.28.3 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.20.13 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.20.14 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.36.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.36.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -757,7 +757,7 @@
 | **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.72.3 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.72.4 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
