@@ -517,7 +517,7 @@
 | **geckodriver** | 0.35.0 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
 | **gecode-static** | 6.2.0 | Static libraries for gecode | https://github.com/Gecode/gecode |
-| **gegl** | 0.4.50-1 | Data flow based image processing framework | https://gegl.org/ |
+| **gegl** | 0.4.52 | Data flow based image processing framework | https://gegl.org/ |
 | **gengetopt** | 2.23-3 | gengetopt is a tool to write command line option parsing code for C programs | https://www.gnu.org/software/gengetopt/ |
 | **geographiclib** | 2.4 | Utilities and C++ library to solve some geodesic problems | https://geographiclib.sourceforge.io |
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
@@ -2492,8 +2492,8 @@
 | **unicorn** | 2.1.1 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
 | **unicorn-static** | 2.1.1 | Static libraries for unicorn | https://www.unicorn-engine.org/ |
 | **unifdef** | 2.12 | Remove #ifdef'ed lines | http://dotat.at/prog/unifdef/ |
-| **units** | 2.23-1 | Converts between different systems of units | https://www.gnu.org/software/units/ |
-| **units-cur** | 2.23-1 | units_cur Python script | https://www.gnu.org/software/units/ |
+| **units** | 2.24 | Converts between different systems of units | https://www.gnu.org/software/units/ |
+| **units-cur** | 2.24 | units_cur Python script | https://www.gnu.org/software/units/ |
 | **unixodbc** | 2.3.12 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
 | **unixodbc-static** | 2.3.12 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-2 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |

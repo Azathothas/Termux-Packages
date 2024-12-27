@@ -2027,7 +2027,7 @@
   Description: Static libraries for gecode
   Homepage: https://github.com/Gecode/gecode
 - Package: gegl
-  Version: 0.4.50-1
+  Version: 0.4.52
   Description: Data flow based image processing framework
   Homepage: https://gegl.org/
 - Package: gengetopt
@@ -9927,11 +9927,11 @@
   Description: 'Remove #ifdefed lines'
   Homepage: http://dotat.at/prog/unifdef/
 - Package: units
-  Version: 2.23-1
+  Version: "2.24"
   Description: Converts between different systems of units
   Homepage: https://www.gnu.org/software/units/
 - Package: units-cur
-  Version: 2.23-1
+  Version: "2.24"
   Description: units_cur Python script
   Homepage: https://www.gnu.org/software/units/
 - Package: unixodbc
