@@ -961,7 +961,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.44.2",
+    "Version": "1.44.3",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -13273,7 +13273,7 @@
   },
   {
     "Package": "sfeed",
-    "Version": "2.0",
+    "Version": "2.1",
     "Description": "Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)",
     "Homepage": "https://codemadness.org/sfeed-simple-feed-parser.html"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.11",
+    "Version": "0.5.12",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
