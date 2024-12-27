@@ -10723,7 +10723,7 @@
   },
   {
     "Package": "nodejs",
-    "Version": "23.4.0",
+    "Version": "23.5.0",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
