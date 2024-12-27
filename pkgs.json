@@ -553,7 +553,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.3.0-1",
+    "Version": "18.4.0",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -3973,7 +3973,7 @@
   },
   {
     "Package": "hexyl",
-    "Version": "0.15.0",
+    "Version": "0.16.0",
     "Description": "A command-line hex viewer",
     "Homepage": "https://github.com/sharkdp/hexyl"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.12",
+    "Version": "0.5.13",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
