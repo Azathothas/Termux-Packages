@@ -291,7 +291,7 @@
 | **csh** | 20110502-1 | C Shell with process control from 3BSD | https://packages.debian.org/sid/csh |
 | **csol** | 1.6.0 | A small collection of solitaire games implemented in C using ncurses | https://github.com/nielssp/csol |
 | **csview** | 1.3.3 | Pretty-printing CSV/TSV/xSV on terminal | https://github.com/wfxr/csview |
-| **ctags** | 2:6.1.0 | Universal ctags: Source code index builder | https://ctags.io/ |
+| **ctags** | 2:6.1.0-1 | Universal ctags: Source code index builder | https://ctags.io/ |
 | **ctypes-sh** | 1.2-1 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
 | **cups** | 2.4.11 | Common UNIX Printing System | https://www.cups.org/ |
