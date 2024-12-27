@@ -2539,7 +2539,7 @@
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
-  Version: 2.9.5-2
+  Version: "2.10"
   Description: Universal typing tutor
   Homepage: https://www.gnu.org/software/gtypist/
 - Package: guile
