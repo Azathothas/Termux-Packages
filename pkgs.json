@@ -12571,7 +12571,7 @@
   },
   {
     "Package": "rbw",
-    "Version": "1.12.1",
+    "Version": "1.13.1",
     "Description": "An unofficial command line client for Bitwarden",
     "Homepage": "https://github.com/doy/rbw"
   },
