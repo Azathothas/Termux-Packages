@@ -2647,7 +2647,7 @@
   Description: A multi-buffer editor for binary files for Unix-like systems that displays its buffer(s) as a hex dump
   Homepage: https://devel.ringlet.net/editors/hexer/
 - Package: hexyl
-  Version: 0.16.0
+  Version: 0.16.0-1
   Description: A command-line hex viewer
   Homepage: https://github.com/sharkdp/hexyl
 - Package: heyu
@@ -4363,11 +4363,11 @@
   Description: Static libraries for libksba
   Homepage: https://gnupg.org/related_software/libksba/
 - Package: liblightning
-  Version: 2.2.0
+  Version: 2.2.3
   Description: A library to aid in making portable programs that compile assembly code at run time
   Homepage: https://www.gnu.org/software/lightning/
 - Package: liblightning-static
-  Version: 2.2.0
+  Version: 2.2.3
   Description: Static libraries for liblightning
   Homepage: https://www.gnu.org/software/lightning/
 - Package: libliquid-dsp
@@ -5979,11 +5979,11 @@
   Description: Static libraries for libxi
   Homepage: https://xorg.freedesktop.org/
 - Package: libxls
-  Version: 1.6.2
+  Version: 1.6.3
   Description: A C library for reading Excel files in the nasty old binary OLE format
   Homepage: https://github.com/libxls/libxls
 - Package: libxls-static
-  Version: 1.6.2
+  Version: 1.6.3
   Description: Static libraries for libxls
   Homepage: https://github.com/libxls/libxls
 - Package: libxlsxwriter
@@ -10407,7 +10407,7 @@
   Description: A friendly and fast tool for sending HTTP requests
   Homepage: https://github.com/ducaale/xh
 - Package: xls2csv
-  Version: 1.6.2
+  Version: 1.6.3
   Description: A command-line tool for converting XLS to CSV
   Homepage: https://github.com/libxls/libxls
 - Package: xmake
