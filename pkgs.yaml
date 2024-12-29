@@ -6947,7 +6947,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.54.2
+  Version: 0.54.3
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -7027,7 +7027,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.14
+  Version: 0.8.15
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://github.com/Decodetalkers/neocmakelsp
 - Package: neofetch
@@ -8051,7 +8051,7 @@
   Description: Another Python SQLite Wrapper
   Homepage: https://github.com/rogerbinns/apsw/
 - Package: python-apt
-  Version: 2.9.5
+  Version: 2.9.6
   Description: Python bindings for APT
   Homepage: https://apt-team.pages.debian.net/python-apt/
 - Package: python-bcrypt

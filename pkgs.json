@@ -10423,7 +10423,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.54.2",
+    "Version": "0.54.3",
     "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -10543,7 +10543,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.14",
+    "Version": "0.8.15",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
@@ -12079,7 +12079,7 @@
   },
   {
     "Package": "python-apt",
-    "Version": "2.9.5",
+    "Version": "2.9.6",
     "Description": "Python bindings for APT",
     "Homepage": "https://apt-team.pages.debian.net/python-apt/"
   },
