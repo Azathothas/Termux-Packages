@@ -13801,7 +13801,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.28.2",
+    "Version": "0.28.2-1",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },

@@ -2298,7 +2298,7 @@
  stdoutisatty  1.0  Patch the isatty() calls for colored output in pipeline  https://github.com/lilydjwg/stdoutisatty 
  steghide  0.5.1-7  Embeds a message in a file by replacing some of the least significant bits  https://steghide.sourceforge.net/ 
  stemwords  2.2.0-1  A command-line tool which uses libstemmer  https://snowballstem.org/ 
- step-cli  0.28.2  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
+ step-cli  0.28.2-1  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
  stfl  0.24-6  Structured Terminal Forms Language/Library  http://www.clifford.at/stfl 
  stfl-static  0.24-6  Static libraries for stfl  http://www.clifford.at/stfl 
  stoken  0.93-1  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
