@@ -1303,7 +1303,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.56.0",
+    "Version": "2.57.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -2599,13 +2599,13 @@
   },
   {
     "Package": "fetchmail",
-    "Version": "6.5.1",
+    "Version": "6.5.2",
     "Description": "A remote-mail retrieval utility",
     "Homepage": "https://www.fetchmail.info/"
   },
   {
     "Package": "fetchmailconf",
-    "Version": "6.5.1",
+    "Version": "6.5.2",
     "Description": "A GUI configurator for generating fetchmail configuration files",
     "Homepage": "https://www.fetchmail.info/"
   },
@@ -4099,7 +4099,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.140.1",
+    "Version": "0.140.2",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -14845,7 +14845,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "7.1.1",
+    "Version": "7.1.2",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },
