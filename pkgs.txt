@@ -507,7 +507,7 @@
  gecode-static  6.2.0  Static libraries for gecode  https://github.com/Gecode/gecode 
  gegl  0.4.52  Data flow based image processing framework  https://gegl.org/ 
  gengetopt  2.23-3  gengetopt is a tool to write command line option parsing code for C programs  https://www.gnu.org/software/gengetopt/ 
- geographiclib  2.4  Utilities and C++ library to solve some geodesic problems  https://geographiclib.sourceforge.io 
+ geographiclib  2.5  Utilities and C++ library to solve some geodesic problems  https://geographiclib.sourceforge.io 
  geoip2-database  20191221-2  GeoLite2 IP geolocation databases compiled by MaxMind  https://dev.maxmind.com/geoip/geoip2/geolite2/ 
  germanium  1.2.3-3  Generate image from source code  https://github.com/matsuyoshi30/germanium 
  getconf  0.6  Utility to print configuration values  https://github.com/termux/getconf 

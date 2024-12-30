@@ -2035,7 +2035,7 @@
   Description: gengetopt is a tool to write command line option parsing code for C programs
   Homepage: https://www.gnu.org/software/gengetopt/
 - Package: geographiclib
-  Version: "2.4"
+  Version: "2.5"
   Description: Utilities and C++ library to solve some geodesic problems
   Homepage: https://geographiclib.sourceforge.io
 - Package: geoip2-database

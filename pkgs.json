@@ -3055,7 +3055,7 @@
   },
   {
     "Package": "geographiclib",
-    "Version": "2.4",
+    "Version": "2.5",
     "Description": "Utilities and C++ library to solve some geodesic problems",
     "Homepage": "https://geographiclib.sourceforge.io"
   },
