@@ -3107,7 +3107,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
-  Version: "20241119"
+  Version: "20241227"
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
@@ -10471,11 +10471,11 @@
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
-  Version: 0.8.2
+  Version: 0.8.3
   Description: Extremely fast non-cryptographic hash algorithm
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xxhash-static
-  Version: 0.8.2
+  Version: 0.8.3
   Description: Static libraries for xxhash
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xz-utils
