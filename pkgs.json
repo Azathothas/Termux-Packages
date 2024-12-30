@@ -139,7 +139,7 @@
   },
   {
     "Package": "aichat",
-    "Version": "0.25.0",
+    "Version": "0.26.0",
     "Description": "A powerful chatgpt cli",
     "Homepage": "https://github.com/sigoden/aichat"
   },
@@ -2725,7 +2725,7 @@
   },
   {
     "Package": "fluidsynth",
-    "Version": "2.4.1",
+    "Version": "2.4.2",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
   },
@@ -12991,7 +12991,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20241223",
+    "Version": "20241230",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },

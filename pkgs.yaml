@@ -91,7 +91,7 @@
   Description: Converts ANSI escape sequences of a unix terminal to HTML code
   Homepage: https://github.com/theZiz/aha
 - Package: aichat
-  Version: 0.25.0
+  Version: 0.26.0
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
@@ -1815,7 +1815,7 @@
   Description: Static libraries for flex
   Homepage: https://github.com/westes/flex
 - Package: fluidsynth
-  Version: 2.4.1
+  Version: 2.4.2
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: fm
@@ -8659,7 +8659,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20241223"
+  Version: "20241230"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
