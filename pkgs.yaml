@@ -7367,15 +7367,15 @@
   Description: Portion of openjdk-17 requiring X11 functionality
   Homepage: https://github.com/openjdk/mobile
 - Package: openjdk-21
-  Version: 21.0.5
+  Version: 21.0.5-1
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-source
-  Version: 21.0.5
+  Version: 21.0.5-1
   Description: Source files for openjdk-21
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-x
-  Version: 21.0.5
+  Version: 21.0.5-1
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjpeg
@@ -8735,7 +8735,7 @@
   Description: A secure, easy, self-hosted messaging
   Homepage: https://salty.im/
 - Package: samba
-  Version: 4.16.11-2
+  Version: 4.16.11-3
   Description: SMB/CIFS fileserver
   Homepage: https://www.samba.org/
 - Package: samefile
