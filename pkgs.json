@@ -4183,13 +4183,13 @@
   },
   {
     "Package": "i2pd",
-    "Version": "2.54.0",
+    "Version": "2.55.0",
     "Description": "A full-featured C++ implementation of the I2P router",
     "Homepage": "https://i2pd.website/"
   },
   {
     "Package": "i2pd-static",
-    "Version": "2.54.0",
+    "Version": "2.55.0",
     "Description": "Static libraries for i2pd",
     "Homepage": "https://i2pd.website/"
   },
