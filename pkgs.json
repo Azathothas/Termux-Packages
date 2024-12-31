@@ -10099,7 +10099,7 @@
   },
   {
     "Package": "moar",
-    "Version": "1.30.0",
+    "Version": "1.30.1",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moar"
   },
