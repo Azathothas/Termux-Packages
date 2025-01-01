@@ -158,7 +158,7 @@
  brainfuck-static  1:2.7.3  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
  brogue  1.14.1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20240606  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
- broot  1.44.3  A better way to navigate directories  https://github.com/Canop/broot 
+ broot  1.44.4  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.1.0  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  brotli-static  1.0.9-1  Static libraries for brotli  https://github.com/google/brotli 
  bsd-finger  0.17-1  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
@@ -1391,9 +1391,9 @@
  libtommath  1.3.0  A free open source portable number theoretic multiple-precision integer library  https://www.libtom.net/LibTomMath/ 
  libtommath-static  1.3.0  Static libraries for libtommath  https://www.libtom.net/LibTomMath/ 
  libtool  2.5.4  Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface  https://www.gnu.org/software/libtool/ 
- libtorrent  0.15.0  Libtorrent BitTorrent library  https://github.com/rakshasa/rtorrent/wiki 
+ libtorrent  0.15.1  Libtorrent BitTorrent library  https://github.com/rakshasa/rtorrent/wiki 
  libtorrent-rasterbar  2.0.10-1  A feature complete C++ bittorrent implementation focusing on efficiency and scalability  https://libtorrent.org/ 
- libtorrent-static  0.15.0  Static libraries for libtorrent  https://github.com/rakshasa/rtorrent/wiki 
+ libtorrent-static  0.15.1  Static libraries for libtorrent  https://github.com/rakshasa/rtorrent/wiki 
  libtpms  0.10.0  Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)  https://github.com/stefanberger/libtpms 
  libtpms-static  0.10.0  Static libraries for libtpms  https://github.com/stefanberger/libtpms 
  libtranscript  0.3.4  A character-set conversion library  https://os.ghalkes.nl/libtranscript.html 
@@ -1815,7 +1815,7 @@
  okc-agents  0.1.2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.6-2  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-9  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
- onefetch  2.22.0  A command-line Git information tool written in Rust  https://onefetch.dev/ 
+ onefetch  2.23.1  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
  onigmo-static  6.2.0  Static libraries for onigmo  https://github.com/k-takata/Onigmo 
  oniguruma  6.9.10  Regular expressions library  https://github.com/kkos/oniguruma 
@@ -2149,7 +2149,7 @@
  rsync  3.3.0  Utility that provides fast incremental file transfer  https://rsync.samba.org/ 
  rtmpdump  2.4-6  Small dumper for media content streamed over the RTMP protocol  https://rtmpdump.mplayerhq.hu/ 
  rtmpdump-static  2.4-6  Static libraries for rtmpdump  https://rtmpdump.mplayerhq.hu/ 
- rtorrent  0.15.0  Ncurses BitTorrent client based on libTorrent  https://rakshasa.github.io/rtorrent/ 
+ rtorrent  0.15.1  Ncurses BitTorrent client based on libTorrent  https://rakshasa.github.io/rtorrent/ 
  rubberband  4.0.0  An audio time-stretching and pitch-shifting library and utility program  https://breakfastquay.com/rubberband/ 
  rubberband-ladspa  4.0.0  LADSPA plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
  rubberband-lv2  4.0.0  LV2 plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
@@ -2222,7 +2222,7 @@
  shellharden  4.3.1  The corrective bash syntax highlighter  https://github.com/anordal/shellharden 
  shellinabox  2.21  Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator  https://github.com/shellinabox/shellinabox 
  shfmt  3.10.0  A shell parser and formatter  https://github.com/mvdan/sh 
- shiori  1.7.2  Simple bookmark manager built with Go  https://github.com/go-shiori/shiori 
+ shiori  1.7.3  Simple bookmark manager built with Go  https://github.com/go-shiori/shiori 
  shntool  3.0.10  A multi-purpose WAVE data processing and reporting utility  http://shnutils.freeshell.org/shntool/ 
  shtool  2.0.8-9  compilation of small but very stable and portable shell scripts into a single shell tool  http://www.gnu.org/software/shtool/ 
  signify  32  Lightweight cryptographic signing and verifying tool  https://github.com/aperezdc/signify 

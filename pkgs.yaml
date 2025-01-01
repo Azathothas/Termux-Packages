@@ -639,7 +639,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.44.3
+  Version: 1.44.4
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -5571,7 +5571,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.15.0
+  Version: 0.15.1
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -5579,7 +5579,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.15.0
+  Version: 0.15.1
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -7267,7 +7267,7 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: onefetch
-  Version: 2.22.0
+  Version: 2.23.1
   Description: A command-line Git information tool written in Rust
   Homepage: https://onefetch.dev/
 - Package: onigmo
@@ -8603,7 +8603,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.15.0
+  Version: 0.15.1
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -8895,7 +8895,7 @@
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
-  Version: 1.7.2
+  Version: 1.7.3
   Description: Simple bookmark manager built with Go
   Homepage: https://github.com/go-shiori/shiori
 - Package: shntool
