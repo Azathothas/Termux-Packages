@@ -1460,7 +1460,7 @@
  libwebrtc-audio-processing  1.3-1  A library containing the AudioProcessing module from the WebRTC project  https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ 
  libwebrtc-audio-processing-static  0.3.1-2  Static libraries for libwebrtc-audio-processing  https://freedesktop.org/software/pulseaudio/webrtc-audio-processing/ 
  libwebsockets  4.3.3  Lightweight C websockets library  https://libwebsockets.org 
- libwolfssl  5.7.4  A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud  https://www.wolfssl.com/ 
+ libwolfssl  5.7.6  A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud  https://www.wolfssl.com/ 
  libwren  0.4.0-2  Small, fast, class-based concurrent scripting language libraries  https://wren.io/ 
  libwslay  1.1.1  WebSocket library  https://github.com/tatsuhiro-t/wslay 
  libwv  1.2.9-3  A library which allows access to Microsoft Word files  http://wvware.sourceforge.net/ 
@@ -1818,8 +1818,8 @@
  onefetch  2.22.0  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
  onigmo-static  6.2.0  Static libraries for onigmo  https://github.com/k-takata/Onigmo 
- oniguruma  6.9.9  Regular expressions library  https://github.com/kkos/oniguruma 
- oniguruma-static  6.9.9  Static libraries for oniguruma  https://github.com/kkos/oniguruma 
+ oniguruma  6.9.10  Regular expressions library  https://github.com/kkos/oniguruma 
+ oniguruma-static  6.9.10  Static libraries for oniguruma  https://github.com/kkos/oniguruma 
  oorexx  4.2.0-3  Open Object Rexx  https://www.oorexx.org/ 
  oorexx-static  4.2.0-3  Static libraries for oorexx  https://www.oorexx.org/ 
  open-adventure  1.20  Forward-port of the original Colossal Cave Adventure from 1976-77  http://www.catb.org/~esr/open-adventure/ 
@@ -2518,8 +2518,8 @@
  vamp-plugin-sdk-static  2.10-2  Static libraries for vamp-plugin-sdk  https://www.vamp-plugins.org/ 
  vbindiff  3.0-beta5-0  Visual binary diff  https://www.cjmweb.net/vbindiff/ 
  vcsh  2.0.10  Config manager based on Git  https://github.com/RichiH/vcsh 
- vde2  2.3.3-2  Virtual Distributed Ethernet for emulators like qemu  https://github.com/virtualsquare/vde-2 
- vde2-static  2.3.3-2  Static libraries for vde2  https://github.com/virtualsquare/vde-2 
+ vde2  2.3.3-3  Virtual Distributed Ethernet for emulators like qemu  https://github.com/virtualsquare/vde-2 
+ vde2-static  2.3.3-3  Static libraries for vde2  https://github.com/virtualsquare/vde-2 
  vegeta  12.12.0  HTTP load testing tool  https://github.com/tsenart/vegeta 
  vera  1.3.0-5  A programmable tool for verification, analysis and transformation of C++ source code  https://bitbucket.org/verateam/vera 
  vgmstream  1980  A library for playback of various streamed audio formats used in video games  https://github.com/vgmstream/vgmstream 

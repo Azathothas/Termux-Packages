@@ -8773,7 +8773,7 @@
   },
   {
     "Package": "libwolfssl",
-    "Version": "5.7.4",
+    "Version": "5.7.6",
     "Description": "A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud",
     "Homepage": "https://www.wolfssl.com/"
   },
@@ -10921,13 +10921,13 @@
   },
   {
     "Package": "oniguruma",
-    "Version": "6.9.9",
+    "Version": "6.9.10",
     "Description": "Regular expressions library",
     "Homepage": "https://github.com/kkos/oniguruma"
   },
   {
     "Package": "oniguruma-static",
-    "Version": "6.9.9",
+    "Version": "6.9.10",
     "Description": "Static libraries for oniguruma",
     "Homepage": "https://github.com/kkos/oniguruma"
   },
@@ -15121,13 +15121,13 @@
   },
   {
     "Package": "vde2",
-    "Version": "2.3.3-2",
+    "Version": "2.3.3-3",
     "Description": "Virtual Distributed Ethernet for emulators like qemu",
     "Homepage": "https://github.com/virtualsquare/vde-2"
   },
   {
     "Package": "vde2-static",
-    "Version": "2.3.3-2",
+    "Version": "2.3.3-3",
     "Description": "Static libraries for vde2",
     "Homepage": "https://github.com/virtualsquare/vde-2"
   },
