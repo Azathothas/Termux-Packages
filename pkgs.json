@@ -91,7 +91,7 @@
   },
   {
     "Package": "ack-grep",
-    "Version": "3.8.0",
+    "Version": "3.8.1",
     "Description": "Tool like grep optimized for programmers",
     "Homepage": "https://beyondgrep.com/"
   },
@@ -2449,7 +2449,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.10",
+    "Version": "13.11",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },

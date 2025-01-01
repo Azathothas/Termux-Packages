@@ -59,7 +59,7 @@
   Description: Abseil C++ Common Libraries
   Homepage: https://abseil.io/
 - Package: ack-grep
-  Version: 3.8.0
+  Version: 3.8.1
   Description: Tool like grep optimized for programmers
   Homepage: https://beyondgrep.com/
 - Package: acr
@@ -1631,7 +1631,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.10"
+  Version: "13.11"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2

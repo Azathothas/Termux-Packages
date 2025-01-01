@@ -13,7 +13,7 @@
  abook  0.6.1  Abook is a text-based addressbook program designed to use with mutt mail client  http://abook.sourceforge.net/ 
  abootimg  0.6-2  Pack or unpack android boot images  https://gitlab.com/ajs124/abootimg 
  abseil-cpp  20240116.2-1  Abseil C++ Common Libraries  https://abseil.io/ 
- ack-grep  3.8.0  Tool like grep optimized for programmers  https://beyondgrep.com/ 
+ ack-grep  3.8.1  Tool like grep optimized for programmers  https://beyondgrep.com/ 
  acr  2.1.4  A fully compatible autoconf replacement  https://github.com/radare/acr 
  adms  2.3.7  A code generator for the Verilog-AMS language  https://github.com/qucs/adms 
  aerc  0.18.2  A pretty good email client  https://aerc-mail.org/ 
@@ -406,7 +406,7 @@
  etsh  5.4.0  An enhanced, backward-compatible port of Thompson Shell  https://etsh.nl 
  exercism  3.5.4  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
  exhale  1.2.1  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
- exiftool  13.10  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
+ exiftool  13.11  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  exiv2-static  2:0.27.7-1  Static libraries for exiv2  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
