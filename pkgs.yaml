@@ -2179,7 +2179,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.6.3
+  Version: 1.6.3-1
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -3183,7 +3183,7 @@
   Description: A multi-platform program which generates PostScript lunar calendars in a yearly format
   Homepage: https://pcal.sourceforge.net/
 - Package: ldc
-  Version: 1.30.0-1
+  Version: 1.30.0-2
   Description: D programming language compiler, built with LLVM
   Homepage: https://github.com/ldc-developers/ldc
 - Package: ldd
@@ -10619,7 +10619,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 0.4.45
+  Version: 0.4.45-1
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh

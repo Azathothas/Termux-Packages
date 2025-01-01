@@ -543,7 +543,7 @@
 | **gitui** | 0.26.3-1 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.51.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **gleam** | 1.6.3 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
+| **gleam** | 1.6.3-1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.82.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.82.4 | Programs for the GLib library | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.82.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -794,7 +794,7 @@
 | **lazygit** | 0.44.1 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lazyread** | 2.0-1 | An auto-scroller, pager, and e-book reader all in one | http://lazyread.sourceforge.net/ |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
-| **ldc** | 1.30.0-1 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
+| **ldc** | 1.30.0-2 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
 | **ldd** | 0.3 | Fake ldd command | https://github.com/termux/termux-packages |
 | **ldns** | 1.8.4 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
@@ -2653,7 +2653,7 @@
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.6 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 0.4.45 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 0.4.45-1 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-7 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |

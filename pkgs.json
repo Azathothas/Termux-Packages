@@ -3271,7 +3271,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.6.3",
+    "Version": "1.6.3-1",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -4777,7 +4777,7 @@
   },
   {
     "Package": "ldc",
-    "Version": "1.30.0-1",
+    "Version": "1.30.0-2",
     "Description": "D programming language compiler, built with LLVM",
     "Homepage": "https://github.com/ldc-developers/ldc"
   },
@@ -15931,7 +15931,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "0.4.45",
+    "Version": "0.4.45-1",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
