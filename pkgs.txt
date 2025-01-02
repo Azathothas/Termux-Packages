@@ -370,7 +370,7 @@
  dvtm  0.15-3  Terminal tiling window manager  https://github.com/martanne/dvtm 
  dwarves  1.28  Pahole and other DWARF utils  https://git.kernel.org/cgit/devel/pahole/pahole.git/ 
  dx  1:1.16-7  Command which takes in Java class files and converts them to format executable by Dalvik VM  http://developer.android.com/tools/help/index.html 
- e2fsprogs  1.47.1  EXT 2/3/4 filesystem utilities  https://e2fsprogs.sourceforge.net 
+ e2fsprogs  1.47.2  EXT 2/3/4 filesystem utilities  https://e2fsprogs.sourceforge.net 
  e2tools  0.1.2  mtools analogue for ext2/3 filesystems  https://github.com/e2tools/e2tools 
  ebook-tools  0.2.2-1  Tools for accessing and converting various ebook file formats  https://sourceforge.net/projects/ebook-tools/ 
  ecj  1:4.12-5  Eclipse Compiler for Java  https://www.eclipse.org/jdt/core/ 
@@ -410,7 +410,7 @@
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  exiv2-static  2:0.27.7-1  Static libraries for exiv2  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
- eza  0.20.14  A modern replacement for ls  https://github.com/eza-community/eza 
+ eza  0.20.15  A modern replacement for ls  https://github.com/eza-community/eza 
  fact++  1.6.5-1  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
  fakeroot  1.36.2  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.36.2  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
@@ -2511,7 +2511,7 @@
  valac-static  0.56.17  Static libraries for valac  https://wiki.gnome.org/Projects/Vala 
  valadoc  0.56.17  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
  valadoc-static  0.56.17  Static libraries for valadoc  https://wiki.gnome.org/Projects/Vala 
- vale  3.9.2  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
+ vale  3.9.3  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
  valgrind  3.22.0-1  Instrumentation framework for building dynamic analysis tools  https://valgrind.org/ 
  valgrind-static  3.22.0-1  Static libraries for valgrind  https://valgrind.org/ 
  vamp-plugin-sdk  2.10-2  An API for audio analysis and feature extraction plugins  https://www.vamp-plugins.org/ 

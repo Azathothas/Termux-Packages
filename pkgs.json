@@ -2233,7 +2233,7 @@
   },
   {
     "Package": "e2fsprogs",
-    "Version": "1.47.1",
+    "Version": "1.47.2",
     "Description": "EXT 2/3/4 filesystem utilities",
     "Homepage": "https://e2fsprogs.sourceforge.net"
   },
@@ -2473,7 +2473,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.14",
+    "Version": "0.20.15",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -15079,7 +15079,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.9.2",
+    "Version": "3.9.3",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
