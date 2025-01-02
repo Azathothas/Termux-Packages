@@ -170,7 +170,7 @@
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.14.1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20240606 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.44.4 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.44.5 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-1 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
@@ -1963,7 +1963,7 @@
 | **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.23.12 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.24.0 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.2 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.2 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2037,7 +2037,7 @@
 | **python-numpy** | 2.2.1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.2.1 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.19.2-1 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
-| **python-pillow** | 11.0.0 | Python Imaging Library | https://python-pillow.org/ |
+| **python-pillow** | 11.1.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.3.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 18.1.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pynvim** | 0.5.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |
@@ -2611,7 +2611,7 @@
 | **xapian-tools** | 1.4.27 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-1 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
-| **xh** | 0.23.0-1 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
+| **xh** | 0.23.1 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xls2csv** | 1.6.3 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
 | **xmake** | 2.9.7 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.6 | XML Security Library | https://www.aleksey.com/xmlsec/ |

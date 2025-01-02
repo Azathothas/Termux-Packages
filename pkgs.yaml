@@ -639,7 +639,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.44.4
+  Version: 1.44.5
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -7811,7 +7811,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.23.12
+  Version: 0.24.0
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -8107,7 +8107,7 @@
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
-  Version: 11.0.0
+  Version: 11.1.0
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
@@ -10403,7 +10403,7 @@
   Description: xdelta3 - VCDIFF (RFC 3284) binary diff tool
   Homepage: https://github.com/jmacd/xdelta
 - Package: xh
-  Version: 0.23.0-1
+  Version: 0.23.1
   Description: A friendly and fast tool for sending HTTP requests
   Homepage: https://github.com/ducaale/xh
 - Package: xls2csv
