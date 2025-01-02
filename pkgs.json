@@ -2113,7 +2113,7 @@
   },
   {
     "Package": "doxygen",
-    "Version": "1.13.0",
+    "Version": "1.13.1",
     "Description": "A documentation system for C++, C, Java, IDL and PHP",
     "Homepage": "http://www.doxygen.org"
   },
@@ -12961,7 +12961,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.8.4",
+    "Version": "0.8.5",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14389,7 +14389,7 @@
   },
   {
     "Package": "timg",
-    "Version": "1.6.0-3",
+    "Version": "1.6.1",
     "Description": "A terminal image and video viewer",
     "Homepage": "https://timg.sh/"
   },
