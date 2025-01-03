@@ -9895,7 +9895,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.10.0",
+    "Version": "1.11.0",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -10879,7 +10879,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.17.1",
+    "Version": "24.18.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
