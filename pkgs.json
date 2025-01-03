@@ -14155,7 +14155,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "17.1.2",
+    "Version": "17.1.3",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.13",
+    "Version": "0.5.14",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
