@@ -1861,7 +1861,7 @@
   },
   {
     "Package": "debootstrap",
-    "Version": "1.0.139",
+    "Version": "1.0.140",
     "Description": "Bootstrap a basic Debian system",
     "Homepage": "https://wiki.debian.org/Debootstrap"
   },
@@ -4159,7 +4159,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.390",
+    "Version": "0.391",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -13345,7 +13345,7 @@
   },
   {
     "Package": "shiori",
-    "Version": "1.7.3",
+    "Version": "1.7.4",
     "Description": "Simple bookmark manager built with Go",
     "Homepage": "https://github.com/go-shiori/shiori"
   },

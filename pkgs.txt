@@ -308,7 +308,7 @@
  dcraw  9.28.0-6  Raw digital camera images decoding utility  https://www.dechifro.org/dcraw/ 
  ddrescue  1.28  GNU data recovery tool  https://www.gnu.org/software/ddrescue/ 
  debianutils  5.21  Small utilities which are used primarily by the installation scripts of Debian packages  https://packages.debian.org/debianutils 
- debootstrap  1.0.139  Bootstrap a basic Debian system  https://wiki.debian.org/Debootstrap 
+ debootstrap  1.0.140  Bootstrap a basic Debian system  https://wiki.debian.org/Debootstrap 
  desed  1.2.2  Demystifies and debugs your sed scripts  https://github.com/SoptikHa2/desed 
  deutex  5.2.2  WAD composer for Doom, Heretic, Hexen, and Strife  https://github.com/Doom-Utils/deutex/ 
  dex2jar  2.4  Tools to work with android .dex and java .class files  https://github.com/pxb1988/dex2jar 
@@ -691,7 +691,7 @@
  hunspell-ru  20210731  Russian dictionary for hunspell  https://hunspell.github.io 
  hunspell-static  1.7.2  Static libraries for hunspell  https://hunspell.github.io 
  hut  0.6.0  A CLI tool for sr.ht  https://git.sr.ht/~xenrox/hut 
- hwdata  0.390  Database of hardware identification and configuration data  https://github.com/vcrhonek/hwdata 
+ hwdata  0.391  Database of hardware identification and configuration data  https://github.com/vcrhonek/hwdata 
  hydroxide  0.2.29  A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge  https://github.com/emersion/hydroxide 
  hyperfine  1.19.0  A command-line benchmarking tool  https://github.com/sharkdp/hyperfine 
  hz  0.9.4  A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices  https://www.cloudwego.io 
@@ -2222,7 +2222,7 @@
  shellharden  4.3.1  The corrective bash syntax highlighter  https://github.com/anordal/shellharden 
  shellinabox  2.21  Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator  https://github.com/shellinabox/shellinabox 
  shfmt  3.10.0  A shell parser and formatter  https://github.com/mvdan/sh 
- shiori  1.7.3  Simple bookmark manager built with Go  https://github.com/go-shiori/shiori 
+ shiori  1.7.4  Simple bookmark manager built with Go  https://github.com/go-shiori/shiori 
  shntool  3.0.10  A multi-purpose WAVE data processing and reporting utility  http://shnutils.freeshell.org/shntool/ 
  shtool  2.0.8-9  compilation of small but very stable and portable shell scripts into a single shell tool  http://www.gnu.org/software/shtool/ 
  signify  32  Lightweight cryptographic signing and verifying tool  https://github.com/aperezdc/signify 
