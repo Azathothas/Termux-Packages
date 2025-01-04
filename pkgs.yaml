@@ -7671,27 +7671,27 @@
   Description: An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy
   Homepage: https://git.sr.ht/~ghost08/photon
 - Package: php
-  Version: 8.4.1
+  Version: 8.4.2
   Description: Server-side, HTML-embedded scripting language
   Homepage: https://php.net
 - Package: php-apache
-  Version: 8.4.1
+  Version: 8.4.2
   Description: Apache 2.0 Handler module for PHP
   Homepage: https://php.net
 - Package: php-apache-ldap
-  Version: 8.4.1
+  Version: 8.4.2
   Description: LDAP module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apache-opcache
-  Version: 8.4.1
+  Version: 8.4.2
   Description: OPcache module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apache-pgsql
-  Version: 8.4.1
+  Version: 8.4.2
   Description: PostgreSQL modules for PHP/Apache
   Homepage: https://php.net
 - Package: php-apache-sodium
-  Version: 8.4.1
+  Version: 8.4.2
   Description: Sodium module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apcu
@@ -7699,11 +7699,11 @@
   Description: APCu - APC User Cache
   Homepage: http://php.net/apcu
 - Package: php-fpm
-  Version: 8.4.1
+  Version: 8.4.2
   Description: FastCGI Process Manager for PHP
   Homepage: https://php.net
 - Package: php-gd
-  Version: 8.4.1
+  Version: 8.4.2
   Description: gd module for PHP
   Homepage: https://php.net
 - Package: php-imagick
@@ -7711,11 +7711,11 @@
   Description: The Imagick PHP extension
   Homepage: https://github.com/Imagick/imagick
 - Package: php-ldap
-  Version: 8.4.1
+  Version: 8.4.2
   Description: LDAP module for PHP
   Homepage: https://php.net
 - Package: php-pgsql
-  Version: 8.4.1
+  Version: 8.4.2
   Description: PostgreSQL modules for PHP
   Homepage: https://php.net
 - Package: php-psr
@@ -7727,7 +7727,7 @@
   Description: PHP extension for interfacing with Redis
   Homepage: https://github.com/phpredis/phpredis
 - Package: php-sodium
-  Version: 8.4.1
+  Version: 8.4.2
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
@@ -8639,7 +8639,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.8.5
+  Version: 0.8.6
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -8807,7 +8807,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 2.5.2
+  Version: 2.6.0
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -9603,7 +9603,7 @@
   Description: Find build artifacts that are taking up disk space
   Homepage: https://github.com/vmchale/tin-summer
 - Package: tintin++
-  Version: 2.02.41
+  Version: 2.02.42
   Description: Classic text-based MUD client
   Homepage: https://tintin.mudhalla.net
 - Package: tinyfugue
