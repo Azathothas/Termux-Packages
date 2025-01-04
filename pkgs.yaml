@@ -2611,11 +2611,11 @@
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
-  Version: 24.07-2
+  Version: "25.01"
   Description: A post-modern modal text editor written in rust
   Homepage: https://helix-editor.com/
 - Package: helix-grammars
-  Version: 24.07-2
+  Version: "25.01"
   Description: Helix grammars
   Homepage: https://helix-editor.com/
 - Package: hello
@@ -6407,11 +6407,11 @@
   Description: A way of synchronizing a collection of mailboxes
   Homepage: http://mailsync.sourceforge.net/
 - Package: mailutils
-  Version: "3.17"
+  Version: "3.18"
   Description: Mailutils is a swiss army knife of electronic mail handling.
   Homepage: https://mailutils.org/
 - Package: mailutils-static
-  Version: "3.17"
+  Version: "3.18"
   Description: Static libraries for mailutils
   Homepage: https://mailutils.org/
 - Package: make
