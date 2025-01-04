@@ -1823,7 +1823,7 @@
   Description: A terminal based file manager
   Homepage: https://github.com/knipferrc/fm
 - Package: fmt
-  Version: 1:11.0.2
+  Version: 1:11.1.1
   Description: Open-source formatting library for C++
   Homepage: https://fmt.dev/latest/index.html
 - Package: fontconfig

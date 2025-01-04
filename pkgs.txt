@@ -454,7 +454,7 @@
  flex-static  2.6.4-3  Static libraries for flex  https://github.com/westes/flex 
  fluidsynth  2.4.2  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
  fm  1.1.0  A terminal based file manager  https://github.com/knipferrc/fm 
- fmt  1:11.0.2  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
+ fmt  1:11.1.1  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.15.0  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-static  2.15.0  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.15.0  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
