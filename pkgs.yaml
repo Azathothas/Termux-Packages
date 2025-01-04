@@ -8939,7 +8939,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.10.5
+  Version: 1.10.6
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
