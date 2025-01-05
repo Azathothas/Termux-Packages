@@ -13675,7 +13675,7 @@
   },
   {
     "Package": "squeezelite",
-    "Version": "1.9.9.1430",
+    "Version": "2.0.0.1517",
     "Description": "A small headless Logitech Squeezebox emulator",
     "Homepage": "https://ralph-irving.github.io/squeezelite.html"
   },
