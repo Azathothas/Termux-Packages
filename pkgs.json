@@ -9805,7 +9805,7 @@
   },
   {
     "Package": "mdbook-mermaid",
-    "Version": "0.14.0",
+    "Version": "0.14.1",
     "Description": "A preprocessor for mdbook to add mermaid support",
     "Homepage": "https://github.com/badboy/mdbook-mermaid"
   },
