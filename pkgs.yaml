@@ -3499,7 +3499,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.27.0
+  Version: 5.27.1
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -4255,11 +4255,11 @@
   Description: A simple .INI file parser written in C
   Homepage: https://github.com/benhoyt/inih
 - Package: libiniparser
-  Version: 4.2.4
+  Version: 4.2.5
   Description: Offers parsing of ini files from the C level
   Homepage: https://github.com/ndevilla/iniparser
 - Package: libiniparser-static
-  Version: 4.2.4
+  Version: 4.2.5
   Description: Static libraries for libiniparser
   Homepage: https://github.com/ndevilla/iniparser
 - Package: libiodbc
@@ -8659,7 +8659,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20241230"
+  Version: "20250106"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -10207,7 +10207,7 @@
   Description: Vulkan Validation Layers
   Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 - Package: vulkan-volk
-  Version: 1.3.295
+  Version: 1.4.304
   Description: Meta loader for Vulkan API
   Homepage: https://github.com/zeux/volk
 - Package: w3m

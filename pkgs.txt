@@ -873,7 +873,7 @@
  libburn-static  1.5.6  Static libraries for libburn  https://dev.lovelyhq.com/libburnia 
  libbz2  1.0.8-6  BZ2 format compression library  http://www.bzip.org/ 
  libc++  27c  C++ Standard Library  https://libcxx.llvm.org/ 
- libc++utilities  5.27.0  Useful C++ classes and routines such as argument parser, IO and conversion utilities  https://github.com/Martchus/cpp-utilities 
+ libc++utilities  5.27.1  Useful C++ classes and routines such as argument parser, IO and conversion utilities  https://github.com/Martchus/cpp-utilities 
  libc-client  2007f-3  UW IMAP c-client library  https://www.washington.edu/imap/ 
  libc-client-static  2007f-3  Static libraries for libc-client  https://www.washington.edu/imap/ 
  libcaca  0.99.beta20-1  Graphics library that outputs text instead of pixels  http://caca.zoy.org/wiki/libcaca 
@@ -1062,8 +1062,8 @@
  libimobiledevice-static  1.3.0-p20230430-1  Static libraries for libimobiledevice  https://libimobiledevice.org/ 
  libimtui  1.0.5-1  An immediate mode text-based user interface library  https://github.com/ggerganov/imtui 
  libinih  58  A simple .INI file parser written in C  https://github.com/benhoyt/inih 
- libiniparser  4.2.4  Offers parsing of ini files from the C level  https://github.com/ndevilla/iniparser 
- libiniparser-static  4.2.4  Static libraries for libiniparser  https://github.com/ndevilla/iniparser 
+ libiniparser  4.2.5  Offers parsing of ini files from the C level  https://github.com/ndevilla/iniparser 
+ libiniparser-static  4.2.5  Static libraries for libiniparser  https://github.com/ndevilla/iniparser 
  libiodbc  3.52.16  Independent Open DataBase Connectivity for Linux, MacOS X and Unix systems  https://www.iodbc.org/ 
  libiodbc-static  3.52.16  Static libraries for libiodbc  https://www.iodbc.org/ 
  libisl  0.26  Library for manipulating sets and relations of integer points bounded by linear constraints  https://libisl.sourceforge.io/ 
@@ -2163,7 +2163,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.6.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.83.0-2  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20241230  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20250106  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.71.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.83.0-2  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.83.0-2  Rust source code files  https://www.rust-lang.org/ 
@@ -2550,7 +2550,7 @@
  vulkan-tools  1.4.304  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.304  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.3.297  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
- vulkan-volk  1.3.295  Meta loader for Vulkan API  https://github.com/zeux/volk 
+ vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.3.20230121  Text based Web browser and pager  http://w3m.sourceforge.net/ 
  w3m-img  0.5.3.20230121  Inline image extension support utilities for w3m  http://w3m.sourceforge.net/ 
  wabt  1.0.36  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
