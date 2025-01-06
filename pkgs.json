@@ -1849,7 +1849,7 @@
   },
   {
     "Package": "ddrescue",
-    "Version": "1.28",
+    "Version": "1.29",
     "Description": "GNU data recovery tool",
     "Homepage": "https://www.gnu.org/software/ddrescue/"
   },
@@ -15337,7 +15337,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.107.0",
+    "Version": "1.110.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
