@@ -2783,7 +2783,7 @@
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
-  Version: 0.9.4
+  Version: 0.9.5
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
@@ -9343,7 +9343,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 1.28.1
+  Version: 1.29.0
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
