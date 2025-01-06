@@ -1681,7 +1681,7 @@
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 19.1.6 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **moar** | 1.30.1 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
+| **moar** | 1.31.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.35.1 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.3.4 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.12.0.206 | Framework Mono | https://gitlab.winehq.org/mono/mono |
@@ -2200,7 +2200,7 @@
 | **sdcv** | 0.5.5 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
 | **seafile-client** | 9.0.11 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.11 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 2.6.1 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 2.6.2 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-7 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-5 | Secure file, disk, swap, memory erasure utilities | http://www.thc.org/ |
 | **sed** | 4.9-1 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
