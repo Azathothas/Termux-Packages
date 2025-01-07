@@ -9661,13 +9661,13 @@
   },
   {
     "Package": "mariadb",
-    "Version": "2:11.6.1",
+    "Version": "2:11.8.0",
     "Description": "A drop-in replacement for mysql server",
     "Homepage": "https://mariadb.org"
   },
   {
     "Package": "mariadb-static",
-    "Version": "2:11.6.1",
+    "Version": "2:11.8.0",
     "Description": "Static libraries for mariadb",
     "Homepage": "https://mariadb.org"
   },
