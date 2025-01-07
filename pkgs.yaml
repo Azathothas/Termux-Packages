@@ -2083,7 +2083,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.64.0
+  Version: 2.65.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -7935,7 +7935,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 4.17.3
+  Version: 4.18.0
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8347,7 +8347,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 3.20.0
+  Version: 3.20.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -8471,7 +8471,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.02.01
+  Version: 1:05.02.02
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils

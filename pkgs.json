@@ -3127,7 +3127,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.64.0",
+    "Version": "2.65.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -11905,7 +11905,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.17.3",
+    "Version": "4.18.0",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -12523,7 +12523,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.20.0",
+    "Version": "3.20.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -12709,7 +12709,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:05.02.01",
+    "Version": "1:05.02.02",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
