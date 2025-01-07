@@ -3805,7 +3805,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.24.10",
+    "Version": "1.24.11",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -12571,7 +12571,7 @@
   },
   {
     "Package": "rbw",
-    "Version": "1.13.1",
+    "Version": "1.13.2",
     "Description": "An unofficial command line client for Bitwarden",
     "Homepage": "https://github.com/doy/rbw"
   },
@@ -13387,7 +13387,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "3.11.3",
+    "Version": "3.11.4",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.14",
+    "Version": "0.5.15",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },

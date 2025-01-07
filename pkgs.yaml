@@ -2535,7 +2535,7 @@
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
-  Version: 1.24.10
+  Version: 1.24.11
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
@@ -8379,7 +8379,7 @@
   Description: Static libraries for ravencoin
   Homepage: https://ravencoin.org/
 - Package: rbw
-  Version: 1.13.1
+  Version: 1.13.2
   Description: An unofficial command line client for Bitwarden
   Homepage: https://github.com/doy/rbw
 - Package: rc
@@ -8923,7 +8923,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 3.11.3
+  Version: 3.11.4
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -10023,7 +10023,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.5.14
+  Version: 0.5.15
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
