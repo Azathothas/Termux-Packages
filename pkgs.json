@@ -11431,7 +11431,7 @@
   },
   {
     "Package": "pdf2djvu",
-    "Version": "0.9.19-5",
+    "Version": "0.9.19-6",
     "Description": "PDF to DjVu converter",
     "Homepage": "https://github.com/jwilk/pdf2djvu"
   },

@@ -7619,7 +7619,7 @@
   Description: A grep with Perl-compatible regular expressions
   Homepage: https://www.pcre.org
 - Package: pdf2djvu
-  Version: 0.9.19-5
+  Version: 0.9.19-6
   Description: PDF to DjVu converter
   Homepage: https://github.com/jwilk/pdf2djvu
 - Package: pdf2svg

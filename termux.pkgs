@@ -1903,7 +1903,7 @@
 | **pcre2-static** | 10.44 | Static libraries for pcre2 | https://www.pcre.org |
 | **pcre2grep** | 10.44 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcregrep** | 8.45-1 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
-| **pdf2djvu** | 0.9.19-5 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
+| **pdf2djvu** | 0.9.19-6 | PDF to DjVu converter | https://github.com/jwilk/pdf2djvu |
 | **pdf2svg** | 0.2.3-11 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
 | **pdfcpu** | 0.9.1 | A PDF processor written in Go | https://pdfcpu.io |
 | **pdfgrep** | 2.2.0-3 | Command line utility to search text in PDF files | https://pdfgrep.org/ |
