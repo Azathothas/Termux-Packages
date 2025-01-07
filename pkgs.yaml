@@ -2059,11 +2059,11 @@
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
-  Version: 0.22.5
+  Version: 0.23.1
   Description: GNU Internationalization utilities
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gettext-static
-  Version: 0.22.5
+  Version: 0.23.1
   Description: Static libraries for gettext
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gexiv2
