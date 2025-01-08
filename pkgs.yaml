@@ -2883,7 +2883,7 @@
   Description: The internationalization tool collection
   Homepage: https://launchpad.net/intltool
 - Package: inxi
-  Version: 3.3.36-1-0
+  Version: 3.3.37-1-0
   Description: Full featured CLI system information tool
   Homepage: https://smxi.org/site/about.htm#inxi
 - Package: ipcalc
@@ -4883,11 +4883,11 @@
   Description: Application-Level Forward Erasure Correction implementation library
   Homepage: http://openfec.org
 - Package: libopenmpt
-  Version: 0.7.12
+  Version: 0.7.13
   Description: OpenMPT based module player library and libopenmpt based command-line player
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopenmpt-static
-  Version: 0.7.12
+  Version: 0.7.13
   Description: Static libraries for libopenmpt
   Homepage: https://lib.openmpt.org/libopenmpt/
 - Package: libopus
@@ -8659,7 +8659,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20250107"
+  Version: "20250108"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -10275,23 +10275,23 @@
   Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
   Homepage: http://websocketd.com/
 - Package: weechat
-  Version: 4.4.3
+  Version: 4.5.1
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.4.3
+  Version: 4.5.1
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-perl-plugin
-  Version: 4.4.3
+  Version: 4.5.1
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.4.3
+  Version: 4.5.1
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.4.3
+  Version: 4.5.1
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli

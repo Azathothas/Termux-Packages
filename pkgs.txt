@@ -719,7 +719,7 @@
  inotify-tools  4.23.9.0  Programs providing a simple interface to inotify  https://github.com/rvoicilas/inotify-tools/wiki 
  inotify-tools-static  4.23.9.0  Static libraries for inotify-tools  https://github.com/rvoicilas/inotify-tools/wiki 
  intltool  0.51.0-3  The internationalization tool collection  https://launchpad.net/intltool 
- inxi  3.3.36-1-0  Full featured CLI system information tool  https://smxi.org/site/about.htm#inxi 
+ inxi  3.3.37-1-0  Full featured CLI system information tool  https://smxi.org/site/about.htm#inxi 
  ipcalc  0.51  Calculates IP broadcast, network, Cisco wildcard mask, and host ranges  http://jodies.de/ipcalc 
  iperf3  3.18  TCP, UDP, and SCTP network bandwidth measurement tool  https://github.com/esnet/iperf 
  iperf3-static  3.18  Static libraries for iperf3  https://github.com/esnet/iperf 
@@ -1219,8 +1219,8 @@
  libopencore-amr  0.1.6  Open source implementation of the Adaptive Multi Rate (AMR) speech codec  https://sourceforge.net/projects/opencore-amr 
  libopencore-amr-static  0.1.6  Static libraries for libopencore-amr  https://sourceforge.net/projects/opencore-amr 
  libopenfec  1.4.2.11  Application-Level Forward Erasure Correction implementation library  http://openfec.org 
- libopenmpt  0.7.12  OpenMPT based module player library and libopenmpt based command-line player  https://lib.openmpt.org/libopenmpt/ 
- libopenmpt-static  0.7.12  Static libraries for libopenmpt  https://lib.openmpt.org/libopenmpt/ 
+ libopenmpt  0.7.13  OpenMPT based module player library and libopenmpt based command-line player  https://lib.openmpt.org/libopenmpt/ 
+ libopenmpt-static  0.7.13  Static libraries for libopenmpt  https://lib.openmpt.org/libopenmpt/ 
  libopus  1.5.2  Reference implementation of the Opus codec  https://www.opus-codec.org/ 
  libopus-static  1.5.2  Static libraries for libopus  https://www.opus-codec.org/ 
  libopusenc  0.2.1-3  High-level API for encoding .opus files  https://github.com/xiph/libopusenc 
@@ -2163,7 +2163,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.6.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.83.0-2  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20250107  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20250108  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.71.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.83.0-2  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.83.0-2  Rust source code files  https://www.rust-lang.org/ 
@@ -2567,11 +2567,11 @@
  webp-pixbuf-loader  0.2.7  WebM GDK Pixbuf Loader library  https://github.com/aruiz/webp-pixbuf-loader 
  websocat  1.14.0  Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions  https://github.com/vi/websocat 
  websocketd  0.4.1-3  Turn any program that uses STDIN/STDOUT into a WebSocket server  http://websocketd.com/ 
- weechat  4.4.3  Fast, light and extensible IRC chat client  https://weechat.org/ 
- weechat-lua-plugin  4.4.3  WeeChat Lua Plugin  https://weechat.org/ 
- weechat-perl-plugin  4.4.3  WeeChat Perl Plugin  https://weechat.org/ 
- weechat-python-plugin  4.4.3  WeeChat Python3 Plugin  https://weechat.org/ 
- weechat-ruby-plugin  4.4.3  WeeChat Ruby Plugin  https://weechat.org/ 
+ weechat  4.5.1  Fast, light and extensible IRC chat client  https://weechat.org/ 
+ weechat-lua-plugin  4.5.1  WeeChat Lua Plugin  https://weechat.org/ 
+ weechat-perl-plugin  4.5.1  WeeChat Perl Plugin  https://weechat.org/ 
+ weechat-python-plugin  4.5.1  WeeChat Python3 Plugin  https://weechat.org/ 
+ weechat-ruby-plugin  4.5.1  WeeChat Ruby Plugin  https://weechat.org/ 
  weggli  0.2.4-2  A fast and robust semantic search tool for C and C++ codebases  https://github.com/googleprojectzero/weggli 
  wego  2.3  weather app for the terminal  https://github.com/schachmat/wego 
  wget  1.25.0  Commandline tool for retrieving files using HTTP, HTTPS and FTP  https://www.gnu.org/software/wget/ 
