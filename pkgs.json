@@ -1099,7 +1099,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.9.0",
+    "Version": "2.9.1",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -1777,7 +1777,7 @@
   },
   {
     "Package": "dart",
-    "Version": "3.6.0",
+    "Version": "3.6.1",
     "Description": "Dart is a general-purpose programming language",
     "Homepage": "https://dart.dev/"
   },
@@ -6787,19 +6787,19 @@
   },
   {
     "Package": "libmaxminddb",
-    "Version": "1.12.0",
+    "Version": "1.12.1",
     "Description": "MaxMind GeoIP2 database - library and utilities",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-static",
-    "Version": "1.12.0",
+    "Version": "1.12.1",
     "Description": "Static libraries for libmaxminddb",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-tools",
-    "Version": "1.12.0",
+    "Version": "1.12.1",
     "Description": "A geoip lookup utility for MaxMind DB",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.15",
+    "Version": "0.5.16",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
