@@ -463,7 +463,7 @@
   Description: Tetris clone with bastard block-choosing AI
   Homepage: http://fph.altervista.org/prog/bastet.html
 - Package: bat
-  Version: 0.24.0-3
+  Version: 0.25.0
   Description: A cat(1) clone with wings
   Homepage: https://github.com/sharkdp/bat
 - Package: bc
@@ -667,7 +667,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: buf
-  Version: 1.48.0
+  Version: 1.49.0
   Description: A new way of working with Protocol Buffers
   Homepage: https://buf.build
 - Package: build-essential
@@ -2987,7 +2987,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.72.5
+  Version: 2.73.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -4523,15 +4523,15 @@
   Description: Matroska library
   Homepage: https://dl.matroska.org/downloads/libmatroska/
 - Package: libmaxminddb
-  Version: 1.11.0
+  Version: 1.12.0
   Description: MaxMind GeoIP2 database - library and utilities
   Homepage: https://dev.maxmind.com/geoip/geoip2/
 - Package: libmaxminddb-static
-  Version: 1.11.0
+  Version: 1.12.0
   Description: Static libraries for libmaxminddb
   Homepage: https://dev.maxmind.com/geoip/geoip2/
 - Package: libmaxminddb-tools
-  Version: 1.11.0
+  Version: 1.12.0
   Description: A geoip lookup utility for MaxMind DB
   Homepage: https://dev.maxmind.com/geoip/geoip2/
 - Package: libmcrypt
