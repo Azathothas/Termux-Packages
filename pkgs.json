@@ -10471,7 +10471,7 @@
   },
   {
     "Package": "ncspot",
-    "Version": "1.2.1-1",
+    "Version": "1.2.1-2",
     "Description": "An ncurses Spotify client written in Rust",
     "Homepage": "https://github.com/hrkfdn/ncspot"
   },
