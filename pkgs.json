@@ -11659,7 +11659,7 @@
   },
   {
     "Package": "pipewire",
-    "Version": "1.2.0-2",
+    "Version": "1.2.7",
     "Description": "A server and user space API to deal with multimedia pipelines",
     "Homepage": "https://pipewire.org/"
   },

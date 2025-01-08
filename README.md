@@ -1953,7 +1953,7 @@
 | **pingme** | 0.2.6-3 | A small utility which can be called from anywhere to send a message with particular information | https://github.com/kha7iq/pingme |
 | **pipebuffer** | 0.0.git20211120 | Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline) | https://github.com/tfenne/pipebuffer |
 | **pipes.sh** | 2018.04.22-1 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
-| **pipewire** | 1.2.0-2 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
+| **pipewire** | 1.2.7 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 22 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
