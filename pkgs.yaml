@@ -1503,7 +1503,7 @@
   Description: Eclipse Compiler for Java
   Homepage: https://www.eclipse.org/jdt/core/
 - Package: ed
-  Version: 1.20.2
+  Version: "1.21"
   Description: Classic UNIX line editor
   Homepage: https://www.gnu.org/software/ed/
 - Package: edbrowse
@@ -3155,7 +3155,7 @@
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
-  Version: 1.31.0
+  Version: 1.31.1
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: ladspa-sdk
@@ -9543,7 +9543,7 @@
   Description: The TeX Gyre (TG) Collection of Fonts
   Homepage: https://www.gust.org.pl/projects/e-foundry/tex-gyre/
 - Package: texinfo
-  Version: 7.1.1
+  Version: "7.2"
   Description: Documentation system for on-line information and printed output
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: texlab
@@ -9963,7 +9963,7 @@
   Description: Helps interactively and incrementally explore textual data in Linux
   Homepage: https://github.com/akavel/up
 - Package: update-info-dir
-  Version: 7.1.1
+  Version: "7.2"
   Description: Update or create index file from all installed info files in directory
   Homepage: https://www.gnu.org/software/texinfo/
 - Package: upscaledb-tools
@@ -10167,7 +10167,7 @@
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://vtm.netxs.online/
 - Package: vttest
-  Version: "20241204"
+  Version: "20241208"
   Description: Program for testing the VT100 compatibility of terminal emulators
   Homepage: https://invisible-island.net/vttest/
 - Package: vtutils
