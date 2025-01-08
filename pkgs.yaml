@@ -7975,7 +7975,7 @@
   Description: Tunnel TCP connections through ICMP
   Homepage: https://github.com/lnslbrty/ptunnel-ng
 - Package: pueue
-  Version: 3.4.1-1
+  Version: 4.0.0-rc.1-1
   Description: A command-line task management tool for sequential and parallel execution of long-running tasks
   Homepage: https://github.com/Nukesor/pueue
 - Package: pulseaudio
@@ -10251,7 +10251,7 @@
   Description: WavPack command-line programs
   Homepage: https://www.wavpack.com/
 - Package: waypipe
-  Version: 0.9.2-2
+  Version: 0.10.0
   Description: A proxy for Wayland clients
   Homepage: https://gitlab.freedesktop.org/mstoeckl/waypipe
 - Package: wcalc

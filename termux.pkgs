@@ -1992,7 +1992,7 @@
 | **ptex** | 2.4.3 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
 | **ptex-static** | 2.4.3 | Static libraries for ptex | https://github.com/wdas/ptex |
 | **ptunnel-ng** | 1.43 | Tunnel TCP connections through ICMP | https://github.com/lnslbrty/ptunnel-ng |
-| **pueue** | 3.4.1-1 | A command-line task management tool for sequential and parallel execution of long-running tasks | https://github.com/Nukesor/pueue |
+| **pueue** | 4.0.0-rc.1-1 | A command-line task management tool for sequential and parallel execution of long-running tasks | https://github.com/Nukesor/pueue |
 | **pulseaudio** | 17.0-1 | A featureful, general-purpose sound server | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pulseaudio-glib** | 17.0-1 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pulseaudio-glib-static** | 14.2-10 | Static library for PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
@@ -2561,7 +2561,7 @@
 | **wasmedge-static** | 0.14.0 | Static libraries for wasmedge | https://wasmedge.org/ |
 | **watchexec** | 2.1.2 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.7.0 | WavPack command-line programs | https://www.wavpack.com/ |
-| **waypipe** | 0.9.2-2 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
+| **waypipe** | 0.10.0 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-5 | Capable calculator | http://w-calc.sourceforge.net |
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **webp-pixbuf-loader** | 0.2.7 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
