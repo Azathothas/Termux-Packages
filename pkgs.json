@@ -9931,19 +9931,19 @@
   },
   {
     "Package": "mesa",
-    "Version": "24.2.8",
+    "Version": "24.3.3",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "24.2.8",
+    "Version": "24.3.3",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "24.2.8",
+    "Version": "24.3.3",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -11191,7 +11191,7 @@
   },
   {
     "Package": "osmesa",
-    "Version": "24.2.8",
+    "Version": "24.3.3",
     "Description": "Mesa Off-screen Rendering Library",
     "Homepage": "https://www.mesa3d.org"
   },
