@@ -1810,7 +1810,7 @@
 | **nss-utils** | 3.107 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 5.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.101.0 | A new type of shell operating on structured data | https://www.nushell.sh |
-| **nwipe** | 0.37-1 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
+| **nwipe** | 0.38 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
 | **o-editor** | 2.68.6 | Small, fast and limited text editor | https://github.com/xyproto/o |

@@ -7199,7 +7199,7 @@
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nwipe
-  Version: 0.37-1
+  Version: "0.38"
   Description: A program that will securely erase the entire contents of disks
   Homepage: https://github.com/martijnvanbrummelen/nwipe
 - Package: nyancat
