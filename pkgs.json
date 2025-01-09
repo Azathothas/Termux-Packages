@@ -3865,7 +3865,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.1.1",
+    "Version": "3.1.2",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -6889,7 +6889,7 @@
   },
   {
     "Package": "libminizip-ng",
-    "Version": "4.0.7",
+    "Version": "4.0.8",
     "Description": "A zip manipulation library written in C",
     "Homepage": "https://github.com/zlib-ng/minizip-ng"
   },
@@ -12523,7 +12523,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.20.1",
+    "Version": "3.20.2",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
