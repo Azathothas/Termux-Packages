@@ -2503,8 +2503,8 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.34.0",
-    "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
+    "Version": "2.34.0-1",
+    "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
   {
@@ -3517,13 +3517,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.23.2",
+    "Version": "3:1.23.4",
     "Description": "Go programming language compiler",
     "Homepage": "https://golang.org/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.23.2",
+    "Version": "3:1.23.4",
     "Description": "Go programming language - documentation",
     "Homepage": "https://golang.org/"
   },
