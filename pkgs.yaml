@@ -6735,7 +6735,7 @@
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
-  Version: 2.35.1
+  Version: 2.36.0
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
@@ -7035,7 +7035,7 @@
   Description: Simple system information script
   Homepage: https://github.com/dylanaraps/neofetch
 - Package: neomutt
-  Version: "20241212"
+  Version: "20250109"
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
@@ -7155,15 +7155,15 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
-  Version: 3.0.11-1
+  Version: 3.0.12
   Description: blingful TUIs and character graphics
   Homepage: https://notcurses.com/
 - Package: notcurses-data
-  Version: 3.0.11-1
+  Version: 3.0.12
   Description: Platform-independent data for notcurses
   Homepage: https://notcurses.com/
 - Package: notcurses-tools
-  Version: 3.0.11-1
+  Version: 3.0.12
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch
