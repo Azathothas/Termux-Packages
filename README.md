@@ -2170,7 +2170,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.6 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.6 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.8.6 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.9.0 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2241,7 +2241,7 @@
 | **silicon** | 0.5.3 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-5 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 3.11.4 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 3.11.5 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-1 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |

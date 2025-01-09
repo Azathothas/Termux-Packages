@@ -8639,7 +8639,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.8.6
+  Version: 0.9.0
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -8923,7 +8923,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 3.11.4
+  Version: 3.11.5
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
