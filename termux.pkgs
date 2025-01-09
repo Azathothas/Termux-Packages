@@ -410,12 +410,12 @@
 | **exiv2** | 2:0.28.3 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.20.15 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.20.16 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.36.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.36.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.33.0 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.34.0 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.77.3 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -537,7 +537,7 @@
 | **git-lfs** | 3.6.0 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.47.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.22.6 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.23.0 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.40.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.26.3-1 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
@@ -547,7 +547,7 @@
 | **glib** | 2.82.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.82.4 | Programs for the GLib library | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.82.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
-| **glib-networking** | 2.80.0 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
+| **glib-networking** | 2.80.1 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 0.9.9.8 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
 | **global** | 6.6.14 | Source code search and browse tools | https://www.gnu.org/software/global/ |

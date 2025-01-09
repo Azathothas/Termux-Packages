@@ -2473,7 +2473,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.15",
+    "Version": "0.20.16",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -2503,7 +2503,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.33.0",
+    "Version": "2.34.0",
     "Description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -3235,7 +3235,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.22.6",
+    "Version": "1.23.0",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "Package": "glib-networking",
-    "Version": "2.80.0",
+    "Version": "2.80.1",
     "Description": "Network-related giomodules for glib",
     "Homepage": "https://gitlab.gnome.org/GNOME/glib-networking"
   },
