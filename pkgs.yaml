@@ -1407,7 +1407,7 @@
   Description: Binary-decimal and decimal-binary routines for IEEE doubles
   Homepage: https://github.com/google/double-conversion
 - Package: doxygen
-  Version: 1.13.1
+  Version: 1.13.2
   Description: A documentation system for C++, C, Java, IDL and PHP
   Homepage: http://www.doxygen.org
 - Package: dpkg
@@ -3499,7 +3499,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.27.1
+  Version: 5.27.2
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -6731,7 +6731,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: moar
-  Version: 1.31.0
+  Version: 1.31.1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
@@ -9343,7 +9343,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 1.29.0
+  Version: 1.29.1
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
@@ -9895,7 +9895,7 @@
   Description: ugit helps you undo your last git command with grace. Your damage control git buddy
   Homepage: https://github.com/Bhupesh-V/ugit
 - Package: ugrep
-  Version: 7.1.2
+  Version: 7.1.3
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
@@ -10115,7 +10115,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.0950-1
+  Version: 9.1.1000
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10467,7 +10467,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.1.0950-1
+  Version: 9.1.1000
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
