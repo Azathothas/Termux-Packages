@@ -11269,9 +11269,9 @@
   },
   {
     "Package": "pango",
-    "Version": "1.54.0",
+    "Version": "1.56.0",
     "Description": "Library for laying out and rendering text",
-    "Homepage": "https://www.pango.org/"
+    "Homepage": "https://www.gtk.org/docs/architecture/pango"
   },
   {
     "Package": "paperkey",
