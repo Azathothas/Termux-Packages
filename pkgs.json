@@ -6787,19 +6787,19 @@
   },
   {
     "Package": "libmaxminddb",
-    "Version": "1.12.1",
+    "Version": "1.12.2",
     "Description": "MaxMind GeoIP2 database - library and utilities",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-static",
-    "Version": "1.12.1",
+    "Version": "1.12.2",
     "Description": "Static libraries for libmaxminddb",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-tools",
-    "Version": "1.12.1",
+    "Version": "1.12.2",
     "Description": "A geoip lookup utility for MaxMind DB",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },

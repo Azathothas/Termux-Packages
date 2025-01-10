@@ -1129,9 +1129,9 @@
  libmariadbcpp  1.1.2  Enables C++ applications to establish client connections to MariaDB Enterprise over TLS  https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/ 
  libmatio  1.5.28  A C library for reading and writing Matlab MAT files  https://github.com/tbeu/matio 
  libmatroska  1.7.1  Matroska library  https://dl.matroska.org/downloads/libmatroska/ 
- libmaxminddb  1.12.1  MaxMind GeoIP2 database - library and utilities  https://dev.maxmind.com/geoip/geoip2/ 
- libmaxminddb-static  1.12.1  Static libraries for libmaxminddb  https://dev.maxmind.com/geoip/geoip2/ 
- libmaxminddb-tools  1.12.1  A geoip lookup utility for MaxMind DB  https://dev.maxmind.com/geoip/geoip2/ 
+ libmaxminddb  1.12.2  MaxMind GeoIP2 database - library and utilities  https://dev.maxmind.com/geoip/geoip2/ 
+ libmaxminddb-static  1.12.2  Static libraries for libmaxminddb  https://dev.maxmind.com/geoip/geoip2/ 
+ libmaxminddb-tools  1.12.2  A geoip lookup utility for MaxMind DB  https://dev.maxmind.com/geoip/geoip2/ 
  libmcrypt  2.5.8-5  A library which provides a uniform interface to several symmetric encryption algorithms  https://mcrypt.sourceforge.net/ 
  libmcrypt-static  2.5.8-5  Static libraries for libmcrypt  https://mcrypt.sourceforge.net/ 
  libmd  1.1.0  Message Digest functions from BSD systems  https://www.hadrons.org/software/libmd/ 
