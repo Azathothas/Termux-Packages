@@ -6159,7 +6159,7 @@
   Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
   Homepage: https://github.com/nu-book/zxing-cpp
 - Package: lighttpd
-  Version: 1.4.76-1
+  Version: 1.4.77
   Description: Fast webserver with minimal memory footprint
   Homepage: https://www.lighttpd.net
 - Package: lighttpd-static
@@ -7707,7 +7707,7 @@
   Description: gd module for PHP
   Homepage: https://php.net
 - Package: php-imagick
-  Version: 3.7.0-5
+  Version: 3.7.0-6
   Description: The Imagick PHP extension
   Homepage: https://github.com/Imagick/imagick
 - Package: php-ldap
