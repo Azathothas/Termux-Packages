@@ -3235,7 +3235,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.23.0",
+    "Version": "1.23.1",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -11719,7 +11719,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.24.1",
+    "Version": "0.24.2",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
