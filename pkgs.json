@@ -11233,7 +11233,7 @@
   },
   {
     "Package": "p7zip",
-    "Version": "17.05-1",
+    "Version": "17.06",
     "Description": "Command-line version of the 7zip compressed file archiver",
     "Homepage": "https://github.com/p7zip-project/p7zip"
   },

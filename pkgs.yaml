@@ -7487,7 +7487,7 @@
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 - Package: p7zip
-  Version: 17.05-1
+  Version: "17.06"
   Description: Command-line version of the 7zip compressed file archiver
   Homepage: https://github.com/p7zip-project/p7zip
 - Package: pacman
