@@ -4759,7 +4759,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.44.1",
+    "Version": "0.45.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -10543,7 +10543,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.15",
+    "Version": "0.8.16",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://github.com/Decodetalkers/neocmakelsp"
   },
