@@ -703,11 +703,11 @@
   Description: Compile and execute C scripts in one go!
   Homepage: https://github.com/ryanmjacobs/c
 - Package: c-toxcore
-  Version: 0.2.18-p20240317-0
+  Version: 0.2.20-p20250105-0
   Description: Backend library for the Tox protocol
   Homepage: https://tox.chat
 - Package: c-toxcore-static
-  Version: 0.2.18-p20240317-0
+  Version: 0.2.20-p20250105-0
   Description: Static libraries for c-toxcore
   Homepage: https://tox.chat
 - Package: ca-certificates
@@ -9683,7 +9683,7 @@
   Description: Simple GObject-based library to parse and save a host of playlist formats
   Homepage: https://gitlab.gnome.org/GNOME/totem-pl-parser
 - Package: toxic
-  Version: 0.16.0
+  Version: 0.16.1
   Description: A command line client for Tox
   Homepage: https://github.com/JFreegman/toxic
 - Package: tracepath
@@ -10275,23 +10275,23 @@
   Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
   Homepage: http://websocketd.com/
 - Package: weechat
-  Version: 4.5.1
+  Version: 4.5.1-1
   Description: Fast, light and extensible IRC chat client
   Homepage: https://weechat.org/
 - Package: weechat-lua-plugin
-  Version: 4.5.1
+  Version: 4.5.1-1
   Description: WeeChat Lua Plugin
   Homepage: https://weechat.org/
 - Package: weechat-perl-plugin
-  Version: 4.5.1
+  Version: 4.5.1-1
   Description: WeeChat Perl Plugin
   Homepage: https://weechat.org/
 - Package: weechat-python-plugin
-  Version: 4.5.1
+  Version: 4.5.1-1
   Description: WeeChat Python3 Plugin
   Homepage: https://weechat.org/
 - Package: weechat-ruby-plugin
-  Version: 4.5.1
+  Version: 4.5.1-1
   Description: WeeChat Ruby Plugin
   Homepage: https://weechat.org/
 - Package: weggli
