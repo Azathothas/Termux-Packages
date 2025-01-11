@@ -9179,7 +9179,7 @@
   Description: Streaming bar graphs. For stats and stuff.
   Homepage: https://github.com/seenaburns/stag
 - Package: starship
-  Version: 1.21.1-2
+  Version: 1.22.1
   Description: A minimal, blazing fast, and extremely customizable prompt for any shell
   Homepage: https://starship.rs
 - Package: stdman
