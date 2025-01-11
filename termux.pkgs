@@ -236,8 +236,8 @@
 | **cloudflared** | 2025.1.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20241210.164434 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 3.31.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 3.31.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 3.31.4 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 3.31.4 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -529,14 +529,14 @@
 | **giflib-utils** | 5.2.2 | A set of utilities that comes with giflib package | https://giflib.sourceforge.net/ |
 | **gifsicle** | 1.95 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
 | **gifski** | 1.32.0 | GIF encoder based on libimagequant | https://gif.ski/ |
-| **git** | 2.47.1 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
+| **git** | 2.48.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.18.2 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
-| **git-gitk** | 2.47.1 | Git repository browser | https://git-scm.com/ |
-| **git-gui** | 2.47.1 | A graphical interface to Git | https://git-scm.com/ |
+| **git-gitk** | 2.48.0 | Git repository browser | https://git-scm.com/ |
+| **git-gui** | 2.48.0 | A graphical interface to Git | https://git-scm.com/ |
 | **git-lfs** | 3.6.0 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
-| **git-svn** | 2.47.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
+| **git-svn** | 2.48.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **gitea** | 1.23.1 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.40.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
@@ -1269,7 +1269,7 @@
 | **libprotozero** | 1.7.1 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
 | **libpsl** | 0.21.5 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
 | **libpsl-static** | 0.21.5 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
-| **libpugixml** | 1.14 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
+| **libpugixml** | 1.15 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
 | **libqrencode** | 4.1.1 | Fast and compact library for encoding data in a QR Code symbol | https://fukuchi.org/works/qrencode/ |
 | **libraptor2** | 2.0.16-6 | RDF Syntax Library | https://librdf.org/raptor/ |
 | **libraptor2-static** | 2.0.16-6 | Static libraries for libraptor2 | https://librdf.org/raptor/ |
@@ -2158,7 +2158,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.3.6 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.3.6 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.9.0 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.9.1 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2357,7 +2357,7 @@
 | **tectonic** | 0.15.0-3 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 17.1.4 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 17.1.5 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.6.0 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
@@ -2504,7 +2504,7 @@
 | **util-linux-static** | 2.40.2-2 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-2 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.5.16 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.5.17 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.28 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.23.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

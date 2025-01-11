@@ -1429,13 +1429,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "3.31.3",
+    "Version": "3.31.4",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "3.31.3",
+    "Version": "3.31.4",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -3187,7 +3187,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.47.1",
+    "Version": "2.48.0",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3205,13 +3205,13 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.47.1",
+    "Version": "2.48.0",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.47.1",
+    "Version": "2.48.0",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.47.1",
+    "Version": "2.48.0",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -7627,7 +7627,7 @@
   },
   {
     "Package": "libpugixml",
-    "Version": "1.14",
+    "Version": "1.15",
     "Description": "Light-weight, simple and fast XML parser for C++ with XPath support",
     "Homepage": "https://pugixml.org/"
   },
@@ -12961,7 +12961,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.9.0",
+    "Version": "0.9.1",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14155,7 +14155,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "17.1.4",
+    "Version": "17.1.5",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.16",
+    "Version": "0.5.17",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
