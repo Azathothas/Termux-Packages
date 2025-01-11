@@ -517,7 +517,7 @@
   },
   {
     "Package": "at-spi2-core",
-    "Version": "2.54.0",
+    "Version": "2.54.1",
     "Description": "Assistive Technology Service Provider Interface (AT-SPI)",
     "Homepage": "https://wiki.gnome.org/Accessibility"
   },
@@ -1141,7 +1141,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.7-1",
+    "Version": "0.10.8",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -3871,19 +3871,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "10.1.0-1",
+    "Version": "10.2.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "10.1.0-1",
+    "Version": "10.2.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "10.1.0-1",
+    "Version": "10.2.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -3943,7 +3943,7 @@
   },
   {
     "Package": "helm-ls",
-    "Version": "0.1.0",
+    "Version": "0.1.1",
     "Description": "Language server for Helm",
     "Homepage": "https://github.com/mrjosh/helm-ls"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.17",
+    "Version": "0.5.18",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
