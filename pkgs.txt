@@ -1671,8 +1671,8 @@
  minio  2024.12.18.13.15.44  Multi-Cloud Object Storage  https://min.io/ 
  miniserve  0.28.0  Tool to serve files and dirs over HTTP  https://github.com/svenstaro/miniserve 
  minisign  0.11-1  A dead simple tool to sign files and verify signatures  https://jedisct1.github.io/minisign/ 
- miniupnpc  2.2.8-1  Small UPnP client library and tool to access Internet Gateway Devices  https://miniupnp.tuxfamily.org/ 
- miniupnpc-static  2.2.8-1  Static libraries for miniupnpc  https://miniupnp.tuxfamily.org/ 
+ miniupnpc  2.3.0  Small UPnP client library and tool to access Internet Gateway Devices  https://miniupnp.tuxfamily.org/ 
+ miniupnpc-static  2.3.0  Static libraries for miniupnpc  https://miniupnp.tuxfamily.org/ 
  minizinc  2.8.7  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.8.7  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
  mkbootimg  2022.11.09  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 

@@ -6691,11 +6691,11 @@
   Description: A dead simple tool to sign files and verify signatures
   Homepage: https://jedisct1.github.io/minisign/
 - Package: miniupnpc
-  Version: 2.2.8-1
+  Version: 2.3.0
   Description: Small UPnP client library and tool to access Internet Gateway Devices
   Homepage: https://miniupnp.tuxfamily.org/
 - Package: miniupnpc-static
-  Version: 2.2.8-1
+  Version: 2.3.0
   Description: Static libraries for miniupnpc
   Homepage: https://miniupnp.tuxfamily.org/
 - Package: minizinc
