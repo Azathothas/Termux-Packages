@@ -961,7 +961,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.44.5",
+    "Version": "1.44.6",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -10351,7 +10351,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "19.0.2",
+    "Version": "19.0.3",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -11719,7 +11719,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.24.2",
+    "Version": "0.24.3",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },

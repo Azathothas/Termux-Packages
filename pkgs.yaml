@@ -639,7 +639,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.44.5
+  Version: 1.44.6
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -6899,7 +6899,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 19.0.2
+  Version: 19.0.3
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -7811,7 +7811,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.24.2
+  Version: 0.24.3
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
