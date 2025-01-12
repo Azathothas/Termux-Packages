@@ -559,7 +559,7 @@
   Description: A simple, fast, clean and dynamic language
   Homepage: https://bladelang.com/
 - Package: blas-openblas
-  Version: 0.3.28
+  Version: 0.3.29
   Description: OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE
   Homepage: https://www.openblas.net
 - Package: blink
@@ -4859,11 +4859,11 @@
   Description: An implementation of the Double Ratchet cryptographic ratchet
   Homepage: https://matrix.org/docs/projects/other/olm/
 - Package: libopenblas
-  Version: 0.3.28
+  Version: 0.3.29
   Description: An optimized BLAS library based on GotoBLAS2 1.13 BSD
   Homepage: https://www.openblas.net
 - Package: libopenblas-static
-  Version: 0.3.28
+  Version: 0.3.29
   Description: Static libraries for libopenblas
   Homepage: https://www.openblas.net
 - Package: libopencc
@@ -6155,9 +6155,9 @@
   Description: Static libraries for libzthread
   Homepage: http://zthread.sourceforge.net/
 - Package: libzxing-cpp
-  Version: 2.2.1
+  Version: 2.3.0
   Description: An open-source, multi-format 1D/2D barcode image processing library implemented in C++
-  Homepage: https://github.com/nu-book/zxing-cpp
+  Homepage: https://github.com/zxing-cpp/zxing-cpp
 - Package: lighttpd
   Version: 1.4.77
   Description: Fast webserver with minimal memory footprint
@@ -6731,7 +6731,7 @@
   Description: Tool to find files anywhere in the filesystem based on their name
   Homepage: https://pagure.io/mlocate
 - Package: moar
-  Version: 1.31.1
+  Version: 1.31.2
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moar
 - Package: mold
@@ -8387,7 +8387,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.68.2
+  Version: 1.69.0
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -8551,7 +8551,7 @@
   Description: Wrapper using readline to enable editing of keyboard input for commands
   Homepage: https://github.com/hanslub42/rlwrap
 - Package: rnr
-  Version: 0.4.2
+  Version: 0.5.0
   Description: Batch rename files and directories using regular expression (rust)
   Homepage: https://github.com/ismaelgv/rnr
 - Package: robin-map
@@ -9343,7 +9343,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 1.29.1
+  Version: 1.29.2
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
