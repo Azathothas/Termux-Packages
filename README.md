@@ -2642,7 +2642,7 @@
 | **yazi** | 0.4.2 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.48 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.2 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.44.6 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.45.1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-2 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
 | **yuma123** | 2.13-2 | Provides an opensource YANG API in C | https://yuma123.org/ |

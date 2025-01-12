@@ -10527,7 +10527,7 @@
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.44.6
+  Version: 4.45.1
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: ytfzf
