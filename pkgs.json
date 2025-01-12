@@ -10591,7 +10591,7 @@
   },
   {
     "Package": "netcat-openbsd",
-    "Version": "1.226-1-0",
+    "Version": "1.228-1-0",
     "Description": "TCP/IP swiss army knife. OpenBSD variant.",
     "Homepage": "https://packages.debian.org/sid/netcat-openbsd"
   },
@@ -10951,7 +10951,7 @@
   },
   {
     "Package": "openal-soft",
-    "Version": "1.24.1",
+    "Version": "1.24.2",
     "Description": "Software implementation of the OpenAL API",
     "Homepage": "https://openal-soft.org/"
   },
