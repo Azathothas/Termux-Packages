@@ -7155,15 +7155,15 @@
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
-  Version: 3.0.12
+  Version: 3.0.13
   Description: blingful TUIs and character graphics
   Homepage: https://notcurses.com/
 - Package: notcurses-data
-  Version: 3.0.12
+  Version: 3.0.13
   Description: Platform-independent data for notcurses
   Homepage: https://notcurses.com/
 - Package: notcurses-tools
-  Version: 3.0.12
+  Version: 3.0.13
   Description: Tools and demos for notcurses
   Homepage: https://notcurses.com/
 - Package: notmuch
@@ -7251,7 +7251,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 24.18.0
+  Version: 24.18.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
