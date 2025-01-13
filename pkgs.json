@@ -12001,7 +12001,7 @@
   },
   {
     "Package": "pv",
-    "Version": "1.9.25",
+    "Version": "1.9.27",
     "Description": "Terminal-based tool for monitoring the progress of data through a pipeline",
     "Homepage": "https://www.ivarch.com/programs/pv.shtml"
   },
@@ -14563,7 +14563,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.24.6-1",
+    "Version": "0.24.7",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
@@ -14623,7 +14623,7 @@
   },
   {
     "Package": "tree-sitter-static",
-    "Version": "0.24.6-1",
+    "Version": "0.24.7",
     "Description": "Static libraries for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter"
   },
