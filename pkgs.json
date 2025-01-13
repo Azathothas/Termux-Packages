@@ -1303,7 +1303,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.57.0",
+    "Version": "2.58.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },

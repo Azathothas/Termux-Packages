@@ -215,7 +215,7 @@
 | **chafa-static** | 1.14.5 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.57.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.58.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
