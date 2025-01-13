@@ -4723,7 +4723,7 @@
   },
   {
     "Package": "kubecolor",
-    "Version": "0.4.0",
+    "Version": "0.5.0",
     "Description": "Colorize your kubectl output",
     "Homepage": "https://github.com/kubecolor/kubecolor"
   },
@@ -7381,7 +7381,7 @@
   },
   {
     "Package": "libosmium",
-    "Version": "2.20.0",
+    "Version": "2.21.0",
     "Description": "Library for reading from and writing to OSM files in XML and PBF formats",
     "Homepage": "https://osmcode.org/libosmium/"
   },
@@ -12289,13 +12289,13 @@
   },
   {
     "Package": "qalc",
-    "Version": "5.4.0",
+    "Version": "5.5.0",
     "Description": "Powerful and easy to use command line calculator",
     "Homepage": "https://qalculate.github.io/"
   },
   {
     "Package": "qalc-static",
-    "Version": "5.4.0",
+    "Version": "5.5.0",
     "Description": "Static libraries for qalc",
     "Homepage": "https://qalculate.github.io/"
   },
@@ -14485,7 +14485,7 @@
   },
   {
     "Package": "toml11",
-    "Version": "4.2.0",
+    "Version": "4.3.0",
     "Description": "toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library",
     "Homepage": "https://github.com/ToruNiina/toml11"
   },

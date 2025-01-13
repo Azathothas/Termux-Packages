@@ -3147,7 +3147,7 @@
   Description: The Kerberos network authentication system
   Homepage: https://web.mit.edu/kerberos
 - Package: kubecolor
-  Version: 0.4.0
+  Version: 0.5.0
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
@@ -4919,7 +4919,7 @@
   Description: Static libraries for libosl
   Homepage: http://icps.u-strasbg.fr/~bastoul/development/openscop
 - Package: libosmium
-  Version: 2.20.0
+  Version: 2.21.0
   Description: Library for reading from and writing to OSM files in XML and PBF formats
   Homepage: https://osmcode.org/libosmium/
 - Package: libosmpbf
@@ -8191,11 +8191,11 @@
   Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
   Homepage: https://github.com/natesales/q
 - Package: qalc
-  Version: 5.4.0
+  Version: 5.5.0
   Description: Powerful and easy to use command line calculator
   Homepage: https://qalculate.github.io/
 - Package: qalc-static
-  Version: 5.4.0
+  Version: 5.5.0
   Description: Static libraries for qalc
   Homepage: https://qalculate.github.io/
 - Package: qemu-common
@@ -9655,7 +9655,7 @@
   Description: An open world roguelike adventure set in middle earth
   Homepage: https://github.com/tome2/tome2
 - Package: toml11
-  Version: 4.2.0
+  Version: 4.3.0
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
