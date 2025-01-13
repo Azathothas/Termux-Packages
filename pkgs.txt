@@ -415,7 +415,7 @@
  fakeroot  1.36.2  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.36.2  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
  fasd  1.0.2  To fastly access files and folders  https://github.com/whjvenyl/fasd 
- fastfetch  2.34.0-1  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
+ fastfetch  2.34.1  A maintained, feature-rich and performance oriented, neofetch like system information tool  https://github.com/fastfetch-cli/fastfetch 
  fastmod  0.4.4  Regex-based code refactoring utility  https://github.com/facebookincubator/fastmod 
  fatsort  1.6.5.640  A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions  https://fatsort.sourceforge.io/ 
  faust  2.77.3  A functional programming language for signal processing and sound synthesis  https://github.com/grame-cncm/faust 
@@ -1757,7 +1757,7 @@
  nelua  2024.01.13  Minimal, efficient, statically-typed and meta-programmable systems programming language  https://nelua.io 
  neocmakelsp  0.8.16  a cmake lsp based on tower-lsp and treesitter  https://github.com/Decodetalkers/neocmakelsp 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
- neomutt  20250109  A version of mutt with added features  https://neomutt.org/ 
+ neomutt  20250113  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.10.3  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
  nerdfix  0.4.2  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.4  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
@@ -2163,7 +2163,7 @@
  runit-static  2.1.2-3  Static libraries for runit  http://smarden.org/runit 
  rush  0.6.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.84.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20250108  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20250113  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.71.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.84.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.84.0  Rust source code files  https://www.rust-lang.org/ 

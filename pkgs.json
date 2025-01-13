@@ -2503,7 +2503,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.34.0-1",
+    "Version": "2.34.1",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -10555,7 +10555,7 @@
   },
   {
     "Package": "neomutt",
-    "Version": "20250109",
+    "Version": "20250113",
     "Description": "A version of mutt with added features",
     "Homepage": "https://neomutt.org/"
   },
@@ -12991,7 +12991,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250108",
+    "Version": "20250113",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
