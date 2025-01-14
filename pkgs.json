@@ -10279,7 +10279,7 @@
   },
   {
     "Package": "msmtp",
-    "Version": "1.8.27",
+    "Version": "1.8.28",
     "Description": "Lightweight SMTP client",
     "Homepage": "https://marlam.de/msmtp/"
   },
@@ -15049,7 +15049,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.23.0",
+    "Version": "5.24.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },

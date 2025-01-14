@@ -1711,7 +1711,7 @@
  mpv  0.39.0-1  Command-line media player  https://mpv.io/ 
  mruby  3.3.0  Lightweight implementation of the Ruby language  https://mruby.org/ 
  mruby-static  3.3.0  Static libraries for mruby  https://mruby.org/ 
- msmtp  1.8.27  Lightweight SMTP client  https://marlam.de/msmtp/ 
+ msmtp  1.8.28  Lightweight SMTP client  https://marlam.de/msmtp/ 
  mtd-utils  2.2.1  Utilities for dealing with MTD devices  http://www.linux-mtd.infradead.org/ 
  mtools  4.0.46  Tool for manipulating FAT images  https://www.gnu.org/software/mtools/ 
  mu  1.12.8  Maildir indexer/searcher and Emacs client (mu4e)  https://www.djcbsoftware.nl/code/mu/ 
@@ -2506,7 +2506,7 @@
  uuid-utils  2.40.2-2  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
  uv  0.5.18  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.28  uWSGI application server container  https://projects.unbit.it/uwsgi 
- v2ray  5.23.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
+ v2ray  5.24.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.17  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
  valac-static  0.56.17  Static libraries for valac  https://wiki.gnome.org/Projects/Vala 
  valadoc  0.56.17  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
