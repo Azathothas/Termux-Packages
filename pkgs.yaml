@@ -9647,7 +9647,7 @@
   Description: FIGlet-compatible display of large colourful characters in text mode
   Homepage: http://caca.zoy.org/wiki/toilet
 - Package: tokei
-  Version: 13.0.0-alpha.7-0
+  Version: 13.0.0-alpha.8-0
   Description: A blazingly fast CLOC (Count Lines Of Code) program
   Homepage: https://github.com/XAMPPRocky/tokei
 - Package: tome2
@@ -10619,7 +10619,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 0.4.45-1
+  Version: 0.4.46
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh

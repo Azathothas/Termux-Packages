@@ -2410,7 +2410,7 @@
 | **tmate** | 2.4.0-2 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
 | **tmux** | 3.5a | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-2 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
-| **tokei** | 13.0.0-alpha.7-0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
+| **tokei** | 13.0.0-alpha.8-0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-3 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.3.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 16.0.2 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
@@ -2653,7 +2653,7 @@
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.6 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 0.4.45-1 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 0.4.46 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-7 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
