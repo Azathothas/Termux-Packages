@@ -406,7 +406,7 @@
  etsh  5.4.0  An enhanced, backward-compatible port of Thompson Shell  https://etsh.nl 
  exercism  3.5.4  A Go based command line tool for exercism.io  https://github.com/exercism/cli/ 
  exhale  1.2.1  Open source xHE-AAC encoder  https://gitlab.com/ecodis/exhale 
- exiftool  13.11  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
+ exiftool  13.12  Utility for reading, writing and editing meta information in a wide variety of files.  https://exiftool.org/ 
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  exiv2-static  2:0.27.7-1  Static libraries for exiv2  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
@@ -493,7 +493,7 @@
  gawk-static  5.3.0  Static libraries for gawk  https://www.gnu.org/software/gawk/ 
  gbt  2.0.0-6  Highly configurable prompt builder for Bash and ZSH written in Go  https://github.com/jtyr/gbt 
  gcal  4.1-3  Program for calculating and printing calendars  https://www.gnu.org/software/gcal/ 
- gdal  3.10.0  A translator library for raster and vector geospatial data formats  https://gdal.org 
+ gdal  3.10.1  A translator library for raster and vector geospatial data formats  https://gdal.org 
  gdal-static  3.5.3  Static libraries for gdal  https://gdal.org 
  gdb  15.2  The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages  https://www.gnu.org/software/gdb/ 
  gdbm  1.24  Library of database functions that use extensible hashing  https://www.gnu.org.ua/software/gdbm/ 
@@ -638,7 +638,7 @@
  guile-static  3.0.9-2  Static libraries for guile  http://www.gnu.org/software/guile/ 
  guile18  1.8.8-16  Portable, embeddable Scheme implementation written in C. (legacy branch)  http://www.gnu.org/software/guile/ 
  guile18-static  1.8.8-16  Static libraries for guile18  http://www.gnu.org/software/guile/ 
- gum  0.14.5  A tool for creating minimal interactive TUIs for shell scripts  https://github.com/charmbracelet/gum 
+ gum  0.15.0  A tool for creating minimal interactive TUIs for shell scripts  https://github.com/charmbracelet/gum 
  gumbo-parser  0.10.1  An HTML5 parsing library  https://github.com/google/gumbo-parser 
  gumbo-parser-static  0.10.1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
  gzip  1.13  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
@@ -1594,8 +1594,8 @@
  lynx  2.8.9rel.1-8  The text web browser  http://lynx.browser.org/ 
  lz4  1.10.0  Fast LZ compression algorithm tool  https://lz4.github.io/lz4/ 
  lzip  1.24.1  Lossless data compressor similar to gzip and bzip2  https://www.nongnu.org/lzip/ 
- lzlib  1.14  A library providing in-memory LZMA compression and decompression functions  http://www.nongnu.org/lzip/lzlib.html 
- lzlib-static  1.14  Static libraries for lzlib  http://www.nongnu.org/lzip/lzlib.html 
+ lzlib  1.15  A library providing in-memory LZMA compression and decompression functions  http://www.nongnu.org/lzip/lzlib.html 
+ lzlib-static  1.15  Static libraries for lzlib  http://www.nongnu.org/lzip/lzlib.html 
  lzop  1.04-1  File compressor using lzo lib.  https://www.lzop.org 
  m4  1.4.19-4  Traditional Unix macro processor  https://www.gnu.org/software/m4/m4.html 
  magic-wormhole-rs  0.7.1  Rust implementation of Magic Wormhole, with new features and enhancements  https://github.com/magic-wormhole/magic-wormhole.rs 
@@ -2129,7 +2129,7 @@
  rig  1.11-1  A program that generates fake identities  http://rig.sourceforge.net/ 
  rinetd  1:0.73-1  A user-mode TCP port redirection server  https://github.com/samhocevar/rinetd 
  rip  0.13.1-1  A command-line deletion tool focused on safety, ergonomics, and performance  https://github.com/nivekuil/rip 
- rip2  0.9.2  A safe and ergonomic alternative to rm  https://github.com/MilesCranmer/rip2 
+ rip2  0.9.3  A safe and ergonomic alternative to rm  https://github.com/MilesCranmer/rip2 
  ripgrep  14.1.1  Search tool like grep and The Silver Searcher  https://github.com/BurntSushi/ripgrep 
  ripgrep-all  1.0.0-alpha.5-3  Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc  https://github.com/phiresky/ripgrep-all 
  ripsecrets  0.1.8  A command-line tool to prevent committing secret keys into your source code  https://github.com/sirwart/ripsecrets 
@@ -2233,7 +2233,7 @@
  simh  1:3.12.5  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
  simulavr  1:1.1.0-1  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
  simuwaerm  0.02  A simple heat transfer simulator in pure Rust  https://github.com/file-acomplaint/simuwaerm 
- sing-box  1.10.6  The universal proxy platform  https://sing-box.sagernet.org 
+ sing-box  1.10.7  The universal proxy platform  https://sing-box.sagernet.org 
  skate  1.0.0-1  A personal key-value store  https://github.com/charmbracelet/skate 
  sl  5.05  Tool curing your bad habit of mistyping  https://github.com/mtoyoda/sl 
  slang  2.3.3-1  S-Lang is a powerful interpreted language  https://www.jedsoft.org/slang/ 
@@ -2270,7 +2270,7 @@
  spglib  2.5.0-1  C library for finding and handling crystal symmetries  https://spglib.github.io/spglib/index.html 
  spglib-static  2.0.2  Static libraries for spglib  https://spglib.github.io/spglib/index.html 
  spiped  1.6.2-1  a utility for creating symmetrically encrypted and authenticated pipes between socket addresses  https://www.tarsnap.com/spiped.html 
- spirv-headers  1.3.296.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
+ spirv-headers  1.4.304.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
  spirv-tools  1.3.296.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
  sqlcipher  4.6.1  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
  sqlcipher-static  4.6.1  Static libraries for sqlcipher  https://github.com/sqlcipher/sqlcipher 
