@@ -2347,25 +2347,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "3.1.74",
+    "Version": "4.0.0",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "3.1.74",
+    "Version": "4.0.0",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "3.1.74",
+    "Version": "4.0.0",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "3.1.74",
+    "Version": "4.0.0",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -9895,7 +9895,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.11.0",
+    "Version": "1.11.1",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -13639,7 +13639,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.3.296.0",
+    "Version": "1.4.304.0",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
@@ -14155,7 +14155,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "17.1.5",
+    "Version": "17.1.6",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
