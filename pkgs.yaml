@@ -7463,7 +7463,7 @@
   Description: Mesa Off-screen Rendering Library
   Homepage: https://www.mesa3d.org
 - Package: osmium-tool
-  Version: 1.16.0-1
+  Version: 1.17.0
   Description: A multipurpose command line tool based on the Osmium Library
   Homepage: https://osmcode.org/osmium-tool/
 - Package: osslsigncode

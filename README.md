@@ -1876,7 +1876,7 @@
 | **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
 | **osmesa** | 24.3.3 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
-| **osmium-tool** | 1.16.0-1 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
+| **osmium-tool** | 1.17.0 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
 | **osslsigncode** | 2.9 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-3 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
