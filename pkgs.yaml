@@ -71,7 +71,7 @@
   Description: A code generator for the Verilog-AMS language
   Homepage: https://github.com/qucs/adms
 - Package: aerc
-  Version: 0.18.2
+  Version: 0.19.0
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
@@ -6947,7 +6947,7 @@
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
-  Version: 0.54.3
+  Version: 0.54.4
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
@@ -8923,7 +8923,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 3.11.5
+  Version: 3.11.6
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh

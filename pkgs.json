@@ -109,7 +109,7 @@
   },
   {
     "Package": "aerc",
-    "Version": "0.18.2",
+    "Version": "0.19.0",
     "Description": "A pretty good email client",
     "Homepage": "https://aerc-mail.org/"
   },
@@ -10423,7 +10423,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.54.3",
+    "Version": "0.54.4",
     "Description": "🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -13387,7 +13387,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "3.11.5",
+    "Version": "3.11.6",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
