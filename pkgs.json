@@ -811,7 +811,7 @@
   },
   {
     "Package": "bitcoin",
-    "Version": "28.0",
+    "Version": "28.1",
     "Description": "Bitcoin Core",
     "Homepage": "https://bitcoincore.org/"
   },
@@ -7867,7 +7867,7 @@
   },
   {
     "Package": "libsecret",
-    "Version": "0.21.4",
+    "Version": "0.21.5",
     "Description": "A GObject-based library for accessing the Secret Service API",
     "Homepage": "https://gitlab.gnome.org/GNOME/libsecret"
   },

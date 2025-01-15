@@ -539,7 +539,7 @@
   Description: Static libraries for bison
   Homepage: https://www.gnu.org/software/bison/
 - Package: bitcoin
-  Version: "28.0"
+  Version: "28.1"
   Description: Bitcoin Core
   Homepage: https://bitcoincore.org/
 - Package: bitlbee
@@ -5243,7 +5243,7 @@
   Description: Static libraries for libsecp256k1
   Homepage: https://github.com/bitcoin-core/secp256k1
 - Package: libsecret
-  Version: 0.21.4
+  Version: 0.21.5
   Description: A GObject-based library for accessing the Secret Service API
   Homepage: https://gitlab.gnome.org/GNOME/libsecret
 - Package: libsfdo
