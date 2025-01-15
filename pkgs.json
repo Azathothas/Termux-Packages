@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.23.16-2",
+    "Version": "0.23.16-3",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },
