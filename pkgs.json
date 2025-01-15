@@ -997,7 +997,7 @@
   },
   {
     "Package": "btfs2",
-    "Version": "3.0.0",
+    "Version": "3.2.0",
     "Description": "Decentralized file system integrating with TRON network and Bittorrent network",
     "Homepage": "https://www.bittorrent.com/btfs/"
   },
