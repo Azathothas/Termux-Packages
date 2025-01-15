@@ -3187,7 +3187,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.48.0",
+    "Version": "2.48.1",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3205,19 +3205,19 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.48.0",
+    "Version": "2.48.1",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.48.0",
+    "Version": "2.48.1",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-lfs",
-    "Version": "3.6.0",
+    "Version": "3.6.1",
     "Description": "Git extension for versioning large files",
     "Homepage": "https://git-lfs.github.com/"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.48.0",
+    "Version": "2.48.1",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -5149,7 +5149,7 @@
   },
   {
     "Package": "libbcprov-java",
-    "Version": "1.79",
+    "Version": "1.80",
     "Description": "A lightweight cryptography API for Java",
     "Homepage": "https://www.bouncycastle.org/java.html"
   },
@@ -12073,7 +12073,7 @@
   },
   {
     "Package": "python-apsw",
-    "Version": "3.47.2.0",
+    "Version": "3.48.0.0",
     "Description": "Another Python SQLite Wrapper",
     "Homepage": "https://github.com/rogerbinns/apsw/"
   },
