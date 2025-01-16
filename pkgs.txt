@@ -2014,7 +2014,7 @@
  python-apt  2.9.6  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  4.2.1  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-contourpy  1.3.1  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
- python-cryptography  42.0.8-1  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
+ python-cryptography  44.0.0  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ensurepip-wheels  3.12.8  Wheels for Python ensurepip  https://python.org/ 
  python-greenlet  3.1.1-1  Lightweight coroutines for in-process concurrent programming  https://github.com/python-greenlet/greenlet 
  python-grpcio  1.69.0  High performance, open source, general RPC framework that puts mobile and HTTP/2 first  https://grpc.io/ 

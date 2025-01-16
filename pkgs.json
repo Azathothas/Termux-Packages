@@ -12097,7 +12097,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "42.0.8-1",
+    "Version": "44.0.0",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
