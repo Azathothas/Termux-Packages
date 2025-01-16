@@ -1330,7 +1330,7 @@
 | **libsignal-protocol-c** | 2.3.3-2 | Signal Protocol C Library | https://github.com/signalapp/libsignal-protocol-c |
 | **libsigsegv** | 2.14 | GNU libsigsegv is a library for handling page faults in user mode | https://www.gnu.org/software/libsigsegv/ |
 | **libsigsegv-static** | 2.14 | Static libraries for libsigsegv | https://www.gnu.org/software/libsigsegv/ |
-| **libsixel** | 1.10.3-2 | Encoder/decoder implementation for DEC SIXEL graphics | https://saitoha.github.io/libsixel/ |
+| **libsixel** | 1.10.5 | Encoder/decoder implementation for DEC SIXEL graphics | https://saitoha.github.io/libsixel/ |
 | **libsixel-static** | 1.10.3-2 | Static libraries for libsixel | https://saitoha.github.io/libsixel/ |
 | **libslirp** | 4.8.0-1 | A general purpose TCP-IP emulator | https://gitlab.freedesktop.org/slirp/libslirp |
 | **libsm** | 1.2.5 | X11 Session Management library | https://xorg.freedesktop.org/ |

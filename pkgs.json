@@ -7921,7 +7921,7 @@
   },
   {
     "Package": "libsixel",
-    "Version": "1.10.3-2",
+    "Version": "1.10.5",
     "Description": "Encoder/decoder implementation for DEC SIXEL graphics",
     "Homepage": "https://saitoha.github.io/libsixel/"
   },
