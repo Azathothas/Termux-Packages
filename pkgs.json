@@ -3937,7 +3937,7 @@
   },
   {
     "Package": "helm",
-    "Version": "3.16.4",
+    "Version": "3.17.0",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -10033,7 +10033,7 @@
   },
   {
     "Package": "minisign",
-    "Version": "0.11-1",
+    "Version": "0.12",
     "Description": "A dead simple tool to sign files and verify signatures",
     "Homepage": "https://jedisct1.github.io/minisign/"
   },
