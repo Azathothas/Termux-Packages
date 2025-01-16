@@ -2473,7 +2473,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.16",
+    "Version": "0.20.17",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -15337,7 +15337,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.110.0",
+    "Version": "1.112.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
