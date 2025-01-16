@@ -6499,7 +6499,7 @@
   Description: Static libraries for mbedtls
   Homepage: https://tls.mbed.org/
 - Package: mc
-  Version: 4.8.32
+  Version: 4.8.32-1
   Description: Midnight Commander - a powerful file manager
   Homepage: https://www.midnight-commander.org/
 - Package: mcfly
