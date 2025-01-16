@@ -4729,7 +4729,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.32.0",
+    "Version": "1.32.1",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -7867,7 +7867,7 @@
   },
   {
     "Package": "libsecret",
-    "Version": "0.21.5",
+    "Version": "0.21.6",
     "Description": "A GObject-based library for accessing the Secret Service API",
     "Homepage": "https://gitlab.gnome.org/GNOME/libsecret"
   },
@@ -8029,7 +8029,7 @@
   },
   {
     "Package": "libsoup3",
-    "Version": "3.6.1",
+    "Version": "3.6.3",
     "Description": "HTTP client and server library",
     "Homepage": "https://libsoup.gnome.org/libsoup-3.0/"
   },
@@ -8581,13 +8581,13 @@
   },
   {
     "Package": "libuv",
-    "Version": "1.49.2",
+    "Version": "1.50.0",
     "Description": "Support library with a focus on asynchronous I/O",
     "Homepage": "https://libuv.org"
   },
   {
     "Package": "libuv-static",
-    "Version": "1.49.2",
+    "Version": "1.50.0",
     "Description": "Static libraries for libuv",
     "Homepage": "https://libuv.org"
   },
@@ -12889,8 +12889,8 @@
   },
   {
     "Package": "rsync",
-    "Version": "3.3.0",
-    "Description": "Utility that provides fast incremental file transfer",
+    "Version": "3.4.1",
+    "Description": "Fast incremental file transfer utility",
     "Homepage": "https://rsync.samba.org/"
   },
   {
