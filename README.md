@@ -72,7 +72,7 @@
 | **apt-ftparchive** | 2.8.1-1 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
 | **apt-transport-tor** | 2.8.1-1 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
 | **aptitude** | 0.8.13 | terminal-based package manager | https://wiki.debian.org/Aptitude |
-| **aptly** | 1.6.0 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
+| **aptly** | 1.6.0-1 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
 | **argon2** | 20190702-1 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
 | **argon2-static** | 20190702-1 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
 | **argp** | 1.5.0 | Standalone version of arguments parsing functions from GLIBC | https://github.com/argp-standalone/argp-standalone |
