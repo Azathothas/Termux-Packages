@@ -1563,19 +1563,19 @@
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emscripten
-  Version: 4.0.0
+  Version: 4.0.1
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 4.0.0
+  Version: 4.0.1
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 4.0.0
+  Version: 4.0.1
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 4.0.0
+  Version: 4.0.1
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -10179,7 +10179,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.304
+  Version: 1.4.305
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-loader
