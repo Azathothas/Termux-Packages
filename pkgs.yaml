@@ -7911,7 +7911,7 @@
   Description: Static libraries for procps
   Homepage: https://gitlab.com/procps-ng/procps
 - Package: procs
-  Version: 0.14.8
+  Version: 0.14.9
   Description: A modern replacement for ps
   Homepage: https://github.com/dalance/procs
 - Package: procyon-decompiler
