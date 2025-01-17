@@ -791,7 +791,7 @@
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-5 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1 | LastPass command line interface tool | https://lastpass.com/ |
-| **lazygit** | 0.45.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
+| **lazygit** | 0.45.2 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lazyread** | 2.0-1 | An auto-scroller, pager, and e-book reader all in one | http://lazyread.sourceforge.net/ |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-2 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
@@ -965,8 +965,8 @@
 | **libev** | 4.33-1 | Full-featured and high-performance event loop library | http://software.schmorp.de/pkg/libev.html |
 | **libev-static** | 4.33-1 | Static libraries for libev | http://software.schmorp.de/pkg/libev.html |
 | **libevent** | 2.1.12-2 | Library that provides asynchronous event notification | https://libevent.org/ |
-| **libexif** | 0.6.24 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
-| **libexif-static** | 0.6.24 | Static libraries for libexif | https://libexif.github.io/ |
+| **libexif** | 0.6.25 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
+| **libexif-static** | 0.6.25 | Static libraries for libexif | https://libexif.github.io/ |
 | **libexpat** | 2.6.4 | XML parsing C library | https://libexpat.github.io/ |
 | **libexpat-static** | 2.6.4 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0-1 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
@@ -2546,7 +2546,7 @@
 | **vulkan-headers** | 1.4.305 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.304 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.4.305 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.304 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.304 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.304 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |

@@ -3171,7 +3171,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.45.0
+  Version: 0.45.2
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lazyread
@@ -3867,11 +3867,11 @@
   Description: Library that provides asynchronous event notification
   Homepage: https://libevent.org/
 - Package: libexif
-  Version: 0.6.24
+  Version: 0.6.25
   Description: Library for reading and writing EXIF image metadata
   Homepage: https://libexif.github.io/
 - Package: libexif-static
-  Version: 0.6.24
+  Version: 0.6.25
   Description: Static libraries for libexif
   Homepage: https://libexif.github.io/
 - Package: libexpat
@@ -10191,7 +10191,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.304
+  Version: 1.4.305
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
