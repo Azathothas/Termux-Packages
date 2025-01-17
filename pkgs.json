@@ -3517,13 +3517,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.23.4",
+    "Version": "3:1.23.5",
     "Description": "Go programming language compiler",
     "Homepage": "https://golang.org/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.23.4",
+    "Version": "3:1.23.5",
     "Description": "Go programming language - documentation",
     "Homepage": "https://golang.org/"
   },
