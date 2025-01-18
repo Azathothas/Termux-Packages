@@ -697,7 +697,7 @@
   },
   {
     "Package": "bat",
-    "Version": "0.25.0",
+    "Version": "0.25.0-1",
     "Description": "A cat(1) clone with wings",
     "Homepage": "https://github.com/sharkdp/bat"
   },
@@ -961,7 +961,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.44.6",
+    "Version": "1.44.6-1",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -1141,7 +1141,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.8",
+    "Version": "0.10.8-1",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -2473,7 +2473,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.17",
+    "Version": "0.20.17-1",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "git-delta",
-    "Version": "0.18.2",
+    "Version": "0.18.2-1",
     "Description": "A syntax-highlighter for git and diff output",
     "Homepage": "https://dandavison.github.io/delta/"
   },
@@ -3253,7 +3253,7 @@
   },
   {
     "Package": "gitui",
-    "Version": "0.27.0",
+    "Version": "0.27.0-1",
     "Description": "Blazing fast terminal-ui for git written in rust",
     "Homepage": "https://github.com/extrawurst/gitui"
   },
@@ -6031,7 +6031,7 @@
   },
   {
     "Package": "libgit2",
-    "Version": "1.8.4",
+    "Version": "1.9.0",
     "Description": "C library implementing Git core methods",
     "Homepage": "https://libgit2.github.com/"
   },
@@ -14419,13 +14419,13 @@
   },
   {
     "Package": "tinygo",
-    "Version": "0.33.0",
+    "Version": "0.35.0",
     "Description": "Go compiler for microcontrollers, WASM, CLI tools",
     "Homepage": "https://tinygo.org"
   },
   {
     "Package": "tinygo-common",
-    "Version": "0.33.0",
+    "Version": "0.35.0",
     "Description": "TinyGo common files",
     "Homepage": "https://tinygo.org"
   },

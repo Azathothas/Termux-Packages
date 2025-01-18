@@ -463,7 +463,7 @@
   Description: Tetris clone with bastard block-choosing AI
   Homepage: http://fph.altervista.org/prog/bastet.html
 - Package: bat
-  Version: 0.25.0
+  Version: 0.25.0-1
   Description: A cat(1) clone with wings
   Homepage: https://github.com/sharkdp/bat
 - Package: bc
@@ -639,7 +639,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.44.6
+  Version: 1.44.6-1
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -759,7 +759,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: cargo-c
-  Version: 0.10.8
+  Version: 0.10.8-1
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: catdoc
@@ -1647,7 +1647,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.20.17
+  Version: 0.20.17-1
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
@@ -2131,7 +2131,7 @@
   Description: Enables transparent encryption and decryption of files for a git repository
   Homepage: https://www.agwa.name/projects/git-crypt/
 - Package: git-delta
-  Version: 0.18.2
+  Version: 0.18.2-1
   Description: A syntax-highlighter for git and diff output
   Homepage: https://dandavison.github.io/delta/
 - Package: git-gitk
@@ -2167,7 +2167,7 @@
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
-  Version: 0.27.0
+  Version: 0.27.0-1
   Description: Blazing fast terminal-ui for git written in rust
   Homepage: https://github.com/extrawurst/gitui
 - Package: gkermit
@@ -4019,7 +4019,7 @@
   Description: Static libraries for libgfshare
   Homepage: http://www.digital-scurf.org/software/libgfshare
 - Package: libgit2
-  Version: 1.8.4
+  Version: 1.9.0
   Description: C library implementing Git core methods
   Homepage: https://libgit2.github.com/
 - Package: libglibmm-2.4
@@ -9611,11 +9611,11 @@
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: http://tinyfugue.sourceforge.net/
 - Package: tinygo
-  Version: 0.33.0
+  Version: 0.35.0
   Description: Go compiler for microcontrollers, WASM, CLI tools
   Homepage: https://tinygo.org
 - Package: tinygo-common
-  Version: 0.33.0
+  Version: 0.35.0
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinyproxy

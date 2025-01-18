@@ -114,7 +114,7 @@
  bash  5.2.37  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
  bash-completion  2.16.0  Programmable completion for the bash shell  https://github.com/scop/bash-completion 
  bastet  0.43.2-10  Tetris clone with 'bastard' block-choosing AI  http://fph.altervista.org/prog/bastet.html 
- bat  0.25.0  A cat(1) clone with wings  https://github.com/sharkdp/bat 
+ bat  0.25.0-1  A cat(1) clone with wings  https://github.com/sharkdp/bat 
  bc  1.07.1-1  Arbitrary precision numeric processing language  https://www.gnu.org/software/bc/ 
  bc-gh  7.0.3  Unix dc and POSIX bc with GNU and BSD extensions  https://git.gavinhoward.com/gavin/bc 
  bdsup2sub  4.0.1  A subtitle conversion tool for image based stream formats  https://github.com/mjuhasz/BDSup2Sub 
@@ -158,7 +158,7 @@
  brainfuck-static  1:2.7.3  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
  brogue  1.14.1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20240606  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
- broot  1.44.6  A better way to navigate directories  https://github.com/Canop/broot 
+ broot  1.44.6-1  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.1.0  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  brotli-static  1.0.9-1  Static libraries for brotli  https://github.com/google/brotli 
  bsd-finger  0.17-1  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
@@ -188,7 +188,7 @@
  capnproto  1.1.0  Data interchange format and capability-based RPC system  https://capnproto.org/ 
  capstone  5.0.3  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.3  Static libraries for capstone  https://www.capstone-engine.org/ 
- cargo-c  0.10.8  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
+ cargo-c  0.10.8-1  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  catdoc  0.95-1  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
  catgirl  2.2a  A TLS-only terminal IRC client  https://git.causal.agency/catgirl 
  catimg  2.7.0  Renders images in the terminal  https://posva.net/shell/retro/bash/2013/05/27/catimg 
@@ -410,7 +410,7 @@
  exiv2  2:0.28.3  Exif, Iptc and XMP metadata manipulation library and tools  https://exiv2.org/ 
  exiv2-static  2:0.27.7-1  Static libraries for exiv2  https://exiv2.org/ 
  expect  5.45.4-3  Tool for automating interactive terminal applications  https://core.tcl.tk/expect/index 
- eza  0.20.17  A modern replacement for ls  https://github.com/eza-community/eza 
+ eza  0.20.17-1  A modern replacement for ls  https://github.com/eza-community/eza 
  fact++  1.6.5-1  Re-implementation of the well-known FaCT Description Logic (DL) Reasoner  https://bitbucket.org/dtsarkov/factplusplus 
  fakeroot  1.36.2  Tool for simulating superuser privileges (with tcp ipc)  https://packages.qa.debian.org/f/fakeroot.html 
  fakeroot-static  1.36.2  Static libraries for fakeroot  https://packages.qa.debian.org/f/fakeroot.html 
@@ -531,7 +531,7 @@
  gifski  1.32.0  GIF encoder based on libimagequant  https://gif.ski/ 
  git  2.48.1  Fast, scalable, distributed revision control system  https://git-scm.com/ 
  git-crypt  0.7.0-2  Enables transparent encryption and decryption of files for a git repository  https://www.agwa.name/projects/git-crypt/ 
- git-delta  0.18.2  A syntax-highlighter for git and diff output  https://dandavison.github.io/delta/ 
+ git-delta  0.18.2-1  A syntax-highlighter for git and diff output  https://dandavison.github.io/delta/ 
  git-gitk  2.48.1  Git repository browser  https://git-scm.com/ 
  git-gui  2.48.1  A graphical interface to Git  https://git-scm.com/ 
  git-lfs  3.6.1  Git extension for versioning large files  https://git-lfs.github.com/ 
@@ -540,7 +540,7 @@
  gitea  1.23.1  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
  gitoxide  0.40.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
- gitui  0.27.0  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
+ gitui  0.27.0-1  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
  gkermit  2.01  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.51.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.7.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
@@ -1003,7 +1003,7 @@
  libgf2x-static  1.3.0  Static libraries for libgf2x  https://gitlab.inria.fr/gf2x/gf2x 
  libgfshare  2.0.0-7  Utilities for multi-way secret-sharing  http://www.digital-scurf.org/software/libgfshare 
  libgfshare-static  2.0.0-7  Static libraries for libgfshare  http://www.digital-scurf.org/software/libgfshare 
- libgit2  1.8.4  C library implementing Git core methods  https://libgit2.github.com/ 
+ libgit2  1.9.0  C library implementing Git core methods  https://libgit2.github.com/ 
  libglibmm-2.4  2.66.7  A C++ API for parts of glib that are useful for C++  https://www.gtkmm.org/ 
  libglibmm-2.68  2.82.0  A C++ API for parts of glib that are useful for C++  https://www.gtkmm.org/ 
  libglvnd  1.7.0  The GL Vendor-Neutral Dispatch library  https://gitlab.freedesktop.org/glvnd/libglvnd 
@@ -2401,8 +2401,8 @@
  tin-summer  1.21.14  Find build artifacts that are taking up disk space  https://github.com/vmchale/tin-summer 
  tintin++  2.02.42  Classic text-based MUD client  https://tintin.mudhalla.net 
  tinyfugue  5.0b8-2  Flexible, screen-oriented MUD client, for use with any type of MUD  http://tinyfugue.sourceforge.net/ 
- tinygo  0.33.0  Go compiler for microcontrollers, WASM, CLI tools  https://tinygo.org 
- tinygo-common  0.33.0  TinyGo common files  https://tinygo.org 
+ tinygo  0.35.0  Go compiler for microcontrollers, WASM, CLI tools  https://tinygo.org 
+ tinygo-common  0.35.0  TinyGo common files  https://tinygo.org 
  tinyproxy  1.11.2  Light-weight HTTP proxy daemon for POSIX operating systems  https://tinyproxy.github.io/ 
  tinyscheme  1.42-1  Very small scheme implementation  http://tinyscheme.sourceforge.net/home.html 
  tizonia  0.22.0-15  A command-line streaming music client/server for Linux  https://github.com/tizonia/ 
