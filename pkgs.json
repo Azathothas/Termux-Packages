@@ -2767,7 +2767,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "9.0.3",
+    "Version": "10.0.0",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -9571,7 +9571,7 @@
   },
   {
     "Package": "lzip",
-    "Version": "1.24.1",
+    "Version": "1.25",
     "Description": "Lossless data compressor similar to gzip and bzip2",
     "Homepage": "https://www.nongnu.org/lzip/"
   },
@@ -10021,7 +10021,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2024.12.18.13.15.44",
+    "Version": "2025.01.18.00.31.37",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },

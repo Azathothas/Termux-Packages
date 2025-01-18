@@ -471,7 +471,7 @@
 | **fontconfig-static** | 2.15.0 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.15.0 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 9.0.3 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 10.0.0 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.25-1 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
@@ -1605,7 +1605,7 @@
 | **lychee** | 0.18.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.8.9rel.1-8 | The text web browser | http://lynx.browser.org/ |
 | **lz4** | 1.10.0 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
-| **lzip** | 1.24.1 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
+| **lzip** | 1.25 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
 | **lzlib** | 1.15 | A library providing in-memory LZMA compression and decompression functions | http://www.nongnu.org/lzip/lzlib.html |
 | **lzlib-static** | 1.15 | Static libraries for lzlib | http://www.nongnu.org/lzip/lzlib.html |
 | **lzop** | 1.04-1 | File compressor using lzo lib. | https://www.lzop.org |
@@ -1680,7 +1680,7 @@
 | **minidlna** | 1.3.3-2 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.2.4 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.12.18.13.15.44 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2025.01.18.00.31.37 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.28.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.12 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.3.0 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
