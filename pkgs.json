@@ -5983,13 +5983,13 @@
   },
   {
     "Package": "libgee",
-    "Version": "0.20.6-1",
+    "Version": "0.20.8",
     "Description": "A collection library providing GObject-based interfaces and classes for commonly used data structures",
     "Homepage": "https://wiki.gnome.org/Projects/Libgee"
   },
   {
     "Package": "libgee-static",
-    "Version": "0.20.6-1",
+    "Version": "0.20.8",
     "Description": "Static libraries for libgee",
     "Homepage": "https://wiki.gnome.org/Projects/Libgee"
   },
@@ -6085,7 +6085,7 @@
   },
   {
     "Package": "libgnt",
-    "Version": "2.14.3-4",
+    "Version": "2.14.4",
     "Description": "An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way",
     "Homepage": "https://keep.imfreedom.org/libgnt/libgnt"
   },
