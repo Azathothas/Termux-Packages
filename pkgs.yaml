@@ -1827,15 +1827,15 @@
   Description: Open-source formatting library for C++
   Homepage: https://fmt.dev/latest/index.html
 - Package: fontconfig
-  Version: 2.15.0
+  Version: 2.16.0
   Description: Library for configuring and customizing font access
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-static
-  Version: 2.15.0
+  Version: 2.16.0
   Description: Static libraries for fontconfig
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-utils
-  Version: 2.15.0
+  Version: 2.16.0
   Description: Fontconfig binaries
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: forestdb-dump
@@ -7211,7 +7211,7 @@
   Description: The most efficient usenet downloader
   Homepage: https://nzbget.net/
 - Package: o-editor
-  Version: 2.68.6
+  Version: 2.68.7
   Description: Small, fast and limited text editor
   Homepage: https://github.com/xyproto/o
 - Package: oathtool
@@ -9947,7 +9947,7 @@
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
-  Version: 7.1.2
+  Version: 7.1.3
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield
