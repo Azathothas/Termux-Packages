@@ -7255,7 +7255,7 @@
   },
   {
     "Package": "libode",
-    "Version": "0.16.5",
+    "Version": "0.16.6",
     "Description": "An open source, high performance library for simulating rigid body dynamics",
     "Homepage": "https://www.ode.org"
   },
