@@ -13483,13 +13483,13 @@
   },
   {
     "Package": "snapcast-client",
-    "Version": "0.29.0",
+    "Version": "0.30.0",
     "Description": "A multiroom client-server audio player (client)",
     "Homepage": "https://github.com/badaix/snapcast"
   },
   {
     "Package": "snapcast-server",
-    "Version": "0.29.0",
+    "Version": "0.30.0",
     "Description": "A multiroom client-server audio player (server)",
     "Homepage": "https://github.com/badaix/snapcast"
   },
