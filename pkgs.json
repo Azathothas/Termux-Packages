@@ -11719,7 +11719,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.24.3",
+    "Version": "0.24.4",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
