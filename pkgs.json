@@ -1003,7 +1003,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.49.0",
+    "Version": "1.50.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -3943,7 +3943,7 @@
   },
   {
     "Package": "helm-ls",
-    "Version": "0.1.1",
+    "Version": "0.2.0",
     "Description": "Language server for Helm",
     "Homepage": "https://github.com/mrjosh/helm-ls"
   },
@@ -15295,19 +15295,19 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.304",
+    "Version": "1.4.305",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.304",
+    "Version": "1.4.305",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.304",
+    "Version": "1.4.305",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
