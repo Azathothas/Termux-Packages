@@ -12145,13 +12145,13 @@
   },
   {
     "Package": "python-numpy",
-    "Version": "2.2.1",
+    "Version": "2.2.2",
     "Description": "The fundamental package for scientific computing with Python",
     "Homepage": "https://numpy.org/"
   },
   {
     "Package": "python-numpy-static",
-    "Version": "2.2.1",
+    "Version": "2.2.2",
     "Description": "Static libraries for python-numpy",
     "Homepage": "https://numpy.org/"
   },
