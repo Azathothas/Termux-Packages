@@ -1979,7 +1979,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.57.0
+  Version: 0.58.0
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -6915,7 +6915,7 @@
   Description: Utilities for dealing with MTD devices
   Homepage: http://www.linux-mtd.infradead.org/
 - Package: mtools
-  Version: 4.0.46
+  Version: 4.0.47
   Description: Tool for manipulating FAT images
   Homepage: https://www.gnu.org/software/mtools/
 - Package: mu
@@ -8899,7 +8899,7 @@
   Description: Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager
   Homepage: https://packages.debian.org/sid/sensible-utils
 - Package: serd
-  Version: 0.32.2
+  Version: 0.32.4
   Description: A lightweight C library for RDF syntax
   Homepage: https://drobilla.net/software/serd.html
 - Package: serf
