@@ -2219,7 +2219,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.40.0
+  Version: 0.41.0
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
@@ -3211,7 +3211,7 @@
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
-  Version: 1.31.1
+  Version: 1.32.0
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: ladspa-sdk
@@ -7927,7 +7927,7 @@
   Description: Aims to bring back the posix profile for Vala
   Homepage: https://github.com/radare/posixvala
 - Package: postgis
-  Version: 3.5.1
+  Version: 3.5.2
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql

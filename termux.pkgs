@@ -553,7 +553,7 @@
 | **git-svn** | 2.48.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **gitea** | 1.23.1 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
-| **gitoxide** | 0.40.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
+| **gitoxide** | 0.41.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-1 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.51.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
@@ -801,7 +801,7 @@
 | **krb5** | 1.21.3 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.32.1 | Kubernetes.io client binary | https://kubernetes.io/ |
-| **kubelogin** | 1.31.1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
+| **kubelogin** | 1.32.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-5 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1 | LastPass command line interface tool | https://lastpass.com/ |
@@ -1980,7 +1980,7 @@
 | **portaudio-static** | 19.07.00-2 | Static libraries for portaudio | https://www.portaudio.com/ |
 | **portmidi** | 2.0.4 | A cross-platform MIDI input/output library | https://github.com/PortMidi/portmidi |
 | **posixvala** | 0.2 | Aims to bring back the posix profile for Vala | https://github.com/radare/posixvala |
-| **postgis** | 3.5.1 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
+| **postgis** | 3.5.2 | Spatial database extender for PostgreSQL object-relational database | https://postgis.net |
 | **postgresql** | 17.0-1 | Object-relational SQL database | https://www.postgresql.org |
 | **postgresql-static** | 17.0-1 | Static libraries for postgresql | https://www.postgresql.org |
 | **potrace** | 1.16-1 | Tool for transforming a bitmap into a smooth, scalable image | http://potrace.sourceforge.net |
