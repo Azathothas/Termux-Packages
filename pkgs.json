@@ -7519,7 +7519,7 @@
   },
   {
     "Package": "libpangomm-2.48",
-    "Version": "2.54.0",
+    "Version": "2.56.1",
     "Description": "A C++ API for Pango",
     "Homepage": "https://www.gtkmm.org/"
   },
@@ -8113,7 +8113,7 @@
   },
   {
     "Package": "libsoup3",
-    "Version": "3.6.3",
+    "Version": "3.6.4",
     "Description": "HTTP client and server library",
     "Homepage": "https://libsoup.gnome.org/libsoup-3.0/"
   },
@@ -11365,7 +11365,7 @@
   },
   {
     "Package": "pango",
-    "Version": "1.56.0",
+    "Version": "1.56.1",
     "Description": "Library for laying out and rendering text",
     "Homepage": "https://www.gtk.org/docs/architecture/pango"
   },
