@@ -2389,7 +2389,7 @@
   },
   {
     "Package": "electrum",
-    "Version": "4.5.8",
+    "Version": "4.5.8-1",
     "Description": "Electrum is a lightweight Bitcoin wallet",
     "Homepage": "https://electrum.org"
   },

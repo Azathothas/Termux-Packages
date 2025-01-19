@@ -396,7 +396,7 @@
  eja  13.11.25-1  eja micro web server  https://github.com/eja/eja 
  electric-fence  2.2.7  Electric Fence (eFence) malloc memory debugger  https://elinux.org/Electric_Fence 
  electric-fence-static  2.2.7  Static libraries for electric-fence  https://elinux.org/Electric_Fence 
- electrum  4.5.8  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
+ electrum  4.5.8-1  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
  elfutils  0.191  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
  elinks  0.18.0  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
  elixir  1.18.1  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
