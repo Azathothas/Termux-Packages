@@ -5647,7 +5647,7 @@
   },
   {
     "Package": "libdav1d",
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Description": "AV1 cross-platform decoder focused on speed and correctness",
     "Homepage": "https://code.videolan.org/videolan/dav1d/"
   },
