@@ -25,7 +25,7 @@
 | **aidl** | 13.0.0.6-16 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.8 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
-| **algernon** | 1.17.1 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
+| **algernon** | 1.17.2 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alist** | 3.41.0 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **alsa-lib** | 1.2.13 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
@@ -665,8 +665,8 @@
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.23.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
 | **hcloud** | 1.50.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
-| **helix** | 25.01 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
-| **helix-grammars** | 25.01 | Helix grammars | https://helix-editor.com/ |
+| **helix** | 25.01.1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
+| **helix-grammars** | 25.01.1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.17.0 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.2.0 | Language server for Helm | https://github.com/mrjosh/helm-ls |
@@ -2179,7 +2179,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.84.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20250113 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20250120 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.71.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.84.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.84.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2333,7 +2333,7 @@
 | **subversion-perl** | 1.14.5 | Perl interface to Subversion | https://subversion.apache.org |
 | **subversion-perl-static** | 1.14.5 | Static libraries for subversion-perl | https://subversion.apache.org |
 | **subversion-static** | 1.14.5 | Static libraries for subversion | https://subversion.apache.org |
-| **suil** | 0.10.20 | A library for loading and wrapping LV2 plugin UIs | https://drobilla.net/software/suil.html |
+| **suil** | 0.10.22 | A library for loading and wrapping LV2 plugin UIs | https://drobilla.net/software/suil.html |
 | **suite3270** | 4.1ga11-1 | A family of IBM 3270 terminal emulators and related tools | http://x3270.bgp.nu/ |
 | **sun** | 1.0.0-3 | A very simple note taking cli app | https://stand-up-notes.org |
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
@@ -2551,8 +2551,8 @@
 | **vitetris** | 0.59.1-2 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.5.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.10.1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
-| **vlc** | 3.0.21-4 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
-| **vlc-static** | 3.0.21-4 | Static libraries for vlc | https://www.videolan.org/ |
+| **vlc** | 3.0.21-5 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
+| **vlc-static** | 3.0.21-5 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 0.9.99.61 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
@@ -2577,7 +2577,7 @@
 | **wasmedge-static** | 0.14.0 | Static libraries for wasmedge | https://wasmedge.org/ |
 | **watchexec** | 2.1.2 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.7.0 | WavPack command-line programs | https://www.wavpack.com/ |
-| **waypipe** | 0.10.0 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
+| **waypipe** | 0.10.1 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-5 | Capable calculator | http://w-calc.sourceforge.net |
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **webp-pixbuf-loader** | 0.2.7 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |

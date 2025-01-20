@@ -163,7 +163,7 @@
   },
   {
     "Package": "algernon",
-    "Version": "1.17.1",
+    "Version": "1.17.2",
     "Description": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
     "Homepage": "https://algernon.roboticoverlords.org/"
   },
@@ -4003,13 +4003,13 @@
   },
   {
     "Package": "helix",
-    "Version": "25.01",
+    "Version": "25.01.1",
     "Description": "A post-modern modal text editor written in rust",
     "Homepage": "https://helix-editor.com/"
   },
   {
     "Package": "helix-grammars",
-    "Version": "25.01",
+    "Version": "25.01.1",
     "Description": "Helix grammars",
     "Homepage": "https://helix-editor.com/"
   },
@@ -13087,7 +13087,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20250113",
+    "Version": "20250120",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14011,7 +14011,7 @@
   },
   {
     "Package": "suil",
-    "Version": "0.10.20",
+    "Version": "0.10.22",
     "Description": "A library for loading and wrapping LV2 plugin UIs",
     "Homepage": "https://drobilla.net/software/suil.html"
   },
@@ -15319,13 +15319,13 @@
   },
   {
     "Package": "vlc",
-    "Version": "3.0.21-4",
+    "Version": "3.0.21-5",
     "Description": "A popular libre and open source media player and multimedia engine",
     "Homepage": "https://www.videolan.org/"
   },
   {
     "Package": "vlc-static",
-    "Version": "3.0.21-4",
+    "Version": "3.0.21-5",
     "Description": "Static libraries for vlc",
     "Homepage": "https://www.videolan.org/"
   },
@@ -15475,7 +15475,7 @@
   },
   {
     "Package": "waypipe",
-    "Version": "0.10.0",
+    "Version": "0.10.1",
     "Description": "A proxy for Wayland clients",
     "Homepage": "https://gitlab.freedesktop.org/mstoeckl/waypipe"
   },
