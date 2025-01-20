@@ -191,7 +191,7 @@
  capnproto  1.1.0  Data interchange format and capability-based RPC system  https://capnproto.org/ 
  capstone  5.0.3  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.3  Static libraries for capstone  https://www.capstone-engine.org/ 
- cargo-c  0.10.8-1  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
+ cargo-c  0.10.9  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  catdoc  0.95-1  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
  catgirl  2.2a  A TLS-only terminal IRC client  https://git.causal.agency/catgirl 
  catimg  2.7.0  Renders images in the terminal  https://posva.net/shell/retro/bash/2013/05/27/catimg 
@@ -2273,7 +2273,7 @@
  soju  0.8.2  A user-friendly IRC bouncer  https://codeberg.org/emersion/soju 
  solidity  0.8.28  An Ethereum smart contract-oriented language  https://solidity.readthedocs.io 
  sops  3.9.3  Simple and flexible tool for managing secrets  https://github.com/getsops/sops 
- sord  0.16.16-1  A lightweight C library for storing RDF data in memory  https://drobilla.net/software/sord.html 
+ sord  0.16.18  A lightweight C library for storing RDF data in memory  https://drobilla.net/software/sord.html 
  sox  14.4.2-26  Command line utility for converting between and applying effects to various audio files formats  https://sox.sourceforge.net/ 
  sox-static  14.4.2-26  Static libraries for sox  https://sox.sourceforge.net/ 
  spatialite-tools  5.0.1-3  Collection of tools supporting SpatiaLite  https://www.gaia-gis.it/fossil/spatialite-tools 
@@ -2295,7 +2295,7 @@
  squashfs-tools-ng-static  1.3.2  Static libraries for squashfs-tools-ng  https://github.com/AgentD/squashfs-tools-ng 
  squeezelite  2.0.0.1517  A small headless Logitech Squeezebox emulator  https://ralph-irving.github.io/squeezelite.html 
  squid  6.12  Full-featured Web proxy cache server  http://www.squid-cache.org 
- sratom  0.6.16  A small library for serialising LV2 atoms to and from RDF  https://drobilla.net/software/sratom.html 
+ sratom  0.6.18  A small library for serialising LV2 atoms to and from RDF  https://drobilla.net/software/sratom.html 
  srelay  0.4.8p3-7  A Free SOCKS proxy server  https://sourceforge.net/projects/socks-relay 
  srt-tools  1.5.4  Command-line tools for libsrt  https://github.com/Haivision/srt 
  srt2vobsub  1.0-4  A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file  https://srt2vobsub.sourceforge.io/ 
