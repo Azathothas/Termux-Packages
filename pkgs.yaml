@@ -1799,7 +1799,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 7.1-1
+  Version: 7.1-2
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -6295,7 +6295,7 @@
   Description: LLVM gold plugin
   Homepage: https://clang.llvm.org/
 - Package: lnav
-  Version: 0.12.2
+  Version: 0.12.3
   Description: An advanced log file viewer for the small-scale
   Homepage: https://lnav.org/
 - Package: lnd

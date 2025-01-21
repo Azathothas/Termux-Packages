@@ -460,7 +460,7 @@
 | **fetchmail** | 6.5.2 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.5.2 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 7.1-1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 7.1-2 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.2.3-p20240913-1 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.76 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-3 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
@@ -1584,7 +1584,7 @@
 | **llvm-mingw-w64-ucrt** | 20241030 | MinGW-w64 runtime for LLVM-MinGW | https://www.mingw-w64.org/ |
 | **llvm-tools** | 19.1.7 | LLVM Development Tools | https://clang.llvm.org/ |
 | **llvmgold** | 19.1.7 | LLVM gold plugin | https://clang.llvm.org/ |
-| **lnav** | 0.12.2 | An advanced log file viewer for the small-scale | https://lnav.org/ |
+| **lnav** | 0.12.3 | An advanced log file viewer for the small-scale | https://lnav.org/ |
 | **lnd** | 0.17.0-beta-0 | Lightning Network Daemon | https://github.com/lightningnetwork/lnd |
 | **logo-ls** | 2024.07.17 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
 | **logrotate** | 3.22.0 | Simplify the administration of log files on a system which generates a lot of log files | https://github.com/logrotate/logrotate |
