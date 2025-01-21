@@ -1915,7 +1915,7 @@
   },
   {
     "Package": "dictd",
-    "Version": "1.13.1",
+    "Version": "1.13.3",
     "Description": "Online dictionary client and server",
     "Homepage": "https://sourceforge.net/projects/dict/"
   },
