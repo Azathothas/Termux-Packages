@@ -11,7 +11,7 @@
 |Package | Version | Description | Homepage |
 |--------|---------|-------------|----------|
 | **0verkill** | 1:0.16 | Bloody 2D action deathmatch-like game in ASCII-ART | https://github.com/hackndev/0verkill |
-| **2048-c** | 2022.10.23 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
+| **2048-c** | 1:1.0.1 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
 | **2ping** | 4.5.1-4 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
 | **6tunnel** | 0.13 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
 | **7zip** | 24.09 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
@@ -752,7 +752,7 @@
 | **ipfs** | 0.32.1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.12.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
-| **ipv6calc** | 4.2.1 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
+| **ipv6calc** | 4.2.2 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
 | **ired** | 0.6-2 | Minimalist hexadecimal editor | https://github.com/radare/ired |
@@ -1556,9 +1556,9 @@
 | **libzim** | 9.2.3-1 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
 | **libzimg** | 3.0.5 | Scaling, colorspace conversion, and dithering library | https://github.com/sekrit-twc/zimg |
 | **libzimg-static** | 3.0.5 | Static libraries for libzimg | https://github.com/sekrit-twc/zimg |
-| **libzip** | 1.11.2 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
+| **libzip** | 1.11.3 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
 | **libzita-convolver** | 4.0.3-1 | A real-time C++ convolution library | https://kokkinizita.linuxaudio.org/linuxaudio/ |
-| **libzix** | 0.4.2 | lightweight C99 portability and data structure library | https://drobilla.net/category/zix |
+| **libzix** | 0.6.2 | lightweight C99 portability and data structure library | https://drobilla.net/category/zix |
 | **libzmq** | 4.3.5 | Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ. | https://zeromq.org/ |
 | **libzmq-static** | 4.3.5 | Static libraries for libzmq | https://zeromq.org/ |
 | **libzopfli** | 1.0.3-3 | New zlib compatible compressor library | https://github.com/google/zopfli |
@@ -1566,7 +1566,7 @@
 | **libzxing-cpp** | 2.3.0 | An open-source, multi-format 1D/2D barcode image processing library implemented in C++ | https://github.com/zxing-cpp/zxing-cpp |
 | **lighttpd** | 1.4.77 | Fast webserver with minimal memory footprint | https://www.lighttpd.net |
 | **lighttpd-static** | 1.4.70-2 | Static libraries for lighttpd | https://www.lighttpd.net |
-| **lilv** | 0.24.24 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
+| **lilv** | 0.24.26 | A C library to make the use of LV2 plugins as simple as possible for applications | https://drobilla.net/software/lilv.html |
 | **lilypond** | 2.24.4-1 | A music engraving program | https://lilypond.org/ |
 | **links** | 2.29-1 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
 | **lipl** | 0.1.3 | A command line tool that is similar to watch but has extended functions for commands outputing a number | https://github.com/yxdunc/lipl |
@@ -1976,7 +1976,7 @@
 | **plantuml** | 1.2025.0 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.10.3 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
-| **plzip** | 1.11 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
+| **plzip** | 1.12 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-1 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-1 | PNG image optimising utility | https://pngquant.org |
 | **pocketbase** | 0.24.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |

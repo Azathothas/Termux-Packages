@@ -7,7 +7,7 @@
   },
   {
     "Package": "2048-c",
-    "Version": "2022.10.23",
+    "Version": "1:1.0.1",
     "Description": "Console version of the game 2048 for GNU/Linux",
     "Homepage": "https://github.com/mevdschee/2048.c"
   },
@@ -4453,7 +4453,7 @@
   },
   {
     "Package": "ipv6calc",
-    "Version": "4.2.1",
+    "Version": "4.2.2",
     "Description": "Does some format changes and calculations of IPv6 addresses",
     "Homepage": "https://www.deepspace6.net/projects/ipv6calc.html"
   },
@@ -9277,7 +9277,7 @@
   },
   {
     "Package": "libzip",
-    "Version": "1.11.2",
+    "Version": "1.11.3",
     "Description": "Library for reading, creating, and modifying zip archives",
     "Homepage": "https://libzip.org/"
   },
@@ -9289,7 +9289,7 @@
   },
   {
     "Package": "libzix",
-    "Version": "0.4.2",
+    "Version": "0.6.2",
     "Description": "lightweight C99 portability and data structure library",
     "Homepage": "https://drobilla.net/category/zix"
   },
@@ -9337,7 +9337,7 @@
   },
   {
     "Package": "lilv",
-    "Version": "0.24.24",
+    "Version": "0.24.26",
     "Description": "A C library to make the use of LV2 plugins as simple as possible for applications",
     "Homepage": "https://drobilla.net/software/lilv.html"
   },
@@ -11797,9 +11797,9 @@
   },
   {
     "Package": "plzip",
-    "Version": "1.11",
+    "Version": "1.12",
     "Description": "A massively parallel lossless data compressor based on the lzlib compression library",
-    "Homepage": "http://www.nongnu.org/lzip/plzip.html"
+    "Homepage": "https://www.nongnu.org/lzip/plzip.html"
   },
   {
     "Package": "pngcrush",
