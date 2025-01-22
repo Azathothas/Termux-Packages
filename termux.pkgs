@@ -563,7 +563,7 @@
 | **glib-cross** | 2.82.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.1 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
-| **glm** | 0.9.9.8 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
+| **glm** | 1.0.1 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
 | **global** | 6.6.14 | Source code search and browse tools | https://www.gnu.org/software/global/ |
 | **global-static** | 6.6.12 | Static libraries for global | https://www.gnu.org/software/global/ |
 | **glow** | 2.0.0 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
@@ -1856,9 +1856,9 @@
 | **openjdk-17** | 17.0-37 | Java development kit and runtime | https://github.com/openjdk/mobile |
 | **openjdk-17-source** | 17.0-37 | Source files for openjdk-17 | https://github.com/openjdk/mobile |
 | **openjdk-17-x** | 17.0-37 | Portion of openjdk-17 requiring X11 functionality | https://github.com/openjdk/mobile |
-| **openjdk-21** | 21.0.5-1 | Java development kit and runtime | https://openjdk.java.net |
-| **openjdk-21-source** | 21.0.5-1 | Source files for openjdk-21 | https://openjdk.java.net |
-| **openjdk-21-x** | 21.0.5-1 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
+| **openjdk-21** | 21.0.6 | Java development kit and runtime | https://openjdk.java.net |
+| **openjdk-21-source** | 21.0.6 | Source files for openjdk-21 | https://openjdk.java.net |
+| **openjdk-21-x** | 21.0.6 | Portion of openjdk-21 requiring X11 functionality | https://openjdk.java.net |
 | **openjpeg** | 2.5.3 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.3 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.9 | OpenLDAP server | https://openldap.org |
