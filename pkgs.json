@@ -4909,7 +4909,7 @@
   },
   {
     "Package": "lesspipe",
-    "Version": "2.17",
+    "Version": "2.17-1",
     "Description": "An input filter for the pager less",
     "Homepage": "http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html"
   },
@@ -10825,7 +10825,7 @@
   },
   {
     "Package": "nodejs-lts",
-    "Version": "22.12.0",
+    "Version": "22.13.1",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
