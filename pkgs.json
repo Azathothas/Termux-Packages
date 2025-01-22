@@ -13231,7 +13231,7 @@
   },
   {
     "Package": "scala",
-    "Version": "3.6.2",
+    "Version": "3.6.2-1",
     "Description": "Scala 3 compiler and standard library.",
     "Homepage": "https://www.scala-lang.org"
   },
