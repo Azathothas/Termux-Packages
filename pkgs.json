@@ -10747,7 +10747,7 @@
   },
   {
     "Package": "ngspice",
-    "Version": "43-1",
+    "Version": "44",
     "Description": "A mixed-level/mixed-signal circuit simulator",
     "Homepage": "https://ngspice.sourceforge.net/"
   },

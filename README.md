@@ -1801,7 +1801,7 @@
 | **newsboat** | 2.38 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **nginx** | 1.27.3 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
-| **ngspice** | 43-1 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
+| **ngspice** | 44 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.0.4 | Nim programming language compiler | https://nim-lang.org/ |
 | **ninja** | 1.12.1 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-2 | Space Invaders clone based on ncurses for ASCII output | http://ninvaders.sourceforge.net |
