@@ -2274,8 +2274,8 @@
  solidity  0.8.28  An Ethereum smart contract-oriented language  https://solidity.readthedocs.io 
  sops  3.9.3  Simple and flexible tool for managing secrets  https://github.com/getsops/sops 
  sord  0.16.18  A lightweight C library for storing RDF data in memory  https://drobilla.net/software/sord.html 
- sox  14.4.2-26  Command line utility for converting between and applying effects to various audio files formats  https://sox.sourceforge.net/ 
- sox-static  14.4.2-26  Static libraries for sox  https://sox.sourceforge.net/ 
+ sox  14.4.2-27  Command line utility for converting between and applying effects to various audio files formats  https://sox.sourceforge.net/ 
+ sox-static  14.4.2-27  Static libraries for sox  https://sox.sourceforge.net/ 
  spatialite-tools  5.0.1-3  Collection of tools supporting SpatiaLite  https://www.gaia-gis.it/fossil/spatialite-tools 
  speechd  0.11.5-1  Common interface to speech synthesis  https://github.com/brailcom/speechd 
  speechd-data  0.11.5-1  Platform-independent data for speechd  https://github.com/brailcom/speechd 

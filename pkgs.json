@@ -13657,13 +13657,13 @@
   },
   {
     "Package": "sox",
-    "Version": "14.4.2-26",
+    "Version": "14.4.2-27",
     "Description": "Command line utility for converting between and applying effects to various audio files formats",
     "Homepage": "https://sox.sourceforge.net/"
   },
   {
     "Package": "sox-static",
-    "Version": "14.4.2-26",
+    "Version": "14.4.2-27",
     "Description": "Static libraries for sox",
     "Homepage": "https://sox.sourceforge.net/"
   },
