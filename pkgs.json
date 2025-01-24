@@ -907,19 +907,19 @@
   },
   {
     "Package": "boost",
-    "Version": "1.83.0-3",
+    "Version": "1.84.0",
     "Description": "Free peer-reviewed portable C++ source libraries",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-headers",
-    "Version": "1.83.0-3",
+    "Version": "1.84.0",
     "Description": "Boost header files",
     "Homepage": "https://boost.org"
   },
   {
     "Package": "boost-static",
-    "Version": "1.83.0-3",
+    "Version": "1.84.0",
     "Description": "Static libraries for boost",
     "Homepage": "https://boost.org"
   },
@@ -937,13 +937,13 @@
   },
   {
     "Package": "botan3",
-    "Version": "3.5.0",
+    "Version": "3.6.1",
     "Description": "Crypto and TLS for Modern C++",
     "Homepage": "https://botan.randombit.net/"
   },
   {
     "Package": "botan3-static",
-    "Version": "3.5.0",
+    "Version": "3.6.1",
     "Description": "Static libraries for botan3",
     "Homepage": "https://botan.randombit.net/"
   },
@@ -1045,7 +1045,7 @@
   },
   {
     "Package": "byacc",
-    "Version": "20240109",
+    "Version": "20241231",
     "Description": "byacc is generally conceded to be the best yacc variant available",
     "Homepage": "https://invisible-island.net/byacc/"
   },
@@ -1147,13 +1147,13 @@
   },
   {
     "Package": "capstone",
-    "Version": "5.0.3",
+    "Version": "5.0.5",
     "Description": "Lightweight multi-platform, multi-architecture disassembly framework",
     "Homepage": "https://www.capstone-engine.org/"
   },
   {
     "Package": "capstone-static",
-    "Version": "5.0.3",
+    "Version": "5.0.5",
     "Description": "Static libraries for capstone",
     "Homepage": "https://www.capstone-engine.org/"
   },
@@ -15271,7 +15271,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.1.1000",
+    "Version": "9.1.1050",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -15799,7 +15799,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.1.1000",
+    "Version": "9.1.1050",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },

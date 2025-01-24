@@ -603,15 +603,15 @@
   Description: A non-web client for the terminal, supporting Gopher, Gemini and much more
   Homepage: https://bombadillo.colorfield.space/
 - Package: boost
-  Version: 1.83.0-3
+  Version: 1.84.0
   Description: Free peer-reviewed portable C++ source libraries
   Homepage: https://boost.org
 - Package: boost-headers
-  Version: 1.83.0-3
+  Version: 1.84.0
   Description: Boost header files
   Homepage: https://boost.org
 - Package: boost-static
-  Version: 1.83.0-3
+  Version: 1.84.0
   Description: Static libraries for boost
   Homepage: https://boost.org
 - Package: bore
@@ -623,11 +623,11 @@
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
-  Version: 3.5.0
+  Version: 3.6.1
   Description: Crypto and TLS for Modern C++
   Homepage: https://botan.randombit.net/
 - Package: botan3-static
-  Version: 3.5.0
+  Version: 3.6.1
   Description: Static libraries for botan3
   Homepage: https://botan.randombit.net/
 - Package: boxes
@@ -695,7 +695,7 @@
   Description: Binary file editor based on vi
   Homepage: http://bvi.sourceforge.net/
 - Package: byacc
-  Version: "20240109"
+  Version: "20241231"
   Description: byacc is generally conceded to be the best yacc variant available
   Homepage: https://invisible-island.net/byacc/
 - Package: byobu
@@ -763,11 +763,11 @@
   Description: Data interchange format and capability-based RPC system
   Homepage: https://capnproto.org/
 - Package: capstone
-  Version: 5.0.3
+  Version: 5.0.5
   Description: Lightweight multi-platform, multi-architecture disassembly framework
   Homepage: https://www.capstone-engine.org/
 - Package: capstone-static
-  Version: 5.0.3
+  Version: 5.0.5
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: cargo-c
@@ -10179,7 +10179,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.1.1000
+  Version: 9.1.1050
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -10531,7 +10531,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.1.1000
+  Version: 9.1.1050
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
