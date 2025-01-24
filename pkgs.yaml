@@ -191,7 +191,7 @@
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: apache-orc
-  Version: 2.0.3
+  Version: 2.1.0
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
@@ -647,7 +647,7 @@
   Description: Roguelike dungeon crawling game (community edition)
   Homepage: https://sites.google.com/site/broguegame/
 - Package: brook
-  Version: "20240606"
+  Version: "20250202"
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
@@ -911,11 +911,11 @@
   Description: A combined network and serial communication software package
   Homepage: https://www.kermitproject.org/ckermit.html
 - Package: clamav
-  Version: 1.4.1
+  Version: 1.4.2
   Description: Anti-virus toolkit for Unix
   Homepage: https://www.clamav.net/
 - Package: clamav-static
-  Version: 1.4.1
+  Version: 1.4.2
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
@@ -959,7 +959,7 @@
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
-  Version: 0.0.20241210.164434
+  Version: 0.0.20250121.215854
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
@@ -1687,7 +1687,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.12"
+  Version: "13.15"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -1831,11 +1831,11 @@
   Description: Static libraries for file
   Homepage: https://darwinsys.com/file/
 - Package: finch
-  Version: 2.14.13-2
+  Version: 2.14.14
   Description: Text-based multi-protocol instant messaging client
   Homepage: https://pidgin.im/
 - Package: finch-static
-  Version: 2.14.13-2
+  Version: 2.14.14
   Description: Static libraries for finch
   Homepage: https://pidgin.im/
 - Package: findomain
@@ -8535,7 +8535,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.02.02
+  Version: 1:05.02.03
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -9363,7 +9363,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.18
+  Version: 9.3.19
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
