@@ -4535,11 +4535,11 @@
   Description: Fast LZ compression algorithm library
   Homepage: https://lz4.github.io/lz4/
 - Package: liblzma
-  Version: 5.6.3
+  Version: 5.6.4
   Description: XZ-format compression library
   Homepage: https://tukaani.org/xz/
 - Package: liblzma-static
-  Version: 5.6.3
+  Version: 5.6.4
   Description: Static libraries for liblzma
   Homepage: https://tukaani.org/xz/
 - Package: liblzo
@@ -10543,7 +10543,7 @@
   Description: Static libraries for xxhash
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xz-utils
-  Version: 5.6.3
+  Version: 5.6.4
   Description: XZ-format compression tools
   Homepage: https://tukaani.org/xz/
 - Package: yadm

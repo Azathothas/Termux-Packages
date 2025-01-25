@@ -6805,13 +6805,13 @@
   },
   {
     "Package": "liblzma",
-    "Version": "5.6.3",
+    "Version": "5.6.4",
     "Description": "XZ-format compression library",
     "Homepage": "https://tukaani.org/xz/"
   },
   {
     "Package": "liblzma-static",
-    "Version": "5.6.3",
+    "Version": "5.6.4",
     "Description": "Static libraries for liblzma",
     "Homepage": "https://tukaani.org/xz/"
   },
@@ -15817,7 +15817,7 @@
   },
   {
     "Package": "xz-utils",
-    "Version": "5.6.3",
+    "Version": "5.6.4",
     "Description": "XZ-format compression tools",
     "Homepage": "https://tukaani.org/xz/"
   },
