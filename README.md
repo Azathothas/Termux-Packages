@@ -251,8 +251,8 @@
 | **cloudflared** | 2025.1.0-1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.4 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20250121.215854 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 3.31.4 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 3.31.4 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 3.31.5 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 3.31.5 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -394,7 +394,7 @@
 | **dust** | 1.1.1 | A more intuitive version of du in rust | https://github.com/bootandy/dust |
 | **dvdauthor** | 0.7.2-2 | Generates a DVD-Video movie from a valid MPEG-2 stream | https://dvdauthor.sourceforge.net/ |
 | **dvtm** | 0.15-3 | Terminal tiling window manager | https://github.com/martanne/dvtm |
-| **dwarves** | 1.28 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
+| **dwarves** | 1.29 | Pahole and other DWARF utils | https://git.kernel.org/cgit/devel/pahole/pahole.git/ |
 | **dx** | 1:1.16-7 | Command which takes in Java class files and converts them to format executable by Dalvik VM | http://developer.android.com/tools/help/index.html |
 | **e2fsprogs** | 1.47.2 | EXT 2/3/4 filesystem utilities | https://e2fsprogs.sourceforge.net |
 | **e2tools** | 0.1.2 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
@@ -438,8 +438,8 @@
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.20.17-1 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
-| **fakeroot** | 1.36.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
-| **fakeroot-static** | 1.36.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
+| **fakeroot** | 1.37 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
+| **fakeroot-static** | 1.37 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
 | **fastfetch** | 2.34.1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
@@ -633,7 +633,7 @@
 | **gpgv** | 2.4.5-3 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.19.0 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:8.12 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:8.12.1 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:11.4.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-2 | Collection of image processing tools | http://www.graphicsmagick.org/ |
@@ -1281,8 +1281,8 @@
 | **libplist-static** | 2.6.0-1 | Static libraries for libplist | https://libimobiledevice.org |
 | **libpluto** | 0.10.3 | Shared library for the Pluto interpreter | https://plutolang.github.io/ |
 | **libpluto-static** | 0.10.3 | Static libraries for libpluto | https://plutolang.github.io/ |
-| **libpng** | 1.6.45 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
-| **libpng-static** | 1.6.45 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
+| **libpng** | 1.6.46 | Official PNG reference library | http://www.libpng.org/pub/png/libpng.html |
+| **libpng-static** | 1.6.46 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0 | C++ library for creating PNG images | http://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0 | Static libraries for libpngwriter | http://pngwriter.sourceforge.net |
 | **libpoco** | 1.14.0 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
@@ -1899,7 +1899,7 @@
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **p11-kit** | 0.25.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
-| **pacman** | 7.0.0 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
+| **pacman** | 7.0.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-3 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
 | **panda3d** | 1.10.15 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
 | **panda3d-samples** | 1.10.15 | Python sample programs that use Panda3D | https://www.panda3d.org/ |

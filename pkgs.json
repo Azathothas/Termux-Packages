@@ -1447,13 +1447,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "3.31.4",
+    "Version": "3.31.5",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "3.31.4",
+    "Version": "3.31.5",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "Package": "dwarves",
-    "Version": "1.28",
+    "Version": "1.29",
     "Description": "Pahole and other DWARF utils",
     "Homepage": "https://git.kernel.org/cgit/devel/pahole/pahole.git/"
   },
@@ -2569,13 +2569,13 @@
   },
   {
     "Package": "fakeroot",
-    "Version": "1.36.2",
+    "Version": "1.37",
     "Description": "Tool for simulating superuser privileges (with tcp ipc)",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
   {
     "Package": "fakeroot-static",
-    "Version": "1.36.2",
+    "Version": "1.37",
     "Description": "Static libraries for fakeroot",
     "Homepage": "https://packages.qa.debian.org/f/fakeroot.html"
   },
@@ -3739,7 +3739,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:8.12",
+    "Version": "1:8.12.1",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -7627,13 +7627,13 @@
   },
   {
     "Package": "libpng",
-    "Version": "1.6.45",
+    "Version": "1.6.46",
     "Description": "Official PNG reference library",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
   {
     "Package": "libpng-static",
-    "Version": "1.6.45",
+    "Version": "1.6.46",
     "Description": "Static libraries for libpng",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
@@ -11335,7 +11335,7 @@
   },
   {
     "Package": "pacman",
-    "Version": "7.0.0",
+    "Version": "7.0.0-1",
     "Description": "A library-based package manager with dependency support",
     "Homepage": "https://archlinux.org/pacman/"
   },
