@@ -2227,7 +2227,7 @@
  serf  1.3.10-1  High performance C-based HTTP client library  https://serf.apache.org/ 
  serf-static  1.3.10-1  Static libraries for serf  https://serf.apache.org/ 
  sfeed  2.1  Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)  https://codemadness.org/sfeed-simple-feed-parser.html 
- sftpgo  2.6.4  Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server  https://sftpgo.com/ 
+ sftpgo  2.6.4-1  Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server  https://sftpgo.com/ 
  shaderc  2024.4  Collection of tools, libraries, and tests for Vulkan shader compilation  https://github.com/google/shaderc 
  shairport-sync  3.1.2-6  An AirPlay audio player  https://github.com/mikebrady/shairport-sync 
  sharutils  4.15.2-3  Utilities for packaging and unpackaging shell archives  https://www.gnu.org/software/sharutils/ 

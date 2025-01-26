@@ -13375,7 +13375,7 @@
   },
   {
     "Package": "sftpgo",
-    "Version": "2.6.4",
+    "Version": "2.6.4-1",
     "Description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server",
     "Homepage": "https://sftpgo.com/"
   },
