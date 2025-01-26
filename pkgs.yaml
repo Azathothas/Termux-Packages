@@ -1871,7 +1871,7 @@
   Description: Static libraries for flex
   Homepage: https://github.com/westes/flex
 - Package: fluidsynth
-  Version: 2.4.2
+  Version: 2.4.3
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: fm
@@ -4779,11 +4779,11 @@
   Description: Static libraries for libnet
   Homepage: https://github.com/libnet/libnet
 - Package: libnettle
-  Version: "3.10"
+  Version: 3.10.1
   Description: Cryptographic library that is designed to fit easily in more or less any context
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: libnettle-static
-  Version: "3.10"
+  Version: 3.10.1
   Description: Static libraries for libnettle
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: libnewt
@@ -7147,7 +7147,7 @@
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: nettle
-  Version: "3.10"
+  Version: 3.10.1
   Description: Low level cryptographic tools
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: newsboat
