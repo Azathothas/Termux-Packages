@@ -10239,7 +10239,7 @@
   Description: Utilities for testing and working with virtual terminals
   Homepage: https://github.com/fornwall/vtutils
 - Package: vulkan-extension-layer
-  Version: 1.4.304
+  Version: 1.4.306
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers

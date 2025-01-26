@@ -15361,7 +15361,7 @@
   },
   {
     "Package": "vulkan-extension-layer",
-    "Version": "1.4.304",
+    "Version": "1.4.306",
     "Description": "Vulkan Extension Layer",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ExtensionLayer"
   },
