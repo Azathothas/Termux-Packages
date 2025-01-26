@@ -109,7 +109,7 @@
   },
   {
     "Package": "aerc",
-    "Version": "0.19.0",
+    "Version": "0.20.0",
     "Description": "A pretty good email client",
     "Homepage": "https://aerc-mail.org/"
   },
@@ -2533,7 +2533,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.15",
+    "Version": "13.16",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -2587,7 +2587,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.34.1",
+    "Version": "2.35.0",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
