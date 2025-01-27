@@ -603,15 +603,15 @@
   Description: A non-web client for the terminal, supporting Gopher, Gemini and much more
   Homepage: https://bombadillo.colorfield.space/
 - Package: boost
-  Version: 1.84.0
+  Version: 1.87.0
   Description: Free peer-reviewed portable C++ source libraries
   Homepage: https://boost.org
 - Package: boost-headers
-  Version: 1.84.0
+  Version: 1.87.0
   Description: Boost header files
   Homepage: https://boost.org
 - Package: boost-static
-  Version: 1.84.0
+  Version: 1.87.0
   Description: Static libraries for boost
   Homepage: https://boost.org
 - Package: bore
