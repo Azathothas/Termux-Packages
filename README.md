@@ -409,9 +409,9 @@
 | **electric-fence** | 2.2.7 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
 | **electric-fence-static** | 2.2.7 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
 | **electrum** | 4.5.8-1 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
-| **elfutils** | 0.191 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
+| **elfutils** | 0.192 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.18.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
-| **elixir** | 1.18.1 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
+| **elixir** | 1.18.2 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.4-2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
@@ -424,7 +424,7 @@
 | **enchant-static** | 2.8.2-1 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.6 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
-| **erlang** | 27.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang** | 27.2.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.24.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -874,8 +874,8 @@
 | **libarchive-static** | 3.7.7 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 18.1.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
-| **libasm** | 0.191 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
-| **libasm-static** | 0.191 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
+| **libasm** | 0.192 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
+| **libasm-static** | 0.192 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libass** | 0.17.3 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
 | **libass-static** | 0.17.3 | Static libraries for libass | https://github.com/libass/libass |
 | **libassuan** | 3.0.1-2 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
@@ -956,7 +956,7 @@
 | **libdb-static** | 18.1.40-4 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
 | **libde265** | 1.0.15 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
 | **libde265-static** | 1.0.15 | Static libraries for libde265 | https://github.com/strukturag/libde265 |
-| **libdebuginfod** | 0.191 | Library for debuginfod | https://sourceware.org/elfutils/ |
+| **libdebuginfod** | 0.192 | Library for debuginfod | https://sourceware.org/elfutils/ |
 | **libdecor** | 0.2.2 | Client-side decorations library for Wayland clients | https://gitlab.freedesktop.org/libdecor/libdecor |
 | **libdeflate** | 1.23 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
 | **libdeflate-static** | 1.23 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
@@ -977,14 +977,14 @@
 | **libdvdnav-static** | 6.1.1 | Static libraries for libdvdnav | https://www.videolan.org/developers/libdvdnav.html |
 | **libdvdread** | 6.1.3 | A library that allows easy use of sophisticated DVD navigation features | https://code.videolan.org/videolan/libdvdread |
 | **libdvdread-static** | 6.1.3 | Static libraries for libdvdread | https://code.videolan.org/videolan/libdvdread |
-| **libdw** | 0.191 | Library to read DWARF information | https://sourceware.org/elfutils/ |
-| **libdw-static** | 0.191 | Static library to read DWARF information | https://sourceware.org/elfutils/ |
+| **libdw** | 0.192 | Library to read DWARF information | https://sourceware.org/elfutils/ |
+| **libdw-static** | 0.192 | Static library to read DWARF information | https://sourceware.org/elfutils/ |
 | **libebml** | 1.4.5 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
 | **libebur128** | 1.2.6-1 | Implements the EBU R 128 standard for loudness normalisation | https://github.com/jiixyj/libebur128 |
 | **libedit** | 20240517-3.1-0 | Library providing line editing, history, and tokenization functions | https://thrysoee.dk/editline/ |
 | **libedit-static** | 20240517-3.1-0 | Static libraries for libedit | https://thrysoee.dk/editline/ |
-| **libelf** | 0.191 | ELF object file access library | https://sourceware.org/elfutils/ |
-| **libelf-static** | 0.191 | Static libraries for libelf | https://sourceware.org/elfutils/ |
+| **libelf** | 0.192 | ELF object file access library | https://sourceware.org/elfutils/ |
+| **libelf-static** | 0.192 | Static libraries for libelf | https://sourceware.org/elfutils/ |
 | **libenet** | 1.3.18 | ENet reliable UDP networking library | http://enet.bespin.org |
 | **libenet-static** | 1.3.18 | Static libraries for libenet | http://enet.bespin.org |
 | **libepoxy** | 1.5.10-2 | Library handling OpenGL function pointer management | https://github.com/anholt/libepoxy |
@@ -1802,7 +1802,7 @@
 | **nginx** | 1.27.3 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 27 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 44 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
-| **nim** | 2.0.4 | Nim programming language compiler | https://nim-lang.org/ |
+| **nim** | 2.2.0 | Nim programming language compiler | https://nim-lang.org/ |
 | **ninja** | 1.12.1 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-2 | Space Invaders clone based on ncurses for ASCII output | http://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.11.3 | JSON for Modern C++ | https://github.com/nlohmann/json |
