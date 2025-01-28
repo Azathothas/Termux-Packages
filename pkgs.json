@@ -2821,7 +2821,7 @@
   },
   {
     "Package": "fmt",
-    "Version": "1:11.1.2",
+    "Version": "1:11.1.3",
     "Description": "Open-source formatting library for C++",
     "Homepage": "https://fmt.dev/latest/index.html"
   },
@@ -8797,13 +8797,13 @@
   },
   {
     "Package": "libwavpack",
-    "Version": "5.7.0",
+    "Version": "5.8.0",
     "Description": "A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode",
     "Homepage": "https://www.wavpack.com/"
   },
   {
     "Package": "libwavpack-static",
-    "Version": "5.7.0",
+    "Version": "5.8.0",
     "Description": "Static libraries for libwavpack",
     "Homepage": "https://www.wavpack.com/"
   },
@@ -15469,7 +15469,7 @@
   },
   {
     "Package": "wavpack",
-    "Version": "5.7.0",
+    "Version": "5.8.0",
     "Description": "WavPack command-line programs",
     "Homepage": "https://www.wavpack.com/"
   },

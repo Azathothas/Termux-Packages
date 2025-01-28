@@ -480,7 +480,7 @@
 | **flex-static** | 2.6.4-3 | Static libraries for flex | https://github.com/westes/flex |
 | **fluidsynth** | 2.4.3 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **fm** | 1.1.0 | A terminal based file manager | https://github.com/knipferrc/fm |
-| **fmt** | 1:11.1.2 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
+| **fmt** | 1:11.1.3 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.16.0 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-static** | 2.16.0 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.16.0 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -1476,8 +1476,8 @@
 | **libvpx-static** | 1:1.15.0-1 | Static libraries for libvpx | https://www.webmproject.org |
 | **libvterm** | 1:0.3.3 | Terminal emulator library | https://www.leonerd.org.uk/code/libvterm/ |
 | **libvxl** | 3.5.0-2 | A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding | https://vxl.github.io |
-| **libwavpack** | 5.7.0 | A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode | https://www.wavpack.com/ |
-| **libwavpack-static** | 5.7.0 | Static libraries for libwavpack | https://www.wavpack.com/ |
+| **libwavpack** | 5.8.0 | A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode | https://www.wavpack.com/ |
+| **libwavpack-static** | 5.8.0 | Static libraries for libwavpack | https://www.wavpack.com/ |
 | **libwayland** | 1.23.1-1 | Wayland protocol library | https://wayland.freedesktop.org/ |
 | **libwayland-cross-scanner** | 1.23.1-1 | wayland-scanner for host (NOT for Termux) | https://wayland.freedesktop.org/ |
 | **libwayland-protocols** | 1.38 | Wayland protocols library | https://wayland.freedesktop.org/ |
@@ -2588,7 +2588,7 @@
 | **wasm-component-ld** | 0.5.11 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge-static** | 0.14.0 | Static libraries for wasmedge | https://wasmedge.org/ |
 | **watchexec** | 2.1.2 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
-| **wavpack** | 5.7.0 | WavPack command-line programs | https://www.wavpack.com/ |
+| **wavpack** | 5.8.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.10.1 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-5 | Capable calculator | http://w-calc.sourceforge.net |
 | **wdiff** | 1.2.2-1 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
