@@ -385,7 +385,7 @@
 | **dtc** | 1.7.2 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.7.2 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-1 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.29.4 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.30.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.1.3 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |

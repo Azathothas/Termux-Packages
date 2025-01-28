@@ -1499,7 +1499,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.29.4
+  Version: 2.30.0
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc

@@ -2251,7 +2251,7 @@
   },
   {
     "Package": "dua",
-    "Version": "2.29.4",
+    "Version": "2.30.0",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
