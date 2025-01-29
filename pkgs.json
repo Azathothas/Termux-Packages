@@ -11701,8 +11701,8 @@
   },
   {
     "Package": "phpmyadmin",
-    "Version": "5.2.1",
-    "Description": "A PHP tool for administering MySQL databases",
+    "Version": "5.2.2",
+    "Description": "A PHP tool for administering MySQL and MariaDB databases",
     "Homepage": "https://www.phpmyadmin.net"
   },
   {
@@ -15133,7 +15133,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.5.18",
+    "Version": "0.5.25",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15475,7 +15475,7 @@
   },
   {
     "Package": "waypipe",
-    "Version": "0.10.1",
+    "Version": "0.10.2",
     "Description": "A proxy for Wayland clients",
     "Homepage": "https://gitlab.freedesktop.org/mstoeckl/waypipe"
   },

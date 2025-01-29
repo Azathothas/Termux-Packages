@@ -1948,7 +1948,7 @@
  php-redis  6.1.0RC2  PHP extension for interfacing with Redis  https://github.com/phpredis/phpredis 
  php-sodium  8.4.2  Sodium module for PHP  https://php.net 
  php-zephir-parser  1.7.0  The Zephir Parser delivered as a C extension for the PHP language  https://github.com/phalcon/php-zephir-parser 
- phpmyadmin  5.2.1  A PHP tool for administering MySQL databases  https://www.phpmyadmin.net 
+ phpmyadmin  5.2.2  A PHP tool for administering MySQL and MariaDB databases  https://www.phpmyadmin.net 
  pianobar  2024.12.21  pianobar is a free/open-source, console-based client for the personalized online radio Pandora.  https://6xq.net/pianobar/ 
  pick  4.0.0-2  Utility to choose one option from a set of choices with fuzzy search functionality  https://github.com/calleerlandsson/pick 
  picocom  2018.04.12  A minimal dumb-terminal emulation program  https://github.com/npat-efault/picocom 
@@ -2520,7 +2520,7 @@
  util-linux-static  2.40.2-2  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-2  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.5.18  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.5.25  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.28  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.24.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.17  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2577,7 +2577,7 @@
  wasmedge-static  0.14.0  Static libraries for wasmedge  https://wasmedge.org/ 
  watchexec  2.1.2  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.8.1  WavPack command-line programs  https://www.wavpack.com/ 
- waypipe  0.10.1  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
+ waypipe  0.10.2  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
  wcalc  2.5-5  Capable calculator  http://w-calc.sourceforge.net 
  wdiff  1.2.2-1  Display word differences between text files  https://www.gnu.org/software/wdiff/ 
  webp-pixbuf-loader  0.2.7  WebM GDK Pixbuf Loader library  https://github.com/aruiz/webp-pixbuf-loader 
