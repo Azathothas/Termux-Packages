@@ -8797,13 +8797,13 @@
   },
   {
     "Package": "libwavpack",
-    "Version": "5.8.0",
+    "Version": "5.8.1",
     "Description": "A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode",
     "Homepage": "https://www.wavpack.com/"
   },
   {
     "Package": "libwavpack-static",
-    "Version": "5.8.0",
+    "Version": "5.8.1",
     "Description": "Static libraries for libwavpack",
     "Homepage": "https://www.wavpack.com/"
   },
@@ -9835,7 +9835,7 @@
   },
   {
     "Package": "mc",
-    "Version": "4.8.32-1",
+    "Version": "4.8.33",
     "Description": "Midnight Commander - a powerful file manager",
     "Homepage": "https://www.midnight-commander.org/"
   },
@@ -15469,7 +15469,7 @@
   },
   {
     "Package": "wavpack",
-    "Version": "5.8.0",
+    "Version": "5.8.1",
     "Description": "WavPack command-line programs",
     "Homepage": "https://www.wavpack.com/"
   },
