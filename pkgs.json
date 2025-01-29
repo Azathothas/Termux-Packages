@@ -109,7 +109,7 @@
   },
   {
     "Package": "aerc",
-    "Version": "0.20.0",
+    "Version": "0.20.1",
     "Description": "A pretty good email client",
     "Homepage": "https://aerc-mail.org/"
   },
@@ -139,7 +139,7 @@
   },
   {
     "Package": "aichat",
-    "Version": "0.26.0",
+    "Version": "0.27.0",
     "Description": "A powerful chatgpt cli",
     "Homepage": "https://github.com/sigoden/aichat"
   },
@@ -169,7 +169,7 @@
   },
   {
     "Package": "alist",
-    "Version": "3.41.0",
+    "Version": "3.42.0",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://alist.nn.ci"
   },
@@ -1573,7 +1573,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.8.0-1",
+    "Version": "0.10.0",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -10645,7 +10645,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.10.3",
+    "Version": "0.10.4",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },

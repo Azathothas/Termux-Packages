@@ -71,7 +71,7 @@
   Description: A code generator for the Verilog-AMS language
   Homepage: https://github.com/qucs/adms
 - Package: aerc
-  Version: 0.20.0
+  Version: 0.20.1
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
@@ -91,7 +91,7 @@
   Description: Converts ANSI escape sequences of a unix terminal to HTML code
   Homepage: https://github.com/theZiz/aha
 - Package: aichat
-  Version: 0.26.0
+  Version: 0.27.0
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
@@ -111,7 +111,7 @@
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alist
-  Version: 3.41.0
+  Version: 3.42.0
   Description: A file list program that supports multiple storage
   Homepage: https://alist.nn.ci
 - Package: alpine
@@ -1047,7 +1047,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.8.0-1
+  Version: 0.10.0
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -7095,7 +7095,7 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.10.3
+  Version: 0.10.4
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: nerdfix
