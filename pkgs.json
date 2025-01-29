@@ -241,7 +241,7 @@
   },
   {
     "Package": "angle-android",
-    "Version": "2.1.24521-c75bd915-1",
+    "Version": "2.1.24755-91985374-1",
     "Description": "A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android",
     "Homepage": "https://chromium.googlesource.com/angle/angle"
   },
