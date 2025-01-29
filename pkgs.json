@@ -1339,7 +1339,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.58.0",
+    "Version": "2.59.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -2467,7 +2467,7 @@
   },
   {
     "Package": "electrum",
-    "Version": "4.5.8-1",
+    "Version": "4.5.8-2",
     "Description": "Electrum is a lightweight Bitcoin wallet",
     "Homepage": "https://electrum.org"
   },
@@ -2611,7 +2611,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.16",
+    "Version": "13.17",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -6499,13 +6499,13 @@
   },
   {
     "Package": "libimagequant",
-    "Version": "4.3.3",
+    "Version": "4.3.4",
     "Description": "Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images",
     "Homepage": "https://pngquant.org/lib/"
   },
   {
     "Package": "libimagequant-static",
-    "Version": "4.3.3",
+    "Version": "4.3.4",
     "Description": "Static libraries for libimagequant",
     "Homepage": "https://pngquant.org/lib/"
   },
@@ -11293,13 +11293,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "9.9p1-4",
+    "Version": "9.9p1-5",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "9.9p1-4",
+    "Version": "9.9p1-5",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
@@ -14413,7 +14413,7 @@
   },
   {
     "Package": "termux-elf-cleaner",
-    "Version": "2.2.1",
+    "Version": "3.0.1",
     "Description": "Cleaner of ELF files for Android",
     "Homepage": "https://github.com/termux/termux-elf-cleaner"
   },
