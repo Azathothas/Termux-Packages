@@ -5411,7 +5411,7 @@
   Description: Library for smart adaptive formatting of tabular data
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libsnappy
-  Version: 1.1.10
+  Version: 1.2.1
   Description: A compression/decompression library
   Homepage: https://github.com/google/snappy
 - Package: libsndfile

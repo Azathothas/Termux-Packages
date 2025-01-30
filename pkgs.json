@@ -8119,7 +8119,7 @@
   },
   {
     "Package": "libsnappy",
-    "Version": "1.1.10",
+    "Version": "1.2.1",
     "Description": "A compression/decompression library",
     "Homepage": "https://github.com/google/snappy"
   },
