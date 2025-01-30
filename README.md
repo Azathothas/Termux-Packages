@@ -664,13 +664,13 @@
 | **gsf-tools** | 1.14.53 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
-| **gst-libav** | 1.24.11 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
+| **gst-libav** | 1.24.12 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
 | **gst-plugins-bad** | 1.24.12 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.24.12 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-gl-headers** | 1.24.12 | OpenGL headers for GStreamer plugins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.24.12 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.24.12 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.24.11 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.24.12 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.24.12 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.9-2 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
@@ -681,7 +681,7 @@
 | **gumbo-parser** | 0.10.1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.13 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
-| **haproxy** | 3.1.2 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.1.3 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 10.2.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 10.2.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 10.2.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
