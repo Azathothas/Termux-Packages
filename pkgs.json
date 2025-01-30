@@ -3931,31 +3931,31 @@
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.24.11",
+    "Version": "1.24.12",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.24.11",
+    "Version": "1.24.12",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-gl-headers",
-    "Version": "1.24.11",
+    "Version": "1.24.12",
     "Description": "OpenGL headers for GStreamer plugins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.24.11",
+    "Version": "1.24.12",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.24.11",
+    "Version": "1.24.12",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -3967,7 +3967,7 @@
   },
   {
     "Package": "gstreamer",
-    "Version": "1.24.11",
+    "Version": "1.24.12",
     "Description": "Open source multimedia framework",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -5251,7 +5251,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "18.1.0",
+    "Version": "19.0.0",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
