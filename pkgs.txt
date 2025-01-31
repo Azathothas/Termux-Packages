@@ -857,7 +857,7 @@
  libandroid-shmem-static  0.5  Static libraries for libandroid-shmem  https://github.com/termux/libandroid-shmem 
  libandroid-spawn  0.3  Shared library for the posix_spawn system function  https://man7.org/linux/man-pages/man3/posix_spawn.3.html 
  libandroid-spawn-static  0.3  Static libraries for libandroid-spawn  https://man7.org/linux/man-pages/man3/posix_spawn.3.html 
- libandroid-stub  27c  Stub libandroid.so for non-Android certified environment  https://android.googlesource.com/platform/frameworks/base/+/main/native/android 
+ libandroid-stub  27c-1  Stub libandroid.so for non-Android certified environment  https://android.googlesource.com/platform/frameworks/base/+/main/native/android 
  libandroid-support  29  Library extending the Android C library (Bionic) for additional multibyte, locale and math support  https://github.com/termux/libandroid-support 
  libandroid-support-static  29  Static libraries for libandroid-support  https://github.com/termux/libandroid-support 
  libandroid-sysv-semaphore  0.1  A shared library providing System V semaphores  https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp 
@@ -1633,7 +1633,7 @@
  make-guile  4.4.1  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  man  1.14.6-1  Man page viewer from the mandoc toolset  https://mdocml.bsd.lv/ 
  mangal  4.0.6-2  Cli manga downloader  https://github.com/metafates/mangal 
- manpages  6.9.1  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
+ manpages  6.10  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
  mapserver  8.2.2  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
  mariadb  2:11.8.0  A drop-in replacement for mysql server  https://mariadb.org 
  mariadb-static  2:11.8.0  Static libraries for mariadb  https://mariadb.org 

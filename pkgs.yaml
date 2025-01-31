@@ -3435,7 +3435,7 @@
   Description: Static libraries for libandroid-spawn
   Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
 - Package: libandroid-stub
-  Version: 27c
+  Version: 27c-1
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
@@ -6539,7 +6539,7 @@
   Description: Cli manga downloader
   Homepage: https://github.com/metafates/mangal
 - Package: manpages
-  Version: 6.9.1
+  Version: "6.10"
   Description: Man pages for linux kernel and C library interfaces
   Homepage: https://www.kernel.org/doc/man-pages/
 - Package: mapserver
