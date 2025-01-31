@@ -8527,7 +8527,7 @@
   },
   {
     "Package": "libtorrent-rasterbar",
-    "Version": "2.0.10-1",
+    "Version": "2.0.11",
     "Description": "A feature complete C++ bittorrent implementation focusing on efficiency and scalability",
     "Homepage": "https://libtorrent.org/"
   },
@@ -10579,7 +10579,7 @@
   },
   {
     "Package": "navi",
-    "Version": "2.23.0",
+    "Version": "2.24.0",
     "Description": "An interactive cheatsheet tool for the command-line",
     "Homepage": "https://github.com/denisidoro/navi"
   },

@@ -5683,7 +5683,7 @@
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
-  Version: 2.0.10-1
+  Version: 2.0.11
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
@@ -7051,7 +7051,7 @@
   Description: Static libraries for natpmpc
   Homepage: https://miniupnp.tuxfamily.org/libnatpmp.html
 - Package: navi
-  Version: 2.23.0
+  Version: 2.24.0
   Description: An interactive cheatsheet tool for the command-line
   Homepage: https://github.com/denisidoro/navi
 - Package: navidrome
