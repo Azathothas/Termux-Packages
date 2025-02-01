@@ -3,7 +3,7 @@
   Description: Bloody 2D action deathmatch-like game in ASCII-ART
   Homepage: https://github.com/hackndev/0verkill
 - Package: 2048-c
-  Version: 1:1.0.1
+  Version: 1:1.0.3
   Description: Console version of the game 2048 for GNU/Linux
   Homepage: https://github.com/mevdschee/2048.c
 - Package: 2ping
@@ -2191,7 +2191,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.65.0
+  Version: 2.66.1
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -10639,7 +10639,7 @@
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
-  Version: "0.48"
+  Version: "0.49"
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
