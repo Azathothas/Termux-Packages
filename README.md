@@ -287,7 +287,7 @@
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.32.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
 | **croc** | 1:10.2.1 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
-| **cronie** | 1.7.2-1 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
+| **cronie** | 1.7.2-2 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1-3 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
 | **crypto-monitor** | 2021.02.22-3 | Real-time crypto currency monitor | https://github.com/edghyhdz/crypto_monitor |
@@ -2434,7 +2434,7 @@
 | **thrift** | 0.21.0 | Scalable cross-language services framework for IPC/RPC | https://thrift.apache.org |
 | **tidy** | 5.9.14-next-0 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
 | **tidy-static** | 5.9.14-next-0 | Static libraries for tidy | http://www.html-tidy.org/ |
-| **tig** | 2.5.10 | Ncurses-based text-mode interface for git | https://jonas.github.io/tig/ |
+| **tig** | 2.5.11 | Ncurses-based text-mode interface for git | https://jonas.github.io/tig/ |
 | **tilde** | 1.1.3-1 | A text editor for the console/terminal | https://os.ghalkes.nl/tilde/ |
 | **time** | 1.9 | GNU time program for measuring CPU resource usage | https://www.gnu.org/software/time/ |
 | **timewarrior** | 1.7.1 | Command-line time tracker | https://timewarrior.net/ |

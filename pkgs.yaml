@@ -1107,7 +1107,7 @@
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
-  Version: 1.7.2-1
+  Version: 1.7.2-2
   Description: Daemon that runs specified programs at scheduled times and related tools
   Homepage: https://github.com/cronie-crond/cronie/
 - Package: crowbook
@@ -9695,7 +9695,7 @@
   Description: Static libraries for tidy
   Homepage: http://www.html-tidy.org/
 - Package: tig
-  Version: 2.5.10
+  Version: 2.5.11
   Description: Ncurses-based text-mode interface for git
   Homepage: https://jonas.github.io/tig/
 - Package: tilde
