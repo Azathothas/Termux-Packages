@@ -353,7 +353,7 @@
 | **dnslookup** | 1.11.1 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-2 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.16.41 | Clients provided with BIND | https://www.isc.org/downloads/bind/ |
+| **dnsutils** | 9.20.4 | Clients provided with BIND | https://www.isc.org/downloads/bind/ |
 | **dnsutils-static** | 9.16.41 | Static libraries for dnsutils | https://www.isc.org/downloads/bind/ |
 | **docbook-xml** | 4.5-4 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-1 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
@@ -1459,6 +1459,8 @@
 | **libunqlite** | 1.1.9 | Transactional embedded database engine | https://unqlite.org/ |
 | **libupscaledb** | 2.2.1p20210820-9 | A database engine written in C/C++ | https://upscaledb.com/ |
 | **libupscaledb-static** | 2.2.1p20210820-9 | Static libraries for libupscaledb | https://upscaledb.com/ |
+| **liburcu** | 0.15 | LGPLv2.1 userspace RCU (read-copy-update) library | https://liburcu.org/ |
+| **liburcu-static** | 0.15 | Static libraries for liburcu | https://liburcu.org/ |
 | **libusb** | 1.0.27-1 | A C library that provides generic access to USB devices | https://libusb.info/ |
 | **libusb-static** | 1.0.27-1 | Static libraries for libusb | https://libusb.info/ |
 | **libusbmuxd** | 2.0.2-p20230430-2 | A client library for applications to handle usbmux protocol connections with iOS devices | https://libimobiledevice.org |

@@ -2059,7 +2059,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.16.41",
+    "Version": "9.20.4",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/downloads/bind/"
   },
@@ -8692,6 +8692,18 @@
     "Version": "2.2.1p20210820-9",
     "Description": "Static libraries for libupscaledb",
     "Homepage": "https://upscaledb.com/"
+  },
+  {
+    "Package": "liburcu",
+    "Version": "0.15",
+    "Description": "LGPLv2.1 userspace RCU (read-copy-update) library",
+    "Homepage": "https://liburcu.org/"
+  },
+  {
+    "Package": "liburcu-static",
+    "Version": "0.15",
+    "Description": "Static libraries for liburcu",
+    "Homepage": "https://liburcu.org/"
   },
   {
     "Package": "libusb",
