@@ -506,7 +506,7 @@
  fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
  fx  35.0.0  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
- fzf  0.58.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
+ fzf  0.59.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
  fzy  1.0  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
  g-ir-scanner  1.82.0-1  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
  game-music-emu  0.6.3-1  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
@@ -800,7 +800,7 @@
  kainjow-mustache  4.1  Mustache implementation for modern C++  https://github.com/kainjow/Mustache 
  kak-lsp  17.1.2  Language Server Protocol Client for the Kakoune editor  https://github.com/kak-lsp/kak-lsp 
  kakoune  2024.05.18  Code editor heavily inspired by Vim  https://kakoune.org/ 
- kakoune-lsp  18.1.1  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
+ kakoune-lsp  18.1.2  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
  kbd  2.6.4  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
  kcptun  20241227  A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  https://github.com/xtaci/kcptun 
  keybase  6.4.0  Key directory that maps social media identities to encryption keys  https://keybase.io 

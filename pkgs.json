@@ -3049,7 +3049,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.58.0",
+    "Version": "0.59.0",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "18.1.1",
+    "Version": "18.1.2",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
