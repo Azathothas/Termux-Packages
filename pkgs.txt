@@ -1368,7 +1368,7 @@
  libspatialindex  2.1.0  C++ implementation of R-tree, an MVR-tree and a TPR-tree with C API  https://libspatialindex.github.io 
  libspatialite  5.1.0  SQLite extension to support spatial data types and operations  https://www.gaia-gis.it/fossil/libspatialite 
  libspatialite-static  5.1.0  Static libraries for libspatialite  https://www.gaia-gis.it/fossil/libspatialite 
- libspdlog  1.15.0-1  Very fast, header-only/compiled, C++ logging library  https://github.com/gabime/spdlog 
+ libspdlog  1.15.1  Very fast, header-only/compiled, C++ logging library  https://github.com/gabime/spdlog 
  libspectre  0.2.12  A small library for rendering Postscript documents  https://www.freedesktop.org/wiki/Software/libspectre/ 
  libspectre-static  0.2.12  Static libraries for libspectre  https://www.freedesktop.org/wiki/Software/libspectre/ 
  libspeex  1.2.1  A patent-free, Open Source/Free Software voice codec  https://www.speex.org/ 
@@ -2155,7 +2155,7 @@
  restic  0.17.3  Fast, secure, efficient backup program  https://restic.net/ 
  restic-server  0.13.0  Restic's REST backend API server  https://restic.net/ 
  restish  0.20.0  A CLI for interacting with REST-ish HTTP APIs  https://github.com/danielgtaylor/restish 
- rgbds  0.9.0  Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color  https://rgbds.gbdev.io 
+ rgbds  0.9.1  Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color  https://rgbds.gbdev.io 
  rhash  1.4.5  Console utility for calculation and verification of magnet links and a wide range of hash sums  https://github.com/rhash/RHash 
  rhash-static  1.4.5  Static libraries for rhash  https://github.com/rhash/RHash 
  rig  1.11-1  A program that generates fake identities  http://rig.sourceforge.net/ 

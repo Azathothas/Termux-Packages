@@ -5479,7 +5479,7 @@
   Description: Static libraries for libspatialite
   Homepage: https://www.gaia-gis.it/fossil/libspatialite
 - Package: libspdlog
-  Version: 1.15.0-1
+  Version: 1.15.1
   Description: Very fast, header-only/compiled, C++ logging library
   Homepage: https://github.com/gabime/spdlog
 - Package: libspectre
@@ -8627,7 +8627,7 @@
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/danielgtaylor/restish
 - Package: rgbds
-  Version: 0.9.0
+  Version: 0.9.1
   Description: Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color
   Homepage: https://rgbds.gbdev.io
 - Package: rhash
