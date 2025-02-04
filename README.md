@@ -1769,7 +1769,7 @@
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.3-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
 | **n2n** | 3.1.1 | A light VPN software | https://github.com/ntop/n2n |
-| **nala** | 0.15.4-2 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
+| **nala** | 0.15.4-3 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
 | **nano** | 8.3 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.03 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
