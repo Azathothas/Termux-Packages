@@ -1907,11 +1907,11 @@
   Description: FLAC (Free Lossless Audio Codec) command-line tool
   Homepage: https://xiph.org/flac/
 - Package: flatbuffers
-  Version: 24.12.23
+  Version: 25.1.24
   Description: Memory Efficient Serialization Library
   Homepage: https://github.com/google/flatbuffers
 - Package: flatbuffers-static
-  Version: 24.12.23
+  Version: 25.1.24
   Description: Static libraries for flatbuffers
   Homepage: https://github.com/google/flatbuffers
 - Package: flex
@@ -3147,7 +3147,7 @@
   Description: Static libraries for jq
   Homepage: https://stedolan.github.io/jq/
 - Package: jql
-  Version: 8.0.2
+  Version: 8.0.3
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -8903,7 +8903,7 @@
   Description: Small man page generator
   Homepage: https://git.sr.ht/~sircmpwn/scdoc
 - Package: screen
-  Version: 5.0.0
+  Version: 5.0.0-1
   Description: Terminal multiplexer with VT100/ANSI terminal emulation
   Homepage: https://www.gnu.org/software/screen/
 - Package: screenfetch

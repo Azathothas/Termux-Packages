@@ -475,8 +475,8 @@
 | **findutils** | 4.10.0 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
 | **fish** | 3.7.1-2 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.4.3 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
-| **flatbuffers** | 24.12.23 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
-| **flatbuffers-static** | 24.12.23 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
+| **flatbuffers** | 25.1.24 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
+| **flatbuffers-static** | 25.1.24 | Static libraries for flatbuffers | https://github.com/google/flatbuffers |
 | **flex** | 2.6.4-3 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-3 | Static libraries for flex | https://github.com/westes/flex |
 | **fluidsynth** | 2.4.3 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
@@ -785,7 +785,7 @@
 | **jq** | 1.7.1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
 | **jq-lsp** | 0.1.11 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.7.1 | Static libraries for jq | https://stedolan.github.io/jq/ |
-| **jql** | 8.0.2 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
+| **jql** | 8.0.3 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.18 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.18 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
 | **json-glib** | 1.10.6 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
@@ -2224,7 +2224,7 @@
 | **sccache** | 0.9.1 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.4.5-3 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.3 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
-| **screen** | 5.0.0 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
+| **screen** | 5.0.0-1 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
 | **screenfetch** | 3.9.9 | Bash Screenshot Information Tool | https://github.com/KittyKatt/screenFetch |
 | **scrub** | 2.6.1-1 | Iteratively writes patterns on files or disk devices to make retreiving the data more difficult | https://github.com/chaos/scrub |
 | **scrypt** | 1.3.2-3 | scrypt KDF library and file encryption tool | https://www.tarsnap.com/scrypt.html |
