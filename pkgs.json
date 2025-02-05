@@ -12259,7 +12259,7 @@
   },
   {
     "Package": "python",
-    "Version": "3.12.8",
+    "Version": "3.12.9",
     "Description": "Python 3 programming language intended to enable clear programs",
     "Homepage": "https://python.org/"
   },
@@ -12295,7 +12295,7 @@
   },
   {
     "Package": "python-ensurepip-wheels",
-    "Version": "3.12.8",
+    "Version": "3.12.9",
     "Description": "Wheels for Python ensurepip",
     "Homepage": "https://python.org/"
   },
@@ -12391,7 +12391,7 @@
   },
   {
     "Package": "python-static",
-    "Version": "3.12.8",
+    "Version": "3.12.9",
     "Description": "Static libraries for python",
     "Homepage": "https://python.org/"
   },
@@ -12403,7 +12403,7 @@
   },
   {
     "Package": "python-tkinter",
-    "Version": "3.12.8",
+    "Version": "3.12.9",
     "Description": "Tkinter support for Python 3",
     "Homepage": "https://python.org/"
   },
