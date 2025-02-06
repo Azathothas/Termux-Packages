@@ -1813,7 +1813,7 @@
   },
   {
     "Package": "dart",
-    "Version": "3.6.1",
+    "Version": "3.6.2",
     "Description": "Dart is a general-purpose programming language",
     "Homepage": "https://dart.dev/"
   },
@@ -12709,7 +12709,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "3.20.2",
+    "Version": "3.21.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -12793,7 +12793,7 @@
   },
   {
     "Package": "rdfind",
-    "Version": "1.6.0",
+    "Version": "1.7.0",
     "Description": "A tool for finding duplicate files",
     "Homepage": "https://github.com/pauldreik/rdfind"
   },
@@ -15805,7 +15805,7 @@
   },
   {
     "Package": "xmake",
-    "Version": "2.9.7",
+    "Version": "2.9.8",
     "Description": "A cross-platform build utility based on Lua",
     "Homepage": "https://xmake.io/"
   },
