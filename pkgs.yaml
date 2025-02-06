@@ -2003,7 +2003,7 @@
   Description: Open world Angband variant with many additions
   Homepage: https://github.com/sulkasormi/frogcomposband/
 - Package: frotz
-  Version: 2.54-1
+  Version: "2.55"
   Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
   Homepage: https://gitlab.com/DavidGriffith/frotz
 - Package: frp
@@ -2011,7 +2011,7 @@
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
-  Version: 0.8.8
+  Version: 0.8.9
   Description: Find files with SQL-like queries
   Homepage: https://fselect.rocks/
 - Package: fsmon
@@ -3198,10 +3198,6 @@
   Version: "4.1"
   Description: Mustache implementation for modern C++
   Homepage: https://github.com/kainjow/Mustache
-- Package: kak-lsp
-  Version: 17.1.2
-  Description: Language Server Protocol Client for the Kakoune editor
-  Homepage: https://github.com/kak-lsp/kak-lsp
 - Package: kakoune
   Version: 2024.05.18
   Description: Code editor heavily inspired by Vim
@@ -7143,7 +7139,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.16
+  Version: 0.8.18
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://github.com/Decodetalkers/neocmakelsp
 - Package: neofetch
