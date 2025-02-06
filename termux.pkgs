@@ -1809,7 +1809,7 @@
 | **ninja** | 1.12.1 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-2 | Space Invaders clone based on ncurses for ASCII output | http://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.11.3 | JSON for Modern C++ | https://github.com/nlohmann/json |
-| **nlopt** | 2.9.1 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
+| **nlopt** | 2.10.0 | Library for nonlinear optimization | https://nlopt.readthedocs.io/ |
 | **nmap** | 7.95 | Utility for network discovery and security auditing | https://nmap.org/ |
 | **nmap-ncat** | 7.95 | Feature-packed networking utility which reads and writes data across networks from the command line | https://nmap.org/ |
 | **nmh** | 1.8-1 | Powerful electronic mail handling system | http://www.nongnu.org/nmh/ |

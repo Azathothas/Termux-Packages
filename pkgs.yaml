@@ -7243,7 +7243,7 @@
   Description: JSON for Modern C++
   Homepage: https://github.com/nlohmann/json
 - Package: nlopt
-  Version: 2.9.1
+  Version: 2.10.0
   Description: Library for nonlinear optimization
   Homepage: https://nlopt.readthedocs.io/
 - Package: nmap
