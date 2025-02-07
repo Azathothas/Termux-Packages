@@ -7031,7 +7031,7 @@
   Description: A light VPN software
   Homepage: https://github.com/ntop/n2n
 - Package: nala
-  Version: 0.15.4-3
+  Version: 0.15.4-4
   Description: Commandline frontend for the apt package manager
   Homepage: https://gitlab.com/volian/nala
 - Package: nali
