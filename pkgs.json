@@ -2557,9 +2557,9 @@
   },
   {
     "Package": "entr",
-    "Version": "5.6",
+    "Version": "5.7",
     "Description": "Event Notify Test Runner - run arbitrary commands when files change",
-    "Homepage": "http://eradman.com/entrproject/"
+    "Homepage": "https://eradman.com/entrproject/"
   },
   {
     "Package": "erlang",
@@ -2791,7 +2791,7 @@
   },
   {
     "Package": "ffsend",
-    "Version": "0.2.76",
+    "Version": "0.2.77",
     "Description": "A fully featured Firefox Send client",
     "Homepage": "https://gitlab.com/timvisee/ffsend"
   },

@@ -424,7 +424,7 @@
  enchant  2.8.2-1  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
  enchant-static  2.8.2-1  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
  enscript  1.6.6-12  Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes  https://www.gnu.org/software/enscript/ 
- entr  5.6  Event Notify Test Runner - run arbitrary commands when files change  http://eradman.com/entrproject/ 
+ entr  5.7  Event Notify Test Runner - run arbitrary commands when files change  https://eradman.com/entrproject/ 
  erlang  27.2.1  General-purpose concurrent functional programming language  https://www.erlang.org/ 
  esbuild  0.24.2  An extremely fast JavaScript bundler  https://esbuild.github.io/ 
  espeak  1.52.0  Compact software speech synthesizer  https://github.com/espeak-ng/espeak-ng 
@@ -463,7 +463,7 @@
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
  ffmpeg  7.1-2  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
  ffmpegthumbnailer  2.2.3-p20240913-1  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
- ffsend  0.2.76  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
+ ffsend  0.2.77  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
  fftw  3.3.10-3  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
  fftw-static  3.3.10-3  Static libraries for fftw  http://www.fftw.org/ 
  figlet  2.2.5-2  Program for making large letters out of ordinary text  http://www.figlet.org/ 
