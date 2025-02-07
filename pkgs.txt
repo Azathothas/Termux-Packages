@@ -690,6 +690,7 @@
  hexyl  0.16.0-1  A command-line hex viewer  https://github.com/sharkdp/hexyl 
  heyu  1:2.10.3-1  Program for remotely controlling lights and appliances  https://www.heyu.org/ 
  hfsutils  3.2.6-1  Tool for manipulating HFS images.  https://www.mars.org/home/rob/proj/hfs/ 
+ hidapi  0.14.0  Simple cross-platform library for communicating with HID devices  https://libusb.info/hidapi 
  hilbish  2024.07.30  The Moon-powered shell! A comfy and extensible shell for Lua fans!  https://rosettea.github.io/Hilbish/ 
  hnterm  1.0.5-1  A simple tool to browse Hacker News in the terminal  https://github.com/ggerganov/imtui 
  hoedown  3.0.7-3  Hoedown is a revived fork of Sundown, the Markdown parser based on the original code of the Upskirt library  https://github.com/hoedown/hoedown 
@@ -1271,6 +1272,8 @@
  libpcap  1.10.5  Library for network traffic capture  https://www.tcpdump.org 
  libpcap-static  1.10.5  Static libraries for libpcap  https://www.tcpdump.org 
  libpcreposix  8.45-1  Posix-compatible runtime libraries for libpcre  https://www.pcre.org 
+ libpcsclite  2.0.0-1  Middleware to access a smart card using SCard API (PC/SC).  https://pcsclite.apdu.fr/ 
+ libpcsclite-static  2.0.0-1  Static libraries for libpcsclite  https://pcsclite.apdu.fr/ 
  libphysfs  3.2.0-1  A portable, flexible file i/o abstraction  https://icculus.org/physfs/ 
  libpipeline  1.5.8  C library for manipulating pipelines of subprocesses in a flexible and convenient way  http://libpipeline.nongnu.org/ 
  libpipeline-static  1.5.8  Static libraries for libpipeline  http://libpipeline.nongnu.org/ 
@@ -1880,6 +1883,8 @@
  openldap-static  2.6.9  Static libraries for openldap  https://openldap.org 
  openmpi  4.1.5  Open source Message Passing Interface implementation  https://www.open-mpi.org 
  openmpi-static  4.1.5  Static libraries for openmpi  https://www.open-mpi.org 
+ opensc  0.26.1  Open source smart card tools and middleware  https://github.com/OpenSC/OpenSC 
+ opensc-static  0.26.1  Static libraries for opensc  https://github.com/OpenSC/OpenSC 
  openscad  2021.01  The programmers solid 3D CAD modeller (headless build)  http://openscad.org/ 
  openssh  9.9p1-5  Secure shell for logging into a remote machine  https://www.openssh.com/ 
  openssh-sftp-server  9.9p1-5  OpenSSH SFTP server subsystem  https://www.openssh.com/ 
@@ -1934,6 +1939,7 @@
  pcre2-static  10.44  Static libraries for pcre2  https://www.pcre.org 
  pcre2grep  10.44  A grep with Perl-compatible regular expressions  https://www.pcre.org 
  pcregrep  8.45-1  A grep with Perl-compatible regular expressions  https://www.pcre.org 
+ pcscd  2.0.0-1  Middleware to access a smart card using SCard API (PC/SC). (daemon side)  https://pcsclite.apdu.fr/ 
  pdf2djvu  0.9.19-6  PDF to DjVu converter  https://github.com/jwilk/pdf2djvu 
  pdf2svg  0.2.3-11  A PDF to SVG converter  http://www.cityinthesky.co.uk/opensource/pdf2svg/ 
  pdfcpu  0.9.1  A PDF processor written in Go  https://pdfcpu.io 

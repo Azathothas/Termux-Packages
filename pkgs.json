@@ -4152,6 +4152,12 @@
     "Homepage": "https://www.mars.org/home/rob/proj/hfs/"
   },
   {
+    "Package": "hidapi",
+    "Version": "0.14.0",
+    "Description": "Simple cross-platform library for communicating with HID devices",
+    "Homepage": "https://libusb.info/hidapi"
+  },
+  {
     "Package": "hilbish",
     "Version": "2024.07.30",
     "Description": "The Moon-powered shell! A comfy and extensible shell for Lua fans!",
@@ -7636,6 +7642,18 @@
     "Version": "8.45-1",
     "Description": "Posix-compatible runtime libraries for libpcre",
     "Homepage": "https://www.pcre.org"
+  },
+  {
+    "Package": "libpcsclite",
+    "Version": "2.0.0-1",
+    "Description": "Middleware to access a smart card using SCard API (PC/SC).",
+    "Homepage": "https://pcsclite.apdu.fr/"
+  },
+  {
+    "Package": "libpcsclite-static",
+    "Version": "2.0.0-1",
+    "Description": "Static libraries for libpcsclite",
+    "Homepage": "https://pcsclite.apdu.fr/"
   },
   {
     "Package": "libphysfs",
@@ -11292,6 +11310,18 @@
     "Homepage": "https://www.open-mpi.org"
   },
   {
+    "Package": "opensc",
+    "Version": "0.26.1",
+    "Description": "Open source smart card tools and middleware",
+    "Homepage": "https://github.com/OpenSC/OpenSC"
+  },
+  {
+    "Package": "opensc-static",
+    "Version": "0.26.1",
+    "Description": "Static libraries for opensc",
+    "Homepage": "https://github.com/OpenSC/OpenSC"
+  },
+  {
     "Package": "openscad",
     "Version": "2021.01",
     "Description": "The programmers solid 3D CAD modeller (headless build)",
@@ -11614,6 +11644,12 @@
     "Version": "8.45-1",
     "Description": "A grep with Perl-compatible regular expressions",
     "Homepage": "https://www.pcre.org"
+  },
+  {
+    "Package": "pcscd",
+    "Version": "2.0.0-1",
+    "Description": "Middleware to access a smart card using SCard API (PC/SC). (daemon side)",
+    "Homepage": "https://pcsclite.apdu.fr/"
   },
   {
     "Package": "pdf2djvu",
