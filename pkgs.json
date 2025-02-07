@@ -8119,13 +8119,13 @@
   },
   {
     "Package": "libsndfile",
-    "Version": "1.2.2",
+    "Version": "1.2.2-1",
     "Description": "Library for reading/writing audio files",
     "Homepage": "http://www.mega-nerd.com/libsndfile"
   },
   {
     "Package": "libsndfile-static",
-    "Version": "1.2.2",
+    "Version": "1.2.2-1",
     "Description": "Static libraries for libsndfile",
     "Homepage": "http://www.mega-nerd.com/libsndfile"
   },

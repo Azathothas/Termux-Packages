@@ -1363,8 +1363,8 @@
 | **libsm-static** | 1.2.4-1 | Static libraries for libsm | https://xorg.freedesktop.org/ |
 | **libsmartcols** | 2.40.2-2 | Library for smart adaptive formatting of tabular data | https://en.wikipedia.org/wiki/Util-linux |
 | **libsnappy** | 1.2.1 | A compression/decompression library | https://github.com/google/snappy |
-| **libsndfile** | 1.2.2 | Library for reading/writing audio files | http://www.mega-nerd.com/libsndfile |
-| **libsndfile-static** | 1.2.2 | Static libraries for libsndfile | http://www.mega-nerd.com/libsndfile |
+| **libsndfile** | 1.2.2-1 | Library for reading/writing audio files | http://www.mega-nerd.com/libsndfile |
+| **libsndfile-static** | 1.2.2-1 | Static libraries for libsndfile | http://www.mega-nerd.com/libsndfile |
 | **libsodium** | 1.0.20 | Network communication, cryptography and signaturing library | https://libsodium.org/ |
 | **libsodium-static** | 1.0.20 | Static libraries for libsodium | https://libsodium.org/ |
 | **libsoldout** | 1.4-1 | Flexible C library and tools for markdown | https://fossil.instinctive.eu/libsoldout/index |
