@@ -1229,7 +1229,7 @@
  libnpth-static  1.6-2  Static libraries for libnpth  https://www.gnupg.org/related_software/npth/ 
  libnspr  4.36  Netscape Portable Runtime (NSPR)  https://hg.mozilla.org/projects/nspr 
  libnspr-static  4.36  Static libraries for libnspr  https://hg.mozilla.org/projects/nspr 
- libnss  3.107  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
+ libnss  3.108  Network Security Services (NSS)  https://firefox-source-docs.mozilla.org/security/nss/ 
  libntl  11.5.1-1  A Library for doing Number Theory  https://libntl.org 
  libntl-static  11.5.1-1  Static libraries for libntl  https://libntl.org 
  libobjc2  2.1-2  The GNUstep Objective-C runtime  http://www.gnustep.org/ 
@@ -1781,7 +1781,7 @@
  ndk-multilib-native-static  27c  Install native static libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-stubs  27c  Install native stubs for shared libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-sysroot  27c  System header and library files from the Android NDK needed for compiling C programs  https://developer.android.com/tools/sdk/ndk/index.html 
- ne  3.3.3  Easy-to-use and powerful text editor  https://ne.di.unimi.it/ 
+ ne  3.3.4  Easy-to-use and powerful text editor  https://ne.di.unimi.it/ 
  nelua  2024.01.13  Minimal, efficient, statically-typed and meta-programmable systems programming language  https://nelua.io 
  neocmakelsp  0.8.18  a cmake lsp based on tower-lsp and treesitter  https://github.com/Decodetalkers/neocmakelsp 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
@@ -1826,9 +1826,9 @@
  nsis  3.10  A professional open source system to create Windows installers  https://sourceforge.net/projects/nsis/ 
  nsis-stubs  3.10  NSIS Stubs  https://sourceforge.net/projects/nsis/ 
  nsnake  3.0.1-6  The classic snake game with textual interface  https://github.com/alexdantas/nSnake 
- nss-utils  3.107  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
+ nss-utils  3.108  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  5.0.0  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
- nushell  0.101.0  A new type of shell operating on structured data  https://www.nushell.sh 
+ nushell  0.102.0  A new type of shell operating on structured data  https://www.nushell.sh 
  nwipe  0.38  A program that will securely erase the entire contents of disks  https://github.com/martijnvanbrummelen/nwipe 
  nyancat  1.5.2  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
  nzbget  21.1-6  The most efficient usenet downloader  https://nzbget.net/ 

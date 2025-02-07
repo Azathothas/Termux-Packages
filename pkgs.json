@@ -7387,7 +7387,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.107",
+    "Version": "3.108",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10699,7 +10699,7 @@
   },
   {
     "Package": "ne",
-    "Version": "3.3.3",
+    "Version": "3.3.4",
     "Description": "Easy-to-use and powerful text editor",
     "Homepage": "https://ne.di.unimi.it/"
   },
@@ -10969,7 +10969,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.107",
+    "Version": "3.108",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10981,7 +10981,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.101.0",
+    "Version": "0.102.0",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
