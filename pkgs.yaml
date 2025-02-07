@@ -1755,7 +1755,7 @@
   Description: Tool for automating interactive terminal applications
   Homepage: https://core.tcl.tk/expect/index
 - Package: eza
-  Version: 0.20.19
+  Version: 0.20.20
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: fact++
