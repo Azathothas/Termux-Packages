@@ -547,7 +547,7 @@
   },
   {
     "Package": "at",
-    "Version": "3.2.5",
+    "Version": "3.2.5-1",
     "Description": "AT and batch delayed command scheduling utility and daemon",
     "Homepage": "https://salsa.debian.org/debian/at"
   },
