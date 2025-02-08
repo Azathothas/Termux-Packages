@@ -3271,7 +3271,7 @@
   Description: Linux Audio Developers Simple Plugin API
   Homepage: https://www.ladspa.org/
 - Package: lame
-  Version: 3.100-5
+  Version: 3.100-6
   Description: High quality MPEG Audio Layer III (MP3) encoder - frontend
   Homepage: https://lame.sourceforge.io/
 - Package: lastpass-cli
@@ -4731,11 +4731,11 @@
   Description: Library for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libmp3lame
-  Version: 3.100-5
+  Version: 3.100-6
   Description: High quality MPEG Audio Layer III (MP3) encoder
   Homepage: https://lame.sourceforge.io/
 - Package: libmp3lame-static
-  Version: 3.100-5
+  Version: 3.100-6
   Description: Static libraries for libmp3lame
   Homepage: https://lame.sourceforge.io/
 - Package: libmp3splt
