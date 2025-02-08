@@ -2211,21 +2211,21 @@
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.6.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
-| **rust** | 1.84.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
+| **rust** | 1.84.1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20250120 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.71.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
-| **rust-docs** | 1.84.0 | Rust documentation | https://www.rust-lang.org/ |
-| **rust-src** | 1.84.0 | Rust source code files | https://www.rust-lang.org/ |
-| **rust-std-aarch64-linux-android** | 1.84.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
-| **rust-std-armv7-linux-androideabi** | 1.84.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
-| **rust-std-i686-linux-android** | 1.84.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32-unknown-unknown** | 1.84.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
+| **rust-docs** | 1.84.1 | Rust documentation | https://www.rust-lang.org/ |
+| **rust-src** | 1.84.1 | Rust source code files | https://www.rust-lang.org/ |
+| **rust-std-aarch64-linux-android** | 1.84.1 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
+| **rust-std-armv7-linux-androideabi** | 1.84.1 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
+| **rust-std-i686-linux-android** | 1.84.1 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
+| **rust-std-wasm32-unknown-unknown** | 1.84.1 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
 | **rust-std-wasm32-wasi** | 1.83.0-2 | Rust std for target wasm32-wasi | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip1** | 1.84.0 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
-| **rust-std-wasm32-wasip2** | 1.84.0 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
-| **rust-std-x86-64-linux-android** | 1.84.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
-| **rustc-dev** | 1.84.0 | Rust compiler development libs | https://www.rust-lang.org/ |
-| **rustc-src** | 1.84.0 | Rust compiler source code files | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip1** | 1.84.1 | Rust std for target wasm32-wasip1 | https://www.rust-lang.org/ |
+| **rust-std-wasm32-wasip2** | 1.84.1 | Rust std for target wasm32-wasip2 | https://www.rust-lang.org/ |
+| **rust-std-x86-64-linux-android** | 1.84.1 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
+| **rustc-dev** | 1.84.1 | Rust compiler development libs | https://www.rust-lang.org/ |
+| **rustc-src** | 1.84.1 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.3.0 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
@@ -2702,7 +2702,7 @@
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.9.6 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 0.4.46 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 0.4.47 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-7 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
