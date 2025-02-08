@@ -16099,9 +16099,9 @@
   },
   {
     "Package": "zk",
-    "Version": "0.14.1",
+    "Version": "0.14.2",
     "Description": "A plain text note-taking assistant",
-    "Homepage": "https://github.com/zk-org/zk"
+    "Homepage": "https://zk-org.github.io/zk/"
   },
   {
     "Package": "zlib",
