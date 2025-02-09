@@ -10667,7 +10667,7 @@
   Description: Static libraries for yasm
   Homepage: https://yasm.tortall.net/
 - Package: yazi
-  Version: 0.4.2
+  Version: 25.2.7
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
