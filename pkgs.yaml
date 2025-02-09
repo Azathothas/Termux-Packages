@@ -783,7 +783,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: cargo-c
-  Version: 0.10.9
+  Version: 0.10.9-1
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: catdoc
@@ -1043,7 +1043,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 2.4.0-61
+  Version: 2.4.0-62
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -1323,7 +1323,7 @@
   Description: A minimal, fast alternative to du -sh
   Homepage: https://github.com/sharkdp/diskus
 - Package: distant
-  Version: 1:0.20.0-1
+  Version: 1:0.20.0-2
   Description: Library and tooling that supports remote filesystem and process
   Homepage: https://github.com/chipsenkbeil/distant
 - Package: distcc
@@ -2239,7 +2239,7 @@
   Description: Enables transparent encryption and decryption of files for a git repository
   Homepage: https://www.agwa.name/projects/git-crypt/
 - Package: git-delta
-  Version: 0.18.2-1
+  Version: 0.18.2-2
   Description: A syntax-highlighter for git and diff output
   Homepage: https://dandavison.github.io/delta/
 - Package: git-gitk
@@ -2275,7 +2275,7 @@
   Description: Rust implementation of Git
   Homepage: https://github.com/Byron/gitoxide
 - Package: gitui
-  Version: 0.27.0-1
+  Version: 0.27.0-2
   Description: Blazing fast terminal-ui for git written in rust
   Homepage: https://github.com/extrawurst/gitui
 - Package: gkermit
@@ -7223,7 +7223,7 @@
   Description: Low level cryptographic tools
   Homepage: https://www.lysator.liu.se/~nisse/nettle/
 - Package: newsboat
-  Version: "2.38"
+  Version: 2.38-1
   Description: RSS/Atom feed reader for the text console
   Homepage: https://newsboat.org/
 - Package: nginx
@@ -9019,7 +9019,7 @@
   Description: Shell script compiler
   Homepage: https://neurobin.org/projects/softwares/unix/shc/
 - Package: sheldon
-  Version: 0.8.0
+  Version: 0.8.0-1
   Description: Fast, configurable, shell plugin manager
   Homepage: https://github.com/rossmacarthur/sheldon
 - Package: shell2http

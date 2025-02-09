@@ -1177,7 +1177,7 @@
   },
   {
     "Package": "cargo-c",
-    "Version": "0.10.9",
+    "Version": "0.10.9-1",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
   },
@@ -1567,7 +1567,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "2.4.0-61",
+    "Version": "2.4.0-62",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -1987,7 +1987,7 @@
   },
   {
     "Package": "distant",
-    "Version": "1:0.20.0-1",
+    "Version": "1:0.20.0-2",
     "Description": "Library and tooling that supports remote filesystem and process",
     "Homepage": "https://github.com/chipsenkbeil/distant"
   },
@@ -3361,7 +3361,7 @@
   },
   {
     "Package": "git-delta",
-    "Version": "0.18.2-1",
+    "Version": "0.18.2-2",
     "Description": "A syntax-highlighter for git and diff output",
     "Homepage": "https://dandavison.github.io/delta/"
   },
@@ -3415,7 +3415,7 @@
   },
   {
     "Package": "gitui",
-    "Version": "0.27.0-1",
+    "Version": "0.27.0-2",
     "Description": "Blazing fast terminal-ui for git written in rust",
     "Homepage": "https://github.com/extrawurst/gitui"
   },
@@ -10837,7 +10837,7 @@
   },
   {
     "Package": "newsboat",
-    "Version": "2.38",
+    "Version": "2.38-1",
     "Description": "RSS/Atom feed reader for the text console",
     "Homepage": "https://newsboat.org/"
   },
@@ -13531,7 +13531,7 @@
   },
   {
     "Package": "sheldon",
-    "Version": "0.8.0",
+    "Version": "0.8.0-1",
     "Description": "Fast, configurable, shell plugin manager",
     "Homepage": "https://github.com/rossmacarthur/sheldon"
   },
