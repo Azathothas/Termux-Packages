@@ -891,7 +891,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.59.0
+  Version: 2.59.1
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -1290,6 +1290,10 @@
   Version: 1.13.3
   Description: Online dictionary client and server
   Homepage: https://sourceforge.net/projects/dict/
+- Package: diff-so-fancy
+  Version: 1.4.4
+  Description: Good-lookin diffs. Actually... nah... The best-lookin diffs
+  Homepage: https://github.com/so-fancy/diff-so-fancy
 - Package: diffstat
   Version: "1.67"
   Description: Displays a histogram of changes to a file
@@ -2263,7 +2267,7 @@
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: gitea
-  Version: 1.23.1
+  Version: 1.23.3
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
@@ -3279,7 +3283,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.45.2
+  Version: 0.45.2-1
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lazyread
@@ -4011,11 +4015,11 @@
   Description: Static libraries for libfdk-aac
   Homepage: https://github.com/mstorsjo/fdk-aac
 - Package: libffi
-  Version: 3.4.6-1
+  Version: 3.4.7
   Description: Library providing a portable, high level programming interface to various calling conventions
   Homepage: https://sourceware.org/libffi/
 - Package: libffi-static
-  Version: 3.4.6-1
+  Version: 3.4.7
   Description: Static libraries for libffi
   Homepage: https://sourceware.org/libffi/
 - Package: libfinalcut
@@ -4955,11 +4959,11 @@
   Description: Static libraries for libogg
   Homepage: https://xiph.org/ogg/
 - Package: liboggz
-  Version: 1.1.1-5
+  Version: 1.1.2
   Description: Command and library to inspect, tweak, edit and validate Ogg files
   Homepage: https://www.xiph.org/oggz/
 - Package: liboggz-static
-  Version: 1.1.1-5
+  Version: 1.1.2
   Description: Static libraries for liboggz
   Homepage: https://www.xiph.org/oggz/
 - Package: libolm
@@ -5591,11 +5595,11 @@
   Description: Static libraries for libtalloc
   Homepage: https://talloc.samba.org/talloc/doc/html/index.html
 - Package: libtasn1
-  Version: 4.19.0-1
+  Version: 4.20.0
   Description: This is GNU Libtasn1, a small ASN.1 library
   Homepage: https://www.gnu.org/software/libtasn1/
 - Package: libtasn1-static
-  Version: 4.19.0-1
+  Version: 4.20.0
   Description: Static libraries for libtasn1
   Homepage: https://www.gnu.org/software/libtasn1/
 - Package: libtbb
@@ -7239,7 +7243,7 @@
   Description: A mixed-level/mixed-signal circuit simulator
   Homepage: https://ngspice.sourceforge.net/
 - Package: nim
-  Version: 2.2.0
+  Version: 2.2.2
   Description: Nim programming language compiler
   Homepage: https://nim-lang.org/
 - Package: ninja
