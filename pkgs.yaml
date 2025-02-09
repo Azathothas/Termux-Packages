@@ -8443,11 +8443,11 @@
   Description: Static libraries for qhull
   Homepage: http://www.qhull.org
 - Package: qpdf
-  Version: 11.9.1
+  Version: 11.10.0
   Description: Content-Preserving PDF Transformation System
   Homepage: http://qpdf.sourceforge.net
 - Package: qpdf-static
-  Version: 11.9.1
+  Version: 11.10.0
   Description: Static libraries for qpdf
   Homepage: http://qpdf.sourceforge.net
 - Package: qrsspig
