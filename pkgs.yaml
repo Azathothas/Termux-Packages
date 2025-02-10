@@ -8239,7 +8239,7 @@
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-lxml
-  Version: 5.3.0-2
+  Version: 5.3.1
   Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
