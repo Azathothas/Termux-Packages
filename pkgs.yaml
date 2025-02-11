@@ -187,7 +187,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.11.0
+  Version: 3.12.0
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: apache-orc
@@ -1779,7 +1779,7 @@
   Description: To fastly access files and folders
   Homepage: https://github.com/whjvenyl/fasd
 - Package: fastfetch
-  Version: 2.36.0
+  Version: 2.36.1
   Description: A maintained, feature-rich and performance oriented, neofetch like system information tool
   Homepage: https://github.com/fastfetch-cli/fastfetch
 - Package: fastmod
@@ -1911,11 +1911,11 @@
   Description: FLAC (Free Lossless Audio Codec) command-line tool
   Homepage: https://xiph.org/flac/
 - Package: flatbuffers
-  Version: 25.1.24
+  Version: 25.2.10
   Description: Memory Efficient Serialization Library
   Homepage: https://github.com/google/flatbuffers
 - Package: flatbuffers-static
-  Version: 25.1.24
+  Version: 25.2.10
   Description: Static libraries for flatbuffers
   Homepage: https://github.com/google/flatbuffers
 - Package: flex
@@ -3483,11 +3483,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.11.0
+  Version: 3.12.0
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.11.0
+  Version: 3.12.0
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
