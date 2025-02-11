@@ -871,7 +871,7 @@
   Description: A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)
   Homepage: https://cgdb.github.io/
 - Package: cgif
-  Version: 0.4.1
+  Version: 0.5.0
   Description: A fast and lightweight GIF encoding library
   Homepage: https://github.com/dloebl/cgif
 - Package: chafa
@@ -8959,7 +8959,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 2.6.2
+  Version: 2.7.2
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
