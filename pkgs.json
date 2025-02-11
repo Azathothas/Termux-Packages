@@ -2617,13 +2617,13 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.18",
+    "Version": "13.19",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
   {
     "Package": "exiv2",
-    "Version": "2:0.28.3",
+    "Version": "2:0.28.4",
     "Description": "Exif, Iptc and XMP metadata manipulation library and tools",
     "Homepage": "https://exiv2.org/"
   },
@@ -3211,7 +3211,7 @@
   },
   {
     "Package": "gegl",
-    "Version": "0.4.52",
+    "Version": "0.4.54",
     "Description": "Data flow based image processing framework",
     "Homepage": "https://gegl.org/"
   },
