@@ -97,9 +97,9 @@
   },
   {
     "Package": "acr",
-    "Version": "2.1.4",
+    "Version": "2.2.0",
     "Description": "A fully compatible autoconf replacement",
-    "Homepage": "https://github.com/radare/acr"
+    "Homepage": "https://github.com/radareorg/acr"
   },
   {
     "Package": "adms",
@@ -1201,7 +1201,7 @@
   },
   {
     "Package": "cava",
-    "Version": "0.10.3",
+    "Version": "0.10.4",
     "Description": "Console-based Audio Visualizer. Works with MPD and Pulseaudio",
     "Homepage": "https://github.com/karlstav/cava"
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.62.0",
+    "Version": "0.63.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.66.1",
+    "Version": "2.67.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -10309,19 +10309,19 @@
   },
   {
     "Package": "mono",
-    "Version": "6.12.0.206",
+    "Version": "6.12.0.206-1",
     "Description": "Framework Mono",
     "Homepage": "https://gitlab.winehq.org/mono/mono"
   },
   {
     "Package": "mono-libs",
-    "Version": "6.12.0.206",
+    "Version": "6.12.0.206-1",
     "Description": "Platform-independent libraries for mono",
     "Homepage": "https://gitlab.winehq.org/mono/mono"
   },
   {
     "Package": "mono-static",
-    "Version": "6.12.0.206",
+    "Version": "6.12.0.206-1",
     "Description": "Static libraries for mono",
     "Homepage": "https://gitlab.winehq.org/mono/mono"
   },
