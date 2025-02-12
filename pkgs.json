@@ -3967,7 +3967,7 @@
   },
   {
     "Package": "gst-python",
-    "Version": "1.24.12",
+    "Version": "1.24.12-1",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
