@@ -615,7 +615,7 @@
 | **gnurl-static** | 7.72.0 | Static libraries for gnurl | https://gnunet.org/en/gnurl.html |
 | **gnushogi** | 1.4.2-4 | Program that plays the game of Shogi, also known as Japanese Chess | https://www.gnu.org/software/gnushogi/ |
 | **gnuski** | 0.3-6 | Open source clone of Skifree, the old Windows game | https://sourceforge.net/projects/gnuski |
-| **gnustep-make** | 2.9.2-1 | The GNUstep makefile package | http://www.gnustep.org |
+| **gnustep-make** | 2.9.3 | The GNUstep makefile package | https://www.gnustep.org |
 | **gnutls** | 3.8.5 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-3 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
 | **go-musicfox** | 4.6.0 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |

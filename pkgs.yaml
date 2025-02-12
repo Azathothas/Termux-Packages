@@ -2419,9 +2419,9 @@
   Description: Open source clone of Skifree, the old Windows game
   Homepage: https://sourceforge.net/projects/gnuski
 - Package: gnustep-make
-  Version: 2.9.2-1
+  Version: 2.9.3
   Description: The GNUstep makefile package
-  Homepage: http://www.gnustep.org
+  Homepage: https://www.gnustep.org
 - Package: gnutls
   Version: 3.8.5
   Description: Commandline utilities for interfacing with the gnutls library
