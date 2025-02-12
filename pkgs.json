@@ -5017,7 +5017,7 @@
   },
   {
     "Package": "lf",
-    "Version": "33",
+    "Version": "34",
     "Description": "Terminal file manager",
     "Homepage": "https://github.com/gokcehan/lf"
   },
@@ -9175,7 +9175,7 @@
   },
   {
     "Package": "libxlsxwriter",
-    "Version": "1.1.9",
+    "Version": "1.2.0",
     "Description": "A C library for creating Excel XLSX files",
     "Homepage": "https://libxlsxwriter.github.io/"
   },

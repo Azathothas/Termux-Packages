@@ -3343,7 +3343,7 @@
   Description: A real-time word puzzle for text terminals
   Homepage: https://www.kyne.au/~mark/software/lexter.php
 - Package: lf
-  Version: "33"
+  Version: "34"
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lftp
@@ -6115,7 +6115,7 @@
   Description: Static libraries for libxls
   Homepage: https://github.com/libxls/libxls
 - Package: libxlsxwriter
-  Version: 1.1.9
+  Version: 1.2.0
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2

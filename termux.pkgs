@@ -834,7 +834,7 @@
 | **leveldb** | 1.23-3 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.4.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-4 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
-| **lf** | 33 | Terminal file manager | https://github.com/gokcehan/lf |
+| **lf** | 34 | Terminal file manager | https://github.com/gokcehan/lf |
 | **lftp** | 4.9.2-6 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-6 | Static libraries for lftp | https://lftp.tech/ |
 | **lgogdownloader** | 3.16 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
@@ -1527,7 +1527,7 @@
 | **libxi-static** | 1.8.2 | Static libraries for libxi | https://xorg.freedesktop.org/ |
 | **libxls** | 1.6.3 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.3 | Static libraries for libxls | https://github.com/libxls/libxls |
-| **libxlsxwriter** | 1.1.9 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
+| **libxlsxwriter** | 1.2.0 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
 | **libxml2** | 2.13.5 | Library for parsing XML documents | http://www.xmlsoft.org |
 | **libxml2-python** | 2.13.5 | Python bindings for libxml2 | http://www.xmlsoft.org |
 | **libxml2-python-static** | 2.13.5 | Static libraries for libxml2-python | http://www.xmlsoft.org |
