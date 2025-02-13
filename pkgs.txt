@@ -604,7 +604,7 @@
  gnushogi  1.4.2-4  Program that plays the game of Shogi, also known as Japanese Chess  https://www.gnu.org/software/gnushogi/ 
  gnuski  0.3-6  Open source clone of Skifree, the old Windows game  https://sourceforge.net/projects/gnuski 
  gnustep-make  2.9.3  The GNUstep makefile package  https://www.gnustep.org 
- gnutls  3.8.5  Commandline utilities for interfacing with the gnutls library  https://www.gnutls.org/ 
+ gnutls  3.8.9  Commandline utilities for interfacing with the gnutls library  https://www.gnutls.org/ 
  go-findimagedupes  2023.01.29-3  Find visually similar or duplicate images  https://gitlab.com/opennota/findimagedupes 
  go-musicfox  4.6.0  A netease music player in terminal.  https://github.com/go-musicfox/go-musicfox 
  goaccess  1.9.3  An open source real-time web log analyzer and interactive viewer  http://goaccess.io 
@@ -628,10 +628,10 @@
  gpac  2.4.0-1  An open-source multimedia framework focused on modularity and standards compliance  https://gpac.wp.imt.fr/ 
  gpac-static  2.4.0-1  Static libraries for gpac  https://gpac.wp.imt.fr/ 
  gperf  3.1-7  A perfect hash function generator  https://www.gnu.org/software/gperf 
- gpgme  1.24.1  Library designed to make access to GnuPG easier  https://www.gnupg.org/related_software/gpgme/ 
- gpgme-static  1.24.1  Static libraries for gpgme  https://www.gnupg.org/related_software/gpgme/ 
- gpgmepp  1.24.1  Programmatic C++ library interface to GnuPG  https://www.gnupg.org/related_software/gpgme/ 
- gpgmepp-static  1.24.1  Static libraries for gpgmepp  https://www.gnupg.org/related_software/gpgme/ 
+ gpgme  1.24.2  Library designed to make access to GnuPG easier  https://www.gnupg.org/related_software/gpgme/ 
+ gpgme-static  1.24.2  Static libraries for gpgme  https://www.gnupg.org/related_software/gpgme/ 
+ gpgmepp  1.24.2  Programmatic C++ library interface to GnuPG  https://www.gnupg.org/related_software/gpgme/ 
+ gpgmepp-static  1.24.2  Static libraries for gpgmepp  https://www.gnupg.org/related_software/gpgme/ 
  gpgv  2.4.5-3  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
  gping  1.19.0  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-2  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
@@ -1042,8 +1042,8 @@
  libgmp-static  6.3.0-1  Static libraries for libgmp  https://gmplib.org/ 
  libgnt  2.14.4  An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way  https://keep.imfreedom.org/libgnt/libgnt 
  libgnustep-base  1.30.0-1  A library of general-purpose, non-graphical Objective C objects  http://www.gnustep.org 
- libgnutls  3.8.5  Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them  https://www.gnutls.org/ 
- libgnutls-static  3.8.5  Static libraries for libgnutls  https://www.gnutls.org/ 
+ libgnutls  3.8.9  Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them  https://www.gnutls.org/ 
+ libgnutls-static  3.8.9  Static libraries for libgnutls  https://www.gnutls.org/ 
  libgpg-error  1.50  Small library that defines common error values for all GnuPG components  https://www.gnupg.org/related_software/libgpg-error/ 
  libgpg-error-static  1.50  Static libraries for libgpg-error  https://www.gnupg.org/related_software/libgpg-error/ 
  libgraphite  1.3.14-2  Font system for multiple languages  https://github.com/silnrsi/graphite 

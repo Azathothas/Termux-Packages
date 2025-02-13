@@ -3637,7 +3637,7 @@
   },
   {
     "Package": "gnutls",
-    "Version": "3.8.5",
+    "Version": "3.8.9",
     "Description": "Commandline utilities for interfacing with the gnutls library",
     "Homepage": "https://www.gnutls.org/"
   },
@@ -3781,25 +3781,25 @@
   },
   {
     "Package": "gpgme",
-    "Version": "1.24.1",
+    "Version": "1.24.2",
     "Description": "Library designed to make access to GnuPG easier",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgme-static",
-    "Version": "1.24.1",
+    "Version": "1.24.2",
     "Description": "Static libraries for gpgme",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgmepp",
-    "Version": "1.24.1",
+    "Version": "1.24.2",
     "Description": "Programmatic C++ library interface to GnuPG",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
   {
     "Package": "gpgmepp-static",
-    "Version": "1.24.1",
+    "Version": "1.24.2",
     "Description": "Static libraries for gpgmepp",
     "Homepage": "https://www.gnupg.org/related_software/gpgme/"
   },
@@ -6265,13 +6265,13 @@
   },
   {
     "Package": "libgnutls",
-    "Version": "3.8.5",
+    "Version": "3.8.9",
     "Description": "Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them",
     "Homepage": "https://www.gnutls.org/"
   },
   {
     "Package": "libgnutls-static",
-    "Version": "3.8.5",
+    "Version": "3.8.9",
     "Description": "Static libraries for libgnutls",
     "Homepage": "https://www.gnutls.org/"
   },
