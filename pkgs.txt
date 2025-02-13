@@ -164,7 +164,7 @@
  brainfuck-static  1:2.7.3  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
  brogue  1.14.1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20250202  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
- broot  1.44.6-1  A better way to navigate directories  https://github.com/Canop/broot 
+ broot  1.44.7  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.1.0  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  brotli-static  1.0.9-1  Static libraries for brotli  https://github.com/google/brotli 
  bsd-finger  0.17-1  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
@@ -324,7 +324,7 @@
  diff-so-fancy  1.4.4  Good-lookin' diffs. Actually... nah... The best-lookin' diffs  https://github.com/so-fancy/diff-so-fancy 
  diffstat  1.67  Displays a histogram of changes to a file  https://invisible-island.net/diffstat/diffstat.html 
  difftastic  0.63.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
- diffutils  3.10  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
+ diffutils  3.11  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
  dirb  2.22-4  Web Directory Fuzzer  http://dirb.sourceforge.net/ 
  direnv  2.35.0  Environment switcher for shell  https://github.com/direnv/direnv 
  direvent  5.4  Monitor of events in file system directories  https://www.gnu.org.ua/software/direvent/ 
@@ -342,7 +342,7 @@
  dnslookup  1.11.1  Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.  https://github.com/ameshkov/dnslookup 
  dnsmap  0.36-2  Subdomain Bruteforcing Tool  https://github.com/resurrecting-open-source-projects/dnsmap 
  dnstop  2022.10.19  A libpcap application that displays various tables of DNS traffic on your network  https://github.com/measurement-factory/dnstop 
- dnsutils  9.20.4  Clients provided with BIND  https://www.isc.org/downloads/bind/ 
+ dnsutils  9.20.5  Clients provided with BIND  https://www.isc.org/bind/ 
  dnsutils-static  9.16.41  Static libraries for dnsutils  https://www.isc.org/downloads/bind/ 
  docbook-xml  4.5-4  A widely used XML scheme for writing documentation and help  https://www.oasis-open.org/docbook/ 
  docbook-xsl  1.79.2-1  XML stylesheets for Docbook-xml transformations  https://docbook.org/ 
@@ -507,7 +507,7 @@
  fwknop  2.6.11  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
  fx  35.0.0  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
- fzf  0.59.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
+ fzf  0.60.0  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
  fzy  1.0  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
  g-ir-scanner  1.82.0-1  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
  game-music-emu  0.6.3-1  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 

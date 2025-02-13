@@ -663,7 +663,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.44.6-1
+  Version: 1.44.7
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -1303,7 +1303,7 @@
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
-  Version: "3.10"
+  Version: "3.11"
   Description: Programs (cmp, diff, diff3 and sdiff) related to finding differences between files
   Homepage: https://www.gnu.org/software/diffutils/
 - Package: dirb
@@ -1375,9 +1375,9 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.4
+  Version: 9.20.5
   Description: Clients provided with BIND
-  Homepage: https://www.isc.org/downloads/bind/
+  Homepage: https://www.isc.org/bind/
 - Package: dnsutils-static
   Version: 9.16.41
   Description: Static libraries for dnsutils
@@ -2035,7 +2035,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.59.0
+  Version: 0.60.0
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
