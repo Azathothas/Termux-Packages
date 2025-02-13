@@ -1786,7 +1786,7 @@
 | **ncftp** | 3.2.7 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
 | **ncmpcpp** | 0.10.1-1 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
-| **ncpamixer** | 1.3.8 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
+| **ncpamixer** | 1.3.9 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
 | **ncspot** | 1.2.1-2 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
 | **ncurses** | 6.5.20240831-2 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
 | **ncurses-static** | 6.5.20240831-2 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
@@ -1799,7 +1799,7 @@
 | **ndk-sysroot** | 27c | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.4 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
-| **neocmakelsp** | 0.8.18 | a cmake lsp based on tower-lsp and treesitter | https://github.com/Decodetalkers/neocmakelsp |
+| **neocmakelsp** | 0.8.19 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20250113 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.10.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
