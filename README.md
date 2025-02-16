@@ -2699,11 +2699,11 @@
 | **zlib-static** | 1.3.1 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.13.0 | Zig language server | https://github.com/zigtools/zls |
 | **znc** | 1.9.1-1 | An advanced IRC bouncer | https://znc.in/ |
-| **zola** | 0.19.2-1 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
+| **zola** | 0.20.0 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
-| **zoxide** | 0.9.6 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
+| **zoxide** | 0.9.7 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 0.4.47 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok** | 0.4.48 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zsh** | 5.9-7 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.35.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-1 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | http://zssh.sourceforge.net/ |
