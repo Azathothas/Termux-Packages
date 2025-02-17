@@ -1486,7 +1486,7 @@
  libwavpack-static  5.8.1  Static libraries for libwavpack  https://www.wavpack.com/ 
  libwayland  1.23.1-1  Wayland protocol library  https://wayland.freedesktop.org/ 
  libwayland-cross-scanner  1.23.1-1  wayland-scanner for host (NOT for Termux)  https://wayland.freedesktop.org/ 
- libwayland-protocols  1.38  Wayland protocols library  https://wayland.freedesktop.org/ 
+ libwayland-protocols  1.41  Wayland protocols library  https://wayland.freedesktop.org/ 
  libwebp  1.5.0  Library to encode and decode images in WebP format  https://github.com/webmproject/libwebp 
  libwebp-static  1.5.0  Static libraries for libwebp  https://github.com/webmproject/libwebp 
  libwebrtc-audio-processing  1.3-1  A library containing the AudioProcessing module from the WebRTC project  https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ 
