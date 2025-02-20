@@ -2637,7 +2637,7 @@
 | **xapian-tools** | 1.4.27 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-1 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-1 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
-| **xh** | 0.23.1 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
+| **xh** | 0.24.0 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xls2csv** | 1.6.3 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
 | **xmake** | 2.9.8 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.7 | XML Security Library | https://www.aleksey.com/xmlsec/ |
