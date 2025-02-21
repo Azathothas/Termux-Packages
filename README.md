@@ -1725,7 +1725,7 @@
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 19.1.7 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-5 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
-| **moar** | 1.31.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
+| **moar** | 1.31.3 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moar |
 | **mold** | 2.36.0 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.3.4 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **mono** | 6.12.0.206-1 | Framework Mono | https://gitlab.winehq.org/mono/mono |
@@ -2679,7 +2679,7 @@
 | **yasm-static** | 1.3.0-6 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 25.2.11 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.50 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
-| **youtubedr** | 2.10.2 | Download youtube video in Golang | https://github.com/kkdai/youtube |
+| **youtubedr** | 2.10.3 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.45.1 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-2 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
