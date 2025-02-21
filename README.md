@@ -624,8 +624,8 @@
 | **gobject-introspection** | 1.82.0-1 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.2 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.17 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.23.5 | Go programming language compiler | https://golang.org/ |
-| **golang-doc** | 3:1.23.5 | Go programming language - documentation | https://golang.org/ |
+| **golang** | 3:1.24.0 | Go programming language compiler | https://golang.org/ |
+| **golang-doc** | 3:1.24.0 | Go programming language - documentation | https://golang.org/ |
 | **gomp** | 2023.02.02-2 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 0.3.1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
@@ -2238,7 +2238,7 @@
 | **sassc** | 3.6.2 | libsass command line driver | https://github.com/sass/sassc |
 | **sc-im** | 0.8.4 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.6.2-1 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
-| **scc** | 3.4.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
+| **scc** | 3.5.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.9.1 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.4.5-3 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.3 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
