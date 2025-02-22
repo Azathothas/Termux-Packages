@@ -772,7 +772,7 @@
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
 | **ired** | 0.6-2 | Minimalist hexadecimal editor | https://github.com/radare/ired |
 | **irssi** | 1.4.5-2 | Terminal based IRC client | https://irssi.org/ |
-| **isync** | 1.5.0-1 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
+| **isync** | 1.5.0-2 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
 | **iverilog** | 12.0 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
 | **iverilog-static** | 12.0 | Static libraries for iverilog | http://iverilog.icarus.com/ |
 | **iwyu** | 0.23 | A tool to analyze #includes in C and C++ source files | https://include-what-you-use.org/ |
