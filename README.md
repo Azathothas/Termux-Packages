@@ -312,7 +312,7 @@
 | **dar** | 2.7.16 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.7.16 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.16 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dart** | 3.6.2 | Dart is a general-purpose programming language | https://dart.dev/ |
+| **dart** | 3.7.0 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 2.8.1 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
@@ -439,18 +439,18 @@
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 27.2.4 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **esbuild** | 0.24.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.25.0 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.9-2 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.4 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.19 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.21 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.4 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.20.20 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.20.22 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.37 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.37 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -499,7 +499,7 @@
 | **fontconfig-static** | 2.16.0 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.16.0 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 10.0.0 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 10.0.1 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.25-1 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **freecolor** | 0.9.3 | Freecolor is a replacement for Linux that displays free memory graphically | http://rkeene.org/oss/freecolor/ |
@@ -519,7 +519,7 @@
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 35.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.60.0 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.60.2 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.82.0-1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.3-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -533,7 +533,7 @@
 | **gawk-static** | 5.3.0 | Static libraries for gawk | https://www.gnu.org/software/gawk/ |
 | **gbt** | 2.0.0-6 | Highly configurable prompt builder for Bash and ZSH written in Go | https://github.com/jtyr/gbt |
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
-| **gdal** | 3.10.1 | A translator library for raster and vector geospatial data formats | https://gdal.org |
+| **gdal** | 3.10.2 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdal-static** | 3.5.3 | Static libraries for gdal | https://gdal.org |
 | **gdb** | 15.2 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.24 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
@@ -577,13 +577,13 @@
 | **git-lfs** | 3.6.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.48.1 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.23.3 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.23.4 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.41.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.27.0-2 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.53.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **gleam** | 1.7.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
+| **gleam** | 1.8.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.82.5 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-bin** | 2.82.5 | Programs for the GLib library | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.82.5 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -659,7 +659,7 @@
 | **grex** | 1.4.5 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 15.0.0 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 15.0.2 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.16-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
@@ -673,16 +673,16 @@
 | **gst-plugins-ugly** | 1.24.12 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-python** | 1.24.12-1 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.24.12 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
-| **gtypist** | 2.10 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
+| **gtypist** | 2.10.1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.9-2 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
 | **guile-static** | 3.0.9-2 | Static libraries for guile | http://www.gnu.org/software/guile/ |
 | **guile18** | 1.8.8-16 | Portable, embeddable Scheme implementation written in C. (legacy branch) | http://www.gnu.org/software/guile/ |
 | **guile18-static** | 1.8.8-16 | Static libraries for guile18 | http://www.gnu.org/software/guile/ |
-| **gum** | 0.15.0 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
+| **gum** | 0.15.2 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
 | **gumbo-parser** | 0.10.1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.13 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
-| **haproxy** | 3.1.3 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.1.5 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 10.3.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 10.3.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 10.3.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -694,7 +694,7 @@
 | **helix** | 25.01.1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.01.1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
-| **helm** | 3.17.0 | Helm helps you manage Kubernetes applications | https://helm.sh |
+| **helm** | 3.17.1 | Helm helps you manage Kubernetes applications | https://helm.sh |
 | **helm-ls** | 0.2.0 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-6 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
@@ -732,7 +732,7 @@
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-static** | 1.7.2 | Static libraries for hunspell | https://hunspell.github.io |
 | **hut** | 0.6.0 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
-| **hwdata** | 0.391 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
+| **hwdata** | 0.392 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.29 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.19.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.9.5 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
@@ -1715,8 +1715,8 @@
 | **minio** | 2025.01.18.00.31.37 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.28.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.12 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
-| **miniupnpc** | 2.3.0 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
-| **miniupnpc-static** | 2.3.0 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
+| **miniupnpc** | 2.3.1 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
+| **miniupnpc-static** | 2.3.1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.8.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.8.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
 | **mkbootimg** | 2022.11.09 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
@@ -2596,7 +2596,7 @@
 | **vulkan-headers** | 1.4.309 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 27c | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.307 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-generic** | 1.4.309 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.307 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.307 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.305 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
