@@ -281,7 +281,7 @@
 | **corkscrew** | 2.0-3 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
 | **cowsay** | 3.8.4 | Program which generates ASCII pictures of a cow with a message | https://cowsay.diamonds/ |
 | **cpio** | 2.15 | CPIO implementation from the GNU project | https://www.gnu.org/software/cpio/ |
-| **cppcheck** | 2.16.2 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
+| **cppcheck** | 2.17.0 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
 | **cppi** | 1.18-1 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://www.gnu.org/software/cppi/ |
 | **cpufetch** | 1.06 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
@@ -328,7 +328,7 @@
 | **debianutils** | 5.21 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.140 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **desed** | 1.2.2 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
-| **deutex** | 5.2.2 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
+| **deutex** | 5.2.3 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
 | **dialog** | 1.3-20240307-0 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
 | **dialog-static** | 1.3-20240307-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
@@ -389,7 +389,7 @@
 | **dotnet-templates-9.0** | 9.0.2 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
 | **dotnet8.0** | 8.0.13 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
 | **dotnet9.0** | 9.0.2 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
-| **double-conversion** | 3.3.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
+| **double-conversion** | 3.3.1 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
 | **doxygen** | 1.13.2 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
 | **dpkg** | 1.22.6-1 | Debian package management system | https://packages.debian.org/dpkg |
 | **dpkg-perl** | 1.22.6-1 | Perl modules for dpkg | https://packages.debian.org/dpkg |
@@ -438,7 +438,7 @@
 | **enchant-static** | 2.8.2-1 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 27.2.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang** | 27.2.4 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.24.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
