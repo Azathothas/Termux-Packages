@@ -1540,11 +1540,11 @@
 | **libxls** | 1.6.3 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.3 | Static libraries for libxls | https://github.com/libxls/libxls |
 | **libxlsxwriter** | 1.2.0 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
-| **libxml2** | 2.13.5 | Library for parsing XML documents | http://www.xmlsoft.org |
-| **libxml2-python** | 2.13.5 | Python bindings for libxml2 | http://www.xmlsoft.org |
-| **libxml2-python-static** | 2.13.5 | Static libraries for libxml2-python | http://www.xmlsoft.org |
-| **libxml2-static** | 2.13.5 | Static libraries for libxml2 | http://www.xmlsoft.org |
-| **libxml2-utils** | 2.13.5 | XML utilities | http://www.xmlsoft.org |
+| **libxml2** | 2.13.6 | Library for parsing XML documents | http://www.xmlsoft.org |
+| **libxml2-python** | 2.13.6 | Python bindings for libxml2 | http://www.xmlsoft.org |
+| **libxml2-python-static** | 2.13.6 | Static libraries for libxml2-python | http://www.xmlsoft.org |
+| **libxml2-static** | 2.13.6 | Static libraries for libxml2 | http://www.xmlsoft.org |
+| **libxml2-utils** | 2.13.6 | XML utilities | http://www.xmlsoft.org |
 | **libxmlb** | 0.3.21 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.59.03 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.59.03 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
