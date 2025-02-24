@@ -72,7 +72,7 @@
 | **apt-ftparchive** | 2.8.1-1 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
 | **apt-transport-tor** | 2.8.1-1 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
 | **aptitude** | 0.8.13 | terminal-based package manager | https://wiki.debian.org/Aptitude |
-| **aptly** | 1.6.0-1 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
+| **aptly** | 1.6.1 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
 | **argon2** | 20190702-1 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
 | **argon2-static** | 20190702-1 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
 | **argp** | 1.5.0 | Standalone version of arguments parsing functions from GLIBC | https://github.com/argp-standalone/argp-standalone |
@@ -84,7 +84,7 @@
 | **asciidoc** | 10.2.1-1 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.23-1 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
 | **asciinema** | 2.4.0-1 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
-| **asm-lsp** | 0.9.0 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
+| **asm-lsp** | 0.10.0 | language server for NASM/GAS/GO assembly | https://github.com/bergercookie/asm-lsp |
 | **aspell** | 0.60.8.1 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
 | **aspell-de** | 1:20161207.7.0 | German dictionary for aspell | http://aspell.net/ |
 | **aspell-en** | 1:2020.12.07 | English dictionary for aspell | http://aspell.net/ |
@@ -401,7 +401,7 @@
 | **dte** | 1.11.1-1 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
 | **dua** | 2.30.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
-| **duckdb** | 1.1.3 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
+| **duckdb** | 1.2.0 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.43.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-1 | Simple REPL for Duktape | https://www.duktape.org/ |
@@ -980,8 +980,8 @@
 | **libdmtx** | 0.7.7 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.7 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
 | **libdrm** | 2.4.124 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
-| **libduckdb** | 1.1.3 | An in-process SQL OLAP database management system | https://duckdb.org/ |
-| **libduckdb-static** | 1.1.3 | Static libraries for libduckdb | https://duckdb.org/ |
+| **libduckdb** | 1.2.0 | An in-process SQL OLAP database management system | https://duckdb.org/ |
+| **libduckdb-static** | 1.2.0 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0-1 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
 | **libdvbcsa** | 1.1.0-2 | An implementation of the DVB Common Scrambling Algorithm - DVB/CSA - with encryption and decryption capabilities | https://www.videolan.org/developers/libdvbcsa.html |
 | **libdvbcsa-static** | 1.1.0-2 | Static libraries for libdvbcsa | https://www.videolan.org/developers/libdvbcsa.html |
@@ -1059,7 +1059,7 @@
 | **libgpg-error** | 1.50 | Small library that defines common error values for all GnuPG components | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgpg-error-static** | 1.50 | Static libraries for libgpg-error | https://www.gnupg.org/related_software/libgpg-error/ |
 | **libgraphite** | 1.3.14-2 | Font system for multiple languages | https://github.com/silnrsi/graphite |
-| **libgrpc** | 1.69.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
+| **libgrpc** | 1.70.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
 | **libgsf** | 1.14.53 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
@@ -1708,7 +1708,7 @@
 | **mimetic** | 0.9.8-1 | A C++ Email library (MIME) | https://www.codesink.org/mimetic_mime_library.html |
 | **mimetic-static** | 0.9.8-1 | Static libraries for mimetic | https://www.codesink.org/mimetic_mime_library.html |
 | **minesweeper** | 0.3.1-3 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
-| **minicom** | 2.9 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
+| **minicom** | 2.10 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
 | **minidlna** | 1.3.3-2 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.2.6 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
