@@ -233,7 +233,7 @@
 | **chafa-static** | 1.14.5 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.59.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.60.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -747,8 +747,8 @@
 | **id3lib-static** | 3.8.3-3 | Static libraries for id3lib | http://id3lib.sourceforge.net/ |
 | **id3ted** | 1.0-3 | A comand line id3 tag editor | https://muennich.github.io/id3ted/ |
 | **id3v2** | 0.1.12-1 | A command line id3v2 tag editor | http://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.1.43 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.1.43 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.1.44 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.1.44 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.12 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-8 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.3-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
