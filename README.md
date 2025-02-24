@@ -447,7 +447,7 @@
 | **exercism** | 3.5.4 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 13.21 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
-| **exiv2** | 2:0.28.4 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
+| **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.20.22 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -1617,7 +1617,7 @@
 | **lsof** | 4.99.4 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.4 | Static libraries for lsof | https://github.com/lsof-org/lsof |
 | **ltrace** | 1:0.7.9 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
-| **lua-language-server** | 3.13.5 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
+| **lua-language-server** | 3.13.6 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-2 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua51** | 5.1.5 | Simple, extensible, embeddable programming language | https://www.lua.org |
@@ -1710,7 +1710,7 @@
 | **minesweeper** | 0.3.1-3 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
 | **minicom** | 2.9 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
 | **minidlna** | 1.3.3-2 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
-| **miniflux** | 2.2.4 | A minimalist and opinionated feed reader | https://miniflux.app/ |
+| **miniflux** | 2.2.6 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
 | **minio** | 2025.01.18.00.31.37 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.28.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
@@ -1787,7 +1787,7 @@
 | **ncmpcpp** | 0.10.1-1 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.9 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
-| **ncspot** | 1.2.1-2 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
+| **ncspot** | 1.2.2 | An ncurses Spotify client written in Rust | https://github.com/hrkfdn/ncspot |
 | **ncurses** | 6.5.20240831-2 | Library for text-based user interfaces in a terminal-independent manner | https://invisible-island.net/ncurses/ |
 | **ncurses-static** | 6.5.20240831-2 | Static libraries for ncurses | https://invisible-island.net/ncurses/ |
 | **ncurses-ui-libs** | 6.5.20240831-2 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
@@ -2127,7 +2127,7 @@
 | **quick-lint-js** | 3.2.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20240113 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.68 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
-| **rabbitmq-server** | 4.0.5 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
+| **rabbitmq-server** | 4.0.6 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 8.15-1 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 8.15-1 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 5.9.8 | Advanced Hexadecimal Editor | https://rada.re |
@@ -2145,7 +2145,7 @@
 | **ravencoin-static** | 4.6.1-5 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.13.2 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-1 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
-| **rclone** | 1.69.0 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.69.1 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rcshell** | 1.7.4-4 | An alternative implementation of the plan 9 rc shell | http://tobold.org/article/rc |
@@ -2154,7 +2154,7 @@
 | **rdiff-backup** | 2.2.6-2 | A utility for local/remote mirroring and incremental backups | https://rdiff-backup.net |
 | **rdircd** | 2023.02.07-1 | A daemon that allows using a personal Discord account through an IRC client | https://github.com/mk-fg/reliable-discord-client-irc-daemon |
 | **rdrview** | 1:0.1.3 | Command line tool to extract the main content from a webpage | https://github.com/eafer/rdrview |
-| **re2c** | 4.0.2 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
+| **re2c** | 4.1 | Lexer generator for C, C++ and Go. | https://re2c.org/ |
 | **readline** | 8.2.13 | Library that allow users to edit command lines as they are typed in | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **readline-static** | 8.2.13 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.14 | Charset converter tool and library | https://github.com/pinard/Recode |
@@ -2475,7 +2475,7 @@
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.0.6-1 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.2.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.24.7 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter** | 0.25.2 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-c** | 0.23.4 | C grammar for tree-sitter | https://github.com/tree-sitter |
 | **tree-sitter-c-static** | 0.23.1 | Static libraries for tree-sitter-c | https://github.com/tree-sitter |
 | **tree-sitter-lua** | 0.2.0 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars |
@@ -2483,9 +2483,9 @@
 | **tree-sitter-markdown** | 0.3.2 | Tree-sitter parser for Markdown | https://github.com/tree-sitter-grammars |
 | **tree-sitter-markdown-static** | 0.3.2 | Static libraries for tree-sitter-markdown | https://github.com/tree-sitter-grammars |
 | **tree-sitter-parsers** | 0.0.1 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
-| **tree-sitter-query** | 0.4.0-1 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars |
+| **tree-sitter-query** | 0.5.0 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars |
 | **tree-sitter-query-static** | 0.4.0-1 | Static libraries for tree-sitter-query | https://github.com/tree-sitter-grammars |
-| **tree-sitter-static** | 0.24.7 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
+| **tree-sitter-static** | 0.25.2 | Static libraries for tree-sitter | https://github.com/tree-sitter/tree-sitter |
 | **tree-sitter-vim** | 0.4.0-1 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars |
 | **tree-sitter-vim-static** | 0.4.0-1 | Static libraries for tree-sitter-vim | https://github.com/tree-sitter-grammars |
 | **tree-sitter-vimdoc** | 3.0.0-2 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
