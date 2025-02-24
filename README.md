@@ -1301,7 +1301,7 @@
 | **libpng-static** | 1.6.47 | Static libraries for libpng | http://www.libpng.org/pub/png/libpng.html |
 | **libpngwriter** | 0.7.0 | C++ library for creating PNG images | http://pngwriter.sourceforge.net |
 | **libpngwriter-static** | 0.7.0 | Static libraries for libpngwriter | http://pngwriter.sourceforge.net |
-| **libpoco** | 1.14.0 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
+| **libpoco** | 1.14.1 | A comprehensive set of C++ libraries that cover all modern-day programming needs | https://pocoproject.org/ |
 | **libpolly** | 19.1.7 | High-level loop and data-locality optimizer for clang | https://clang.llvm.org/ |
 | **libpopt** | 1.19-2 | Library for parsing cmdline parameters | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
 | **libpopt-static** | 1.19-2 | Static libraries for libpopt | https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html |
@@ -1327,7 +1327,7 @@
 | **libresolv-wrapper** | 1.1.7-4 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
 | **libretls-static** | 3.8.1 | Static libraries for libretls | https://git.causal.agency/libretls/about/ |
-| **librime** | 1.12.0 | A modular, extensible input method engine in cross-platform C++ code | https://rime.im/ |
+| **librime** | 1.13.1 | A modular, extensible input method engine in cross-platform C++ code | https://rime.im/ |
 | **librinutils** | 0.10.3 | A C11 / gnu11 utilities C library | https://github.com/shlomif/rinutils |
 | **librnnoise** | 2021.03.12 | RNN-based noise suppression | https://jmvalin.ca/demo/rnnoise/ |
 | **librnnoise-static** | 2021.03.12 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
@@ -1414,7 +1414,7 @@
 | **libtbb** | 2022.0.0 | oneAPI Threading Building Blocks | https://oneapi-src.github.io/oneTBB/ |
 | **libtd** | 1.8.0 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.0 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
-| **libtdb** | 1.4.12 | A trivial database system | https://tdb.samba.org/ |
+| **libtdb** | 1.4.13 | A trivial database system | https://tdb.samba.org/ |
 | **libtermkey** | 0.22-3 | Library for processing of keyboard entry for terminal-based programs | http://www.leonerd.org.uk/code/libtermkey/ |
 | **libtheora** | 1.1.1-1 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
 | **libtheora-static** | 1.1.1-1 | Static libraries for libtheora | https://www.theora.org/ |
@@ -1757,7 +1757,7 @@
 | **mruby-static** | 3.3.0 | Static libraries for mruby | https://mruby.org/ |
 | **msmtp** | 1.8.28 | Lightweight SMTP client | https://marlam.de/msmtp/ |
 | **mtd-utils** | 2.2.1 | Utilities for dealing with MTD devices | http://www.linux-mtd.infradead.org/ |
-| **mtools** | 4.0.47 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
+| **mtools** | 4.0.48 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.12.8 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
 | **multitail** | 7.1.5 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
@@ -1767,7 +1767,7 @@
 | **music-file-organizer** | 1.0.4-5 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.13-1 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 19.0.3 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 20.0.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.3-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -1858,7 +1858,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 24.18.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 24.19.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2076,7 +2076,7 @@
 | **python-numpy-static** | 2.2.3 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.20.2 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 11.1.0 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 24.3.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 25.0.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 19.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pynvim** | 0.5.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-sabyenc3** | 8.2.5-1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
@@ -2096,8 +2096,8 @@
 | **pyunbound** | 1.22.0 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
-| **qalc** | 5.5.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
-| **qalc-static** | 5.5.0 | Static libraries for qalc | https://qalculate.github.io/ |
+| **qalc** | 5.5.1 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
+| **qalc-static** | 5.5.1 | Static libraries for qalc | https://qalculate.github.io/ |
 | **qemu-common** | 1:8.2.6-2 | A set common files used by the QEMU emulators | https://www.qemu.org |
 | **qemu-system-aarch64-headless** | 1:8.2.6-2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
 | **qemu-system-arm-headless** | 1:8.2.6-2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
@@ -2373,7 +2373,7 @@
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 2.3.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
-| **swi-prolog** | 9.3.19 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
+| **swi-prolog** | 9.3.20 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift-runtime-aarch64** | 6.0.3-1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 6.0.3-1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
 | **swift-runtime-x86-64** | 6.0.3-1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
@@ -2398,7 +2398,7 @@
 | **tcl** | 8.6.14 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 2.0 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.14 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
-| **tdb-tools** | 1.4.12 | Tools for TDB | https://tdb.samba.org/ |
+| **tdb-tools** | 1.4.13 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.18.5 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
 | **tea** | 0.9.2 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.7.1 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |
@@ -2554,7 +2554,7 @@
 | **util-linux-static** | 2.40.2-2 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-2 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.5.25 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.6.2 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.28 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.28.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.17 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2605,7 +2605,7 @@
 | **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
 | **wabt** | 1.0.36 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
 | **wakatime-cli** | 1.112.1 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
-| **walk** | 1.10.0 | A terminal file manager | https://github.com/antonmedv/walk |
+| **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wasi-libc** | 25 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.11 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge-static** | 0.14.0 | Static libraries for wasmedge | https://wasmedge.org/ |
@@ -2686,7 +2686,7 @@
 | **yuma123** | 2.13-2 | Provides an opensource YANG API in C | https://yuma123.org/ |
 | **yuma123-static** | 2.13-2 | Static libraries for yuma123 | https://yuma123.org/ |
 | **z-push** | 2.7.5 | An open-source application to synchronize ActiveSync compatible devices and Outlook | https://z-push.org/ |
-| **z3** | 4.13.4 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
+| **z3** | 4.14.0 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
 | **zbar** | 0.23.93 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93 | Static libraries for zbar | https://github.com/mchehab/zbar |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
