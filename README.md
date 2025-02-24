@@ -429,10 +429,10 @@
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.4-2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emscripten** | 4.0.1 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 4.0.1 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 4.0.1 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 4.0.1 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 4.0.3 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 4.0.3 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 4.0.3 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 4.0.3 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-4 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.2-1 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.2-1 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
@@ -648,7 +648,7 @@
 | **gping** | 1.19.0 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:8.12.1 | Powerful build system for the JVM | https://gradle.org/ |
-| **grafana** | 1:11.4.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
+| **grafana** | 1:11.5.2 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
 | **graphicsmagick** | 1.3.45-2 | Collection of image processing tools | http://www.graphicsmagick.org/ |
 | **graphicsmagick-static** | 1.3.45-2 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
@@ -722,7 +722,7 @@
 | **httrack-data** | 3.49.5 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.5 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.141.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.144.2 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -736,8 +736,8 @@
 | **hydroxide** | 0.2.29 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.19.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.9.5 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
-| **i2pd** | 2.55.0 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
-| **i2pd-static** | 2.55.0 | Static libraries for i2pd | https://i2pd.website/ |
+| **i2pd** | 2.56.0 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
+| **i2pd-static** | 2.56.0 | Static libraries for i2pd | https://i2pd.website/ |
 | **icecast** | 2.4.4-6 | Icecast is a streaming media (audio/video) server | https://icecast.org |
 | **ices** | 2.0.3 | IceS is a source client for the Icecast streaming server. | https://icecast.org/ices/ |
 | **iconv** | 1.17 | Utility converting between different character encodings | https://www.gnu.org/software/libiconv/ |
@@ -764,10 +764,10 @@
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
 | **iperf3** | 3.18 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.18 | Static libraries for iperf3 | https://github.com/esnet/iperf |
-| **ipfs** | 0.32.1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **ipfs** | 0.33.2 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.12.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
-| **ipv6calc** | 4.2.2 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
+| **ipv6calc** | 4.3.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
 | **ired** | 0.6-2 | Minimalist hexadecimal editor | https://github.com/radare/ired |
@@ -786,7 +786,7 @@
 | **jbig2enc-static** | 2023.01.08-2 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.73.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.73.3 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -807,10 +807,10 @@
 | **jsoncpp-static** | 1.9.6 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.38.0 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.39.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
-| **k9s** | 0.32.7 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
+| **k9s** | 0.40.5 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2024.05.18 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 18.1.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
@@ -823,11 +823,11 @@
 | **knockd** | 0.8-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-1 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
-| **kotlin** | 2.1.0 | The Kotlin Programming Language | https://kotlinlang.org/ |
+| **kotlin** | 2.1.10 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.21.3 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.5.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.32.1 | Kubernetes.io client binary | https://kubernetes.io/ |
-| **kubelogin** | 1.32.0 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
+| **kubectl** | 1.32.2 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubelogin** | 1.32.2 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1 | LastPass command line interface tool | https://lastpass.com/ |
@@ -913,7 +913,7 @@
 | **libburn-static** | 1.5.6 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-6 | BZ2 format compression library | http://www.bzip.org/ |
 | **libc++** | 27c | C++ Standard Library | https://libcxx.llvm.org/ |
-| **libc++utilities** | 5.27.2 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
+| **libc++utilities** | 5.27.3 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-3 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-3 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-1 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
@@ -1038,7 +1038,7 @@
 | **libgee** | 0.20.8 | A collection library providing GObject-based interfaces and classes for commonly used data structures | https://wiki.gnome.org/Projects/Libgee |
 | **libgee-static** | 0.20.8 | Static libraries for libgee | https://wiki.gnome.org/Projects/Libgee |
 | **libgeos** | 3.13.0beta2 | Geometry Engine, C++ port of the Java Topology Suite | https://geos.osgeo.org/ |
-| **libgeotiff** | 1.7.3 | Library for handling TIFF for georeferenced raster imagery | https://github.com/OSGeo/libgeotiff |
+| **libgeotiff** | 1.7.4 | Library for handling TIFF for georeferenced raster imagery | https://github.com/OSGeo/libgeotiff |
 | **libgf2x** | 1.3.0 | A library for multiplying polynomials over the binary field | https://gitlab.inria.fr/gf2x/gf2x |
 | **libgf2x-static** | 1.3.0 | Static libraries for libgf2x | https://gitlab.inria.fr/gf2x/gf2x |
 | **libgfshare** | 2.0.0-7 | Utilities for multi-way secret-sharing | http://www.digital-scurf.org/software/libgfshare |
