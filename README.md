@@ -740,7 +740,7 @@
 | **i2pd-static** | 2.56.0 | Static libraries for i2pd | https://i2pd.website/ |
 | **icecast** | 2.4.4-6 | Icecast is a streaming media (audio/video) server | https://icecast.org |
 | **ices** | 2.0.3 | IceS is a source client for the Icecast streaming server. | https://icecast.org/ices/ |
-| **iconv** | 1.17 | Utility converting between different character encodings | https://www.gnu.org/software/libiconv/ |
+| **iconv** | 1.18 | Utility converting between different character encodings | https://www.gnu.org/software/libiconv/ |
 | **icoutils** | 0.32.3 | Extracts and converts images in MS Windows(R) icon and cursor files. | https://www.nongnu.org/icoutils/ |
 | **icu-devtools** | 76.1 | Development utilities for International Components for Unicode | http://site.icu-project.org/home |
 | **id3lib** | 3.8.3-3 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | http://id3lib.sourceforge.net/ |
@@ -1085,8 +1085,8 @@
 | **libical** | 3.0.19 | Libical is an Open Source implementation of the iCalendar protocols and protocol data units | https://libical.github.io/libical/ |
 | **libice** | 1.1.2 | X11 Inter-Client Exchange library | https://xorg.freedesktop.org/ |
 | **libice-static** | 1.1.1 | Static libraries for libice | https://xorg.freedesktop.org/ |
-| **libiconv** | 1.17 | An implementation of iconv() | https://www.gnu.org/software/libiconv/ |
-| **libiconv-static** | 1.17 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
+| **libiconv** | 1.18 | An implementation of iconv() | https://www.gnu.org/software/libiconv/ |
+| **libiconv-static** | 1.18 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
 | **libicu** | 76.1 | International Components for Unicode library | http://site.icu-project.org/home |
 | **libicu-static** | 76.1 | Static libraries for libicu | http://site.icu-project.org/home |
 | **libid3tag** | 0.16.3 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
