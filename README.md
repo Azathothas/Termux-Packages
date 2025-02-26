@@ -234,8 +234,8 @@
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
 | **chezmoi** | 2.60.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
-| **chicken** | 5.4.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
-| **chicken-static** | 5.4.0 | Static libraries for chicken | https://www.call-cc.org |
+| **chicken** | 5.4.0-1 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
+| **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
 | **chromaprint** | 1.5.1-p20221217-2 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
 | **chrony** | 4.6.1 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
@@ -2628,7 +2628,7 @@
 | **wget2** | 2.2.0 | The successor of GNU Wget, a file and recursive website downloader | https://gitlab.com/gnuwget/wget2 |
 | **wget2-static** | 2.2.0 | Static libraries for wget2 | https://gitlab.com/gnuwget/wget2 |
 | **wgetpaste** | 2.34 | wgetpaste is a shell script that allows its users to upload log. | https://github.com/zlin/wgetpaste |
-| **which** | 2.21 | Shows the full path of (shell) commands | https://carlowood.github.io/which/ |
+| **which** | 2.23 | Shows the full path of (shell) commands | https://savannah.gnu.org/projects/which/ |
 | **whiptail** | 0.52.24 | Display dialog boxes from shell scripts | https://pagure.io/newt |
 | **whitebox-tools** | 2.4.0 | An advanced geospatial data analysis platform | https://github.com/jblindsay/whitebox-tools |
 | **whois** | 5.5.23 | An intelligent Whois client | https://github.com/rfc1036/whois |
