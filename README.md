@@ -2052,9 +2052,9 @@
 | **pwgen** | 2.08-1 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pycairo** | 1.27.0-1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.50.0-1 | Python package which provides bindings for GObject based libraries | https://pygobject.readthedocs.io/ |
-| **pypy** | 7.3.17 | A fast, compliant alternative implementation of Python | https://pypy.org |
-| **pypy-tests** | 7.3.17 | Test files for PyPy | https://pypy.org |
-| **pypy-tkinter** | 7.3.17 | Tkinter support for PyPy | https://pypy.org |
+| **pypy** | 7.3.18 | A fast, compliant alternative implementation of Python | https://pypy.org |
+| **pypy-tests** | 7.3.18 | Test files for PyPy | https://pypy.org |
+| **pypy-tkinter** | 7.3.18 | Tkinter support for PyPy | https://pypy.org |
 | **pypy3** | 7.3.15-3 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.15-3 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.15-3 | Tkinter support for PyPy 3 | https://pypy.org |
