@@ -1268,8 +1268,8 @@
 | **libpangomm-2.48** | 2.56.1 | A C++ API for Pango | https://www.gtkmm.org/ |
 | **libpano13** | 2.9.22-1 | Part of the Panorama Tools by Helmut Dersch | https://panotools.sourceforge.net/ |
 | **libpano13-static** | 2.9.22-1 | Static libraries for libpano13 | https://panotools.sourceforge.net/ |
-| **libpaper** | 2.2.5-1 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
-| **libpaper-static** | 2.2.5-1 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
+| **libpaper** | 2.2.6 | Library for handling paper characteristics (by @rrthomas) | https://github.com/rrthomas/psutils |
+| **libpaper-static** | 2.2.6 | Static libraries for libpaper | https://github.com/rrthomas/psutils |
 | **libpcap** | 1.10.5 | Library for network traffic capture | https://www.tcpdump.org |
 | **libpcap-static** | 1.10.5 | Static libraries for libpcap | https://www.tcpdump.org |
 | **libpcreposix** | 8.45-1 | Posix-compatible runtime libraries for libpcre | https://www.pcre.org |
