@@ -1447,7 +1447,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2025.2.0",
+    "Version": "2025.2.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -2641,7 +2641,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.20.22",
+    "Version": "0.20.23",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -3343,7 +3343,7 @@
   },
   {
     "Package": "gifsicle",
-    "Version": "1.95",
+    "Version": "1.96",
     "Description": "Tool for creating, editing, and getting information about GIF images and animations",
     "Homepage": "https://www.lcdf.org/gifsicle/"
   },
@@ -11089,7 +11089,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "24.19.0",
+    "Version": "25.0.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15739,7 +15739,7 @@
   },
   {
     "Package": "wireproxy",
-    "Version": "1.0.9",
+    "Version": "1.0.10",
     "Description": "Wireguard client that exposes itself as a socks5 proxy",
     "Homepage": "https://github.com/pufferffish/wireproxy"
   },
