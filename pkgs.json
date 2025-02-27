@@ -11233,7 +11233,7 @@
   },
   {
     "Package": "opengl",
-    "Version": "0.1",
+    "Version": "4.5",
     "Description": "A metapackage for OpenGL implementation",
     "Homepage": "https://github.com/termux/termux-packages"
   },
