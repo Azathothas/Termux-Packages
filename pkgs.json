@@ -715,7 +715,7 @@
   },
   {
     "Package": "bash",
-    "Version": "5.2.37",
+    "Version": "5.2.37-1",
     "Description": "A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)",
     "Homepage": "https://www.gnu.org/software/bash/"
   },
@@ -955,13 +955,13 @@
   },
   {
     "Package": "botan3",
-    "Version": "3.6.1",
+    "Version": "3.7.1",
     "Description": "Crypto and TLS for Modern C++",
     "Homepage": "https://botan.randombit.net/"
   },
   {
     "Package": "botan3-static",
-    "Version": "3.6.1",
+    "Version": "3.7.1",
     "Description": "Static libraries for botan3",
     "Homepage": "https://botan.randombit.net/"
   },

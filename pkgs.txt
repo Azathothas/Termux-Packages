@@ -117,7 +117,7 @@
  badvpn-udpgw  1.999.130  UDP gateway for BadVPN  https://github.com/ambrop72/badvpn 
  barcode  0.99-4  Tool to convert text strings to printed bars  https://www.gnu.org/software/barcode/ 
  base16384  2.3.1  Encode binary to printable utf16be  https://github.com/fumiama/base16384 
- bash  5.2.37  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
+ bash  5.2.37-1  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
  bash-completion  2.16.0  Programmable completion for the bash shell  https://github.com/scop/bash-completion 
  bastet  0.43.2-10  Tetris clone with 'bastard' block-choosing AI  http://fph.altervista.org/prog/bastet.html 
  bat  0.25.0-1  A cat(1) clone with wings  https://github.com/sharkdp/bat 
@@ -157,8 +157,8 @@
  boost-static  1:1.84.0  Static libraries for boost  https://boost.org 
  bore  0.5.2  Bore is a simple CLI tool for making tunnels to localhost  https://github.com/ekzhang/bore 
  borgbackup  1.4.0-2  Deduplicating and compressing backup program  https://www.borgbackup.org/ 
- botan3  3.6.1  Crypto and TLS for Modern C++  https://botan.randombit.net/ 
- botan3-static  3.6.1  Static libraries for botan3  https://botan.randombit.net/ 
+ botan3  3.7.1  Crypto and TLS for Modern C++  https://botan.randombit.net/ 
+ botan3-static  3.7.1  Static libraries for botan3  https://botan.randombit.net/ 
  boxes  2.3.1  A command line filter program which draws ASCII art boxes around your input text  https://boxes.thomasjensen.com/ 
  brainfuck  1:2.7.3  Brainfuck Interpreter written in C  https://github.com/fabianishere/brainfuck 
  brainfuck-static  1:2.7.3  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
