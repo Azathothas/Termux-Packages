@@ -715,7 +715,7 @@
   },
   {
     "Package": "bash",
-    "Version": "5.2.37-1",
+    "Version": "5.2.37-2",
     "Description": "A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)",
     "Homepage": "https://www.gnu.org/software/bash/"
   },
@@ -4657,7 +4657,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.73.3",
+    "Version": "2.74.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -13189,7 +13189,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.9.7",
+    "Version": "0.9.8",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
