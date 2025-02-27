@@ -194,8 +194,8 @@
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.20-p20250105-0 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.20-p20250105-0 | Static libraries for c-toxcore | https://tox.chat |
-| **ca-certificates** | 1:2024.12.31 | Common CA certificates | https://curl.se/docs/caextract.html |
-| **ca-certificates-java** | 1:2024.12.31 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
+| **ca-certificates** | 1:2025.02.25 | Common CA certificates | https://curl.se/docs/caextract.html |
+| **ca-certificates-java** | 1:2025.02.25 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabal-install** | 3.8.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.26 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
@@ -1539,7 +1539,7 @@
 | **libxi-static** | 1.8.2 | Static libraries for libxi | https://xorg.freedesktop.org/ |
 | **libxls** | 1.6.3 | A C library for reading Excel files in the nasty old binary OLE format | https://github.com/libxls/libxls |
 | **libxls-static** | 1.6.3 | Static libraries for libxls | https://github.com/libxls/libxls |
-| **libxlsxwriter** | 1.2.0 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
+| **libxlsxwriter** | 1.2.1 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
 | **libxml2** | 2.13.6 | Library for parsing XML documents | http://www.xmlsoft.org |
 | **libxml2-python** | 2.13.6 | Python bindings for libxml2 | http://www.xmlsoft.org |
 | **libxml2-python-static** | 2.13.6 | Static libraries for libxml2-python | http://www.xmlsoft.org |
@@ -2236,7 +2236,7 @@
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
 | **samurai** | 1.2-1 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2 | libsass command line driver | https://github.com/sass/sassc |
-| **sc-im** | 0.8.4 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
+| **sc-im** | 0.8.4-1 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.6.3 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.5.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
 | **sccache** | 0.10.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
