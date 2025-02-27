@@ -1627,7 +1627,7 @@
   },
   {
     "Package": "cppcheck",
-    "Version": "2.17.0-1",
+    "Version": "2.17.1",
     "Description": "tool for static C/C++ code analysis",
     "Homepage": "https://github.com/danmar/cppcheck"
   },
@@ -3493,7 +3493,7 @@
   },
   {
     "Package": "glow",
-    "Version": "2.0.0",
+    "Version": "2.1.0",
     "Description": "Render markdown on the CLI, with pizzazz!",
     "Homepage": "https://github.com/charmbracelet/glow"
   },
@@ -12253,19 +12253,19 @@
   },
   {
     "Package": "pypy",
-    "Version": "7.3.18",
+    "Version": "7.3.19",
     "Description": "A fast, compliant alternative implementation of Python",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tests",
-    "Version": "7.3.18",
+    "Version": "7.3.19",
     "Description": "Test files for PyPy",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tkinter",
-    "Version": "7.3.18",
+    "Version": "7.3.19",
     "Description": "Tkinter support for PyPy",
     "Homepage": "https://pypy.org"
   },
