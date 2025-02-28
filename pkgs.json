@@ -2371,7 +2371,7 @@
   },
   {
     "Package": "dust",
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "Description": "A more intuitive version of du in rust",
     "Homepage": "https://github.com/bootandy/dust"
   },
@@ -9889,7 +9889,7 @@
   },
   {
     "Package": "matplotlib",
-    "Version": "3.10.0",
+    "Version": "3.10.1",
     "Description": "A comprehensive library for creating static, animated, and interactive visualizations in Python",
     "Homepage": "https://matplotlib.org/"
   },
@@ -13513,7 +13513,7 @@
   },
   {
     "Package": "shaderc",
-    "Version": "2024.4",
+    "Version": "2025.1",
     "Description": "Collection of tools, libraries, and tests for Vulkan shader compilation",
     "Homepage": "https://github.com/google/shaderc"
   },
