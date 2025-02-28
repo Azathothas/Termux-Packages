@@ -1041,7 +1041,7 @@
  libgmp  6.3.0-1  Library for arbitrary precision arithmetic  https://gmplib.org/ 
  libgmp-static  6.3.0-1  Static libraries for libgmp  https://gmplib.org/ 
  libgnt  2.14.4  An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way  https://keep.imfreedom.org/libgnt/libgnt 
- libgnustep-base  1.31.0  A library of general-purpose, non-graphical Objective C objects  https://www.gnustep.org 
+ libgnustep-base  1.31.1  A library of general-purpose, non-graphical Objective C objects  https://www.gnustep.org 
  libgnutls  3.8.9  Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them  https://www.gnutls.org/ 
  libgnutls-static  3.8.9  Static libraries for libgnutls  https://www.gnutls.org/ 
  libgpg-error  1.50  Small library that defines common error values for all GnuPG components  https://www.gnupg.org/related_software/libgpg-error/ 
@@ -1199,8 +1199,8 @@
  libmuparser  2.3.5  An extensible high performance math expression parser library written in C++  https://beltoforion.de/en/muparser 
  libmypaint  1.6.1-1  MyPaint brush engine library  https://github.com/mypaint/libmypaint 
  libmypaint-static  1.6.1-1  Static libraries for libmypaint  https://github.com/mypaint/libmypaint 
- libnats-c  3.9.2  A C client for the NATS messaging system  https://nats-io.github.io/nats.c/ 
- libnats-c-static  3.9.2  Static libraries for libnats-c  https://nats-io.github.io/nats.c/ 
+ libnats-c  3.9.3  A C client for the NATS messaging system  https://nats-io.github.io/nats.c/ 
+ libnats-c-static  3.9.3  Static libraries for libnats-c  https://nats-io.github.io/nats.c/ 
  libncnn  20230627-7  A high-performance neural network inference framework optimized for the mobile platform  https://github.com/Tencent/ncnn 
  libncnn-static  20230627-7  Static libraries for libncnn  https://github.com/Tencent/ncnn 
  libneon  0.34.0  An HTTP/1.1 and WebDAV client library, with a C interface  https://notroj.github.io/neon/ 

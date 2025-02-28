@@ -6259,7 +6259,7 @@
   },
   {
     "Package": "libgnustep-base",
-    "Version": "1.31.0",
+    "Version": "1.31.1",
     "Description": "A library of general-purpose, non-graphical Objective C objects",
     "Homepage": "https://www.gnustep.org"
   },
@@ -7207,13 +7207,13 @@
   },
   {
     "Package": "libnats-c",
-    "Version": "3.9.2",
+    "Version": "3.9.3",
     "Description": "A C client for the NATS messaging system",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
   {
     "Package": "libnats-c-static",
-    "Version": "3.9.2",
+    "Version": "3.9.3",
     "Description": "Static libraries for libnats-c",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
