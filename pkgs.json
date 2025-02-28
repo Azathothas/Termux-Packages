@@ -673,7 +673,7 @@
   },
   {
     "Package": "b3sum",
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "Description": "A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum",
     "Homepage": "https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum"
   },
