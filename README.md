@@ -1650,7 +1650,7 @@
 | **make-guile** | 4.4.1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **man** | 1.14.6-1 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
 | **mangal** | 4.0.6-2 | Cli manga downloader | https://github.com/metafates/mangal |
-| **manpages** | 6.11 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
+| **manpages** | 6.12 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.2.2 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
 | **mariadb** | 2:11.8.0 | A drop-in replacement for mysql server | https://mariadb.org |
 | **mariadb-static** | 2:11.8.0 | Static libraries for mariadb | https://mariadb.org |
@@ -2589,7 +2589,7 @@
 | **vlc-static** | 3.0.21-5 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.99.61 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.99.62 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20241208 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.4.309 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |

@@ -9841,7 +9841,7 @@
   },
   {
     "Package": "manpages",
-    "Version": "6.11",
+    "Version": "6.12",
     "Description": "Man pages for linux kernel and C library interfaces",
     "Homepage": "https://www.kernel.org/doc/man-pages/"
   },
@@ -15475,7 +15475,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.61",
+    "Version": "0.9.99.62",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
