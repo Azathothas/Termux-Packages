@@ -1673,8 +1673,8 @@
 | **mdbook-svgbob2** | 0.3.0 | Alternative mdbook preprocessor for svgbob | https://github.com/matthiasbeyer/mdbook-svgbob2 |
 | **mdbook-tera** | 0.5.1 | Tera preprocessor for mdBook | https://github.com/avitex/mdbook-tera |
 | **mdbook-toc** | 0.14.2 | A preprocessor for mdbook to add inline Table of Contents support | https://github.com/badboy/mdbook-toc |
-| **mdbtools** | 1.0.0-3 | A set of programs to help you extract data from Microsoft Access files in various settings | https://github.com/mdbtools/mdbtools |
-| **mdbtools-static** | 1.0.0-3 | Static libraries for mdbtools | https://github.com/mdbtools/mdbtools |
+| **mdbtools** | 1.0.1 | A set of programs to help you extract data from Microsoft Access files in various settings | https://github.com/mdbtools/mdbtools |
+| **mdbtools-static** | 1.0.1 | Static libraries for mdbtools | https://github.com/mdbtools/mdbtools |
 | **mdns-scan** | 0.5-2 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
 | **mdp** | 1.0.15-2 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 10.1.0-1 | List of standard media types and their usual file extension | https://pagure.io/mailcap |

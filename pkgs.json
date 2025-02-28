@@ -10051,13 +10051,13 @@
   },
   {
     "Package": "mdbtools",
-    "Version": "1.0.0-3",
+    "Version": "1.0.1",
     "Description": "A set of programs to help you extract data from Microsoft Access files in various settings",
     "Homepage": "https://github.com/mdbtools/mdbtools"
   },
   {
     "Package": "mdbtools-static",
-    "Version": "1.0.0-3",
+    "Version": "1.0.1",
     "Description": "Static libraries for mdbtools",
     "Homepage": "https://github.com/mdbtools/mdbtools"
   },
