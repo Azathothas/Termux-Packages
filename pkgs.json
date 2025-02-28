@@ -8959,7 +8959,7 @@
   },
   {
     "Package": "libwebsockets",
-    "Version": "4.3.4",
+    "Version": "4.3.5",
     "Description": "Lightweight C websockets library",
     "Homepage": "https://libwebsockets.org"
   },
@@ -12313,7 +12313,7 @@
   },
   {
     "Package": "python-bcrypt",
-    "Version": "4.2.1",
+    "Version": "4.3.0",
     "Description": "Acceptable password hashing for your software and your servers",
     "Homepage": "https://github.com/pyca/bcrypt"
   },
@@ -13189,7 +13189,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.9.8",
+    "Version": "0.9.9",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
