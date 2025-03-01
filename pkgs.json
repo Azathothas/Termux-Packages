@@ -7207,13 +7207,13 @@
   },
   {
     "Package": "libnats-c",
-    "Version": "3.9.3",
+    "Version": "3.10.0",
     "Description": "A C client for the NATS messaging system",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
   {
     "Package": "libnats-c-static",
-    "Version": "3.9.3",
+    "Version": "3.10.0",
     "Description": "Static libraries for libnats-c",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
@@ -10213,7 +10213,7 @@
   },
   {
     "Package": "minio",
-    "Version": "2025.02.18.16.25.55",
+    "Version": "2025.02.28.09.55.16",
     "Description": "Multi-Cloud Object Storage",
     "Homepage": "https://min.io/"
   },
@@ -14383,7 +14383,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "17.2.9",
+    "Version": "17.3.0",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
