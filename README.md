@@ -831,7 +831,7 @@
 | **ladspa-sdk** | 1.17-2 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lame** | 3.100-6 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1 | LastPass command line interface tool | https://lastpass.com/ |
-| **lazygit** | 0.47.2 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
+| **lazygit** | 0.48.0 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lazyread** | 2.0-1 | An auto-scroller, pager, and e-book reader all in one | http://lazyread.sourceforge.net/ |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-2 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |

@@ -4927,7 +4927,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.47.2",
+    "Version": "0.48.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
