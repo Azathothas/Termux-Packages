@@ -468,8 +468,8 @@
 | **fftw** | 3.3.10-3 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
 | **fftw-static** | 3.3.10-3 | Static libraries for fftw | http://www.fftw.org/ |
 | **figlet** | 2.2.5-2 | Program for making large letters out of ordinary text | http://www.figlet.org/ |
-| **file** | 5.46 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
-| **file-static** | 5.46 | Static libraries for file | https://darwinsys.com/file/ |
+| **file** | 5.46-1 | Command-line tool that tells you in words what kind of data a file contains | https://darwinsys.com/file/ |
+| **file-static** | 5.46-1 | Static libraries for file | https://darwinsys.com/file/ |
 | **finch** | 2.14.14 | Text-based multi-protocol instant messaging client | https://pidgin.im/ |
 | **finch-static** | 2.14.14 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 9.0.4-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
