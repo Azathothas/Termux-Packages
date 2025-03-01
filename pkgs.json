@@ -775,7 +775,7 @@
   },
   {
     "Package": "bgrep",
-    "Version": "1.0-3",
+    "Version": "1.0-4",
     "Description": "Binary string grep tool",
     "Homepage": "https://debugmo.de/2009/04/bgrep-a-binary-grep/"
   },
@@ -15475,7 +15475,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.62",
+    "Version": "0.9.99.64",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
