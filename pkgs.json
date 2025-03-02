@@ -11035,13 +11035,13 @@
   },
   {
     "Package": "oathtool",
-    "Version": "2.6.11",
+    "Version": "2.6.12",
     "Description": "One-time password components",
     "Homepage": "http://www.nongnu.org/oath-toolkit/"
   },
   {
     "Package": "oathtool-static",
-    "Version": "2.6.11",
+    "Version": "2.6.12",
     "Description": "Static libraries for oathtool",
     "Homepage": "http://www.nongnu.org/oath-toolkit/"
   },
@@ -11899,7 +11899,7 @@
   },
   {
     "Package": "pkgfile",
-    "Version": "22",
+    "Version": "24",
     "Description": "An alpm .files metadata explorer",
     "Homepage": "https://github.com/falconindy/pkgfile"
   },
@@ -15079,7 +15079,7 @@
   },
   {
     "Package": "unar",
-    "Version": "1.10.7-9",
+    "Version": "1.10.8",
     "Description": "Command line tools for archive and file unarchiving and extraction",
     "Homepage": "https://theunarchiver.com/command-line"
   },
@@ -15199,7 +15199,7 @@
   },
   {
     "Package": "urdfdom-headers",
-    "Version": "1.1.0",
+    "Version": "1.1.2",
     "Description": "Headers for URDF parsers",
     "Homepage": "https://github.com/ros/urdfdom_headers"
   },
@@ -15307,7 +15307,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.9.5",
+    "Version": "3.9.6",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },

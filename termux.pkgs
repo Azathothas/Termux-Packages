@@ -1837,8 +1837,8 @@
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
 | **o-editor** | 2.68.8 | Small, fast and limited text editor | https://github.com/xyproto/o |
-| **oathtool** | 2.6.11 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
-| **oathtool-static** | 2.6.11 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
+| **oathtool** | 2.6.12 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
+| **oathtool-static** | 2.6.12 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
 | **obfs4proxy** | 0.0.14-3 | A pluggable transport plugin for Tor | https://github.com/Yawning/obfs4 |
 | **ocl-icd** | 2.3.2 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
@@ -1981,7 +1981,7 @@
 | **pipes.sh** | 2018.04.22-1 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
 | **pipewire** | 1.2.7 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
-| **pkgfile** | 22 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
+| **pkgfile** | 24 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
 | **plantuml** | 1.2025.1 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
@@ -2511,7 +2511,7 @@
 | **uftrace** | 0.17 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.8 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 7.2.2 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
-| **unar** | 1.10.7-9 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
+| **unar** | 1.10.8 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.22.0 | Unbound command-line tools | https://unbound.net/ |
 | **unbound-static** | 1.17.1 | Static libraries for unbound | https://unbound.net/ |
 | **unicode-data** | 16.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
@@ -2531,7 +2531,7 @@
 | **upscaledb-tools** | 2.2.1p20210820-9 | Tools for upscaledb | https://upscaledb.com/ |
 | **upx** | 5.0.0 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 3.1.0 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
-| **urdfdom-headers** | 1.1.0 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
+| **urdfdom-headers** | 1.1.2 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usql** | 0.19.17 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 4.0.6 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.10.0 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
@@ -2549,7 +2549,7 @@
 | **valac-static** | 0.56.17 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.17 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.17 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.9.5 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.9.6 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0-1 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0-1 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-2 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
