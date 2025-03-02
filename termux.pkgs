@@ -235,7 +235,7 @@
 | **clblast** | 1.6.3 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cliaoke** | 0.2.4-4 | Command line karaoke | https://github.com/jessfraz/cliaoke |
 | **clidle** | 2022.05.25-2 | Play Wordle over SSH | https://github.com/ajeetdsouza/clidle |
-| **clifm** | 1.23 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
+| **clifm** | 1.24 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
 | **clinfo** | 3.0.25.02.14 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20240728 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
@@ -416,7 +416,7 @@
 | **elixir** | 1.18.2 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
-| **emacs** | 29.4-3 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
+| **emacs** | 30.1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emscripten** | 4.0.3 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 4.0.3 | Emscripten-compatible Binaryen | https://emscripten.org |
 | **emscripten-llvm** | 4.0.3 | Emscripten-compatible LLVM | https://emscripten.org |
@@ -434,7 +434,7 @@
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
 | **exercism** | 3.5.4 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.21 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.22 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.5 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -1217,8 +1217,8 @@
 | **libnfs-static** | 5.0.3 | Static libraries for libnfs | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.2.8 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.2.8 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
-| **libnghttp2** | 1.64.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
-| **libnghttp2-static** | 1.64.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
+| **libnghttp2** | 1.65.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
+| **libnghttp2-static** | 1.65.0 | Static libraries for libnghttp2 | https://nghttp2.org/ |
 | **libnghttp3** | 1.8.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
 | **libnghttp3-static** | 1.8.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libnl** | 3.11.0 | Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces | https://github.com/thom311/libnl |
@@ -2084,8 +2084,8 @@
 | **pyunbound** | 1.22.0 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.1 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
-| **qalc** | 5.5.1 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
-| **qalc-static** | 5.5.1 | Static libraries for qalc | https://qalculate.github.io/ |
+| **qalc** | 5.5.2 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
+| **qalc-static** | 5.5.2 | Static libraries for qalc | https://qalculate.github.io/ |
 | **qemu-common** | 1:8.2.6-2 | A set common files used by the QEMU emulators | https://www.qemu.org |
 | **qemu-system-aarch64-headless** | 1:8.2.6-2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |
 | **qemu-system-arm-headless** | 1:8.2.6-2 | A generic and open source machine emulator and virtualizer (headless) | https://www.qemu.org |

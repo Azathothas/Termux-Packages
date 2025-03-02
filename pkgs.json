@@ -1423,7 +1423,7 @@
   },
   {
     "Package": "clifm",
-    "Version": "1.23",
+    "Version": "1.24",
     "Description": "The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell",
     "Homepage": "https://github.com/leo-arch/clifm"
   },
@@ -2509,7 +2509,7 @@
   },
   {
     "Package": "emacs",
-    "Version": "29.4-3",
+    "Version": "30.1",
     "Description": "Extensible, customizable text editor-and more",
     "Homepage": "https://www.gnu.org/software/emacs/"
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.21",
+    "Version": "13.22",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -7315,13 +7315,13 @@
   },
   {
     "Package": "libnghttp2",
-    "Version": "1.64.0",
+    "Version": "1.65.0",
     "Description": "nghttp HTTP 2.0 library",
     "Homepage": "https://nghttp2.org/"
   },
   {
     "Package": "libnghttp2-static",
-    "Version": "1.64.0",
+    "Version": "1.65.0",
     "Description": "Static libraries for libnghttp2",
     "Homepage": "https://nghttp2.org/"
   },
@@ -12517,13 +12517,13 @@
   },
   {
     "Package": "qalc",
-    "Version": "5.5.1",
+    "Version": "5.5.2",
     "Description": "Powerful and easy to use command line calculator",
     "Homepage": "https://qalculate.github.io/"
   },
   {
     "Package": "qalc-static",
-    "Version": "5.5.1",
+    "Version": "5.5.2",
     "Description": "Static libraries for qalc",
     "Homepage": "https://qalculate.github.io/"
   },
