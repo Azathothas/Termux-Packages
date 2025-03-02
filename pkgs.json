@@ -1459,7 +1459,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20250121.215854",
+    "Version": "0.0.20250224.115625",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
