@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "curlie",
-    "Version": "1.7.2",
+    "Version": "1.8.1",
     "Description": "The power of curl, the ease of use of httpie",
     "Homepage": "https://curlie.io/"
   },
@@ -15475,7 +15475,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "0.9.99.65",
+    "Version": "0.9.99.66",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://vtm.netxs.online/"
   },
@@ -16003,7 +16003,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "25.2.26",
+    "Version": "25.3.2",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
