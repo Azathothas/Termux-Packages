@@ -3247,13 +3247,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.15.3",
+    "Version": "1.15.4",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.15.3",
+    "Version": "1.15.4",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -7399,7 +7399,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.108",
+    "Version": "3.109",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10993,7 +10993,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.108",
+    "Version": "3.109",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -12325,7 +12325,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "44.0.1",
+    "Version": "44.0.2",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },

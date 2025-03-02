@@ -551,8 +551,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.15.3 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.15.3 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.15.4 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.15.4 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.24 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.24 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.3-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -1243,7 +1243,7 @@
 | **libnpth-static** | 1.6-2 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.36 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.36 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
-| **libnss** | 3.108 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **libnss** | 3.109 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
 | **libobjc2** | 2.1-2 | The GNUstep Objective-C runtime | http://www.gnustep.org/ |
@@ -1842,7 +1842,7 @@
 | **nsis** | 3.10 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.10 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
-| **nss-utils** | 3.108 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **nss-utils** | 3.109 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 5.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.102.0 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nwipe** | 0.38 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
@@ -2064,7 +2064,7 @@
 | **python-apt** | 2.9.9 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.3.0 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-contourpy** | 1.3.1 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
-| **python-cryptography** | 44.0.1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
+| **python-cryptography** | 44.0.2 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.12.9 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.1.1-1 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.70.1-1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
