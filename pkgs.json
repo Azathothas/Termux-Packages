@@ -10243,13 +10243,13 @@
   },
   {
     "Package": "minizinc",
-    "Version": "2.9.0",
+    "Version": "2.9.1",
     "Description": "A medium-level constraint modelling language",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
   {
     "Package": "minizinc-static",
-    "Version": "2.9.0",
+    "Version": "2.9.1",
     "Description": "Static libraries for minizinc",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
@@ -15283,25 +15283,25 @@
   },
   {
     "Package": "valac",
-    "Version": "0.56.17",
+    "Version": "0.56.18",
     "Description": "C# like language for the GObject system",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "valac-static",
-    "Version": "0.56.17",
+    "Version": "0.56.18",
     "Description": "Static libraries for valac",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "valadoc",
-    "Version": "0.56.17",
+    "Version": "0.56.18",
     "Description": "API documentation generator for vala",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },
   {
     "Package": "valadoc-static",
-    "Version": "0.56.17",
+    "Version": "0.56.18",
     "Description": "Static libraries for valadoc",
     "Homepage": "https://wiki.gnome.org/Projects/Vala"
   },

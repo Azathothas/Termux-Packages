@@ -1705,8 +1705,8 @@
  minisign  0.12  A dead simple tool to sign files and verify signatures  https://jedisct1.github.io/minisign/ 
  miniupnpc  2.3.1  Small UPnP client library and tool to access Internet Gateway Devices  https://miniupnp.tuxfamily.org/ 
  miniupnpc-static  2.3.1  Static libraries for miniupnpc  https://miniupnp.tuxfamily.org/ 
- minizinc  2.9.0  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
- minizinc-static  2.9.0  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
+ minizinc  2.9.1  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
+ minizinc-static  2.9.1  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
  mkbootimg  2022.11.09  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkp224o  1.7.0  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
  mksh  59c-2  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
@@ -2545,10 +2545,10 @@
  uv  0.6.3  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.28  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.28.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
- valac  0.56.17  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
- valac-static  0.56.17  Static libraries for valac  https://wiki.gnome.org/Projects/Vala 
- valadoc  0.56.17  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
- valadoc-static  0.56.17  Static libraries for valadoc  https://wiki.gnome.org/Projects/Vala 
+ valac  0.56.18  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
+ valac-static  0.56.18  Static libraries for valac  https://wiki.gnome.org/Projects/Vala 
+ valadoc  0.56.18  API documentation generator for vala  https://wiki.gnome.org/Projects/Vala 
+ valadoc-static  0.56.18  Static libraries for valadoc  https://wiki.gnome.org/Projects/Vala 
  vale  3.9.6  A syntax-aware linter for prose built with speed and extensibility in mind  https://vale.sh 
  valgrind  3.22.0-1  Instrumentation framework for building dynamic analysis tools  https://valgrind.org/ 
  valgrind-static  3.22.0-1  Static libraries for valgrind  https://valgrind.org/ 
