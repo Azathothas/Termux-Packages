@@ -3103,13 +3103,13 @@
   },
   {
     "Package": "gauche",
-    "Version": "0.9.12-5",
+    "Version": "0.9.15",
     "Description": "An R7RS Scheme implementation developed to be a handy script interpreter",
     "Homepage": "https://practical-scheme.net/gauche/"
   },
   {
     "Package": "gauche-static",
-    "Version": "0.9.12-5",
+    "Version": "0.9.15",
     "Description": "Static libraries for gauche",
     "Homepage": "https://practical-scheme.net/gauche/"
   },
@@ -3523,7 +3523,7 @@
   },
   {
     "Package": "glulxe",
-    "Version": "0.5.4-5",
+    "Version": "0.6.1",
     "Description": "Interpreter for the Glulx portable VM for interactive fiction (IF) games",
     "Homepage": "https://www.eblong.com/zarf/glulx/"
   },
@@ -4735,7 +4735,7 @@
   },
   {
     "Package": "jql",
-    "Version": "8.0.3",
+    "Version": "8.0.4",
     "Description": "A JSON Query Language CLI tool",
     "Homepage": "https://github.com/yamafaktory/jql"
   },
@@ -6163,7 +6163,7 @@
   },
   {
     "Package": "libgeos",
-    "Version": "3.13.0beta2",
+    "Version": "3.13.1",
     "Description": "Geometry Engine, C++ port of the Java Topology Suite",
     "Homepage": "https://geos.osgeo.org/"
   },
@@ -11089,7 +11089,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "25.0.0",
+    "Version": "25.1.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13518,12 +13518,6 @@
     "Homepage": "https://github.com/google/shaderc"
   },
   {
-    "Package": "shairport-sync",
-    "Version": "3.1.2-6",
-    "Description": "An AirPlay audio player",
-    "Homepage": "https://github.com/mikebrady/shairport-sync"
-  },
-  {
     "Package": "sharutils",
     "Version": "4.15.2-3",
     "Description": "Utilities for packaging and unpackaging shell archives",
@@ -15073,7 +15067,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "7.2.2",
+    "Version": "7.3.0",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },
