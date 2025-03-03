@@ -2863,7 +2863,7 @@
   },
   {
     "Package": "flac",
-    "Version": "1.4.3",
+    "Version": "1.5.0",
     "Description": "FLAC (Free Lossless Audio Codec) command-line tool",
     "Homepage": "https://xiph.org/flac/"
   },
@@ -6061,13 +6061,13 @@
   },
   {
     "Package": "libflac",
-    "Version": "1.4.3",
+    "Version": "1.5.0",
     "Description": "FLAC (Free Lossless Audio Codec) library",
     "Homepage": "https://xiph.org/flac/"
   },
   {
     "Package": "libflac-static",
-    "Version": "1.4.3",
+    "Version": "1.5.0",
     "Description": "Static libraries for libflac",
     "Homepage": "https://xiph.org/flac/"
   },
@@ -12709,13 +12709,13 @@
   },
   {
     "Package": "racket",
-    "Version": "8.15-1",
+    "Version": "8.16",
     "Description": "Full-spectrum programming language going beyond Lisp and Scheme",
     "Homepage": "https://racket-lang.org"
   },
   {
     "Package": "racket-static",
-    "Version": "8.15-1",
+    "Version": "8.16",
     "Description": "Static libraries for racket",
     "Homepage": "https://racket-lang.org"
   },
