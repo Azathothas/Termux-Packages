@@ -73,7 +73,7 @@
   },
   {
     "Package": "abook",
-    "Version": "0.6.1",
+    "Version": "0.6.2",
     "Description": "Abook is a text-based addressbook program designed to use with mutt mail client",
     "Homepage": "http://abook.sourceforge.net/"
   },
@@ -2707,7 +2707,7 @@
   },
   {
     "Package": "fclones",
-    "Version": "0.34.0",
+    "Version": "0.35.0",
     "Description": "Efficient Duplicate File Finder",
     "Homepage": "https://github.com/pkolaczk/fclones"
   },
@@ -3055,7 +3055,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.60.2",
+    "Version": "0.60.3",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -5257,7 +5257,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "19.0.0-1",
+    "Version": "19.0.1",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -6379,13 +6379,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.19.6",
+    "Version": "1.19.7",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.19.6",
+    "Version": "1.19.7",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -12403,7 +12403,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "19.0.0-1",
+    "Version": "19.0.1",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },

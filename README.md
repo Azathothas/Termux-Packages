@@ -22,7 +22,7 @@
 | **aapt** | 13.0.0.6-17 | Android Asset Packaging Tool | https://elinux.org/Android_aapt |
 | **aapt2** | 13.0.0.6-17 | AAPT2 (Android Asset Packaging Tool) | https://elinux.org/Android_aapt |
 | **abduco** | 0.6-3 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
-| **abook** | 0.6.1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
+| **abook** | 0.6.2 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
 | **abootimg** | 0.6-2 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
 | **abseil-cpp** | 20250127.0 | Abseil C++ Common Libraries | https://abseil.io/ |
 | **ack-grep** | 3.8.1 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
@@ -461,7 +461,7 @@
 | **faust** | 2.77.3 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
 | **faust-static** | 2.77.3 | Static libraries for faust | https://github.com/grame-cncm/faust |
 | **faustlibraries** | 2.77.3 | Faust DSP libraries | https://github.com/grame-cncm/faust |
-| **fclones** | 0.34.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
+| **fclones** | 0.35.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.1-1 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
 | **fd** | 10.2.0 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
 | **fdisk** | 2.40.2-3 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
@@ -519,7 +519,7 @@
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 35.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.60.2 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
+| **fzf** | 0.60.3 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.82.0-1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.3-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -886,7 +886,7 @@
 | **libapt-pkg-perl** | 0.1.40-10 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.7.7 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.7.7 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 19.0.0-1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 19.0.1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.192 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.192 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1073,8 +1073,8 @@
 | **libhangul-static** | 0.1.0-p20230415-2 | Static libraries for libhangul | https://github.com/libhangul/libhangul |
 | **libhdf5** | 1.14.4.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.4.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.19.6 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.19.6 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.19.7 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.19.7 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libheif-static** | 1.15.2 | Static libraries for libheif | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.2.0 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhiredis-static** | 1.1.0 | Static libraries for libhiredis | https://redis.com/lp/hiredis |
@@ -2077,7 +2077,7 @@
 | **python-onnxruntime** | 1.20.2-1 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **python-pillow** | 11.1.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 25.0.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
-| **python-pyarrow** | 19.0.0-1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 19.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pynvim** | 0.5.0-1 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-sabyenc3** | 8.2.5-1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.8.0-1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
