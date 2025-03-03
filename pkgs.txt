@@ -1061,8 +1061,8 @@
  libhangul-static  0.1.0-p20230415-2  Static libraries for libhangul  https://github.com/libhangul/libhangul 
  libhdf5  1.14.4.3  Hierarchical Data Format 5 (HDF5)  https://portal.hdfgroup.org/display/support 
  libhdf5-static  1.14.4.3  Static libraries for libhdf5  https://portal.hdfgroup.org/display/support 
- libheif  1.19.5-1  HEIF (HEIC/AVIF) image encoding and decoding library  https://github.com/strukturag/libheif 
- libheif-progs  1.19.5-1  Programs for manipulating HEIF (HEIC/AVIF) image files  https://github.com/strukturag/libheif 
+ libheif  1.19.6  HEIF (HEIC/AVIF) image encoding and decoding library  https://github.com/strukturag/libheif 
+ libheif-progs  1.19.6  Programs for manipulating HEIF (HEIC/AVIF) image files  https://github.com/strukturag/libheif 
  libheif-static  1.15.2  Static libraries for libheif  https://github.com/strukturag/libheif 
  libhiredis  1.2.0  Hiredis is a minimalistic C client library for the Redis database  https://redis.com/lp/hiredis 
  libhiredis-static  1.1.0  Static libraries for libhiredis  https://redis.com/lp/hiredis 
@@ -1821,7 +1821,7 @@
  nnn  5.0  Free, fast, friendly file browser  https://github.com/jarun/nnn 
  no-more-secrets  1.0.1-1  This project provides a command line tool called nms that recreates the famous data decryption effect.  https://github.com/bartobri/no-more-secrets 
  nodejs  23.8.0  Open Source, cross-platform JavaScript runtime environment  https://nodejs.org/ 
- nodejs-lts  22.13.1  Open Source, cross-platform JavaScript runtime environment  https://nodejs.org/ 
+ nodejs-lts  22.14.0  Open Source, cross-platform JavaScript runtime environment  https://nodejs.org/ 
  notcurses  3.0.13  blingful TUIs and character graphics  https://notcurses.com/ 
  notcurses-data  3.0.13  Platform-independent data for notcurses  https://notcurses.com/ 
  notcurses-tools  3.0.13  Tools and demos for notcurses  https://notcurses.com/ 

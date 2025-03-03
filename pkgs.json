@@ -6379,13 +6379,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.19.5-1",
+    "Version": "1.19.6",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.19.5-1",
+    "Version": "1.19.6",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
@@ -10939,7 +10939,7 @@
   },
   {
     "Package": "nodejs-lts",
-    "Version": "22.13.1",
+    "Version": "22.14.0",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
