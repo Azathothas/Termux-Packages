@@ -2785,7 +2785,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "7.1-4",
+    "Version": "7.1-5",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -14167,7 +14167,7 @@
   },
   {
     "Package": "svt-av1",
-    "Version": "2.3.0",
+    "Version": "3.0.0",
     "Description": "Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)",
     "Homepage": "https://gitlab.com/AOMediaCodec/SVT-AV1"
   },
