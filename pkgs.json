@@ -4345,7 +4345,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.392",
+    "Version": "0.393",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "25.1.0",
+    "Version": "25.1.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
