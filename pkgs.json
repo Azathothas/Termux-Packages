@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.10.4-1",
+    "Version": "0.10.4-2",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -11545,7 +11545,7 @@
   },
   {
     "Package": "pass",
-    "Version": "1.7.4-4",
+    "Version": "1.7.4-5",
     "Description": "Lightweight directory-based password manager",
     "Homepage": "https://www.passwordstore.org"
   },
