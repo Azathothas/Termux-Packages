@@ -12937,7 +12937,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:05.03.02",
+    "Version": "1:05.03.03",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -14059,7 +14059,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.122.1",
+    "Version": "1.122.9",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -14377,7 +14377,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "17.3.0",
+    "Version": "17.3.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -14539,7 +14539,7 @@
   },
   {
     "Package": "texinfo",
-    "Version": "7.2",
+    "Version": "7.2-1",
     "Description": "Documentation system for on-line information and printed output",
     "Homepage": "https://www.gnu.org/software/texinfo/"
   },
@@ -15169,7 +15169,7 @@
   },
   {
     "Package": "update-info-dir",
-    "Version": "7.2",
+    "Version": "7.2-1",
     "Description": "Update or create index file from all installed info files in directory",
     "Homepage": "https://www.gnu.org/software/texinfo/"
   },
@@ -15199,7 +15199,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.19.17",
+    "Version": "0.19.18",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },
@@ -15601,7 +15601,7 @@
   },
   {
     "Package": "waypipe",
-    "Version": "0.10.2",
+    "Version": "0.10.3",
     "Description": "A proxy for Wayland clients",
     "Homepage": "https://gitlab.freedesktop.org/mstoeckl/waypipe"
   },
@@ -15949,7 +15949,7 @@
   },
   {
     "Package": "yadm",
-    "Version": "3.4.0",
+    "Version": "3.5.0",
     "Description": "Yet Another Dotfiles Manager",
     "Homepage": "https://yadm.io/"
   },
