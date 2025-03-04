@@ -751,7 +751,7 @@
   },
   {
     "Package": "bc",
-    "Version": "1.07.1-1",
+    "Version": "1.08.1",
     "Description": "Arbitrary precision numeric processing language",
     "Homepage": "https://www.gnu.org/software/bc/"
   },
@@ -3541,13 +3541,13 @@
   },
   {
     "Package": "gmic",
-    "Version": "3.4.3",
+    "Version": "3.5.2",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.4.3",
+    "Version": "3.5.2",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
@@ -3571,13 +3571,13 @@
   },
   {
     "Package": "gnucobol",
-    "Version": "3.1.2-3",
+    "Version": "3.2",
     "Description": "A free/libre COBOL compiler",
     "Homepage": "https://gnucobol.sourceforge.io/"
   },
   {
     "Package": "gnucobol-static",
-    "Version": "3.1.2-3",
+    "Version": "3.2",
     "Description": "Static libraries for gnucobol",
     "Homepage": "https://gnucobol.sourceforge.io/"
   },
@@ -3595,7 +3595,7 @@
   },
   {
     "Package": "gnunet",
-    "Version": "0.19.4-2",
+    "Version": "0.23.1",
     "Description": "A framework for secure peer-to-peer networking",
     "Homepage": "https://gnunet.org"
   },

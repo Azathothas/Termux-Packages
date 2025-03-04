@@ -123,7 +123,7 @@
  bash-completion  2.16.0  Programmable completion for the bash shell  https://github.com/scop/bash-completion 
  bastet  0.43.2-10  Tetris clone with 'bastard' block-choosing AI  http://fph.altervista.org/prog/bastet.html 
  bat  0.25.0-1  A cat(1) clone with wings  https://github.com/sharkdp/bat 
- bc  1.07.1-1  Arbitrary precision numeric processing language  https://www.gnu.org/software/bc/ 
+ bc  1.08.1  Arbitrary precision numeric processing language  https://www.gnu.org/software/bc/ 
  bc-gh  7.0.3  Unix dc and POSIX bc with GNU and BSD extensions  https://git.gavinhoward.com/gavin/bc 
  bdsup2sub  4.0.1  A subtitle conversion tool for image based stream formats  https://github.com/mjuhasz/BDSup2Sub 
  beanshell  2.1.1-1  Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java  https://github.com/beanshell/beanshell 
@@ -588,16 +588,16 @@
  glslang  15.1.0  OpenGL and OpenGL ES shader front end and validator  https://github.com/KhronosGroup/glslang 
  gluelang  0.2.0-1  A programming language that has a strong nature to be a glue of commands  https://ryuichiueda.github.io/GlueLang/ 
  glulxe  0.6.1  Interpreter for the Glulx portable VM for interactive fiction (IF) games  https://www.eblong.com/zarf/glulx/ 
- gmic  3.4.3  Full-featured framework for image processing  https://gmic.eu 
- gmic-gm  3.4.3  Full-featured framework for image processing (GraphicsMagick variant)  https://gmic.eu 
+ gmic  3.5.2  Full-featured framework for image processing  https://gmic.eu 
+ gmic-gm  3.5.2  Full-featured framework for image processing (GraphicsMagick variant)  https://gmic.eu 
  gn  20220502-1  Meta-build system that generates build files for Ninja  https://gn.googlesource.com/gn 
  gnucap  20210107-3  The Gnu Circuit Analysis Package  https://www.gnu.org/software/gnucap/gnucap.html 
  gnuchess  6.2.9-3  Chess-playing program  https://www.gnu.org/software/chess/ 
- gnucobol  3.1.2-3  A free/libre COBOL compiler  https://gnucobol.sourceforge.io/ 
- gnucobol-static  3.1.2-3  Static libraries for gnucobol  https://gnucobol.sourceforge.io/ 
+ gnucobol  3.2  A free/libre COBOL compiler  https://gnucobol.sourceforge.io/ 
+ gnucobol-static  3.2  Static libraries for gnucobol  https://gnucobol.sourceforge.io/ 
  gnugo  3.8-5  Program that plays the game of Go  https://www.gnu.org/software/gnugo/ 
  gnuit  4.9.5  gnuit - GNU Interactive Tools  https://www.gnu.org/software/gnuit/ 
- gnunet  0.19.4-2  A framework for secure peer-to-peer networking  https://gnunet.org 
+ gnunet  0.23.1  A framework for secure peer-to-peer networking  https://gnunet.org 
  gnunet-static  0.19.4-2  Static libraries for gnunet  https://gnunet.org 
  gnupg  2.4.5-3  Implementation of the OpenPGP standard for encrypting and signing data and communication  https://www.gnupg.org/ 
  gnuplot  6.0.2  Command-line driven graphing utility  http://gnuplot.info/ 
