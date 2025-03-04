@@ -46,6 +46,8 @@
  antibody  6.1.1-2  The fastest shell plugin manager  https://github.com/getantibody/antibody 
  antiword  0.37-3  A free MS Word reader  https://en.m.wikipedia.org/wiki/Antiword 
  aom-tools  3.12.0  Command-line tools using AOMedia library  https://aomedia.org/ 
+ aosp-libs  9.0.0-r76-0  bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker  https://source.android.com/ 
+ aosp-utils  9.0.0-r76-0  AOSP-based mksh, toybox and iputils for termux-docker  https://source.android.com/ 
  apache-orc  2.1.0  Columnar storage for Hadoop workloads  https://orc.apache.org/ 
  apache2  1:2.4.63  Apache Web Server  https://httpd.apache.org 
  apkeep  0.17.0-1  A command-line tool for downloading APK files from various sources  https://github.com/EFForg/apkeep 
@@ -2040,12 +2042,12 @@
  pwgen  2.08-1  Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords  http://pwgen.sourceforge.net/ 
  pycairo  1.27.0-1  Python bindings for the cairo graphics library  https://www.cairographics.org/pycairo/ 
  pygobject  3.50.0-1  Python package which provides bindings for GObject based libraries  https://pygobject.readthedocs.io/ 
- pypy  7.3.19  A fast, compliant alternative implementation of Python  https://pypy.org 
- pypy-tests  7.3.19  Test files for PyPy  https://pypy.org 
- pypy-tkinter  7.3.19  Tkinter support for PyPy  https://pypy.org 
- pypy3  7.3.15-3  A fast, compliant alternative implementation of Python 3  https://pypy.org 
- pypy3-tests  7.3.15-3  Test files for PyPy 3  https://pypy.org 
- pypy3-tkinter  7.3.15-3  Tkinter support for PyPy 3  https://pypy.org 
+ pypy  7.3.19-1  A fast, compliant alternative implementation of Python  https://pypy.org 
+ pypy-tests  7.3.19-1  Test files for PyPy  https://pypy.org 
+ pypy-tkinter  7.3.19-1  Tkinter support for PyPy  https://pypy.org 
+ pypy3  7.3.15-4  A fast, compliant alternative implementation of Python 3  https://pypy.org 
+ pypy3-tests  7.3.15-4  Test files for PyPy 3  https://pypy.org 
+ pypy3-tkinter  7.3.15-4  Tkinter support for PyPy 3  https://pypy.org 
  pystring  1.1.4  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
  python  3.12.9  Python 3 programming language intended to enable clear programs  https://python.org/ 
  python-apsw  3.48.0.0  Another Python SQLite Wrapper  https://github.com/rogerbinns/apsw/ 

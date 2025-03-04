@@ -288,6 +288,18 @@
     "Homepage": "https://aomedia.org/"
   },
   {
+    "Package": "aosp-libs",
+    "Version": "9.0.0-r76-0",
+    "Description": "bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker",
+    "Homepage": "https://source.android.com/"
+  },
+  {
+    "Package": "aosp-utils",
+    "Version": "9.0.0-r76-0",
+    "Description": "AOSP-based mksh, toybox and iputils for termux-docker",
+    "Homepage": "https://source.android.com/"
+  },
+  {
     "Package": "apache-orc",
     "Version": "2.1.0",
     "Description": "Columnar storage for Hadoop workloads",
@@ -12253,37 +12265,37 @@
   },
   {
     "Package": "pypy",
-    "Version": "7.3.19",
+    "Version": "7.3.19-1",
     "Description": "A fast, compliant alternative implementation of Python",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tests",
-    "Version": "7.3.19",
+    "Version": "7.3.19-1",
     "Description": "Test files for PyPy",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tkinter",
-    "Version": "7.3.19",
+    "Version": "7.3.19-1",
     "Description": "Tkinter support for PyPy",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3",
-    "Version": "7.3.15-3",
+    "Version": "7.3.15-4",
     "Description": "A fast, compliant alternative implementation of Python 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tests",
-    "Version": "7.3.15-3",
+    "Version": "7.3.15-4",
     "Description": "Test files for PyPy 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tkinter",
-    "Version": "7.3.15-3",
+    "Version": "7.3.15-4",
     "Description": "Tkinter support for PyPy 3",
     "Homepage": "https://pypy.org"
   },
