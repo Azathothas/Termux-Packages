@@ -14173,7 +14173,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.20",
+    "Version": "9.3.20-1",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
