@@ -28,15 +28,11 @@ jobs:
           ##Install coreutils
           sudo apt-get update -y -qq && sudo apt-get install curl coreutils dos2unix file findutils gawk git jq moreutils rsync tar xz-utils util-linux wget zip -y -qq
           #tmp
-          SYSTMP="$(dirname $(mktemp -u))" && export SYSTMP="$SYSTMP"
-          echo "SYSTMP=$SYSTMP" >> "$GITHUB_ENV"
-          ##Setup rClone
-          mkdir -p "$HOME/.config/rclone"
-          echo "${{ secrets.RCLONE_CF_R2_PUB }}" > "$HOME/.config/rclone/rclone.conf"
-          export RCLONE_STATS="120s" ; echo "RCLONE_STATS=$RCLONE_STATS" >> "$GITHUB_ENV"
+          SYSTMP="$(dirname $(mktemp -u))" && export SYSTMP="${SYSTMP}"
+          echo "SYSTMP=${SYSTMP}" >> "${GITHUB_ENV}"
           ##User-Agent
-          USER_AGENT="$(curl -qfsSL 'https://pub.ajam.dev/repos/Azathothas/Wordlists/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="$USER_AGENT"
-          echo "USER_AGENT=$USER_AGENT" >> "$GITHUB_ENV"
+          USER_AGENT="$(curl -qfsSL 'https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Misc/User-Agents/ua_chrome_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
+          echo "USER_AGENT=${USER_AGENT}" >> "${GITHUB_ENV}"
         continue-on-error: true
 
       - name: Install Addons
@@ -44,9 +40,9 @@ jobs:
           #presets
           set +x ; set +e
           #-------------#
-          bash <(curl -qfsSL "https://pub.ajam.dev/repos/Azathothas/Arsenal/misc/Linux/install_bb_tools.sh")
+          bash <(curl -qfsSL "https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Linux/install_bins_curl.sh")
           #yj
-          sudo curl -qfsSL "https://bin.ajam.dev/$(uname -m)/yj" -o "/usr/local/bin/yj" && sudo chmod +x "/usr/local/bin/yj"
+          sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/yj" -o "/usr/local/bin/yj" && sudo chmod +x "/usr/local/bin/yj"
         continue-on-error: true
 
       - name: Fetch || Update Termux Package Registry (Docker --> termux/termux-docker)
@@ -58,8 +54,8 @@ jobs:
             termux/termux-docker:latest \
             bash -c 'apt-get clean && apt-get update; for pkg in $(apt-cache pkgnames | sort -u); do version=$(apt-cache show $pkg | grep -m 1 "Version:" | cut -c 10-); description=$(apt-cache show $pkg | grep -m 1 "Description:" | cut -c 14-); homepage=$(apt-cache show $pkg | grep -m 1 "Homepage:" | cut -c 11-); echo "| **$pkg** | $version | $description | $homepage |"; done > termux.pkgs'
           #Copy 
-          docker cp "termux:/data/data/com.termux/files/home/termux.pkgs" "$GITHUB_WORKSPACE/main/termux.pkgs"
-          sed 's/[\*\|]//g' "$GITHUB_WORKSPACE/main/termux.pkgs" > "$GITHUB_WORKSPACE/main/pkgs.txt"
+          docker cp "termux:/data/data/com.termux/files/home/termux.pkgs" "${GITHUB_WORKSPACE}/main/termux.pkgs"
+          sed 's/[\*\|]//g' "${GITHUB_WORKSPACE}/main/termux.pkgs" > "${GITHUB_WORKSPACE}/main/pkgs.txt"
         continue-on-error: false  
 
       - name: Update README.md
@@ -67,15 +63,15 @@ jobs:
           #Presets
           set +x ; set +e
           #--------------#
-          cd "$GITHUB_WORKSPACE/main"
-          cat "$GITHUB_WORKSPACE/main/INFO.md" > "$GITHUB_WORKSPACE/main/README.md"
-          echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
-          echo '---' >> "$GITHUB_WORKSPACE/main/README.md"
-          echo "|Package | Version | Description | Homepage |" >> "$GITHUB_WORKSPACE/main/README.md"
-          echo "|--------|---------|-------------|----------|" >> "$GITHUB_WORKSPACE/main/README.md"
-          cat "$GITHUB_WORKSPACE/main/termux.pkgs" >> "$GITHUB_WORKSPACE/main/README.md"
-          echo -e "" >> "$GITHUB_WORKSPACE/main/README.md"
-          echo '---' >> "$GITHUB_WORKSPACE/main/README.md"
+          cd "${GITHUB_WORKSPACE}/main"
+          cat "${GITHUB_WORKSPACE}/main/INFO.md" > "${GITHUB_WORKSPACE}/main/README.md"
+          echo -e "" >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo '---' >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo "|Package | Version | Description | Homepage |" >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo "|--------|---------|-------------|----------|" >> "${GITHUB_WORKSPACE}/main/README.md"
+          cat "${GITHUB_WORKSPACE}/main/termux.pkgs" >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo -e "" >> "${GITHUB_WORKSPACE}/main/README.md"
+          echo '---' >> "${GITHUB_WORKSPACE}/main/README.md"
         continue-on-error: false
 
       - name: Generate index.html --> ("https://termux-packages.ajam.dev")
@@ -84,12 +80,12 @@ jobs:
           set +x ; set +e
           #--------------#
           #https://github.com/oscarmorrison/md-page
-          cat "$GITHUB_WORKSPACE/main/.github/style.header" > "$GITHUB_WORKSPACE/main/index.html"
-          echo "" >> "$GITHUB_WORKSPACE/main/index.html"
-          #cat "$GITHUB_WORKSPACE/main/README.md" >> "$GITHUB_WORKSPACE/main/index.html"
-          sed -n "$(($(grep -n '|Package' "$GITHUB_WORKSPACE/main/README.md" | cut -d ':' -f 1) - 1)),\$p" "$GITHUB_WORKSPACE/main/README.md" >> "$GITHUB_WORKSPACE/main/index.html"
-          echo "" >> "$GITHUB_WORKSPACE/main/index.html"
-          cat "$GITHUB_WORKSPACE/main/.github/style.footer" >> "$GITHUB_WORKSPACE/main/index.html"
+          cat "${GITHUB_WORKSPACE}/main/.github/style.header" > "${GITHUB_WORKSPACE}/main/index.html"
+          echo "" >> "${GITHUB_WORKSPACE}/main/index.html"
+          #cat "${GITHUB_WORKSPACE}/main/README.md" >> "${GITHUB_WORKSPACE}/main/index.html"
+          sed -n "$(($(grep -n '|Package' "${GITHUB_WORKSPACE}/main/README.md" | cut -d ':' -f 1) - 1)),\$p" "${GITHUB_WORKSPACE}/main/README.md" >> "${GITHUB_WORKSPACE}/main/index.html"
+          echo "" >> "${GITHUB_WORKSPACE}/main/index.html"
+          cat "${GITHUB_WORKSPACE}/main/.github/style.footer" >> "${GITHUB_WORKSPACE}/main/index.html"
         continue-on-error: true
 
       - name: Generate JSON
@@ -139,12 +135,12 @@ jobs:
             printf "  \"Description\": \"%s\",\n", $4
             printf "  \"Homepage\": \"%s\"\n", $5
             printf "}\n"
-          }' "$GITHUB_WORKSPACE/main/README.md" > "$SYSTMP/temp.json"
+          }' "${GITHUB_WORKSPACE}/main/README.md" > "${SYSTMP}/temp.json"
           #Validate
-          jq -c 'select(has("Package") and (.Package | test("[[:alnum:]]")) and .Package != "")' "$SYSTMP/temp.json" | jq -s '.' > "$SYSTMP/tempd.json"
-          jq '[.[] | select(.Package != "Package" and .Version != "Version")] | sort_by(.Package)' "$SYSTMP/tempd.json" > "$GITHUB_WORKSPACE/main/pkgs.json"
+          jq -c 'select(has("Package") and (.Package | test("[[:alnum:]]")) and .Package != "")' "${SYSTMP}/temp.json" | jq -s '.' > "${SYSTMP}/tempd.json"
+          jq '[.[] | select(.Package != "Package" and .Version != "Version")] | sort_by(.Package)' "${SYSTMP}/tempd.json" > "${GITHUB_WORKSPACE}/main/pkgs.json"
           #Convert to YAML
-          cat "$GITHUB_WORKSPACE/main/pkgs.json" | yj -jy | tee "$GITHUB_WORKSPACE/main/pkgs.yaml"
+          cat "${GITHUB_WORKSPACE}/main/pkgs.json" | yj -jy | tee "${GITHUB_WORKSPACE}/main/pkgs.yaml"
         continue-on-error: false
 
       - name: Get DateTime
@@ -152,13 +148,13 @@ jobs:
           #Presets
           set +x ; set +e
           #--------------#
-          NEPALI_TIME=$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')
-          echo "NEPALI_TIME=$NEPALI_TIME" >> $GITHUB_ENV
+          NEPALI_TIME="$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')"
+          echo "NEPALI_TIME=${NEPALI_TIME}" >> "${GITHUB_ENV}"
         continue-on-error: true
           
       - name: Git Pull
         run: |
-           cd "$GITHUB_WORKSPACE/main" && git pull origin main
+           cd "${GITHUB_WORKSPACE}/main" && git pull origin main
         continue-on-error: true
         
    #Commit & Push
