@@ -2581,7 +2581,7 @@
   },
   {
     "Package": "erlang",
-    "Version": "27.2.4",
+    "Version": "27.3",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
@@ -3259,13 +3259,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.15.4",
+    "Version": "1.15.5",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.15.4",
+    "Version": "1.15.5",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -10639,7 +10639,7 @@
   },
   {
     "Package": "ncdu",
-    "Version": "1.21",
+    "Version": "1.22",
     "Description": "Disk usage analyzer",
     "Homepage": "https://dev.yorhel.nl/ncdu"
   },
@@ -14035,7 +14035,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.28.3",
+    "Version": "0.28.5",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -15211,7 +15211,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.19.18",
+    "Version": "0.19.19",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },

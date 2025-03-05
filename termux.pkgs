@@ -428,7 +428,7 @@
 | **enchant-static** | 2.8.2-1 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 27.2.4 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang** | 27.3 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.25.0 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -541,8 +541,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.15.4 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.15.4 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.15.5 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.15.5 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.24 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.24 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.3-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -1771,7 +1771,7 @@
 | **navi** | 2.24.0 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
 | **navidrome** | 0.54.5 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.24.1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
-| **ncdu** | 1.21 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
+| **ncdu** | 1.22 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.7 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.2.7 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
 | **ncmpcpp** | 0.10.1-1 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
@@ -2337,7 +2337,7 @@
 | **stdoutisatty** | 1.0 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-7 | Embeds a message in a file by replacing some of the least significant bits | https://steghide.sourceforge.net/ |
 | **stemwords** | 2.2.0-1 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
-| **step-cli** | 0.28.3 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
+| **step-cli** | 0.28.5 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-6 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-6 | Static libraries for stfl | http://www.clifford.at/stfl |
 | **stoken** | 0.93-1 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
@@ -2533,7 +2533,7 @@
 | **upx** | 5.0.0 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 3.1.0 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 1.1.2 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
-| **usql** | 0.19.18 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
+| **usql** | 0.19.19 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 4.0.6 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.10.0 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.10.0 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
