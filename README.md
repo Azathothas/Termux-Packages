@@ -403,7 +403,7 @@
 | **dte** | 1.11.1-1 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
 | **dua** | 2.30.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
-| **duckdb** | 1.2.0 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
+| **duckdb** | 1.2.1 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.43.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-1 | Simple REPL for Duktape | https://www.duktape.org/ |
@@ -982,8 +982,8 @@
 | **libdmtx** | 0.7.7 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.7 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
 | **libdrm** | 2.4.124 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
-| **libduckdb** | 1.2.0 | An in-process SQL OLAP database management system | https://duckdb.org/ |
-| **libduckdb-static** | 1.2.0 | Static libraries for libduckdb | https://duckdb.org/ |
+| **libduckdb** | 1.2.1 | An in-process SQL OLAP database management system | https://duckdb.org/ |
+| **libduckdb-static** | 1.2.1 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0-1 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
 | **libdvbcsa** | 1.1.0-2 | An implementation of the DVB Common Scrambling Algorithm - DVB/CSA - with encryption and decryption capabilities | https://www.videolan.org/developers/libdvbcsa.html |
 | **libdvbcsa-static** | 1.1.0-2 | Static libraries for libdvbcsa | https://www.videolan.org/developers/libdvbcsa.html |
@@ -1717,8 +1717,8 @@
 | **minio** | 2025.02.28.09.55.16 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.29.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.12 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
-| **miniupnpc** | 2.3.1 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
-| **miniupnpc-static** | 2.3.1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
+| **miniupnpc** | 2.3.2 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
+| **miniupnpc-static** | 2.3.2 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.9.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
 | **mkbootimg** | 2022.11.09 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
@@ -1782,7 +1782,7 @@
 | **natpmpc-static** | 20230423-1 | Static libraries for natpmpc | https://miniupnp.tuxfamily.org/libnatpmp.html |
 | **navi** | 2.24.0 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
 | **navidrome** | 0.54.5 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
-| **ncdc** | 1.24.1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
+| **ncdc** | 1.25 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.7 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.2.7 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
@@ -1997,7 +1997,7 @@
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 24 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
-| **plantuml** | 1.2025.1 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
+| **plantuml** | 1.2025.2 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.10.4 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
 | **plzip** | 1.12 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |

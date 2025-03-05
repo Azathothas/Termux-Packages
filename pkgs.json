@@ -2359,7 +2359,7 @@
   },
   {
     "Package": "duckdb",
-    "Version": "1.2.0",
+    "Version": "1.2.1",
     "Description": "DuckDB Command Line Interface (CLI) shell",
     "Homepage": "https://duckdb.org/"
   },
@@ -5833,13 +5833,13 @@
   },
   {
     "Package": "libduckdb",
-    "Version": "1.2.0",
+    "Version": "1.2.1",
     "Description": "An in-process SQL OLAP database management system",
     "Homepage": "https://duckdb.org/"
   },
   {
     "Package": "libduckdb-static",
-    "Version": "1.2.0",
+    "Version": "1.2.1",
     "Description": "Static libraries for libduckdb",
     "Homepage": "https://duckdb.org/"
   },
@@ -10243,13 +10243,13 @@
   },
   {
     "Package": "miniupnpc",
-    "Version": "2.3.1",
+    "Version": "2.3.2",
     "Description": "Small UPnP client library and tool to access Internet Gateway Devices",
     "Homepage": "https://miniupnp.tuxfamily.org/"
   },
   {
     "Package": "miniupnpc-static",
-    "Version": "2.3.1",
+    "Version": "2.3.2",
     "Description": "Static libraries for miniupnpc",
     "Homepage": "https://miniupnp.tuxfamily.org/"
   },
@@ -10633,7 +10633,7 @@
   },
   {
     "Package": "ncdc",
-    "Version": "1.24.1",
+    "Version": "1.25",
     "Description": "Modern and lightweight direct connect client with a friendly ncurses interface",
     "Homepage": "https://dev.yorhel.nl/ncdc"
   },
@@ -11923,7 +11923,7 @@
   },
   {
     "Package": "plantuml",
-    "Version": "1.2025.1",
+    "Version": "1.2025.2",
     "Description": "Draws UML diagrams, using a simple and human readable text description",
     "Homepage": "https://plantuml.com/"
   },

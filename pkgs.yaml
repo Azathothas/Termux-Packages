@@ -1571,7 +1571,7 @@
   Description: High-performance disk usage analyzer
   Homepage: http://duc.zevv.nl/
 - Package: duckdb
-  Version: 1.2.0
+  Version: 1.2.1
   Description: DuckDB Command Line Interface (CLI) shell
   Homepage: https://duckdb.org/
 - Package: duf
@@ -3887,11 +3887,11 @@
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
-  Version: 1.2.0
+  Version: 1.2.1
   Description: An in-process SQL OLAP database management system
   Homepage: https://duckdb.org/
 - Package: libduckdb-static
-  Version: 1.2.0
+  Version: 1.2.1
   Description: Static libraries for libduckdb
   Homepage: https://duckdb.org/
 - Package: libduktape
@@ -6827,11 +6827,11 @@
   Description: A dead simple tool to sign files and verify signatures
   Homepage: https://jedisct1.github.io/minisign/
 - Package: miniupnpc
-  Version: 2.3.1
+  Version: 2.3.2
   Description: Small UPnP client library and tool to access Internet Gateway Devices
   Homepage: https://miniupnp.tuxfamily.org/
 - Package: miniupnpc-static
-  Version: 2.3.1
+  Version: 2.3.2
   Description: Static libraries for miniupnpc
   Homepage: https://miniupnp.tuxfamily.org/
 - Package: minizinc
@@ -7087,7 +7087,7 @@
   Description: "\U0001F3A7☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic"
   Homepage: https://www.navidrome.org/
 - Package: ncdc
-  Version: 1.24.1
+  Version: "1.25"
   Description: Modern and lightweight direct connect client with a friendly ncurses interface
   Homepage: https://dev.yorhel.nl/ncdc
 - Package: ncdu
@@ -7947,7 +7947,7 @@
   Description: Interactive package manager and resource monitor
   Homepage: https://github.com/orhun/pkgtop
 - Package: plantuml
-  Version: 1.2025.1
+  Version: 1.2025.2
   Description: Draws UML diagrams, using a simple and human readable text description
   Homepage: https://plantuml.com/
 - Package: play-audio
